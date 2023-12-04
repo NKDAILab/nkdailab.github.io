@@ -26,7 +26,7 @@ education:
       year:  2022-2023
     - course:  Master of Biomedical Engineering
       institution: Central South University
-      year: 2021-2024
+      year: 2021-Present
     - course: Bachelor of Engineering in Biomedical Engineering
       institution: Central South University
       year: 2017-2021
