@@ -8,36 +8,41 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: Welcome to NKD AI Lab
+        content: Room 434, South Tower, CoE Building, </br>Southern University of Science and Technology
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: sustech.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Department of Electronic and Electrical Engineering
+        content: ''
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: coe.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: AI Lab
-        content: ''
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
+        link:
+          #icon: graduation-cap
+          icon_pack: fas
+          text: Meet the Team
+          url: ../people/
+      # - title: World-Class Semiconductor Lab
+      #   content: 'Just opened last month!'
+      #   align: right
+      #   background:
+      #     image:
+      #       filename: welcome.jpg
+      #       filters:
+      #         brightness: 0.5
+      #     position: center
+      #     color: '#333'
         #link:
          # icon: graduation-cap
           #icon_pack: fas

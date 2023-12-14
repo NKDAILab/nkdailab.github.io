@@ -1,9 +1,8 @@
 ---
-title: Publications
+title: 发表成果
 
 # Listing view
-view: citation
-
+view: vi
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''

@@ -1,5 +1,5 @@
 ---
-title: 主页
+title: Home
 date: 2022-10-24
 
 type: landing
@@ -8,36 +8,41 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 欢迎来到南方科技大学人工智能实验室
+        content: 工学院南楼434室
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: sustech.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: 电子与电气工程系
+        content: ''
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: coe.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
+        link:
+          #icon: graduation-cap
+          icon_pack: fas
+          text: 实验室成员
+          url: ../people/
+      # - title: World-Class Semiconductor Lab
+      #   content: 'Just opened last month!'
+      #   align: right
+      #   background:
+      #     image:
+      #       filename: welcome.jpg
+      #       filters:
+      #         brightness: 0.5
+      #     position: center
+      #     color: '#333'
         #link:
          # icon: graduation-cap
           #icon_pack: fas

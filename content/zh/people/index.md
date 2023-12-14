@@ -16,6 +16,7 @@ sections:
           - 硕士在读
           - 本科在读
           - 访问学生
+          - 毕业学生
 
       sort_by: Params.last_name
       sort_ascending: true
