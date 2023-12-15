@@ -29,7 +29,7 @@ education:
       institution: Southern University of Science and Technology
       year: 2020-2022
     - course: B.E in Optoelectronic Information Science and Engineering
-      institution: BeiHarbin Engineering University
+      institution: Harbin Engineering University
       year: 2015-2019
 
 # Social/Academic Networking

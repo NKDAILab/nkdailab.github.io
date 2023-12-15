@@ -26,7 +26,7 @@ sections:
         <p style="font-size:30px"></p>
         <table style="width:1250px;height:380px">
         <tr>
-        <td style="width:450px;"><img src="lab1.jpg"></td>
+        <td style="width:450px;"><img src="photo.jpg"></td>
         <td style="width:700px">
         <p style="font-size:20px">The interdisciplinary research team established in the laboratory encompasses experts in various fields, including Dynamic Systems Sensing Communication - Analysis Modeling - Control Optimization and Machine Learning (Professor Zhihai He), Evolutionary Optimization (Associate Professor Ran Cheng), Data-Driven Partial Differential Equation Modeling and Computational Mathematics (Associate Professor Kailiang Wu), Fluid Dynamics (Professor Shidi Huang), and Cardiovascular Pathology (Professor Jinsong Bian). The research team also includes four postdoctoral researchers, eight research assistants, 10 doctoral candidates, and 14 master's candidates.
         </p></td>
@@ -35,12 +35,12 @@ sections:
 
   - block: hero
     content:
-      title: Achieved Research Outcomes
+      title: Research Achievements
       text: |
         <p style="font-size:30px"></p>
         <table style="width:1250px;height:30px">
         <tr>
-        <td style="width:700px">
+        <td style="width:500px">
         <p style="font-size:20px">Implemented a smart elderly care model based on the Internet of Things (IoT) and sensor-driven data analysis, leading to the generation of disease warnings. The research indicates that, within 2-4 weeks of disease onset, signs and patterns of common elderly diseases can be identified through the analysis of sensor data.
         </p>
         <p style="font-size:30px">Laboratory Projects</p>
@@ -54,7 +54,11 @@ sections:
         
         <li>Horizontal Project: Research Project on AI-based Home Care by Zhenny Technology in the Department of Electronic and Electrical Engineering</br>Duration: November 2023</li>
         </td></ul>
-        <td style="width:450px;"><img src="lab2.jpg"></td>
+        <td style="width:450px;">
+        <img src="re4.png">
+        <img src="re5.png">
+        <img src="re6.png">
+        </td>
         </tr>
         </table>
         

@@ -1,6 +1,5 @@
 ---
-title: News
-
+title: 资讯
 # Listing view
 view: compact
 

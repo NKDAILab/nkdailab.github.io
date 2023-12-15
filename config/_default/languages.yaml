@@ -20,9 +20,9 @@ zh:
     - name: 主页
       url: tour
       weight: 10
-    # - name: 资讯
-    #   url: post
-    #   weight: 50
+    - name: 资讯
+      url: post
+      weight: 50
     - name: 成员
       url: people
       weight: 30

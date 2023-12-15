@@ -26,7 +26,7 @@ sections:
         <p style="font-size:30px"></p>
         <table style="width:1250px;height:380px">
         <tr>
-        <td style="width:450px;"><img src="lab1.jpg"></td>
+        <td style="width:450px;"><img src="photo.jpg"></td>
         <td style="width:700px">
         <p style="font-size:20px">实验室组建的交叉学科研究团队包括动态系统感应通信-分析建模-控制优化及机器学习（何志海教授）、演化优化（程然副教授）、数据驱动偏微分方程建模与计算数学（吴开亮副教授）、流体动力学（黄仕迪教授）、心血管病理学（卞劲松教授）等。研究团队还包括博后4人，研究助理8人，在读博士生10名，在读硕士生14人。
         </p></td>
@@ -57,7 +57,10 @@ sections:
         <li>横向课题：电子与电气工程系臻益科技AI居家养老研究项目</br>
         时间: 2023-11</li>
         </td></ul>
-        <td style="width:450px;"><img src="lab2.jpg"></td>
+        <td style="width:450px;"><img src="re4.png">
+        <img src="re5.png">
+        <img src="re6.png">
+        </td>
         </tr>
         </table>
         
