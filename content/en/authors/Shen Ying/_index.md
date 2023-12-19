@@ -54,7 +54,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Graduate Students
 ---
 
 Ying Shen , master's student of Department of Electronics of Southern University of Science and Technology.

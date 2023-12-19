@@ -54,7 +54,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Graduate Students
 ---
 
 I’m Ce Zhang and I’m currently pursuing my Master’s degree in Machine Learning at CMU and looking forward to graduating in December 2024. Before this, I earned my B.Eng. in Communication Engineering from Southern University of Science and Technology (SUSTech). My current research interest lie in vision-language models and scene understanding.

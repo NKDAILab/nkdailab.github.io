@@ -3,7 +3,6 @@ title: People
 date: 2022-10-24
 
 type: landing
-
 sections:
   - block: people
     content:
@@ -16,7 +15,7 @@ sections:
           - Master Students
           - Undergraduates
           - Visiting Students
-          - Alumni
+          - Graduate Students
 
       sort_by: Params.last_name
       sort_ascending: true

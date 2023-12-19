@@ -57,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Graduate Students
 ---
 
 Zhehan Kan , Master's degree graduates of Southern University of Science and Technology in 2023.
