@@ -8,14 +8,16 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 欢迎来到南方科技大学人工智能实验室
+      - title: |
+          欢迎来到南方科技大学     
+          人工智能实验室
         content: 工学院南楼434室
         align: center
         background:
           image:
-            filename: sustech.jpg
+            filename: sustech2.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: right
           color: '#666'
       - title: 电子与电气工程系
@@ -23,10 +25,10 @@ sections:
         align: left
         background:
           image:
-            filename: coe.jpg
+            filename: stair.jpg
             filters:
               brightness: 0.7
-          position: center
+          position: left
           color: '#555'
         link:
           #icon: graduation-cap

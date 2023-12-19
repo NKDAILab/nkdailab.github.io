@@ -13,41 +13,41 @@ sections:
         align: center
         background:
           image:
-            filename: sustech.jpg
+            filename: sustech2.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: right
           color: '#666'
+      # - title: College of Engineering
+      #   content: ''
+      #   align: left
+      #   background:
+      #     image:
+      #       filename: coe.jpg
+      #       filters:
+      #         brightness: 0.7
+      #     position: center
+      #     color: '#555'
+        # link:
+        #   #icon: graduation-cap
+        #   icon_pack: fas
+        #   text: Meet the Team
+        #   url: ../people/
       - title: Department of Electronic and Electrical Engineering
         content: ''
         align: left
         background:
           image:
-            filename: coe.jpg
+            filename: stair.jpg
             filters:
               brightness: 0.7
           position: center
-          color: '#555'
+          color: '#333'
         link:
-          #icon: graduation-cap
+          icon: graduation-cap
           icon_pack: fas
           text: Meet the Team
           url: ../people/
-      # - title: World-Class Semiconductor Lab
-      #   content: 'Just opened last month!'
-      #   align: right
-      #   background:
-      #     image:
-      #       filename: welcome.jpg
-      #       filters:
-      #         brightness: 0.5
-      #     position: center
-      #     color: '#333'
-        #link:
-         # icon: graduation-cap
-          #icon_pack: fas
-          #text: Join Us
-          #url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
