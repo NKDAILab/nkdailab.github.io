@@ -9,28 +9,31 @@ last_name: Wu
 superuser: true
 
 # Role/position
-role: <b>Siqi Wu</b></br>Ph.D. student from University of Missouri</br><t></t></br>
+role: <b>Siqi Wu</b></br>Ph.D. student from University of Missouri</br><t>siqiwu@mail.missouri.edu</t></br>
 
 # Organizations/Affiliations
-organizations:
-  - name:  
+organizations: 
+  - name:  University of Missouri
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 
-# education:
-#   courses:
-#     - course: 
-#       institution: 
-#       year: 
-#     - course: 
-#       institution: 
-#       year: 
-#     - course: 
-#       institution: 
-#       year: 
+education:
+  courses:
+    - course: Visiting student in Department of Electronic and Electrical Engineering
+      institution: Southern University of Science and Technology
+      year: 2023-Present
+    - course: PHD in Electrical and Computer Engineering
+      institution: University of Missouri
+      year: 2022-Present
+    - course: M.S. in Statistics
+      institution: University of Missouri - Kansas City
+      year: 2020-2021
+    - course: B.S. in Mathematics
+      institution: University of Kansas
+      year: 2014-2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -60,13 +63,13 @@ highlight_name: false
 user_groups:
   - Visiting Students
 ---
-<!-- 
-text
+
+Siqi Wu, graduate student in Department of Electrical and Computer Engineering of University of Missouri.
 
 ### **Research Interests**
-* 
+* Image Compression
 
-### **Work Experience**
+<!-- ### **Work Experience**
 * 
 
 ### **Personal Honors**
@@ -76,7 +79,9 @@ text
 * 
 
 ### **Projects**
-* 
+*  -->
 
 ### **Paper** 
-*-->
+* Hadeel Alqadi, Majid Bani Yaghoub, Siqi Wu, Sindhu Balakumar, and Alex Francisco. Prospective Spatial–Temporal Clusters of COVID-19 in Local Communities: Case Study of Kansas City, Missouri, United States. Epidemiology and Infection. 2022. 1-24.
+* Hadeel Alqadi, Majid Bani Yaghoub, Sindhu Balakumar, Siqi Wu, and Alex Francisco. Assessment of Retrospective COVID-19 Spatial Clusters with Respect to Demographic Factors: Case Study of Kansas City, Missouri, United States. Int. J. Environ. Res. Public Health. 2021. 18(21), 11496.
+* Siqi Wu, Chang Chen, Zhiwei Xiong, Xuejin Chen, Xiaoyan Sun. Uncertainty-Aware Label Rectification for Domain Adaptive Mitochondria Segmentation. MICCAI. 2021.
