@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: Welcome to NKD AI Lab
-        content: Room 434, South Tower, CoE Building, </br>Southern University of Science and Technology
+        content: Office 410, South Tower, CoE Building
         align: center
         background:
           image:
@@ -18,21 +18,16 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Department of Electronic and Electrical Engineering
+      - title: 
         content: ''
         align: left
         background:
           image:
-            filename: coe.jpg
+            filename: lab1.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-        link:
-          #icon: graduation-cap
-          icon_pack: fas
-          text: Meet the Team
-          url: ../people/
       # - title: World-Class Semiconductor Lab
       #   content: 'Just opened last month!'
       #   align: right
@@ -55,5 +50,5 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 3000
 ---
