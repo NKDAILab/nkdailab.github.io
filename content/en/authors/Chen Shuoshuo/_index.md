@@ -1,13 +1,13 @@
 ---
 # Display name
 title: 陈烁硕
-
+display: false
 # Full Name (for SEO)
 first_name: Shuoshuo
 last_name: Chen
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: <b>Shuoshuo Chen</b></br><t>12132108@mail.sustech.edu.cn</t></br>
