@@ -28,5 +28,5 @@ image:
 <img src="fig3.png" width="700">
 <p style="font-size:15px;text-align:center">Figure 3. Three examples of refinement of predicted keypoints. The top row is the original estimation. The bottom row is the refined version by the proposed method.</p>
 南科大2021级硕士研究生阚哲涵为本文第一作者，南科大2021级硕士研究生陈烁硕和统计系助理教授李曾为本文作者，电子系讲席教授何志海为本文通讯作者，南科大为论文第一单位。南科大2021级硕士研究生阚哲涵和陈烁硕同学均来自何志海课题组。</br></br>
-论文链接: <u>https://arxiv.org/abs/2207.02425</u></br>
+论文链接: <a href=https://arxiv.org/abs/2207.02425>https://arxiv.org/abs/2207.02425</a></br>
 论文资助信息：李曾老师研究部分由国家自然科学基金No. 12031005和No. 12101292支持
