@@ -35,19 +35,6 @@ sections:
       title: 
       text: |
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script>
-        function adjustSize() {
-            var windowHeight = window.innerHeight;
-            var contentElement = document.getElementById('content');
-
-            // 设置内容元素的高度为窗口高度的一半
-            contentElement.style.height = windowHeight / 2 + 'px';
-        }
-
-        // 页面加载时和窗口大小改变时调整元素大小
-        window.onload = adjustSize;
-        window.onresize = adjustSize;
-        </script>
 
         <style>
 
