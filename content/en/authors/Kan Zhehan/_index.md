@@ -8,6 +8,7 @@ last_name: Kan
 
 # Is this the primary user of the site?
 superuser: true
+preview_only: true
 
 # Role/position
 role: <b>Zhehan Kan</b></br><t>Kanzh2021@mail.sustech.edu.cn</t></br>
