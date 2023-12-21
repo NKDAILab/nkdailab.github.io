@@ -10,7 +10,7 @@ last_name: Xu
 superuser: true
 
 # Role/position
-role: <b>Heng Xu</b></br><t>12232149@mail.sustech.edu.cn</t></br><t>xuh2022@mail.sustech.edu.cn</t></br>
+role: <b>Heng Xu</b></br><t>xuh2022@mail.sustech.edu.cn</t></br>
 
 # Organizations/Affiliations
 organizations:
