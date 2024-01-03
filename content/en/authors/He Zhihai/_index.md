@@ -67,12 +67,14 @@ Zhihai He , chair professor of Department of Electronics of Southern University 
 
 
 ### **Research Interests**
-* Smart Cyber-physical Systems
 * Machine Learning
 * Computer Vision
-* Wireless Sensor Networks
-* Embedded Multimedia System Design
-* Image/Video Compression
+* Artificial Intelligence of Things
+* Intelligent Information Physical System
+* Multimedia Network Communication
+* Intelligent Manufacturing
+* Industrial AI Inspection
+* Smart Health and Smart Ecology
 
 ### **Work Experience**
 * (2021 - Present) Chair Professor, Southern University of Science and Technology, Shenzhen
