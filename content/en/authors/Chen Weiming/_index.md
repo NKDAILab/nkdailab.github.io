@@ -66,7 +66,7 @@ user_groups:
 ---
 Weiming Chen received the B.Eng. degree in mechanical design manufacture and automation, and the M.Sc. degree in electronic science and technology from Xidian University, Xi’an, China, in 2019, and 2023. He is currently pursuing the Ph.D. degree in Intelligent Manufacturing and Robotics from Southern University of Science and Technology, Shenzhen, China. His research interests include machine learning, computer vision, multi modality, AIGC, text-to-image synthesis, diffusion model, object detection, and remote sensing.
 
-Visit his personal homepage for more information (https://weimingchen.net).
+Visit his personal homepage for more information (https://www.weimingchen.net).
 {style="text-align: justify;"}
 
 
