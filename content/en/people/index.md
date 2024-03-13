@@ -10,6 +10,7 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Faculty
+          - Postdoctoral
           - Ph.D. Students
           - Master Students
           - Undergraduates
