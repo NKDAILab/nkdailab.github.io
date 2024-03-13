@@ -14,11 +14,12 @@ role: <b>Qifan Liu</b></br><t>liuqf@sustech.edu.cn</t></br>
 
 # Organizations/Affiliations
 organizations:
-  - name: 南方科技大学电子与电气工程系
+  - name:   南方科技大学电子与电气工程系
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio:
+
 
 education:
   courses:
@@ -34,8 +35,6 @@ education:
     - course: 电子与信息工程/ 学士
       institution: 赣南师范大学
       year: 2013-2017
-	  
-	  
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
