@@ -53,7 +53,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Graduate Students
 ---
 
 Xueting Hu, a master's student in the Department of Electronic and Electrical Engineering at the School of Engineering, Southern University of Science and Technology, graduated with a bachelor's degree from Wuhan Institute of Automation, China University of Geosciences. Main research areas include large-scale visual language models, out of distribution detection, and more.

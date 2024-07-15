@@ -54,7 +54,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 硕士在读
+  - 毕业学生
 ---
 
 海博文，南方科技大学电子系硕士生。

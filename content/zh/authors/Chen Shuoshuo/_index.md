@@ -54,7 +54,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 硕士在读
+  - 毕业学生
 ---
 
 我是陈烁硕，南方科技大学电子与电气工程系硕士三年级学生,由何志海教授指导。我的研究兴趣集中在机器学习模型在视觉任务中的泛化能力。

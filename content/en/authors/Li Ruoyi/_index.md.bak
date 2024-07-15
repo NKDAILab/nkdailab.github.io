@@ -53,7 +53,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Graduate Students
+  - Master Students
 ---
 
 Li Ruoyi, Master's student in the Department of Electronic and Electrical Engineering at the Southern University of Science and Technology, specializing in the Artificial Intelligence Laboratory.
