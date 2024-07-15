@@ -10,7 +10,7 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - 教师
-          - 在职博后
+          - 博士后
           - 博士在读
           - 硕士在读
           - 本科在读
