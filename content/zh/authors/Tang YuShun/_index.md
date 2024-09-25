@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 唐雨顺
-url: 'https://yushuntang.github.io/'
+
 # Full Name (for SEO)
 first_name: Yushun
 last_name: Tang
@@ -79,3 +79,7 @@ user_groups:
 
 ### **论文**
 *	Tang Y, Zhang C, Xu H, et al. Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 3728-3738.
+
+
+### **个人主页**
+* https://yushuntang.github.io/
