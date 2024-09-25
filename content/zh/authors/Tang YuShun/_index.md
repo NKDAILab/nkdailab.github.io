@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 唐雨顺
-
+url: 'https://yushuntang.github.io/'
 # Full Name (for SEO)
 first_name: Yushun
 last_name: Tang
@@ -28,7 +28,7 @@ education:
     - course: 电子科学与技术/ 硕士
       institution: 南方科技大学
       year: 2020-2022
-    - course: 电子信息科学与工程/ 学士
+    - course: 光电信息科学与工程/ 学士
       institution: 哈尔滨工程大学
       year: 2015-2019
 

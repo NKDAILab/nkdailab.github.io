@@ -15,7 +15,7 @@ role: <b>Yushun Tang</b></br><t>tangys2022@mail.sustech.edu.cn</t></br>
 # Organizations/Affiliations
 organizations:
   - name:   南方科技大学电子与电气工程系
-    url: ''
+    url: 'https://eee.sustech.edu.cn/?view'
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -28,7 +28,7 @@ education:
     - course: 电子科学与技术/ 硕士
       institution: 南方科技大学
       year: 2020-2022
-    - course: 电子信息科学与工程/ 学士
+    - course: 光电信息科学与工程/ 学士
       institution: 哈尔滨工程大学
       year: 2015-2019
 

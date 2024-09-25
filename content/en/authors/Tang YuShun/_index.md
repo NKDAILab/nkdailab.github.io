@@ -1,7 +1,7 @@
 ---
 # Display name
 title: 唐雨顺
-
+url: 'https://yushuntang.github.io/'
 # Full Name (for SEO)
 first_name: Yushun
 last_name: Tang
