@@ -59,6 +59,8 @@ user_groups:
   - 博士在读
 ---
 
+### **个人主页**
+* https://yushuntang.github.io/
 
 ### **研究方向**
 * 机器学习
@@ -81,5 +83,3 @@ user_groups:
 *	Tang Y, Zhang C, Xu H, et al. Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 3728-3738.
 
 
-### **个人主页**
-* https://yushuntang.github.io/
