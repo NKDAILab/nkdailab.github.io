@@ -15,7 +15,7 @@ role: <b>Yushun Tang</b></br><t>tangys2022@mail.sustech.edu.cn</t></br>
 # Organizations/Affiliations
 organizations:
   - name:   南方科技大学电子与电气工程系
-    url: ''
+    url: 'https://eee.sustech.edu.cn/?view'
 
 # Short bio (displayed in user profile at end of posts)
 bio:
