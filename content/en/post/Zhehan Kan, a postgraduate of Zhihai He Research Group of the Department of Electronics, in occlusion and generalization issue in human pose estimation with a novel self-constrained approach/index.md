@@ -1,7 +1,10 @@
 ---
 title: Zhehan Kan, a postgraduate of Zhihai He Research Group of the Department of Electronics, in occlusion and generalization issue in human pose estimation with a novel self-constrained approach
 date: 2022-10-23
+<<<<<<< HEAD
 abstract: "Zhehan Kan, a professional master's student in the Department of Electronic and Electrical Engineering, Southern University of Science and Technology (SUSTech), Class 21, has proposed a novel and effective self-constrained human pose estimation method in the field of human pose estimation, which solves the occlusion and generalisation problems in human pose estimation. The research results were presented at one of the top international computer vision conferences (ECCV_2022).  "
+=======
+>>>>>>> ef6bbba590e2878201511ab295c8fe1721c2636b
 image:
   focal_point: 'top'
 share: false

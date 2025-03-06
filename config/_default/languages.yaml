@@ -1,6 +1,10 @@
 # Languages
 #   Create a section for each of your site's languages.
+<<<<<<< HEAD
 #   Documentation: https://docs.hugoblox.com/reference/language/
+=======
+#   Documentation: https://wowchemy.com/docs/guide/language/
+>>>>>>> ef6bbba590e2878201511ab295c8fe1721c2636b
 
 # Default language
 en:

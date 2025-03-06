@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
 [![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
@@ -46,3 +47,11 @@ Please replace the demo images with your own.
 - Avatars
   - https://unsplash.com/photos/5yENNRbbat4
   - https://unsplash.com/photos/WNoLnJo7tS8
+=======
+个人页面修改：
+
+英文：content-》en-》authors-》name
+
+中文：content-》zh-》authors-》name
+
+>>>>>>> ef6bbba590e2878201511ab295c8fe1721c2636b

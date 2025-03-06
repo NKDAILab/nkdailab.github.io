@@ -15,7 +15,11 @@ role: <b>Yushun Tang</b></br><t>tangys2022@mail.sustech.edu.cn</t></br>
 # Organizations/Affiliations
 organizations:
   - name:   Department of Electronic and Electrical Engineering, Southern University of Science and Technology
+<<<<<<< HEAD
     url: ''
+=======
+    url: 'https://eee.sustech.edu.cn/?view'
+>>>>>>> ef6bbba590e2878201511ab295c8fe1721c2636b
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -59,6 +63,11 @@ user_groups:
   - Ph.D. Students
 ---
 
+<<<<<<< HEAD
+=======
+### **Homepage**
+* https://yushuntang.github.io/
+>>>>>>> ef6bbba590e2878201511ab295c8fe1721c2636b
 
 ### **Research Interests**
 * Machine Learning
@@ -78,4 +87,9 @@ user_groups:
 
 
 ### **Paper**
+<<<<<<< HEAD
 *	Tang Y, Zhang C, Xu H, et al. Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 3728-3738.
+=======
+*	Tang Y, Zhang C, Xu H, et al. Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023: 3728-3738.
+
+>>>>>>> ef6bbba590e2878201511ab295c8fe1721c2636b
