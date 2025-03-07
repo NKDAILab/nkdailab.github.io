@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>钱伟烨 | 南方科技大学人工智能实验室</title>
+    <link>https://nkdailab.github.io/zh/author/%E9%92%B1%E4%BC%9F%E7%83%A8/</link>
+      <atom:link href="https://nkdailab.github.io/zh/author/%E9%92%B1%E4%BC%9F%E7%83%A8/index.xml" rel="self" type="application/rss+xml" />
+    <description>钱伟烨</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://nkdailab.github.io/zh/author/%E9%92%B1%E4%BC%9F%E7%83%A8/avatar_hu_912929eed54f4500.jpg</url>
+      <title>钱伟烨</title>
+      <link>https://nkdailab.github.io/zh/author/%E9%92%B1%E4%BC%9F%E7%83%A8/</link>
+    </image>
+    
+  </channel>
+</rss>

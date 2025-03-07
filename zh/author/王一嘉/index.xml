@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>王一嘉 | 南方科技大学人工智能实验室</title>
+    <link>https://nkdailab.github.io/zh/author/%E7%8E%8B%E4%B8%80%E5%98%89/</link>
+      <atom:link href="https://nkdailab.github.io/zh/author/%E7%8E%8B%E4%B8%80%E5%98%89/index.xml" rel="self" type="application/rss+xml" />
+    <description>王一嘉</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://nkdailab.github.io/zh/author/%E7%8E%8B%E4%B8%80%E5%98%89/avatar_hu_89824334ba97e31c.jpg</url>
+      <title>王一嘉</title>
+      <link>https://nkdailab.github.io/zh/author/%E7%8E%8B%E4%B8%80%E5%98%89/</link>
+    </image>
+    
+  </channel>
+</rss>

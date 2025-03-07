@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>吴冰岩 | 南方科技大学人工智能实验室</title>
+    <link>https://nkdailab.github.io/zh/author/%E5%90%B4%E5%86%B0%E5%B2%A9/</link>
+      <atom:link href="https://nkdailab.github.io/zh/author/%E5%90%B4%E5%86%B0%E5%B2%A9/index.xml" rel="self" type="application/rss+xml" />
+    <description>吴冰岩</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://nkdailab.github.io/zh/author/%E5%90%B4%E5%86%B0%E5%B2%A9/avatar_hu_28eb3506a35b7444.jpg</url>
+      <title>吴冰岩</title>
+      <link>https://nkdailab.github.io/zh/author/%E5%90%B4%E5%86%B0%E5%B2%A9/</link>
+    </image>
+    
+  </channel>
+</rss>

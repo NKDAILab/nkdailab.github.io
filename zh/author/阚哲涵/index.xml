@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>阚哲涵 | 南方科技大学人工智能实验室</title>
+    <link>https://nkdailab.github.io/zh/author/%E9%98%9A%E5%93%B2%E6%B6%B5/</link>
+      <atom:link href="https://nkdailab.github.io/zh/author/%E9%98%9A%E5%93%B2%E6%B6%B5/index.xml" rel="self" type="application/rss+xml" />
+    <description>阚哲涵</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://nkdailab.github.io/zh/author/%E9%98%9A%E5%93%B2%E6%B6%B5/avatar_hu_909bc293089c991c.jpg</url>
+      <title>阚哲涵</title>
+      <link>https://nkdailab.github.io/zh/author/%E9%98%9A%E5%93%B2%E6%B6%B5/</link>
+    </image>
+    
+  </channel>
+</rss>

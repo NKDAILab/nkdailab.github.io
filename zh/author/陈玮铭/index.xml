@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>陈玮铭 | 南方科技大学人工智能实验室</title>
+    <link>https://nkdailab.github.io/zh/author/%E9%99%88%E7%8E%AE%E9%93%AD/</link>
+      <atom:link href="https://nkdailab.github.io/zh/author/%E9%99%88%E7%8E%AE%E9%93%AD/index.xml" rel="self" type="application/rss+xml" />
+    <description>陈玮铭</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://nkdailab.github.io/zh/author/%E9%99%88%E7%8E%AE%E9%93%AD/avatar_hu_c453d5569b02f730.jpg</url>
+      <title>陈玮铭</title>
+      <link>https://nkdailab.github.io/zh/author/%E9%99%88%E7%8E%AE%E9%93%AD/</link>
+    </image>
+    
+  </channel>
+</rss>

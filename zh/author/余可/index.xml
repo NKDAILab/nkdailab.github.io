@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>余可 | 南方科技大学人工智能实验室</title>
+    <link>https://nkdailab.github.io/zh/author/%E4%BD%99%E5%8F%AF/</link>
+      <atom:link href="https://nkdailab.github.io/zh/author/%E4%BD%99%E5%8F%AF/index.xml" rel="self" type="application/rss+xml" />
+    <description>余可</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://nkdailab.github.io/zh/author/%E4%BD%99%E5%8F%AF/avatar_hu_de208b32ef49a277.jpg</url>
+      <title>余可</title>
+      <link>https://nkdailab.github.io/zh/author/%E4%BD%99%E5%8F%AF/</link>
+    </image>
+    
+  </channel>
+</rss>

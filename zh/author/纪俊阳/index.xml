@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>纪俊阳 | 南方科技大学人工智能实验室</title>
+    <link>https://nkdailab.github.io/zh/author/%E7%BA%AA%E4%BF%8A%E9%98%B3/</link>
+      <atom:link href="https://nkdailab.github.io/zh/author/%E7%BA%AA%E4%BF%8A%E9%98%B3/index.xml" rel="self" type="application/rss+xml" />
+    <description>纪俊阳</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://nkdailab.github.io/zh/author/%E7%BA%AA%E4%BF%8A%E9%98%B3/avatar_hu_1b73024a373e779e.jpg</url>
+      <title>纪俊阳</title>
+      <link>https://nkdailab.github.io/zh/author/%E7%BA%AA%E4%BF%8A%E9%98%B3/</link>
+    </image>
+    
+  </channel>
+</rss>
