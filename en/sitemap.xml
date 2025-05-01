@@ -2,1314 +2,1453 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nkdailab.github.io/post/2025.3.6/</loc>
+    <loc>http://localhost:1313/post/2025.3.6/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/post/2025.3.6/"
+                href="http://localhost:1313/zh/post/2025.3.6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/post/2025.3.6/"
+                href="http://localhost:1313/post/2025.3.6/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/post/"
+                href="http://localhost:1313/zh/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/post/"
+                href="http://localhost:1313/post/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/post/2025.2.25/</loc>
+    <loc>http://localhost:1313/post/2025.2.25/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/post/2025.2.25/"
+                href="http://localhost:1313/zh/post/2025.2.25/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/post/2025.2.25/"
+                href="http://localhost:1313/post/2025.2.25/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/publication-type/1/</loc>
+    <loc>http://localhost:1313/publication-type/1/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/zh/publication-type/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/publication-type/1/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/author/angelica-i-aviles-rivero/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/zh/author/angelica-i-aviles-rivero/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/author/angelica-i-aviles-rivero/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/zh/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/authors/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/author/carola-bibiane-schonlieb/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/zh/author/carola-bibiane-schonlieb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/author/carola-bibiane-schonlieb/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/author/chun-wun-cheng/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/zh/author/chun-wun-cheng/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/author/chun-wun-cheng/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/publication/conditional-latent-coding-with-learnable-synthesized-reference-for-deep-image-compression/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/zh/publication/conditional-latent-coding-with-learnable-synthesized-reference-for-deep-image-compression/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/publication/conditional-latent-coding-with-learnable-synthesized-reference-for-deep-image-compression/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/publication/cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/zh/publication/cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/publication/cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/author/dong-liu/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/zh/author/dong-liu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/author/dong-liu/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/author/junyi-he/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/zh/author/junyi-he/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/author/junyi-he/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/zh/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/publication_types/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/zh/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/publication/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/author/siqi-wu/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/zh/author/siqi-wu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/author/siqi-wu/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/author/yi-zhang/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/zh/author/yi-zhang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/author/yi-zhang/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/author/yinda-chen/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/zh/author/yinda-chen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/author/yinda-chen/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/author/yuyan-chen/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/zh/author/yuyan-chen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/author/yuyan-chen/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/author/zhihai-he/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/zh/author/zhihai-he/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/author/zhihai-he/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/author/ce-zhang/</loc>
     <lastmod>2023-11-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/publication-type/1/"
+                href="http://localhost:1313/zh/author/ce-zhang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/publication-type/1/"
+                href="http://localhost:1313/author/ce-zhang/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/authors/</loc>
+    <loc>http://localhost:1313/publication/critical-sampling-for-data-driven-modeling-of-unknown-dynamical-systems/</loc>
     <lastmod>2023-11-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/authors/"
+                href="http://localhost:1313/zh/publication/critical-sampling-for-data-driven-modeling-of-unknown-dynamical-systems/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/authors/"
+                href="http://localhost:1313/publication/critical-sampling-for-data-driven-modeling-of-unknown-dynamical-systems/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/ce-zhang/</loc>
+    <loc>http://localhost:1313/author/zhao-joy-sun/</loc>
     <lastmod>2023-11-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/ce-zhang/"
+                href="http://localhost:1313/zh/author/zhao-joy-sun/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/ce-zhang/"
+                href="http://localhost:1313/author/zhao-joy-sun/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/publication/critical-sampling-for-data-driven-modeling-of-unknown-dynamical-systems/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/publication/critical-sampling-for-data-driven-modeling-of-unknown-dynamical-systems/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://nkdailab.github.io/publication/critical-sampling-for-data-driven-modeling-of-unknown-dynamical-systems/"
-                />
-  </url><url>
-    <loc>https://nkdailab.github.io/publication_types/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://nkdailab.github.io/publication_types/"
-                />
-  </url><url>
-    <loc>https://nkdailab.github.io/publication/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://nkdailab.github.io/publication/"
-                />
-  </url><url>
-    <loc>https://nkdailab.github.io/author/siqi-wu/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/siqi-wu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://nkdailab.github.io/author/siqi-wu/"
-                />
-  </url><url>
-    <loc>https://nkdailab.github.io/author/zhao-joy-sun/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/zhao-joy-sun/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://nkdailab.github.io/author/zhao-joy-sun/"
-                />
-  </url><url>
-    <loc>https://nkdailab.github.io/author/zhihai-he/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/zhihai-he/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://nkdailab.github.io/author/zhihai-he/"
-                />
-  </url><url>
-    <loc>https://nkdailab.github.io/author/bowen-hai/</loc>
+    <loc>http://localhost:1313/author/bowen-hai/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/bowen-hai/"
+                href="http://localhost:1313/zh/author/bowen-hai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/bowen-hai/"
+                href="http://localhost:1313/author/bowen-hai/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/ke-yu/</loc>
+    <loc>http://localhost:1313/author/ke-yu/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/ke-yu/"
+                href="http://localhost:1313/zh/author/ke-yu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/ke-yu/"
+                href="http://localhost:1313/author/ke-yu/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/publication/learning-to-adapt-clip-for-few-shot-monocular-depth-estimation/</loc>
+    <loc>http://localhost:1313/publication/learning-to-adapt-clip-for-few-shot-monocular-depth-estimation/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/publication/learning-to-adapt-clip-for-few-shot-monocular-depth-estimation/"
+                href="http://localhost:1313/zh/publication/learning-to-adapt-clip-for-few-shot-monocular-depth-estimation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/publication/learning-to-adapt-clip-for-few-shot-monocular-depth-estimation/"
+                href="http://localhost:1313/publication/learning-to-adapt-clip-for-few-shot-monocular-depth-estimation/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/xueting-hu/</loc>
+    <loc>http://localhost:1313/author/xueting-hu/</loc>
     <lastmod>2023-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/xueting-hu/"
+                href="http://localhost:1313/zh/author/xueting-hu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/xueting-hu/"
+                href="http://localhost:1313/author/xueting-hu/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/yi-zhang/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/yi-zhang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://nkdailab.github.io/author/yi-zhang/"
-                />
-  </url><url>
-    <loc>https://nkdailab.github.io/tag/adaptation-models/</loc>
+    <loc>http://localhost:1313/tag/adaptation-models/</loc>
     <lastmod>2023-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/tag/adaptation-models/"
+                href="http://localhost:1313/zh/tag/adaptation-models/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/tag/adaptation-models/"
+                href="http://localhost:1313/tag/adaptation-models/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/tag/benchmark-testing/</loc>
+    <loc>http://localhost:1313/tag/benchmark-testing/</loc>
     <lastmod>2023-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/tag/benchmark-testing/"
+                href="http://localhost:1313/zh/tag/benchmark-testing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/tag/benchmark-testing/"
+                href="http://localhost:1313/tag/benchmark-testing/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/tag/correlation/</loc>
+    <loc>http://localhost:1313/tag/correlation/</loc>
     <lastmod>2023-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/tag/correlation/"
+                href="http://localhost:1313/zh/tag/correlation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/tag/correlation/"
+                href="http://localhost:1313/tag/correlation/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/publication/cross-inferential-networks-for-source-free-unsupervised-domain-adaptation/</loc>
+    <loc>http://localhost:1313/publication/cross-inferential-networks-for-source-free-unsupervised-domain-adaptation/</loc>
     <lastmod>2023-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/publication/cross-inferential-networks-for-source-free-unsupervised-domain-adaptation/"
+                href="http://localhost:1313/zh/publication/cross-inferential-networks-for-source-free-unsupervised-domain-adaptation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/publication/cross-inferential-networks-for-source-free-unsupervised-domain-adaptation/"
+                href="http://localhost:1313/publication/cross-inferential-networks-for-source-free-unsupervised-domain-adaptation/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/tag/image-processing/</loc>
+    <loc>http://localhost:1313/tag/image-processing/</loc>
     <lastmod>2023-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/tag/image-processing/"
+                href="http://localhost:1313/zh/tag/image-processing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/tag/image-processing/"
+                href="http://localhost:1313/tag/image-processing/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/tag/predictive-models/</loc>
+    <loc>http://localhost:1313/tag/predictive-models/</loc>
     <lastmod>2023-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/tag/predictive-models/"
+                href="http://localhost:1313/zh/tag/predictive-models/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/tag/predictive-models/"
+                href="http://localhost:1313/tag/predictive-models/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/qinghai-guo/</loc>
+    <loc>http://localhost:1313/author/qinghai-guo/</loc>
     <lastmod>2023-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/qinghai-guo/"
+                href="http://localhost:1313/zh/author/qinghai-guo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/qinghai-guo/"
+                href="http://localhost:1313/author/qinghai-guo/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/tags/"
+                href="http://localhost:1313/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/tag/task-analysis/</loc>
+    <loc>http://localhost:1313/tag/task-analysis/</loc>
     <lastmod>2023-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/tag/task-analysis/"
+                href="http://localhost:1313/zh/tag/task-analysis/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/tag/task-analysis/"
+                href="http://localhost:1313/tag/task-analysis/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/tag/training/</loc>
+    <loc>http://localhost:1313/tag/training/</loc>
     <lastmod>2023-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/tag/training/"
+                href="http://localhost:1313/zh/tag/training/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/tag/training/"
+                href="http://localhost:1313/tag/training/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/yushun-tang/</loc>
+    <loc>http://localhost:1313/author/yushun-tang/</loc>
     <lastmod>2023-10-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/yushun-tang/"
+                href="http://localhost:1313/zh/author/yushun-tang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/yushun-tang/"
+                href="http://localhost:1313/author/yushun-tang/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/publication/bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning/</loc>
+    <loc>http://localhost:1313/publication/bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning/</loc>
     <lastmod>2023-09-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/publication/bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning/"
+                href="http://localhost:1313/zh/publication/bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/publication/bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning/"
+                href="http://localhost:1313/publication/bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/zihan-liao/</loc>
+    <loc>http://localhost:1313/author/zihan-liao/</loc>
     <lastmod>2023-09-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/zihan-liao/"
+                href="http://localhost:1313/zh/author/zihan-liao/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/zihan-liao/"
+                href="http://localhost:1313/author/zihan-liao/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/publication/unsupervised-prototype-adapter-for-vision-language-models/</loc>
+    <loc>http://localhost:1313/publication/unsupervised-prototype-adapter-for-vision-language-models/</loc>
     <lastmod>2023-08-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/publication/unsupervised-prototype-adapter-for-vision-language-models/"
+                href="http://localhost:1313/zh/publication/unsupervised-prototype-adapter-for-vision-language-models/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/publication/unsupervised-prototype-adapter-for-vision-language-models/"
+                href="http://localhost:1313/publication/unsupervised-prototype-adapter-for-vision-language-models/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/publication-type/2/</loc>
+    <loc>http://localhost:1313/publication-type/2/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/publication-type/2/"
+                href="http://localhost:1313/zh/publication-type/2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/publication-type/2/"
+                href="http://localhost:1313/publication-type/2/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/publication/cycle-optimization-metric-learning-for-few-shot-classification/</loc>
+    <loc>http://localhost:1313/publication/cycle-optimization-metric-learning-for-few-shot-classification/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/publication/cycle-optimization-metric-learning-for-few-shot-classification/"
+                href="http://localhost:1313/zh/publication/cycle-optimization-metric-learning-for-few-shot-classification/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/publication/cycle-optimization-metric-learning-for-few-shot-classification/"
+                href="http://localhost:1313/publication/cycle-optimization-metric-learning-for-few-shot-classification/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/tag/few-shot-classification/</loc>
+    <loc>http://localhost:1313/tag/few-shot-classification/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/tag/few-shot-classification/"
+                href="http://localhost:1313/zh/tag/few-shot-classification/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/tag/few-shot-classification/"
+                href="http://localhost:1313/tag/few-shot-classification/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/tag/graph-convolution-network/</loc>
+    <loc>http://localhost:1313/tag/graph-convolution-network/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/tag/graph-convolution-network/"
+                href="http://localhost:1313/zh/tag/graph-convolution-network/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/tag/graph-convolution-network/"
+                href="http://localhost:1313/tag/graph-convolution-network/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/qifan-liu/</loc>
+    <loc>http://localhost:1313/author/qifan-liu/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/qifan-liu/"
+                href="http://localhost:1313/zh/author/qifan-liu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/qifan-liu/"
+                href="http://localhost:1313/author/qifan-liu/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/tag/self-guided-information/</loc>
+    <loc>http://localhost:1313/tag/self-guided-information/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/tag/self-guided-information/"
+                href="http://localhost:1313/zh/tag/self-guided-information/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/tag/self-guided-information/"
+                href="http://localhost:1313/tag/self-guided-information/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/wenming-cao/</loc>
+    <loc>http://localhost:1313/author/wenming-cao/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/wenming-cao/"
+                href="http://localhost:1313/zh/author/wenming-cao/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/wenming-cao/"
+                href="http://localhost:1313/author/wenming-cao/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/</loc>
+    <loc>http://localhost:1313/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/</loc>
     <lastmod>2023-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/"
+                href="http://localhost:1313/zh/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/"
+                href="http://localhost:1313/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/kailiang-wu/</loc>
+    <loc>http://localhost:1313/author/kailiang-wu/</loc>
     <lastmod>2023-04-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/kailiang-wu/"
+                href="http://localhost:1313/zh/author/kailiang-wu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/kailiang-wu/"
+                href="http://localhost:1313/author/kailiang-wu/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/publication/self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation/</loc>
+    <loc>http://localhost:1313/publication/self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation/</loc>
     <lastmod>2023-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/publication/self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation/"
+                href="http://localhost:1313/zh/publication/self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/publication/self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation/"
+                href="http://localhost:1313/publication/self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/shuoshuo-chen/</loc>
+    <loc>http://localhost:1313/author/shuoshuo-chen/</loc>
     <lastmod>2023-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/shuoshuo-chen/"
+                href="http://localhost:1313/zh/author/shuoshuo-chen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/shuoshuo-chen/"
+                href="http://localhost:1313/author/shuoshuo-chen/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/zhehan-kan/</loc>
+    <loc>http://localhost:1313/author/zhehan-kan/</loc>
     <lastmod>2023-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/zhehan-kan/"
+                href="http://localhost:1313/zh/author/zhehan-kan/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/zhehan-kan/"
+                href="http://localhost:1313/author/zhehan-kan/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/heng-xu/</loc>
+    <loc>http://localhost:1313/author/heng-xu/</loc>
     <lastmod>2023-03-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/heng-xu/"
+                href="http://localhost:1313/zh/author/heng-xu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/heng-xu/"
+                href="http://localhost:1313/author/heng-xu/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/jie-cheng/</loc>
+    <loc>http://localhost:1313/author/jie-cheng/</loc>
     <lastmod>2023-03-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/jie-cheng/"
+                href="http://localhost:1313/zh/author/jie-cheng/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/jie-cheng/"
+                href="http://localhost:1313/author/jie-cheng/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/luziwei-leng/</loc>
+    <loc>http://localhost:1313/author/luziwei-leng/</loc>
     <lastmod>2023-03-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/luziwei-leng/"
+                href="http://localhost:1313/zh/author/luziwei-leng/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/luziwei-leng/"
+                href="http://localhost:1313/author/luziwei-leng/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/publication/neuro-modulated-hebbian-learning-for-fully-test-time-adaptation/</loc>
+    <loc>http://localhost:1313/publication/neuro-modulated-hebbian-learning-for-fully-test-time-adaptation/</loc>
     <lastmod>2023-03-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/publication/neuro-modulated-hebbian-learning-for-fully-test-time-adaptation/"
+                href="http://localhost:1313/zh/publication/neuro-modulated-hebbian-learning-for-fully-test-time-adaptation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/publication/neuro-modulated-hebbian-learning-for-fully-test-time-adaptation/"
+                href="http://localhost:1313/publication/neuro-modulated-hebbian-learning-for-fully-test-time-adaptation/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/deliang-lian/</loc>
+    <loc>http://localhost:1313/author/deliang-lian/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/deliang-lian/"
+                href="http://localhost:1313/zh/author/deliang-lian/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/deliang-lian/"
+                href="http://localhost:1313/author/deliang-lian/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/publication/self-guided-information-for-few-shot-classification/</loc>
+    <loc>http://localhost:1313/publication/self-guided-information-for-few-shot-classification/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/publication/self-guided-information-for-few-shot-classification/"
+                href="http://localhost:1313/zh/publication/self-guided-information-for-few-shot-classification/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/publication/self-guided-information-for-few-shot-classification/"
+                href="http://localhost:1313/publication/self-guided-information-for-few-shot-classification/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/zhineng-zhao/</loc>
+    <loc>http://localhost:1313/author/zhineng-zhao/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/zhineng-zhao/"
+                href="http://localhost:1313/zh/author/zhineng-zhao/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/zhineng-zhao/"
+                href="http://localhost:1313/author/zhineng-zhao/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/contact/"
+                href="http://localhost:1313/zh/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/contact/"
+                href="http://localhost:1313/contact/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/"
+                href="http://localhost:1313/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/tour/</loc>
+    <loc>http://localhost:1313/tour/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/tour/"
+                href="http://localhost:1313/zh/tour/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/tour/"
+                href="http://localhost:1313/tour/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/people/</loc>
+    <loc>http://localhost:1313/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/people/"
+                href="http://localhost:1313/zh/people/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/people/"
+                href="http://localhost:1313/people/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/event/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/event/"
+                href="http://localhost:1313/zh/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/event/"
+                href="http://localhost:1313/event/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/tag/human-pose-estimated/</loc>
+    <loc>http://localhost:1313/tag/human-pose-estimated/</loc>
     <lastmod>2022-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/tag/human-pose-estimated/"
+                href="http://localhost:1313/zh/tag/human-pose-estimated/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/tag/human-pose-estimated/"
+                href="http://localhost:1313/tag/human-pose-estimated/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/tag/prediction-optimization/</loc>
+    <loc>http://localhost:1313/tag/prediction-optimization/</loc>
     <lastmod>2022-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/tag/prediction-optimization/"
+                href="http://localhost:1313/zh/tag/prediction-optimization/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/tag/prediction-optimization/"
+                href="http://localhost:1313/tag/prediction-optimization/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/tag/self-constrained/</loc>
+    <loc>http://localhost:1313/tag/self-constrained/</loc>
     <lastmod>2022-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/tag/self-constrained/"
+                href="http://localhost:1313/zh/tag/self-constrained/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/tag/self-constrained/"
+                href="http://localhost:1313/tag/self-constrained/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/publication/self-constrained-inference-optimization-on-structural-groups-for-human-pose-estimation/</loc>
+    <loc>http://localhost:1313/publication/self-constrained-inference-optimization-on-structural-groups-for-human-pose-estimation/</loc>
     <lastmod>2022-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/publication/self-constrained-inference-optimization-on-structural-groups-for-human-pose-estimation/"
+                href="http://localhost:1313/zh/publication/self-constrained-inference-optimization-on-structural-groups-for-human-pose-estimation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/publication/self-constrained-inference-optimization-on-structural-groups-for-human-pose-estimation/"
+                href="http://localhost:1313/publication/self-constrained-inference-optimization-on-structural-groups-for-human-pose-estimation/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/tag/structural-inference/</loc>
+    <loc>http://localhost:1313/tag/structural-inference/</loc>
     <lastmod>2022-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/tag/structural-inference/"
+                href="http://localhost:1313/zh/tag/structural-inference/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/tag/structural-inference/"
+                href="http://localhost:1313/tag/structural-inference/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/zeng-li/</loc>
+    <loc>http://localhost:1313/author/zeng-li/</loc>
     <lastmod>2022-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/zeng-li/"
+                href="http://localhost:1313/zh/author/zeng-li/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/zeng-li/"
+                href="http://localhost:1313/author/zeng-li/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/post/zhehan-kan-a-postgraduate-of-zhihai-he-research-group-of-the-department-of-electronics-in-occlusion-and-generalization-issue-in-human-pose-estimation-with-a-novel-self-constrained-approach/</loc>
+    <loc>http://localhost:1313/post/zhehan-kan-a-postgraduate-of-zhihai-he-research-group-of-the-department-of-electronics-in-occlusion-and-generalization-issue-in-human-pose-estimation-with-a-novel-self-constrained-approach/</loc>
     <lastmod>2022-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/post/zhehan-kan-a-postgraduate-of-zhihai-he-research-group-of-the-department-of-electronics-in-occlusion-and-generalization-issue-in-human-pose-estimation-with-a-novel-self-constrained-approach/"
+                href="http://localhost:1313/zh/post/zhehan-kan-a-postgraduate-of-zhihai-he-research-group-of-the-department-of-electronics-in-occlusion-and-generalization-issue-in-human-pose-estimation-with-a-novel-self-constrained-approach/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/post/zhehan-kan-a-postgraduate-of-zhihai-he-research-group-of-the-department-of-electronics-in-occlusion-and-generalization-issue-in-human-pose-estimation-with-a-novel-self-constrained-approach/"
+                href="http://localhost:1313/post/zhehan-kan-a-postgraduate-of-zhihai-he-research-group-of-the-department-of-electronics-in-occlusion-and-generalization-issue-in-human-pose-estimation-with-a-novel-self-constrained-approach/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/admin/</loc>
+    <loc>http://localhost:1313/admin/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/admin/"
+                href="http://localhost:1313/zh/admin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/admin/"
+                href="http://localhost:1313/admin/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/categories/"
+                href="http://localhost:1313/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E4%BD%95%E5%BF%97%E6%B5%B7/</loc>
+    <loc>http://localhost:1313/author/%E4%BD%95%E5%BF%97%E6%B5%B7/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E4%BD%95%E5%BF%97%E6%B5%B7/"
+                href="http://localhost:1313/zh/author/%E4%BD%95%E5%BF%97%E6%B5%B7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E4%BD%95%E5%BF%97%E6%B5%B7/"
+                href="http://localhost:1313/author/%E4%BD%95%E5%BF%97%E6%B5%B7/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E4%BD%95%E6%B5%9A%E4%BA%A6/</loc>
+    <loc>http://localhost:1313/author/%E4%BD%95%E6%B5%9A%E4%BA%A6/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E4%BD%95%E6%B5%9A%E4%BA%A6/"
+                href="http://localhost:1313/zh/author/%E4%BD%95%E6%B5%9A%E4%BA%A6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E4%BD%95%E6%B5%9A%E4%BA%A6/"
+                href="http://localhost:1313/author/%E4%BD%95%E6%B5%9A%E4%BA%A6/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E4%BD%99%E5%8F%AF/</loc>
+    <loc>http://localhost:1313/author/%E4%BD%99%E5%8F%AF/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E4%BD%99%E5%8F%AF/"
+                href="http://localhost:1313/zh/author/%E4%BD%99%E5%8F%AF/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E4%BD%99%E5%8F%AF/"
+                href="http://localhost:1313/author/%E4%BD%99%E5%8F%AF/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E5%88%98%E5%90%AF%E5%87%A1/</loc>
+    <loc>http://localhost:1313/author/%E5%88%98%E5%90%AF%E5%87%A1/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E5%88%98%E5%90%AF%E5%87%A1/"
+                href="http://localhost:1313/zh/author/%E5%88%98%E5%90%AF%E5%87%A1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E5%88%98%E5%90%AF%E5%87%A1/"
+                href="http://localhost:1313/author/%E5%88%98%E5%90%AF%E5%87%A1/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E5%88%98%E5%A4%95%E5%AA%9B/</loc>
+    <loc>http://localhost:1313/author/%E5%88%98%E5%A4%95%E5%AA%9B/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E5%88%98%E5%A4%95%E5%AA%9B/"
+                href="http://localhost:1313/zh/author/%E5%88%98%E5%A4%95%E5%AA%9B/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E5%88%98%E5%A4%95%E5%AA%9B/"
+                href="http://localhost:1313/author/%E5%88%98%E5%A4%95%E5%AA%9B/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E5%88%98%E6%80%9D%E6%80%A1/</loc>
+    <loc>http://localhost:1313/author/%E5%88%98%E6%80%9D%E6%80%A1/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E5%88%98%E6%80%9D%E6%80%A1/"
+                href="http://localhost:1313/zh/author/%E5%88%98%E6%80%9D%E6%80%A1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E5%88%98%E6%80%9D%E6%80%A1/"
+                href="http://localhost:1313/author/%E5%88%98%E6%80%9D%E6%80%A1/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E5%88%98%E7%B4%AB%E7%90%BC/</loc>
+    <loc>http://localhost:1313/author/%E5%88%98%E7%B4%AB%E7%90%BC/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E5%88%98%E7%B4%AB%E7%90%BC/"
+                href="http://localhost:1313/zh/author/%E5%88%98%E7%B4%AB%E7%90%BC/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E5%88%98%E7%B4%AB%E7%90%BC/"
+                href="http://localhost:1313/author/%E5%88%98%E7%B4%AB%E7%90%BC/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E5%90%B4%E5%86%B0%E5%B2%A9/</loc>
+    <loc>http://localhost:1313/author/%E5%90%B4%E5%86%B0%E5%B2%A9/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E5%90%B4%E5%86%B0%E5%B2%A9/"
+                href="http://localhost:1313/zh/author/%E5%90%B4%E5%86%B0%E5%B2%A9/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E5%90%B4%E5%86%B0%E5%B2%A9/"
+                href="http://localhost:1313/author/%E5%90%B4%E5%86%B0%E5%B2%A9/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E5%90%B4%E6%80%9D%E5%A5%87/</loc>
+    <loc>http://localhost:1313/author/%E5%90%B4%E6%80%9D%E5%A5%87/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E5%90%B4%E6%80%9D%E5%A5%87/"
+                href="http://localhost:1313/zh/author/%E5%90%B4%E6%80%9D%E5%A5%87/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E5%90%B4%E6%80%9D%E5%A5%87/"
+                href="http://localhost:1313/author/%E5%90%B4%E6%80%9D%E5%A5%87/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E5%94%90%E9%9B%A8%E9%A1%BA/</loc>
+    <loc>http://localhost:1313/author/%E5%94%90%E9%9B%A8%E9%A1%BA/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E5%94%90%E9%9B%A8%E9%A1%BA/"
+                href="http://localhost:1313/zh/author/%E5%94%90%E9%9B%A8%E9%A1%BA/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E5%94%90%E9%9B%A8%E9%A1%BA/"
+                href="http://localhost:1313/author/%E5%94%90%E9%9B%A8%E9%A1%BA/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E5%B0%9A%E9%98%B3%E6%98%9F/</loc>
+    <loc>http://localhost:1313/author/%E5%B0%9A%E9%98%B3%E6%98%9F/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E5%B0%9A%E9%98%B3%E6%98%9F/"
+                href="http://localhost:1313/zh/author/%E5%B0%9A%E9%98%B3%E6%98%9F/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E5%B0%9A%E9%98%B3%E6%98%9F/"
+                href="http://localhost:1313/author/%E5%B0%9A%E9%98%B3%E6%98%9F/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E5%BB%96%E5%8D%9A%E9%97%BB/</loc>
+    <loc>http://localhost:1313/author/%E5%BB%96%E5%8D%9A%E9%97%BB/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E5%BB%96%E5%8D%9A%E9%97%BB/"
+                href="http://localhost:1313/zh/author/%E5%BB%96%E5%8D%9A%E9%97%BB/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E5%BB%96%E5%8D%9A%E9%97%BB/"
+                href="http://localhost:1313/author/%E5%BB%96%E5%8D%9A%E9%97%BB/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E5%BC%A0%E6%AF%85/</loc>
+    <loc>http://localhost:1313/author/%E5%BC%A0%E6%AF%85/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E5%BC%A0%E6%AF%85/"
+                href="http://localhost:1313/zh/author/%E5%BC%A0%E6%AF%85/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E5%BC%A0%E6%AF%85/"
+                href="http://localhost:1313/author/%E5%BC%A0%E6%AF%85/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E5%BC%A0%E7%AD%96/</loc>
+    <loc>http://localhost:1313/author/%E5%BC%A0%E7%AD%96/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E5%BC%A0%E7%AD%96/"
+                href="http://localhost:1313/zh/author/%E5%BC%A0%E7%AD%96/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E5%BC%A0%E7%AD%96/"
+                href="http://localhost:1313/author/%E5%BC%A0%E7%AD%96/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/</loc>
+    <loc>http://localhost:1313/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/"
+                href="http://localhost:1313/zh/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/"
+                href="http://localhost:1313/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E5%BE%90%E8%A1%A1/</loc>
+    <loc>http://localhost:1313/author/%E5%BE%90%E8%A1%A1/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E5%BE%90%E8%A1%A1/"
+                href="http://localhost:1313/zh/author/%E5%BE%90%E8%A1%A1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E5%BE%90%E8%A1%A1/"
+                href="http://localhost:1313/author/%E5%BE%90%E8%A1%A1/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E6%9D%8E%E8%8B%A5%E6%80%A1/</loc>
+    <loc>http://localhost:1313/author/%E6%9C%B1%E6%97%A8%E5%87%BD/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E6%9D%8E%E8%8B%A5%E6%80%A1/"
+                href="http://localhost:1313/zh/author/%E6%9C%B1%E6%97%A8%E5%87%BD/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E6%9D%8E%E8%8B%A5%E6%80%A1/"
+                href="http://localhost:1313/author/%E6%9C%B1%E6%97%A8%E5%87%BD/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E6%9D%8E%E9%9D%99/</loc>
+    <loc>http://localhost:1313/author/%E6%9D%8E%E8%8B%A5%E6%80%A1/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E6%9D%8E%E9%9D%99/"
+                href="http://localhost:1313/zh/author/%E6%9D%8E%E8%8B%A5%E6%80%A1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E6%9D%8E%E9%9D%99/"
+                href="http://localhost:1313/author/%E6%9D%8E%E8%8B%A5%E6%80%A1/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E6%9D%A8%E7%A7%91/</loc>
+    <loc>http://localhost:1313/author/%E6%9D%8E%E9%9D%99/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E6%9D%A8%E7%A7%91/"
+                href="http://localhost:1313/zh/author/%E6%9D%8E%E9%9D%99/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E6%9D%A8%E7%A7%91/"
+                href="http://localhost:1313/author/%E6%9D%8E%E9%9D%99/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E6%B2%88%E6%BB%A2/</loc>
+    <loc>http://localhost:1313/author/%E6%9D%A8%E7%A7%91/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E6%B2%88%E6%BB%A2/"
+                href="http://localhost:1313/zh/author/%E6%9D%A8%E7%A7%91/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E6%B2%88%E6%BB%A2/"
+                href="http://localhost:1313/author/%E6%9D%A8%E7%A7%91/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E6%B5%B7%E5%8D%9A%E6%96%87/</loc>
+    <loc>http://localhost:1313/author/%E6%B2%88%E6%BB%A2/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E6%B5%B7%E5%8D%9A%E6%96%87/"
+                href="http://localhost:1313/zh/author/%E6%B2%88%E6%BB%A2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E6%B5%B7%E5%8D%9A%E6%96%87/"
+                href="http://localhost:1313/author/%E6%B2%88%E6%BB%A2/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E7%8E%8B%E4%B8%80%E5%98%89/</loc>
+    <loc>http://localhost:1313/author/%E6%B5%B7%E5%8D%9A%E6%96%87/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E7%8E%8B%E4%B8%80%E5%98%89/"
+                href="http://localhost:1313/zh/author/%E6%B5%B7%E5%8D%9A%E6%96%87/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E7%8E%8B%E4%B8%80%E5%98%89/"
+                href="http://localhost:1313/author/%E6%B5%B7%E5%8D%9A%E6%96%87/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E7%BA%AA%E4%BF%8A%E9%98%B3/</loc>
+    <loc>http://localhost:1313/author/%E7%8E%8B%E4%B8%80%E5%98%89/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E7%BA%AA%E4%BF%8A%E9%98%B3/"
+                href="http://localhost:1313/zh/author/%E7%8E%8B%E4%B8%80%E5%98%89/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E7%BA%AA%E4%BF%8A%E9%98%B3/"
+                href="http://localhost:1313/author/%E7%8E%8B%E4%B8%80%E5%98%89/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E8%83%A1%E9%9B%AA%E5%A9%B7/</loc>
+    <loc>http://localhost:1313/author/%E7%BA%AA%E4%BF%8A%E9%98%B3/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E8%83%A1%E9%9B%AA%E5%A9%B7/"
+                href="http://localhost:1313/zh/author/%E7%BA%AA%E4%BF%8A%E9%98%B3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E8%83%A1%E9%9B%AA%E5%A9%B7/"
+                href="http://localhost:1313/author/%E7%BA%AA%E4%BF%8A%E9%98%B3/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E8%8C%83%E6%98%95%E5%8D%8E/</loc>
+    <loc>http://localhost:1313/author/%E8%83%A1%E9%9B%AA%E5%A9%B7/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E8%8C%83%E6%98%95%E5%8D%8E/"
+                href="http://localhost:1313/zh/author/%E8%83%A1%E9%9B%AA%E5%A9%B7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E8%8C%83%E6%98%95%E5%8D%8E/"
+                href="http://localhost:1313/author/%E8%83%A1%E9%9B%AA%E5%A9%B7/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E8%B4%BE%E7%BA%AA%E6%BA%90/</loc>
+    <loc>http://localhost:1313/author/%E8%8C%83%E6%98%95%E5%8D%8E/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E8%B4%BE%E7%BA%AA%E6%BA%90/"
+                href="http://localhost:1313/zh/author/%E8%8C%83%E6%98%95%E5%8D%8E/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E8%B4%BE%E7%BA%AA%E6%BA%90/"
+                href="http://localhost:1313/author/%E8%8C%83%E6%98%95%E5%8D%8E/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E8%B5%B5%E4%B9%8B%E8%83%BD/</loc>
+    <loc>http://localhost:1313/author/%E8%B4%BE%E7%BA%AA%E6%BA%90/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E8%B5%B5%E4%B9%8B%E8%83%BD/"
+                href="http://localhost:1313/zh/author/%E8%B4%BE%E7%BA%AA%E6%BA%90/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E8%B5%B5%E4%B9%8B%E8%83%BD/"
+                href="http://localhost:1313/author/%E8%B4%BE%E7%BA%AA%E6%BA%90/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E9%92%B1%E4%BC%9F%E7%83%A8/</loc>
+    <loc>http://localhost:1313/author/%E8%B5%B5%E4%B9%8B%E8%83%BD/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E9%92%B1%E4%BC%9F%E7%83%A8/"
+                href="http://localhost:1313/zh/author/%E8%B5%B5%E4%B9%8B%E8%83%BD/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E9%92%B1%E4%BC%9F%E7%83%A8/"
+                href="http://localhost:1313/author/%E8%B5%B5%E4%B9%8B%E8%83%BD/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E9%98%9A%E5%93%B2%E6%B6%B5/</loc>
+    <loc>http://localhost:1313/author/%E9%92%B1%E4%BC%9F%E7%83%A8/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E9%98%9A%E5%93%B2%E6%B6%B5/"
+                href="http://localhost:1313/zh/author/%E9%92%B1%E4%BC%9F%E7%83%A8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E9%98%9A%E5%93%B2%E6%B6%B5/"
+                href="http://localhost:1313/author/%E9%92%B1%E4%BC%9F%E7%83%A8/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E9%99%88%E5%BA%86%E5%8D%97/</loc>
+    <loc>http://localhost:1313/author/%E9%98%9A%E5%93%B2%E6%B6%B5/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E9%99%88%E5%BA%86%E5%8D%97/"
+                href="http://localhost:1313/zh/author/%E9%98%9A%E5%93%B2%E6%B6%B5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E9%99%88%E5%BA%86%E5%8D%97/"
+                href="http://localhost:1313/author/%E9%98%9A%E5%93%B2%E6%B6%B5/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E9%99%88%E7%83%81%E7%A1%95/</loc>
+    <loc>http://localhost:1313/author/%E9%99%88%E5%BA%86%E5%8D%97/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E9%99%88%E7%83%81%E7%A1%95/"
+                href="http://localhost:1313/zh/author/%E9%99%88%E5%BA%86%E5%8D%97/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E9%99%88%E7%83%81%E7%A1%95/"
+                href="http://localhost:1313/author/%E9%99%88%E5%BA%86%E5%8D%97/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/author/%E9%99%88%E7%8E%AE%E9%93%AD/</loc>
+    <loc>http://localhost:1313/author/%E9%99%88%E7%83%81%E7%A1%95/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/%E9%99%88%E7%8E%AE%E9%93%AD/"
+                href="http://localhost:1313/zh/author/%E9%99%88%E7%83%81%E7%A1%95/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://nkdailab.github.io/author/%E9%99%88%E7%8E%AE%E9%93%AD/"
+                href="http://localhost:1313/author/%E9%99%88%E7%83%81%E7%A1%95/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/author/%E9%99%88%E7%8E%AE%E9%93%AD/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/zh/author/%E9%99%88%E7%8E%AE%E9%93%AD/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/author/%E9%99%88%E7%8E%AE%E9%93%AD/"
                 />
   </url>
 </urlset>

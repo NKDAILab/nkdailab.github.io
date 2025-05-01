@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Image Processing | NKD AI Lab</title>
-    <link>https://nkdailab.github.io/tag/image-processing/</link>
-      <atom:link href="https://nkdailab.github.io/tag/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/image-processing/</link>
+      <atom:link href="http://localhost:1313/tag/image-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Image Processing</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
+      <url>http://localhost:1313/media/icon_hu_de2b0bb0af672a83.png</url>
       <title>Image Processing</title>
-      <link>https://nkdailab.github.io/tag/image-processing/</link>
+      <link>http://localhost:1313/tag/image-processing/</link>
     </image>
     
     <item>
       <title>Cross-inferential networks for source-free unsupervised domain adaptation</title>
-      <link>https://nkdailab.github.io/publication/cross-inferential-networks-for-source-free-unsupervised-domain-adaptation/</link>
+      <link>http://localhost:1313/publication/cross-inferential-networks-for-source-free-unsupervised-domain-adaptation/</link>
       <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://nkdailab.github.io/publication/cross-inferential-networks-for-source-free-unsupervised-domain-adaptation/</guid>
+      <guid>http://localhost:1313/publication/cross-inferential-networks-for-source-free-unsupervised-domain-adaptation/</guid>
       <description>&lt;!-- 
 
 

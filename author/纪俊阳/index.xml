@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>纪俊阳 | NKD AI Lab</title>
-    <link>https://nkdailab.github.io/author/%E7%BA%AA%E4%BF%8A%E9%98%B3/</link>
-      <atom:link href="https://nkdailab.github.io/author/%E7%BA%AA%E4%BF%8A%E9%98%B3/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E7%BA%AA%E4%BF%8A%E9%98%B3/</link>
+      <atom:link href="http://localhost:1313/author/%E7%BA%AA%E4%BF%8A%E9%98%B3/index.xml" rel="self" type="application/rss+xml" />
     <description>纪俊阳</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://nkdailab.github.io/author/%E7%BA%AA%E4%BF%8A%E9%98%B3/avatar_hu_1b73024a373e779e.jpg</url>
+      <url>http://localhost:1313/author/%E7%BA%AA%E4%BF%8A%E9%98%B3/avatar_hu_1b73024a373e779e.jpg</url>
       <title>纪俊阳</title>
-      <link>https://nkdailab.github.io/author/%E7%BA%AA%E4%BF%8A%E9%98%B3/</link>
+      <link>http://localhost:1313/author/%E7%BA%AA%E4%BF%8A%E9%98%B3/</link>
     </image>
     
   </channel>

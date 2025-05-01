@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | 南方科技大学人工智能实验室</title>
-    <link>https://nkdailab.github.io/zh/publication-type/2/</link>
-      <atom:link href="https://nkdailab.github.io/zh/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zh/publication-type/2/</link>
+      <atom:link href="http://localhost:1313/zh/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
+      <url>http://localhost:1313/media/icon_hu_de2b0bb0af672a83.png</url>
       <title>2</title>
-      <link>https://nkdailab.github.io/zh/publication-type/2/</link>
+      <link>http://localhost:1313/zh/publication-type/2/</link>
     </image>
     
     <item>
       <title>Cycle optimization metric learning for few-shot classification</title>
-      <link>https://nkdailab.github.io/zh/publication/cycle-optimization-metric-learning-for-few-shot-classification/</link>
+      <link>http://localhost:1313/zh/publication/cycle-optimization-metric-learning-for-few-shot-classification/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://nkdailab.github.io/zh/publication/cycle-optimization-metric-learning-for-few-shot-classification/</guid>
+      <guid>http://localhost:1313/zh/publication/cycle-optimization-metric-learning-for-few-shot-classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Critical Sampling for Robust Evolution Operator Learning of Unknown Dynamical Systems</title>
-      <link>https://nkdailab.github.io/zh/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/</link>
+      <link>http://localhost:1313/zh/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://nkdailab.github.io/zh/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/</guid>
+      <guid>http://localhost:1313/zh/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-guided information for few-shot classification</title>
-      <link>https://nkdailab.github.io/zh/publication/self-guided-information-for-few-shot-classification/</link>
+      <link>http://localhost:1313/zh/publication/self-guided-information-for-few-shot-classification/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://nkdailab.github.io/zh/publication/self-guided-information-for-few-shot-classification/</guid>
+      <guid>http://localhost:1313/zh/publication/self-guided-information-for-few-shot-classification/</guid>
       <description></description>
     </item>
     
