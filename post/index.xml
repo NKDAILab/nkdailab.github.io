@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News | NKD AI Lab</title>
-    <link>http://localhost:1313/post/</link>
-      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nkdailab.github.io/post/</link>
+      <atom:link href="https://nkdailab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_de2b0bb0af672a83.png</url>
+      <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
       <title>News</title>
-      <link>http://localhost:1313/post/</link>
+      <link>https://nkdailab.github.io/post/</link>
     </image>
     
     <item>
       <title>He Zhihai&#39;s group in the Department of Electronics at SUSTech is pleased to present two AAAI-2025 Oral Papers</title>
-      <link>http://localhost:1313/post/2025.3.6/</link>
+      <link>https://nkdailab.github.io/post/2025.3.6/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025.3.6/</guid>
+      <guid>https://nkdailab.github.io/post/2025.3.6/</guid>
       <description>&lt;p&gt;AAAI, short for The Association for Advancement of Artificial Intelligence, is one of the most important international conferences in the field of Artificial Intelligence, hosted by the International Association for Artificial Intelligence, and recommended by the Chinese Computer Federation (CCF) as a Class A conference. AAAI AAAI 2025 received 12,957 submissions and 3032 papers were accepted, with an acceptance rate of 23.4%, of which the Oral Presentation acceptance rate was 4.6%.AAAI 2025 was held on 25 February - 4 March 2025 in Philadelphia, Pennsylvania, USA.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;u&gt;《Cross-Modal Few-Shot Learning with Second-Order Neural Ordinary Differential Equations》&lt;/u&gt;&lt;/strong&gt;&lt;/br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;u&gt;Authors&lt;/u&gt;&lt;/strong&gt;&lt;/br&gt;
@@ -43,9 +43,9 @@ Funding information: This work was supported by the National Natural Science Fou
     
     <item>
       <title>Professor Zhihai He&#39;s team from the Department of Electronics, SUSTech, won the second prize for technical invention in the 2024 Wu Wenjun Artificial Intelligence Science and Technology Award</title>
-      <link>http://localhost:1313/post/2025.2.25/</link>
+      <link>https://nkdailab.github.io/post/2025.2.25/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2025.2.25/</guid>
+      <guid>https://nkdailab.github.io/post/2025.2.25/</guid>
       <description>&lt;p&gt;Recently, the list of winners of the 2024 Wu Wenjun Artificial Intelligence Science and Technology Award was officially released, and Professor He Zhihai Chair of the Department of Electrical and Electronic Engineering of the Southern University of Science and Technology (SUSTech), as the first project completion, stood out for his project of ‘Big Model-Driven Home AI Doctor and Total Patient Care Management’, which won the ‘Second Prize for Technological Invention of the Year 2024’. ‘The Second Prize for Technical Invention in the 2024 Wu Wenjun Artificial Intelligence Science and Technology Award.&lt;/p&gt;
 &lt;img src=&#34;fig1.jpg&#34; width=&#34;888&#34;&gt;
 &lt;p style=&#34;font-size:15px;text-align:center&#34;&gt;Figure 1. Winners List.&lt;/p&gt;
@@ -60,9 +60,9 @@ Funding information: This work was supported by the National Natural Science Fou
     
     <item>
       <title>Zhehan Kan, a postgraduate of Zhihai He Research Group of the Department of Electronics, in occlusion and generalization issue in human pose estimation with a novel self-constrained approach</title>
-      <link>http://localhost:1313/post/zhehan-kan-a-postgraduate-of-zhihai-he-research-group-of-the-department-of-electronics-in-occlusion-and-generalization-issue-in-human-pose-estimation-with-a-novel-self-constrained-approach/</link>
+      <link>https://nkdailab.github.io/post/zhehan-kan-a-postgraduate-of-zhihai-he-research-group-of-the-department-of-electronics-in-occlusion-and-generalization-issue-in-human-pose-estimation-with-a-novel-self-constrained-approach/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/zhehan-kan-a-postgraduate-of-zhihai-he-research-group-of-the-department-of-electronics-in-occlusion-and-generalization-issue-in-human-pose-estimation-with-a-novel-self-constrained-approach/</guid>
+      <guid>https://nkdailab.github.io/post/zhehan-kan-a-postgraduate-of-zhihai-he-research-group-of-the-department-of-electronics-in-occlusion-and-generalization-issue-in-human-pose-estimation-with-a-novel-self-constrained-approach/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;u&gt;Context for the reader&lt;/u&gt;&lt;/strong&gt;&lt;/br&gt;
 Human pose estimation aims to correctly detect and localize keypoints, i.e., human body joints or parts. It is one of the fundamental computer vision tasks which plays an important role in a variety of downstream applications, such as motion capture, activity recognition and person tracking. With the advent of the XR era, technologies such as virtual reality (VR), human-computer interaction (HCI), and augmented reality (AR) have gradually matured. As a core part in XR research, it is becoming more and more important to reach accurate estimation of human pose. However, due to free-style motion of human bodies, for complex scenes with person-person occlusions, large variations of appearance and texture, and cluttered backgrounds, pose estimation remains very challenging.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;u&gt;Authored researchers and journal details&lt;/u&gt;&lt;/strong&gt;&lt;/br&gt;

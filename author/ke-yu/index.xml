@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ke Yu | NKD AI Lab</title>
-    <link>http://localhost:1313/author/ke-yu/</link>
-      <atom:link href="http://localhost:1313/author/ke-yu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nkdailab.github.io/author/ke-yu/</link>
+      <atom:link href="https://nkdailab.github.io/author/ke-yu/index.xml" rel="self" type="application/rss+xml" />
     <description>Ke Yu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_de2b0bb0af672a83.png</url>
+      <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
       <title>Ke Yu</title>
-      <link>http://localhost:1313/author/ke-yu/</link>
+      <link>https://nkdailab.github.io/author/ke-yu/</link>
     </image>
     
     <item>
       <title>Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation</title>
-      <link>http://localhost:1313/publication/learning-to-adapt-clip-for-few-shot-monocular-depth-estimation/</link>
+      <link>https://nkdailab.github.io/publication/learning-to-adapt-clip-for-few-shot-monocular-depth-estimation/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/learning-to-adapt-clip-for-few-shot-monocular-depth-estimation/</guid>
+      <guid>https://nkdailab.github.io/publication/learning-to-adapt-clip-for-few-shot-monocular-depth-estimation/</guid>
       <description>&lt;!-- 
 
 

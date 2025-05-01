@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kailiang Wu | 南方科技大学人工智能实验室</title>
-    <link>http://localhost:1313/zh/author/kailiang-wu/</link>
-      <atom:link href="http://localhost:1313/zh/author/kailiang-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nkdailab.github.io/zh/author/kailiang-wu/</link>
+      <atom:link href="https://nkdailab.github.io/zh/author/kailiang-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Kailiang Wu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_de2b0bb0af672a83.png</url>
+      <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
       <title>Kailiang Wu</title>
-      <link>http://localhost:1313/zh/author/kailiang-wu/</link>
+      <link>https://nkdailab.github.io/zh/author/kailiang-wu/</link>
     </image>
     
     <item>
       <title>Critical Sampling for Robust Evolution Operator Learning of Unknown Dynamical Systems</title>
-      <link>http://localhost:1313/zh/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/</link>
+      <link>https://nkdailab.github.io/zh/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/</guid>
+      <guid>https://nkdailab.github.io/zh/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/</guid>
       <description></description>
     </item>
     
