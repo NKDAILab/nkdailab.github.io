@@ -45,7 +45,7 @@
                 />
   </url><url>
     <loc>https://nkdailab.github.io/zh/publication-type/1/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -58,8 +58,22 @@
                 href="https://nkdailab.github.io/zh/publication-type/1/"
                 />
   </url><url>
+    <loc>https://nkdailab.github.io/zh/author/angelica-i-aviles-rivero/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nkdailab.github.io/author/angelica-i-aviles-rivero/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://nkdailab.github.io/zh/author/angelica-i-aviles-rivero/"
+                />
+  </url><url>
     <loc>https://nkdailab.github.io/zh/authors/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -70,6 +84,188 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://nkdailab.github.io/zh/authors/"
+                />
+  </url><url>
+    <loc>https://nkdailab.github.io/zh/author/carola-bibiane-schonlieb/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nkdailab.github.io/author/carola-bibiane-schonlieb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://nkdailab.github.io/zh/author/carola-bibiane-schonlieb/"
+                />
+  </url><url>
+    <loc>https://nkdailab.github.io/zh/author/chun-wun-cheng/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nkdailab.github.io/author/chun-wun-cheng/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://nkdailab.github.io/zh/author/chun-wun-cheng/"
+                />
+  </url><url>
+    <loc>https://nkdailab.github.io/zh/publication/conditional-latent-coding-with-learnable-synthesized-reference-for-deep-image-compression/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nkdailab.github.io/publication/conditional-latent-coding-with-learnable-synthesized-reference-for-deep-image-compression/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://nkdailab.github.io/zh/publication/conditional-latent-coding-with-learnable-synthesized-reference-for-deep-image-compression/"
+                />
+  </url><url>
+    <loc>https://nkdailab.github.io/zh/publication/cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nkdailab.github.io/publication/cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://nkdailab.github.io/zh/publication/cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations/"
+                />
+  </url><url>
+    <loc>https://nkdailab.github.io/zh/author/dong-liu/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nkdailab.github.io/author/dong-liu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://nkdailab.github.io/zh/author/dong-liu/"
+                />
+  </url><url>
+    <loc>https://nkdailab.github.io/zh/author/junyi-he/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nkdailab.github.io/author/junyi-he/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://nkdailab.github.io/zh/author/junyi-he/"
+                />
+  </url><url>
+    <loc>https://nkdailab.github.io/zh/publication_types/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nkdailab.github.io/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://nkdailab.github.io/zh/publication_types/"
+                />
+  </url><url>
+    <loc>https://nkdailab.github.io/zh/author/siqi-wu/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nkdailab.github.io/author/siqi-wu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://nkdailab.github.io/zh/author/siqi-wu/"
+                />
+  </url><url>
+    <loc>https://nkdailab.github.io/zh/author/yi-zhang/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nkdailab.github.io/author/yi-zhang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://nkdailab.github.io/zh/author/yi-zhang/"
+                />
+  </url><url>
+    <loc>https://nkdailab.github.io/zh/author/yinda-chen/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nkdailab.github.io/author/yinda-chen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://nkdailab.github.io/zh/author/yinda-chen/"
+                />
+  </url><url>
+    <loc>https://nkdailab.github.io/zh/author/yuyan-chen/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nkdailab.github.io/author/yuyan-chen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://nkdailab.github.io/zh/author/yuyan-chen/"
+                />
+  </url><url>
+    <loc>https://nkdailab.github.io/zh/author/zhihai-he/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nkdailab.github.io/author/zhihai-he/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://nkdailab.github.io/zh/author/zhihai-he/"
+                />
+  </url><url>
+    <loc>https://nkdailab.github.io/zh/publication/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nkdailab.github.io/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://nkdailab.github.io/zh/publication/"
                 />
   </url><url>
     <loc>https://nkdailab.github.io/zh/author/ce-zhang/</loc>
@@ -100,34 +296,6 @@
                 href="https://nkdailab.github.io/zh/publication/critical-sampling-for-data-driven-modeling-of-unknown-dynamical-systems/"
                 />
   </url><url>
-    <loc>https://nkdailab.github.io/zh/publication_types/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://nkdailab.github.io/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/publication_types/"
-                />
-  </url><url>
-    <loc>https://nkdailab.github.io/zh/author/siqi-wu/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://nkdailab.github.io/author/siqi-wu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/siqi-wu/"
-                />
-  </url><url>
     <loc>https://nkdailab.github.io/zh/author/zhao-joy-sun/</loc>
     <lastmod>2023-11-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -140,34 +308,6 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://nkdailab.github.io/zh/author/zhao-joy-sun/"
-                />
-  </url><url>
-    <loc>https://nkdailab.github.io/zh/author/zhihai-he/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://nkdailab.github.io/author/zhihai-he/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/zhihai-he/"
-                />
-  </url><url>
-    <loc>https://nkdailab.github.io/zh/publication/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://nkdailab.github.io/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/publication/"
                 />
   </url><url>
     <loc>https://nkdailab.github.io/zh/author/bowen-hai/</loc>
@@ -224,20 +364,6 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://nkdailab.github.io/zh/author/xueting-hu/"
-                />
-  </url><url>
-    <loc>https://nkdailab.github.io/zh/author/yi-zhang/</loc>
-    <lastmod>2023-11-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://nkdailab.github.io/author/yi-zhang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="https://nkdailab.github.io/zh/author/yi-zhang/"
                 />
   </url><url>
     <loc>https://nkdailab.github.io/zh/tag/adaptation-models/</loc>
@@ -1102,6 +1228,19 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="https://nkdailab.github.io/zh/author/%E5%BE%90%E8%A1%A1/"
+                />
+  </url><url>
+    <loc>https://nkdailab.github.io/zh/author/%E6%9C%B1%E6%97%A8%E5%87%BD/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nkdailab.github.io/author/%E6%9C%B1%E6%97%A8%E5%87%BD/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://nkdailab.github.io/zh/author/%E6%9C%B1%E6%97%A8%E5%87%BD/"
                 />
   </url><url>
     <loc>https://nkdailab.github.io/zh/author/%E6%9D%8E%E8%8B%A5%E6%80%A1/</loc>

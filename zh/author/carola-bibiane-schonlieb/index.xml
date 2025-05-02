@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carola-Bibiane Schönlieb | 南方科技大学人工智能实验室</title>
+    <link>https://nkdailab.github.io/zh/author/carola-bibiane-schonlieb/</link>
+      <atom:link href="https://nkdailab.github.io/zh/author/carola-bibiane-schonlieb/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carola-Bibiane Schönlieb</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
+      <title>Carola-Bibiane Schönlieb</title>
+      <link>https://nkdailab.github.io/zh/author/carola-bibiane-schonlieb/</link>
+    </image>
+    
+    <item>
+      <title>Cross-Modal Few-Shot Learning with Second-Order Neural Ordinary Differential Equations</title>
+      <link>https://nkdailab.github.io/zh/publication/cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://nkdailab.github.io/zh/publication/cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,28 @@
     <link>https://nkdailab.github.io/zh/publication/</link>
       <atom:link href="https://nkdailab.github.io/zh/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>发表成果</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
       <title>发表成果</title>
       <link>https://nkdailab.github.io/zh/publication/</link>
     </image>
+    
+    <item>
+      <title>Conditional Latent Coding with Learnable Synthesized Reference for Deep Image Compression</title>
+      <link>https://nkdailab.github.io/zh/publication/conditional-latent-coding-with-learnable-synthesized-reference-for-deep-image-compression/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://nkdailab.github.io/zh/publication/conditional-latent-coding-with-learnable-synthesized-reference-for-deep-image-compression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Modal Few-Shot Learning with Second-Order Neural Ordinary Differential Equations</title>
+      <link>https://nkdailab.github.io/zh/publication/cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://nkdailab.github.io/zh/publication/cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Critical Sampling for Data-Driven Modeling of Unknown Dynamical Systems</title>
