@@ -1295,6 +1295,19 @@
                 href="https://nkdailab.github.io/author/%E6%9D%8E%E9%9D%99/"
                 />
   </url><url>
+    <loc>https://nkdailab.github.io/author/%E6%9D%9C%E5%87%A1/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="https://nkdailab.github.io/zh/author/%E6%9D%9C%E5%87%A1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nkdailab.github.io/author/%E6%9D%9C%E5%87%A1/"
+                />
+  </url><url>
     <loc>https://nkdailab.github.io/author/%E6%9D%A8%E7%A7%91/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
