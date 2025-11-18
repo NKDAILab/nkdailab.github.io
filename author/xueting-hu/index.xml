@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xueting Hu | NKD AI Lab</title>
-    <link>https://nkdailab.github.io/author/xueting-hu/</link>
-      <atom:link href="https://nkdailab.github.io/author/xueting-hu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/xueting-hu/</link>
+      <atom:link href="http://localhost:1313/author/xueting-hu/index.xml" rel="self" type="application/rss+xml" />
     <description>Xueting Hu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
+      <url>http://localhost:1313/media/icon_hu_de2b0bb0af672a83.png</url>
       <title>Xueting Hu</title>
-      <link>https://nkdailab.github.io/author/xueting-hu/</link>
+      <link>http://localhost:1313/author/xueting-hu/</link>
     </image>
     
     <item>
       <title>Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation</title>
-      <link>https://nkdailab.github.io/publication/learning-to-adapt-clip-for-few-shot-monocular-depth-estimation/</link>
+      <link>http://localhost:1313/publication/learning-to-adapt-clip-for-few-shot-monocular-depth-estimation/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://nkdailab.github.io/publication/learning-to-adapt-clip-for-few-shot-monocular-depth-estimation/</guid>
+      <guid>http://localhost:1313/publication/learning-to-adapt-clip-for-few-shot-monocular-depth-estimation/</guid>
       <description>&lt;!-- 
 
 
@@ -33,9 +33,9 @@ Supplementary notes can be added here, including [code and math](https://wowchem
     
     <item>
       <title>Unsupervised Prototype Adapter for Vision-Language Models</title>
-      <link>https://nkdailab.github.io/publication/unsupervised-prototype-adapter-for-vision-language-models/</link>
+      <link>http://localhost:1313/publication/unsupervised-prototype-adapter-for-vision-language-models/</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://nkdailab.github.io/publication/unsupervised-prototype-adapter-for-vision-language-models/</guid>
+      <guid>http://localhost:1313/publication/unsupervised-prototype-adapter-for-vision-language-models/</guid>
       <description>&lt;!-- 
 
 

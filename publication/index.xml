@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | NKD AI Lab</title>
-    <link>https://nkdailab.github.io/publication/</link>
-      <atom:link href="https://nkdailab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
+      <url>http://localhost:1313/media/icon_hu_de2b0bb0af672a83.png</url>
       <title>Publications</title>
-      <link>https://nkdailab.github.io/publication/</link>
+      <link>http://localhost:1313/publication/</link>
     </image>
     
     <item>
       <title>Conditional Latent Coding with Learnable Synthesized Reference for Deep Image Compression</title>
-      <link>https://nkdailab.github.io/publication/conditional-latent-coding-with-learnable-synthesized-reference-for-deep-image-compression/</link>
+      <link>http://localhost:1313/publication/conditional-latent-coding-with-learnable-synthesized-reference-for-deep-image-compression/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://nkdailab.github.io/publication/conditional-latent-coding-with-learnable-synthesized-reference-for-deep-image-compression/</guid>
+      <guid>http://localhost:1313/publication/conditional-latent-coding-with-learnable-synthesized-reference-for-deep-image-compression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-Modal Few-Shot Learning with Second-Order Neural Ordinary Differential Equations</title>
-      <link>https://nkdailab.github.io/publication/cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations/</link>
+      <link>http://localhost:1313/publication/cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://nkdailab.github.io/publication/cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations/</guid>
+      <guid>http://localhost:1313/publication/cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Critical Sampling for Data-Driven Modeling of Unknown Dynamical Systems</title>
-      <link>https://nkdailab.github.io/publication/critical-sampling-for-data-driven-modeling-of-unknown-dynamical-systems/</link>
+      <link>http://localhost:1313/publication/critical-sampling-for-data-driven-modeling-of-unknown-dynamical-systems/</link>
       <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://nkdailab.github.io/publication/critical-sampling-for-data-driven-modeling-of-unknown-dynamical-systems/</guid>
+      <guid>http://localhost:1313/publication/critical-sampling-for-data-driven-modeling-of-unknown-dynamical-systems/</guid>
       <description>&lt;!-- 
 
 
@@ -49,9 +49,9 @@ Supplementary notes can be added here, including [code and math](https://wowchem
     
     <item>
       <title>Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation</title>
-      <link>https://nkdailab.github.io/publication/learning-to-adapt-clip-for-few-shot-monocular-depth-estimation/</link>
+      <link>http://localhost:1313/publication/learning-to-adapt-clip-for-few-shot-monocular-depth-estimation/</link>
       <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://nkdailab.github.io/publication/learning-to-adapt-clip-for-few-shot-monocular-depth-estimation/</guid>
+      <guid>http://localhost:1313/publication/learning-to-adapt-clip-for-few-shot-monocular-depth-estimation/</guid>
       <description>&lt;!-- 
 
 
@@ -68,9 +68,9 @@ Supplementary notes can be added here, including [code and math](https://wowchem
     
     <item>
       <title>Cross-inferential networks for source-free unsupervised domain adaptation</title>
-      <link>https://nkdailab.github.io/publication/cross-inferential-networks-for-source-free-unsupervised-domain-adaptation/</link>
+      <link>http://localhost:1313/publication/cross-inferential-networks-for-source-free-unsupervised-domain-adaptation/</link>
       <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://nkdailab.github.io/publication/cross-inferential-networks-for-source-free-unsupervised-domain-adaptation/</guid>
+      <guid>http://localhost:1313/publication/cross-inferential-networks-for-source-free-unsupervised-domain-adaptation/</guid>
       <description>&lt;!-- 
 
 
@@ -87,9 +87,9 @@ Supplementary notes can be added here, including [code and math](https://wowchem
     
     <item>
       <title>BDC-Adapter Brownian Distance Covariance for Better Vision-Language Reasoning</title>
-      <link>https://nkdailab.github.io/publication/bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning/</link>
+      <link>http://localhost:1313/publication/bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://nkdailab.github.io/publication/bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning/</guid>
+      <guid>http://localhost:1313/publication/bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning/</guid>
       <description>&lt;!-- 
 
 
@@ -106,9 +106,9 @@ Supplementary notes can be added here, including [code and math](https://wowchem
     
     <item>
       <title>Unsupervised Prototype Adapter for Vision-Language Models</title>
-      <link>https://nkdailab.github.io/publication/unsupervised-prototype-adapter-for-vision-language-models/</link>
+      <link>http://localhost:1313/publication/unsupervised-prototype-adapter-for-vision-language-models/</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://nkdailab.github.io/publication/unsupervised-prototype-adapter-for-vision-language-models/</guid>
+      <guid>http://localhost:1313/publication/unsupervised-prototype-adapter-for-vision-language-models/</guid>
       <description>&lt;!-- 
 
 
@@ -125,25 +125,25 @@ Supplementary notes can be added here, including [code and math](https://wowchem
     
     <item>
       <title>Cycle optimization metric learning for few-shot classification</title>
-      <link>https://nkdailab.github.io/publication/cycle-optimization-metric-learning-for-few-shot-classification/</link>
+      <link>http://localhost:1313/publication/cycle-optimization-metric-learning-for-few-shot-classification/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://nkdailab.github.io/publication/cycle-optimization-metric-learning-for-few-shot-classification/</guid>
+      <guid>http://localhost:1313/publication/cycle-optimization-metric-learning-for-few-shot-classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Critical Sampling for Robust Evolution Operator Learning of Unknown Dynamical Systems</title>
-      <link>https://nkdailab.github.io/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/</link>
+      <link>http://localhost:1313/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/</link>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://nkdailab.github.io/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/</guid>
+      <guid>http://localhost:1313/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation</title>
-      <link>https://nkdailab.github.io/publication/self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation/</link>
+      <link>http://localhost:1313/publication/self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation/</link>
       <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://nkdailab.github.io/publication/self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation/</guid>
+      <guid>http://localhost:1313/publication/self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation/</guid>
       <description>&lt;!-- 
 
 
@@ -160,9 +160,9 @@ Supplementary notes can be added here, including [code and math](https://wowchem
     
     <item>
       <title>Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation</title>
-      <link>https://nkdailab.github.io/publication/neuro-modulated-hebbian-learning-for-fully-test-time-adaptation/</link>
+      <link>http://localhost:1313/publication/neuro-modulated-hebbian-learning-for-fully-test-time-adaptation/</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://nkdailab.github.io/publication/neuro-modulated-hebbian-learning-for-fully-test-time-adaptation/</guid>
+      <guid>http://localhost:1313/publication/neuro-modulated-hebbian-learning-for-fully-test-time-adaptation/</guid>
       <description>&lt;!-- 
 
 
@@ -179,17 +179,17 @@ Supplementary notes can be added here, including [code and math](https://wowchem
     
     <item>
       <title>Self-guided information for few-shot classification</title>
-      <link>https://nkdailab.github.io/publication/self-guided-information-for-few-shot-classification/</link>
+      <link>http://localhost:1313/publication/self-guided-information-for-few-shot-classification/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://nkdailab.github.io/publication/self-guided-information-for-few-shot-classification/</guid>
+      <guid>http://localhost:1313/publication/self-guided-information-for-few-shot-classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation</title>
-      <link>https://nkdailab.github.io/publication/self-constrained-inference-optimization-on-structural-groups-for-human-pose-estimation/</link>
+      <link>http://localhost:1313/publication/self-constrained-inference-optimization-on-structural-groups-for-human-pose-estimation/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://nkdailab.github.io/publication/self-constrained-inference-optimization-on-structural-groups-for-human-pose-estimation/</guid>
+      <guid>http://localhost:1313/publication/self-constrained-inference-optimization-on-structural-groups-for-human-pose-estimation/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

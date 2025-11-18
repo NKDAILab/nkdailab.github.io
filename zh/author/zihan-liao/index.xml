@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zihan Liao | 南方科技大学人工智能实验室</title>
-    <link>https://nkdailab.github.io/zh/author/zihan-liao/</link>
-      <atom:link href="https://nkdailab.github.io/zh/author/zihan-liao/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zh/author/zihan-liao/</link>
+      <atom:link href="http://localhost:1313/zh/author/zihan-liao/index.xml" rel="self" type="application/rss+xml" />
     <description>Zihan Liao</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 03 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
+      <url>http://localhost:1313/media/icon_hu_de2b0bb0af672a83.png</url>
       <title>Zihan Liao</title>
-      <link>https://nkdailab.github.io/zh/author/zihan-liao/</link>
+      <link>http://localhost:1313/zh/author/zihan-liao/</link>
     </image>
     
     <item>
       <title>BDC-Adapter Brownian Distance Covariance for Better Vision-Language Reasoning</title>
-      <link>https://nkdailab.github.io/zh/publication/bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning/</link>
+      <link>http://localhost:1313/zh/publication/bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://nkdailab.github.io/zh/publication/bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning/</guid>
+      <guid>http://localhost:1313/zh/publication/bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning/</guid>
       <description>&lt;!-- 
 
 

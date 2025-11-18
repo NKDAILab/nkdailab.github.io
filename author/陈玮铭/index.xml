@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>陈玮铭 | NKD AI Lab</title>
-    <link>https://nkdailab.github.io/author/%E9%99%88%E7%8E%AE%E9%93%AD/</link>
-      <atom:link href="https://nkdailab.github.io/author/%E9%99%88%E7%8E%AE%E9%93%AD/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%E9%99%88%E7%8E%AE%E9%93%AD/</link>
+      <atom:link href="http://localhost:1313/author/%E9%99%88%E7%8E%AE%E9%93%AD/index.xml" rel="self" type="application/rss+xml" />
     <description>陈玮铭</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://nkdailab.github.io/author/%E9%99%88%E7%8E%AE%E9%93%AD/avatar_hu_c453d5569b02f730.jpg</url>
+      <url>http://localhost:1313/author/%E9%99%88%E7%8E%AE%E9%93%AD/avatar_hu_c453d5569b02f730.jpg</url>
       <title>陈玮铭</title>
-      <link>https://nkdailab.github.io/author/%E9%99%88%E7%8E%AE%E9%93%AD/</link>
+      <link>http://localhost:1313/author/%E9%99%88%E7%8E%AE%E9%93%AD/</link>
     </image>
     
   </channel>

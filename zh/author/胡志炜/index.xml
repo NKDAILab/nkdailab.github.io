@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>胡志炜 | 南方科技大学人工智能实验室</title>
+    <link>http://localhost:1313/zh/author/%E8%83%A1%E5%BF%97%E7%82%9C/</link>
+      <atom:link href="http://localhost:1313/zh/author/%E8%83%A1%E5%BF%97%E7%82%9C/index.xml" rel="self" type="application/rss+xml" />
+    <description>胡志炜</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>http://localhost:1313/zh/author/%E8%83%A1%E5%BF%97%E7%82%9C/avatar_hu_3aa24e37c4f7d6b6.jpg</url>
+      <title>胡志炜</title>
+      <link>http://localhost:1313/zh/author/%E8%83%A1%E5%BF%97%E7%82%9C/</link>
+    </image>
+    
+  </channel>
+</rss>

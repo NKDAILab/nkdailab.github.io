@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>李有明 | NKD AI Lab</title>
+    <link>http://localhost:1313/author/%E6%9D%8E%E6%9C%89%E6%98%8E/</link>
+      <atom:link href="http://localhost:1313/author/%E6%9D%8E%E6%9C%89%E6%98%8E/index.xml" rel="self" type="application/rss+xml" />
+    <description>李有明</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/%E6%9D%8E%E6%9C%89%E6%98%8E/avatar_hu_1569175c8e5f6e71.jpg</url>
+      <title>李有明</title>
+      <link>http://localhost:1313/author/%E6%9D%8E%E6%9C%89%E6%98%8E/</link>
+    </image>
+    
+  </channel>
+</rss>
