@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhehan Kan | NKD AI Lab</title>
-    <link>http://localhost:1313/author/zhehan-kan/</link>
-      <atom:link href="http://localhost:1313/author/zhehan-kan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nkdailab.github.io/author/zhehan-kan/</link>
+      <atom:link href="https://nkdailab.github.io/author/zhehan-kan/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhehan Kan</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_de2b0bb0af672a83.png</url>
+      <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
       <title>Zhehan Kan</title>
-      <link>http://localhost:1313/author/zhehan-kan/</link>
+      <link>https://nkdailab.github.io/author/zhehan-kan/</link>
     </image>
     
     <item>
       <title>Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation</title>
-      <link>http://localhost:1313/publication/self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation/</link>
+      <link>https://nkdailab.github.io/publication/self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation/</link>
       <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation/</guid>
+      <guid>https://nkdailab.github.io/publication/self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation/</guid>
       <description>&lt;!-- 
 
 
@@ -33,9 +33,9 @@ Supplementary notes can be added here, including [code and math](https://wowchem
     
     <item>
       <title>Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation</title>
-      <link>http://localhost:1313/publication/self-constrained-inference-optimization-on-structural-groups-for-human-pose-estimation/</link>
+      <link>https://nkdailab.github.io/publication/self-constrained-inference-optimization-on-structural-groups-for-human-pose-estimation/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/self-constrained-inference-optimization-on-structural-groups-for-human-pose-estimation/</guid>
+      <guid>https://nkdailab.github.io/publication/self-constrained-inference-optimization-on-structural-groups-for-human-pose-estimation/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>张毅 | NKD AI Lab</title>
-    <link>http://localhost:1313/author/%E5%BC%A0%E6%AF%85/</link>
-      <atom:link href="http://localhost:1313/author/%E5%BC%A0%E6%AF%85/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nkdailab.github.io/author/%E5%BC%A0%E6%AF%85/</link>
+      <atom:link href="https://nkdailab.github.io/author/%E5%BC%A0%E6%AF%85/index.xml" rel="self" type="application/rss+xml" />
     <description>张毅</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/%E5%BC%A0%E6%AF%85/avatar_hu_84e194a1f2044135.jpg</url>
+      <url>https://nkdailab.github.io/author/%E5%BC%A0%E6%AF%85/avatar_hu_84e194a1f2044135.jpg</url>
       <title>张毅</title>
-      <link>http://localhost:1313/author/%E5%BC%A0%E6%AF%85/</link>
+      <link>https://nkdailab.github.io/author/%E5%BC%A0%E6%AF%85/</link>
     </image>
     
   </channel>

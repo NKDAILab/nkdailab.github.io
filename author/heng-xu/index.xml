@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heng Xu | NKD AI Lab</title>
-    <link>http://localhost:1313/author/heng-xu/</link>
-      <atom:link href="http://localhost:1313/author/heng-xu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nkdailab.github.io/author/heng-xu/</link>
+      <atom:link href="https://nkdailab.github.io/author/heng-xu/index.xml" rel="self" type="application/rss+xml" />
     <description>Heng Xu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_de2b0bb0af672a83.png</url>
+      <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
       <title>Heng Xu</title>
-      <link>http://localhost:1313/author/heng-xu/</link>
+      <link>https://nkdailab.github.io/author/heng-xu/</link>
     </image>
     
     <item>
       <title>Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation</title>
-      <link>http://localhost:1313/publication/neuro-modulated-hebbian-learning-for-fully-test-time-adaptation/</link>
+      <link>https://nkdailab.github.io/publication/neuro-modulated-hebbian-learning-for-fully-test-time-adaptation/</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/neuro-modulated-hebbian-learning-for-fully-test-time-adaptation/</guid>
+      <guid>https://nkdailab.github.io/publication/neuro-modulated-hebbian-learning-for-fully-test-time-adaptation/</guid>
       <description>&lt;!-- 
 
 

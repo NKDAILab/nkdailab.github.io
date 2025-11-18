@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>周子皓 | NKD AI Lab</title>
-    <link>http://localhost:1313/author/%E5%91%A8%E5%AD%90%E7%9A%93/</link>
-      <atom:link href="http://localhost:1313/author/%E5%91%A8%E5%AD%90%E7%9A%93/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nkdailab.github.io/author/%E5%91%A8%E5%AD%90%E7%9A%93/</link>
+      <atom:link href="https://nkdailab.github.io/author/%E5%91%A8%E5%AD%90%E7%9A%93/index.xml" rel="self" type="application/rss+xml" />
     <description>周子皓</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/%E5%91%A8%E5%AD%90%E7%9A%93/avatar_hu_ead86bc9b6660796.jpg</url>
+      <url>https://nkdailab.github.io/author/%E5%91%A8%E5%AD%90%E7%9A%93/avatar_hu_ead86bc9b6660796.jpg</url>
       <title>周子皓</title>
-      <link>http://localhost:1313/author/%E5%91%A8%E5%AD%90%E7%9A%93/</link>
+      <link>https://nkdailab.github.io/author/%E5%91%A8%E5%AD%90%E7%9A%93/</link>
     </image>
     
   </channel>

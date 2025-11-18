@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>朱旨函 | 南方科技大学人工智能实验室</title>
-    <link>http://localhost:1313/zh/author/%E6%9C%B1%E6%97%A8%E5%87%BD/</link>
-      <atom:link href="http://localhost:1313/zh/author/%E6%9C%B1%E6%97%A8%E5%87%BD/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nkdailab.github.io/zh/author/%E6%9C%B1%E6%97%A8%E5%87%BD/</link>
+      <atom:link href="https://nkdailab.github.io/zh/author/%E6%9C%B1%E6%97%A8%E5%87%BD/index.xml" rel="self" type="application/rss+xml" />
     <description>朱旨函</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
-      <url>http://localhost:1313/zh/author/%E6%9C%B1%E6%97%A8%E5%87%BD/avatar_hu_1e71f37782742297.png</url>
+      <url>https://nkdailab.github.io/zh/author/%E6%9C%B1%E6%97%A8%E5%87%BD/avatar_hu_1e71f37782742297.png</url>
       <title>朱旨函</title>
-      <link>http://localhost:1313/zh/author/%E6%9C%B1%E6%97%A8%E5%87%BD/</link>
+      <link>https://nkdailab.github.io/zh/author/%E6%9C%B1%E6%97%A8%E5%87%BD/</link>
     </image>
     
   </channel>

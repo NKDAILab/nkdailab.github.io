@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>贾纪源 | 南方科技大学人工智能实验室</title>
-    <link>http://localhost:1313/zh/author/%E8%B4%BE%E7%BA%AA%E6%BA%90/</link>
-      <atom:link href="http://localhost:1313/zh/author/%E8%B4%BE%E7%BA%AA%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nkdailab.github.io/zh/author/%E8%B4%BE%E7%BA%AA%E6%BA%90/</link>
+      <atom:link href="https://nkdailab.github.io/zh/author/%E8%B4%BE%E7%BA%AA%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
     <description>贾纪源</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
-      <url>http://localhost:1313/zh/author/%E8%B4%BE%E7%BA%AA%E6%BA%90/avatar_hu_9e2681a581cf70e3.jpg</url>
+      <url>https://nkdailab.github.io/zh/author/%E8%B4%BE%E7%BA%AA%E6%BA%90/avatar_hu_9e2681a581cf70e3.jpg</url>
       <title>贾纪源</title>
-      <link>http://localhost:1313/zh/author/%E8%B4%BE%E7%BA%AA%E6%BA%90/</link>
+      <link>https://nkdailab.github.io/zh/author/%E8%B4%BE%E7%BA%AA%E6%BA%90/</link>
     </image>
     
   </channel>

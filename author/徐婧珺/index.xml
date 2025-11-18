@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>徐婧珺 | NKD AI Lab</title>
-    <link>http://localhost:1313/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/</link>
-      <atom:link href="http://localhost:1313/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nkdailab.github.io/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/</link>
+      <atom:link href="https://nkdailab.github.io/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/index.xml" rel="self" type="application/rss+xml" />
     <description>徐婧珺</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/avatar_hu_3260d022226aa2cc.jpg</url>
+      <url>https://nkdailab.github.io/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/avatar_hu_3260d022226aa2cc.jpg</url>
       <title>徐婧珺</title>
-      <link>http://localhost:1313/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/</link>
+      <link>https://nkdailab.github.io/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/</link>
     </image>
     
   </channel>

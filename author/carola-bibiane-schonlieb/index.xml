@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carola-Bibiane Schönlieb | NKD AI Lab</title>
-    <link>http://localhost:1313/author/carola-bibiane-schonlieb/</link>
-      <atom:link href="http://localhost:1313/author/carola-bibiane-schonlieb/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nkdailab.github.io/author/carola-bibiane-schonlieb/</link>
+      <atom:link href="https://nkdailab.github.io/author/carola-bibiane-schonlieb/index.xml" rel="self" type="application/rss+xml" />
     <description>Carola-Bibiane Schönlieb</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_de2b0bb0af672a83.png</url>
+      <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
       <title>Carola-Bibiane Schönlieb</title>
-      <link>http://localhost:1313/author/carola-bibiane-schonlieb/</link>
+      <link>https://nkdailab.github.io/author/carola-bibiane-schonlieb/</link>
     </image>
     
     <item>
       <title>Cross-Modal Few-Shot Learning with Second-Order Neural Ordinary Differential Equations</title>
-      <link>http://localhost:1313/publication/cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations/</link>
+      <link>https://nkdailab.github.io/publication/cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations/</guid>
+      <guid>https://nkdailab.github.io/publication/cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations/</guid>
       <description></description>
     </item>
     

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>高勇勇 | 南方科技大学人工智能实验室</title>
-    <link>http://localhost:1313/zh/author/%E9%AB%98%E5%8B%87%E5%8B%87/</link>
-      <atom:link href="http://localhost:1313/zh/author/%E9%AB%98%E5%8B%87%E5%8B%87/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nkdailab.github.io/zh/author/%E9%AB%98%E5%8B%87%E5%8B%87/</link>
+      <atom:link href="https://nkdailab.github.io/zh/author/%E9%AB%98%E5%8B%87%E5%8B%87/index.xml" rel="self" type="application/rss+xml" />
     <description>高勇勇</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
-      <url>http://localhost:1313/zh/author/%E9%AB%98%E5%8B%87%E5%8B%87/avatar_hu_b2abfc7fcad5182d.png</url>
+      <url>https://nkdailab.github.io/zh/author/%E9%AB%98%E5%8B%87%E5%8B%87/avatar_hu_b2abfc7fcad5182d.png</url>
       <title>高勇勇</title>
-      <link>http://localhost:1313/zh/author/%E9%AB%98%E5%8B%87%E5%8B%87/</link>
+      <link>https://nkdailab.github.io/zh/author/%E9%AB%98%E5%8B%87%E5%8B%87/</link>
     </image>
     
   </channel>
