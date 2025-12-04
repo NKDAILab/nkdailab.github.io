@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>张策 | NKD AI Lab</title>
+    <link>https://nkdailab.github.io/en/author/%E5%BC%A0%E7%AD%96/</link>
+      <atom:link href="https://nkdailab.github.io/en/author/%E5%BC%A0%E7%AD%96/index.xml" rel="self" type="application/rss+xml" />
+    <description>张策</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://nkdailab.github.io/en/author/%E5%BC%A0%E7%AD%96/avatar_hu_8a5f560b59546e50.jpg</url>
+      <title>张策</title>
+      <link>https://nkdailab.github.io/en/author/%E5%BC%A0%E7%AD%96/</link>
+    </image>
+    
+  </channel>
+</rss>

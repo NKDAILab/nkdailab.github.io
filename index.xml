@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home | NKD AI Lab</title>
+    <title>Home | 南方科技大学人工智能实验室</title>
     <link>https://nkdailab.github.io/</link>
       <atom:link href="https://nkdailab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Home</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
       <title>Home</title>
@@ -13,48 +13,48 @@
     </image>
     
     <item>
-      <title>He Zhihai&#39;s group in the Department of Electronics at SUSTech is pleased to present two AAAI-2025 Oral Papers</title>
+      <title>南科大电子系何志海课题组喜提2篇AAAI-2025 Oral Paper</title>
       <link>https://nkdailab.github.io/post/2025.3.6/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://nkdailab.github.io/post/2025.3.6/</guid>
-      <description>&lt;p&gt;AAAI, short for The Association for Advancement of Artificial Intelligence, is one of the most important international conferences in the field of Artificial Intelligence, hosted by the International Association for Artificial Intelligence, and recommended by the Chinese Computer Federation (CCF) as a Class A conference. AAAI AAAI 2025 received 12,957 submissions and 3032 papers were accepted, with an acceptance rate of 23.4%, of which the Oral Presentation acceptance rate was 4.6%.AAAI 2025 was held on 25 February - 4 March 2025 in Philadelphia, Pennsylvania, USA.&lt;/p&gt;
+      <description>&lt;p&gt;AAAI，即The Association for Advancement of Artificial Intelligence（国际人工智能协会）的简称，是人工智能领域最重要的国际会议之一，由国际人工智能协会主办，是中国计算机学会（CCF）推荐的A类会议。AAAI 2025共收到12,957份投稿，3032篇论文被录用，录取率为23.4%，其中Oral Presentation（口头报告）接收率为4.6%。AAAI 2025于2025年2月25日- 3月4日在美国宾夕法尼亚州费城举办。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;u&gt;《Cross-Modal Few-Shot Learning with Second-Order Neural Ordinary Differential Equations》&lt;/u&gt;&lt;/strong&gt;&lt;/br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Authors&lt;/u&gt;&lt;/strong&gt;&lt;/br&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;作者&lt;/u&gt;&lt;/strong&gt;&lt;/br&gt;
 Yi Zhang (Harbin Institute of Technology, Southern University of Science and Technology), Chun-Wun Cheng (University of Cambridge), Junyi He (Southern University of Science and Technology), Zhihai He (Southern University of Science and Technology), Carola-Bibiane Schönlieb (University of Cambridge), Yuyan Chen (Fudan University), Angelica I Aviles-Rivero (Tsinghua University)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Brief introduction&lt;/u&gt;&lt;/strong&gt;&lt;/br&gt;
-Yi Zhang, a PhD student in the class of 2021 at the Department of Electronic and Electrical Engineering, Southern University of Science and Technology, proposes an innovative method SONO in the field of cross-modal small-sample learning, which significantly improves the model&amp;rsquo;s generalisation ability in few-sample scenarios through second-order God-frequent differential equations, and effectively solves the overfitting problem due to the scarcity of data in the traditional method.
-With the rapid development of multimodal AI technology, how to make the model achieve cross-modal (e.g., image-text) efficient learning under a very small number of labelled samples has become a key challenge. Existing methods generally face bottlenecks such as high risk of overfitting, high consumption of computational resources, and insufficient cross-modal alignment capability. The research team innovatively introduces the second-order God&amp;rsquo;s frequent differential equation into the cross-modal learning framework, enhances the model expression ability through continuous dynamic feature optimisation, and combines the ‘text-as-image’ data enhancement strategy to effectively expand the training data by using the graphic-text correlation feature of CLIP model. Experiments show that the classification accuracy of this method on 11 benchmark datasets, such as ImageNet, is significantly better than that of the existing optimal method for small samples, and shows potential application in data-scarce scenarios, such as medical images.
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;简介&lt;/u&gt;&lt;/strong&gt;&lt;/br&gt;
+南方科技大学电子与电气工程系2021级博士研究生张毅在跨模态小样本学习领域提出创新性方法SONO，通过二阶神经常微分方程显著提升模型在少样本场景下的泛化能力，有效解决了传统方法中因数据稀缺导致的过拟合问题。
+随着多模态人工智能技术的快速发展，如何让模型在极少量标注样本下实现跨模态（如图像-文本）高效学习成为关键挑战。现有方法普遍面临过拟合风险高、计算资源消耗大、跨模态对齐能力不足等瓶颈问题。研究团队创新性地将二阶神经常微分方程引入跨模态学习框架，通过连续动态特征优化增强模型表达能力，并结合&amp;quot;文本即图像&amp;quot;数据增强策略，利用CLIP模型的图文关联特性有效扩充了训练数据。实验表明，该方法在ImageNet等11个基准数据集上小样本分类准确率显著优于现有最优方法，在医疗影像等数据稀缺场景展现出应用潜力。
 &lt;img src=&#34;fig1.png&#34; width=&#34;2048&#34;&gt;&lt;/p&gt;
-&lt;p&gt;This paper is the result of research conducted by Yi Zhang, a PhD student from the Department of Electronics, SUSTech, class of 2021, during his visit to the University of Cambridge, UK, under the supervision of Professor Zhihai He Chair of SUSTech and Assistant Professor Angelica I. Aviles-Rivero, Tsinghua University Qiu Chengtong Mathematical Sciences Centre, during her tenure as a Senior Associate Researcher at the University of Cambridge, and in collaboration with the research institutes of SUSTech, the Cambridge University Department of Applied Department of Mathematics and Theoretical Physics, University of Cambridge, Tsinghua University&amp;rsquo;s Chuchengtong Centre for Mathematical Sciences, Shanghai Key Laboratory of Data Science and other research institutions. Yi Zhang, a joint PhD candidate of SUSTech and Harbin Institute of Technology, is the first author of this paper, while Junhuan Zheng, a PhD student of Cambridge University, Junyi He, an undergraduate student of SUSTech in the class of 2021, Prof. Carola-Bibiane Schönlieb of Cambridge University, and Yuyan Chen, a PhD student of the Shanghai Key Laboratory of Data Science of Fudan University are the authors of this paper, as well as Zhi-Hai He, a chair professor of the Department of Electronics of SUSTech, Angelica I. Aviles-Rivero, Assistant Professor at the Qiu Chengtong Centre for Mathematical Sciences, Tsinghua University, are the corresponding authors of this paper. NUST doctoral student Yi Zhang and undergraduate student Jun He are also from Zhihai He&amp;rsquo;s group.&lt;/p&gt;
-&lt;p&gt;Paper link: &lt;a href=https://arxiv.org/abs/2412.15813&gt;&lt;a href=&#34;https://arxiv.org/abs/2412.15813&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2412.15813&lt;/a&gt;&lt;/a&gt;&lt;/br&gt;
-Funding information: This work was supported by the National Natural Science Foundation of China under Key Project No. 62331014.&lt;/p&gt;
+&lt;p&gt;本文系南科大电子系2021级博士生张毅在英国剑桥大学访问期间的研究成果，由南方科技大学何志海讲席教授和清华大学丘成桐数学科学中心助理教授Angelica I. Aviles-Rivero在剑桥大学担任高级副研究员期间指导完成，合作单位包括南方科技大学、剑桥大学应用数学与理论物理系、清华大学丘成桐数学科学中心、上海市数据科学重点实验室等科研机构。张毅是南方科技大学与哈尔滨工业大学联培博士，为本文第一作者，剑桥大学博士生郑俊焕、南科大2021级本科生何浚亦、剑桥大学Carola-Bibiane Schönlieb教授、复旦大学上海市数据科学重点实验室博士生陈昱妍为本文作者，南科大电子系讲席教授何志海、清华大学丘成桐数学科学中心助理教授Angelica I. Aviles-Rivero为本文通讯作者。南科大博士生张毅和本科生何浚亦均来自何志海课题组。&lt;/p&gt;
+&lt;p&gt;论文链接：&lt;a href=https://arxiv.org/abs/2412.15813&gt;&lt;a href=&#34;https://arxiv.org/abs/2412.15813&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2412.15813&lt;/a&gt;&lt;/a&gt;&lt;/br&gt;
+论文资助信息：本研究工作得到国自然基金重点项目No. 62331014支持&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;u&gt;《Conditional Latent Coding with Learnable Synthesized Reference for Deep Image Compression》&lt;/u&gt;&lt;/strong&gt;&lt;/br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Authors&lt;/u&gt;&lt;/strong&gt;&lt;/br&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;作者&lt;/u&gt;&lt;/strong&gt;&lt;/br&gt;
 Siqi Wu (University of Missouri), Yinda Chen (University of Science and Technology of China), Dong Liu (University of Science and Technology of China), Zhihai He (Southern University of Science and Technology)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Brief introduction&lt;/u&gt;&lt;/strong&gt;&lt;/br&gt;
-Siqi Wu, a PhD student in the Department of Electrical and Computer Engineering, University of Missouri, USA, class of 2022, has proposed a conditional latent coding method based on learnable synthetic references to improve the efficiency of deep image compression in collaboration with the University of Science and Technology of China (USTC) during his visit to Southern University of Science and Technology (SUSTech) as a visiting researcher.&lt;/p&gt;
-&lt;p&gt;With the rapid development of digital technology and the dramatic increase in the amount of image data, efficient image compression techniques are crucial for storing, transmitting and processing image data. Current deep learning methods have made significant progress in image compression, but still face the challenge of effectively exploiting image source correlation while maintaining high reconstruction quality. The article proposes a conditional latent coding method to conditionally encode the input image by dynamically generating a reference representation from an external dictionary. The input image will be matched with the features in the dictionary to exploit the correlation between the input image and the reference dictionary in order to achieve efficient compression and high quality reconstruction of the input image. This thesis achieves a large enhancement on the publicly available datasets Kodak and CLIC, providing useful insights for further research and potential improvements.
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;简介&lt;/u&gt;&lt;/strong&gt;&lt;/br&gt;
+美国密苏里大学电子与计算机工程系2022级博士研究生吴思奇在来南方科技大学访问研究期间，与中国科学技术大学合作提出了一种基于可学习合成参考的条件潜在编码方法，提高了深度图像压缩的效率。&lt;/p&gt;
+&lt;p&gt;随着数字技术的快速发展和图像数据量的急剧增加，高效的图像压缩技术对于存储、传输和处理图像数据至关重要。当前深度学习方法在图像压缩方面取得了显著进展，但仍面临在保持高重建质量的同时有效利用图像源相关性的挑战。文章提出了一种条件潜在编码方法，通过从外部字典中动态生成参考表示，对输入图像进行条件编码。输入图像会与字典中的特征进行匹配，利用输入图像和参考字典之间的相关性，以实现对输入图像的高效压缩与高质量重建。本论文在公开数据集Kodak和CLIC上取得了较大提升，为进一步的研究和潜在改进提供了有用见解。
 &lt;img src=&#34;fig2.png&#34; width=&#34;888&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Siqi Wu, a PhD student from the University of Missouri, class of 2022, is currently conducting visiting research in Zhihai He&amp;rsquo;s group as a visiting student at the Southern University of Science and Technology (SUSTech) in the U.S.A. She is the co-first author of this paper together with Yinda Chen, a PhD student from the University of Science and Technology of China, class of 2024. Dong Liu, a professor in the Department of Electrical Engineering and Information Science at the University of Science and Technology of China (USTC), is the author of this paper, and Zhihai He, a chair professor in the Department of Electronics at USTC, is the corresponding author of this paper. The University of Missouri is the first unit of the paper, and Southern University of Science and Technology is the third unit of the paper.&lt;/p&gt;
-&lt;p&gt;Paper link: &lt;a href=https://arxiv.org/abs/2502.09971v1&gt;&lt;a href=&#34;https://arxiv.org/abs/2502.09971v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2502.09971v1&lt;/a&gt;&lt;/a&gt;&lt;/br&gt;
-Funding information: This work was supported by the National Natural Science Foundation of China under Key Project No. 62331014.&lt;/p&gt;
+&lt;p&gt;美国密苏里大学2022级博士研究生吴思奇作为南方科技大学访问学生，目前在何志海课题组进行访问研究，她与中国科学技术大学2024级博士研究生陈胤达为本文共同第一作者。中国科学技术大学电子工程与信息科学系教授刘东为本文作者，南方科技大学电子系讲席教授何志海为本文通讯作者。美国密苏里大学为论文第一单位，南方科技大学为论文第三单位。&lt;/p&gt;
+&lt;p&gt;论文链接：&lt;a href=https://arxiv.org/abs/2502.09971v1&gt;&lt;a href=&#34;https://arxiv.org/abs/2502.09971v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2502.09971v1&lt;/a&gt;&lt;/a&gt;&lt;/br&gt;
+论文资助信息：本研究工作得到国自然基金重点项目No. 62331014支持&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Professor Zhihai He&#39;s team from the Department of Electronics, SUSTech, won the second prize for technical invention in the 2024 Wu Wenjun Artificial Intelligence Science and Technology Award</title>
+      <title>南科大电子系何志海教授团队荣获2024年度吴文俊人工智能科学技术奖技术发明二等奖</title>
       <link>https://nkdailab.github.io/post/2025.2.25/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://nkdailab.github.io/post/2025.2.25/</guid>
-      <description>&lt;p&gt;Recently, the list of winners of the 2024 Wu Wenjun Artificial Intelligence Science and Technology Award was officially released, and Professor He Zhihai Chair of the Department of Electrical and Electronic Engineering of the Southern University of Science and Technology (SUSTech), as the first project completion, stood out for his project of ‘Big Model-Driven Home AI Doctor and Total Patient Care Management’, which won the ‘Second Prize for Technological Invention of the Year 2024’. ‘The Second Prize for Technical Invention in the 2024 Wu Wenjun Artificial Intelligence Science and Technology Award.&lt;/p&gt;
+      <description>&lt;p&gt;近日，2024年度吴文俊人工智能科学技术奖获奖名单正式发布，南方科技大学电子与电气工程系何志海讲席教授作为项目第一完成人，其研究的“大模型驱动的居家AI医生和全病程管理”项目脱颖而出，荣获“2024年度吴文俊人工智能科学技术奖技术发明二等奖”。&lt;/p&gt;
 &lt;img src=&#34;fig1.jpg&#34; width=&#34;888&#34;&gt;
-&lt;p style=&#34;font-size:15px;text-align:center&#34;&gt;Figure 1. Winners List.&lt;/p&gt;
-&lt;p&gt;Initiated by the Chinese Society for Artificial Intelligence, the Wu Wenjun Artificial Intelligence Science and Technology Award, known as ‘China&amp;rsquo;s Highest Prize for Intelligent Science and Technology’, is a symbol of the highest honour in the field of artificial intelligence. The award aims to recognise units and individuals who have made key discoveries in AI research, promoted scientific and technological progress, and created significant economic and social benefits or ecological and environmental benefits.&lt;/p&gt;
-&lt;p&gt;Professor He Zhihai, together with Professor Cao Wenming of Shenzhen University, Professor Cen Yigang of Beijing Jiaotong University, and Senior Research Scholar Ouyang Jian of the Southern University of Science and Technology, jointly declared the achievement of ‘Big Model-Driven Home AI Doctor and Total Disease Management’, which is an innovative use of AI and big model technology to build a set of products that cover the following areas: home health and disease monitoring, analytical modelling, analysis and modelling, and home health and disease management. It innovatively uses artificial intelligence and big model technology to build a comprehensive platform covering home health and disease monitoring, analysis and modelling, early warning and intervention, diagnosis and treatment assistance, as well as chronic disease prevention and control management. The platform greatly empowers healthcare professionals to provide professional and intelligent health monitoring and disease management services for elderly patients with chronic diseases in the home environment, effectively solving the health monitoring and disease management problems brought about by aging.&lt;/p&gt;
+&lt;p style=&#34;font-size:15px;text-align:center&#34;&gt;图1. 获奖名单&lt;/p&gt;
+&lt;p&gt;吴文俊人工智能科学技术奖由中国人工智能学会发起，素有“中国智能科学技术最高奖”之称，是人工智能领域的至高荣誉象征。该奖项旨在表彰在智能科学研究中取得关键发现，有力推动科学技术进步，并创造出显著经济社会效益或生态环境效益的单位和个人。&lt;/p&gt;
+&lt;p&gt;此次何志海教授联合深圳大学曹文明教授、北京交通大学岑翼刚教授以及南方科技大学高级研究学者欧阳健共同申报的“大模型驱动的居家AI医生和全病程管理”成果，创新性地运用人工智能与大模型技术，搭建起一套涵盖居家健康与疾病感知监测、分析建模、预警干预、诊疗辅助以及慢病防控管理的综合性平台。该平台极大地赋能医护人员，让他们能够在居家环境下，为老年慢病患者提供专业、智能的健康监护与疾病管理服务，有效破解了老龄化加剧带来的健康监护与疾病管理难题。&lt;/p&gt;
 &lt;img src=&#34;fig2.jpg&#34; width=&#34;888&#34;&gt;
-&lt;p style=&#34;font-size:15px;text-align:center&#34;&gt;Figure 2. AI home healthcare intelligent agent.&lt;/p&gt;
-&lt;p&gt;At present, the project has been successfully applied on a large scale in Guangdong, Hunan and Zhejiang, effectively improving the health management of local elderly patients with chronic diseases and generating good social benefits, and is expected to provide reference and demonstration for more regions to cope with the health challenges of aging.&lt;/p&gt;
-&lt;p&gt;Original link: &lt;a href=https://mp.weixin.qq.com/s/K3X2Avrt6lgsTJWg3ry3Qw&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/K3X2Avrt6lgsTJWg3ry3Qw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://mp.weixin.qq.com/s/K3X2Avrt6lgsTJWg3ry3Qw&lt;/a&gt;&lt;/a&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p style=&#34;font-size:15px;text-align:center&#34;&gt;图2. AI居家医养智能体&lt;/p&gt;
+&lt;p&gt;目前，该项目已在广东、湖南、浙江等地成功实现规模化应用，切实改善了当地老年慢病患者的健康管理状况，产生了良好的社会效益，有望为更多地区应对老龄化健康挑战提供借鉴与示范。&lt;/p&gt;
+&lt;p&gt;原文链接: &lt;a href=https://mp.weixin.qq.com/s/K3X2Avrt6lgsTJWg3ry3Qw&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/K3X2Avrt6lgsTJWg3ry3Qw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://mp.weixin.qq.com/s/K3X2Avrt6lgsTJWg3ry3Qw&lt;/a&gt;&lt;/a&gt;&lt;/br&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -256,7 +256,7 @@ Supplementary notes can be added here, including [code and math](https://wowchem
     </item>
     
     <item>
-      <title>research</title>
+      <title>研究</title>
       <link>https://nkdailab.github.io/event/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://nkdailab.github.io/event/</guid>
@@ -282,36 +282,23 @@ Supplementary notes can be added here, including [code and math](https://wowchem
     </item>
     
     <item>
-      <title>Zhehan Kan, a postgraduate of Zhihai He Research Group of the Department of Electronics, in occlusion and generalization issue in human pose estimation with a novel self-constrained approach</title>
+      <title>电子系何志海课题组硕士研究生阚哲涵提出自约束人体姿态估计方法</title>
       <link>https://nkdailab.github.io/post/zhehan-kan-a-postgraduate-of-zhihai-he-research-group-of-the-department-of-electronics-in-occlusion-and-generalization-issue-in-human-pose-estimation-with-a-novel-self-constrained-approach/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://nkdailab.github.io/post/zhehan-kan-a-postgraduate-of-zhihai-he-research-group-of-the-department-of-electronics-in-occlusion-and-generalization-issue-in-human-pose-estimation-with-a-novel-self-constrained-approach/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;u&gt;Context for the reader&lt;/u&gt;&lt;/strong&gt;&lt;/br&gt;
-Human pose estimation aims to correctly detect and localize keypoints, i.e., human body joints or parts. It is one of the fundamental computer vision tasks which plays an important role in a variety of downstream applications, such as motion capture, activity recognition and person tracking. With the advent of the XR era, technologies such as virtual reality (VR), human-computer interaction (HCI), and augmented reality (AR) have gradually matured. As a core part in XR research, it is becoming more and more important to reach accurate estimation of human pose. However, due to free-style motion of human bodies, for complex scenes with person-person occlusions, large variations of appearance and texture, and cluttered backgrounds, pose estimation remains very challenging.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Authored researchers and journal details&lt;/u&gt;&lt;/strong&gt;&lt;/br&gt;
-Chair Professor Zhihai He’s team from the Department of Electronic and Electrical Engineering (EEE) at the Southern University of Science and Technology (SUSTech)&lt;/br&gt;
-European Conference on Computer Vision (ECCV 2022), a top conference in computer vision with the proceedings published by Springer Science+Business Media,&lt;/br&gt;
-entitled “Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation.”&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Findings &amp;amp; Conclusion&lt;/u&gt;&lt;/strong&gt;&lt;/br&gt;
-Prof. He’s team observed that human poses exhibit strong group-wise structural correlation and spatial coupling between keypoints due to the biological constraints of different body parts. Based on this observation, researchers propose to partition the body keypoints into structural groups. Within each group, the keypoints are further partitioned into two subsets, proximal keypoints with high estimation accuracy and low-accuracy distal keypoints. This group-wise structural correlation can be explored to improve the accuracy and robustness of human pose estimation.
-&lt;img src=&#34;fig1.png&#34; width=&#34;700&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;南方科技大学电子与电气工程系2021级专业硕士研究生阚哲涵在人体姿态估计领域提出了一种新型有效的自约束人体姿态估计方法，解决了人体姿态估计中的遮挡、泛化问题。
+在国际计算机视觉三大顶级会议之一《European Conference on Computer Vision》（ECCV 2022）上发表研究成果，文章题目为《Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation》。
+&lt;img src=&#34;fig1.png&#34; width=&#34;888&#34;&gt;&lt;/p&gt;
 &lt;p style=&#34;font-size:15px;text-align:center&#34;&gt;Figure 1. Illustration of the proposed idea of self-constrained inference optimization of structural groups for human pose estimation.&lt;/p&gt;
-&lt;p&gt;One fundamental challenge in pose estimation, as well as in generic prediction tasks, is that there is no mechanism for us to verify if the obtained pose estimation or prediction results are accurate or not, since the ground truth is not available. Prof. He’s team developed a self-constrained prediction-verification network to perform forward and backward predictions between these keypoint subsets. In Figure 2, This prediction-verification network with a forward-backward prediction loop learns the internal structural correlation between the proximal keypoints and the distal keypoint. The learning process is guided by the self-constraint loss. If the internal structural correlation is successfully learned, then the self-constraint loss generated by the forward and backward prediction loop should be small. This step is referred to as self-constrained learning.
-&lt;img src=&#34;fig2.png&#34; width=&#34;700&#34;&gt;&lt;/p&gt;
-&lt;p style=&#34;font-size:15px;text-align:center&#34;&gt;Figure2. The overall framework of the proposed network.&lt;/p&gt;
-&lt;p&gt;Once successfully learned, the verification network serves as an accuracy verification module for the forward pose prediction. During the inference stage, it can be used to guide the local optimization of the pose estimation results of low-accuracy keypoints with the self-constrained loss on high-accuracy keypoints as the objective function. This provides an effective mechanism to iteratively refine the prediction result based on the specific statistics of the test sample. This step is referred to as self-constrained optimization. Such feedback-based adaptive prediction will result in better generalization capability on the test sample.&lt;/p&gt;
-&lt;p&gt;The comparison and ablation experiments are performed on MS COCO dataset and CrowdPose dataset, both of which contain very challenging scenes for pose estimation such as multi-person poses of various body scales and occlusion patterns. The proposed method outperforms the current best by a large margin, up to 2.5% on MS COCO dataset. On CrowdPose dataset, it has improved the pose estimation accuracy by up to 1.5%, which is quite significantly. Visualization results in Figure 3 also demonstrate that the proposed method can significantly improve the pose estimation results.
-&lt;img src=&#34;fig3.png&#34; width=&#34;700&#34;&gt;&lt;/p&gt;
+&lt;p&gt;随着XR时代的到来，虚拟现实、人机交互、增强现实等技术逐渐成熟，作为XR研究中的核心问题，准确的人体姿态估计愈发重要。但极易发生的对象间的遮挡，背景、纹理变化导致的泛化问题成为了人体姿态估计任务中最难以解决的部分。
+&lt;img src=&#34;fig2.png&#34; width=&#34;888&#34;&gt;&lt;/p&gt;
+&lt;p style=&#34;font-size:15px;text-align:center&#34;&gt;Figure 2. The overall framework of the proposed network.&lt;/p&gt;
+&lt;p&gt;文章开发了一个自约束的预测验证网络，以表征和学习训练过程中关键点之间的结构相关性。在推理阶段，来自验证网络的反馈信息能够进一步优化姿态预测结果，从而显著提高人体姿态估计的性能。本工作在公开数据集MS COCO 和 CrowdPose 上取得了显著的提升，为后续的研究提供了重要的参考启发价值。
+&lt;img src=&#34;fig3.png&#34; width=&#34;888&#34;&gt;&lt;/p&gt;
 &lt;p style=&#34;font-size:15px;text-align:center&#34;&gt;Figure 3. Three examples of refinement of predicted keypoints. The top row is the original estimation. The bottom row is the refined version by the proposed method.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/br&gt;
-In this work, reaserchers partition the body keypoints into structural groups exploring the structural correlation within each group and develop a prediction-verification network to characterize structural correlation between them based on a self-constraint loss. A self-constrained optimization method was introduced which uses the learned verification network as a performance assessment module to optimize the pose estimation of distal keypoints during the inference stage where the ground truth is not available. The extensive experimental results on benchmark MS COCO datasets demonstrated that the proposed SCIO method is able to significantly improve the pose estimation results, providing important reference value for follow-up research.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Authors of the original paper&lt;/u&gt;&lt;/strong&gt;&lt;/br&gt;
-Master student Zhehan Kan of the Department of Electronic and Electrical Engineering (EEE) at SUSTech is the first author. Master student Shuoshuo Chen of the Department of Electronic and Electrical Engineering (EEE) at SUSTech and Associate Professor Zeng Li of Department of Statistics and Data Science are authors of this paper. Chair Professor Zhihai He of Electronic and Electrical Engineering (EEE) at SUSTech is the corresponding author.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Supporting organizations&lt;/u&gt;&lt;/strong&gt;&lt;/br&gt;
-Zeng Li’s research is partially supported by the National Natural Science Foundation of China NSFC (No. 12031005 and No. 12101292)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;Any other recommendations &lt;/u&gt;&lt;/strong&gt;&lt;/br&gt;
-Paper link: &lt;u&gt;&lt;a href=&#34;https://arxiv.org/abs/2207.02425&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2207.02425&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;
-</description>
+南科大2021级硕士研究生阚哲涵为本文第一作者，南科大2021级硕士研究生陈烁硕和统计系助理教授李曾为本文作者，电子系讲席教授何志海为本文通讯作者，南科大为论文第一单位。南科大2021级硕士研究生阚哲涵和陈烁硕同学均来自何志海课题组。&lt;/br&gt;&lt;/br&gt;
+论文链接: &lt;a href=https://arxiv.org/abs/2207.02425&gt;https://arxiv.org/abs/2207.02425&lt;/a&gt;&lt;/br&gt;
+论文资助信息：李曾老师研究部分由国家自然科学基金No. 12031005和No. 12101292支持</description>
     </item>
     
     <item>

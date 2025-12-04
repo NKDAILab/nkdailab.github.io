@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>何志海 | NKD AI Lab</title>
+    <title>何志海 | 南方科技大学人工智能实验室</title>
     <link>https://nkdailab.github.io/author/%E4%BD%95%E5%BF%97%E6%B5%B7/</link>
       <atom:link href="https://nkdailab.github.io/author/%E4%BD%95%E5%BF%97%E6%B5%B7/index.xml" rel="self" type="application/rss+xml" />
     <description>何志海</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
       <url>https://nkdailab.github.io/author/%E4%BD%95%E5%BF%97%E6%B5%B7/avatar_hu_1525a41a409e05cc.jpg</url>
       <title>何志海</title>

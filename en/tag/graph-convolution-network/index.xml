@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graph Convolution Network | NKD AI Lab</title>
+    <link>https://nkdailab.github.io/en/tag/graph-convolution-network/</link>
+      <atom:link href="https://nkdailab.github.io/en/tag/graph-convolution-network/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graph Convolution Network</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
+      <title>Graph Convolution Network</title>
+      <link>https://nkdailab.github.io/en/tag/graph-convolution-network/</link>
+    </image>
+    
+    <item>
+      <title>Cycle optimization metric learning for few-shot classification</title>
+      <link>https://nkdailab.github.io/en/publication/cycle-optimization-metric-learning-for-few-shot-classification/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://nkdailab.github.io/en/publication/cycle-optimization-metric-learning-for-few-shot-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-guided information for few-shot classification</title>
+      <link>https://nkdailab.github.io/en/publication/self-guided-information-for-few-shot-classification/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://nkdailab.github.io/en/publication/self-guided-information-for-few-shot-classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

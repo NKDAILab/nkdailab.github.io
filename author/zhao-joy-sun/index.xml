@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zhao Joy Sun | NKD AI Lab</title>
+    <title>Zhao Joy Sun | 南方科技大学人工智能实验室</title>
     <link>https://nkdailab.github.io/author/zhao-joy-sun/</link>
       <atom:link href="https://nkdailab.github.io/author/zhao-joy-sun/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhao Joy Sun</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
       <title>Zhao Joy Sun</title>

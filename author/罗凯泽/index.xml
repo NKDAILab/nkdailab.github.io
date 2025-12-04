@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>罗凯泽 | NKD AI Lab</title>
+    <title>罗凯泽 | 南方科技大学人工智能实验室</title>
     <link>https://nkdailab.github.io/author/%E7%BD%97%E5%87%AF%E6%B3%BD/</link>
       <atom:link href="https://nkdailab.github.io/author/%E7%BD%97%E5%87%AF%E6%B3%BD/index.xml" rel="self" type="application/rss+xml" />
     <description>罗凯泽</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
       <url>https://nkdailab.github.io/author/%E7%BD%97%E5%87%AF%E6%B3%BD/avatar_hu_57c4042bb43593bb.jpg</url>
       <title>罗凯泽</title>

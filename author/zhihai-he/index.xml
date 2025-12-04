@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zhihai He | NKD AI Lab</title>
+    <title>Zhihai He | 南方科技大学人工智能实验室</title>
     <link>https://nkdailab.github.io/author/zhihai-he/</link>
       <atom:link href="https://nkdailab.github.io/author/zhihai-he/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhihai He</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
       <title>Zhihai He</title>

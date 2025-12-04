@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>李静 | NKD AI Lab</title>
+    <link>https://nkdailab.github.io/en/author/%E6%9D%8E%E9%9D%99/</link>
+      <atom:link href="https://nkdailab.github.io/en/author/%E6%9D%8E%E9%9D%99/index.xml" rel="self" type="application/rss+xml" />
+    <description>李静</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://nkdailab.github.io/en/author/%E6%9D%8E%E9%9D%99/avatar_hu_dd5150a8bec6d44a.jpg</url>
+      <title>李静</title>
+      <link>https://nkdailab.github.io/en/author/%E6%9D%8E%E9%9D%99/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuyan Chen | NKD AI Lab</title>
+    <link>https://nkdailab.github.io/en/author/yuyan-chen/</link>
+      <atom:link href="https://nkdailab.github.io/en/author/yuyan-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuyan Chen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
+      <title>Yuyan Chen</title>
+      <link>https://nkdailab.github.io/en/author/yuyan-chen/</link>
+    </image>
+    
+    <item>
+      <title>Cross-Modal Few-Shot Learning with Second-Order Neural Ordinary Differential Equations</title>
+      <link>https://nkdailab.github.io/en/publication/cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://nkdailab.github.io/en/publication/cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

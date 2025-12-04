@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>黄彦基 | NKD AI Lab</title>
+    <link>https://nkdailab.github.io/en/author/%E9%BB%84%E5%BD%A6%E5%9F%BA/</link>
+      <atom:link href="https://nkdailab.github.io/en/author/%E9%BB%84%E5%BD%A6%E5%9F%BA/index.xml" rel="self" type="application/rss+xml" />
+    <description>黄彦基</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://nkdailab.github.io/en/author/%E9%BB%84%E5%BD%A6%E5%9F%BA/avatar_hu_5e83fddd4a56e0f5.png</url>
+      <title>黄彦基</title>
+      <link>https://nkdailab.github.io/en/author/%E9%BB%84%E5%BD%A6%E5%9F%BA/</link>
+    </image>
+    
+  </channel>
+</rss>

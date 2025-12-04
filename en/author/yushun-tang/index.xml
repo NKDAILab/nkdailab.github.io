@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yushun Tang | NKD AI Lab</title>
+    <link>https://nkdailab.github.io/en/author/yushun-tang/</link>
+      <atom:link href="https://nkdailab.github.io/en/author/yushun-tang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yushun Tang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
+      <title>Yushun Tang</title>
+      <link>https://nkdailab.github.io/en/author/yushun-tang/</link>
+    </image>
+    
+    <item>
+      <title>Cross-inferential networks for source-free unsupervised domain adaptation</title>
+      <link>https://nkdailab.github.io/en/publication/cross-inferential-networks-for-source-free-unsupervised-domain-adaptation/</link>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://nkdailab.github.io/en/publication/cross-inferential-networks-for-source-free-unsupervised-domain-adaptation/</guid>
+      <description>&lt;!-- 
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BDC-Adapter Brownian Distance Covariance for Better Vision-Language Reasoning</title>
+      <link>https://nkdailab.github.io/en/publication/bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://nkdailab.github.io/en/publication/bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning/</guid>
+      <description>&lt;!-- 
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation</title>
+      <link>https://nkdailab.github.io/en/publication/self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://nkdailab.github.io/en/publication/self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation/</guid>
+      <description>&lt;!-- 
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation</title>
+      <link>https://nkdailab.github.io/en/publication/neuro-modulated-hebbian-learning-for-fully-test-time-adaptation/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://nkdailab.github.io/en/publication/neuro-modulated-hebbian-learning-for-fully-test-time-adaptation/</guid>
+      <description>&lt;!-- 
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

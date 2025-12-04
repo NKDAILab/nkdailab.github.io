@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>杜凡 | 南方科技大学人工智能实验室</title>
-    <link>https://nkdailab.github.io/zh/author/%E6%9D%9C%E5%87%A1/</link>
-      <atom:link href="https://nkdailab.github.io/zh/author/%E6%9D%9C%E5%87%A1/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zh/author/%E6%9D%9C%E5%87%A1/</link>
+      <atom:link href="http://localhost:1313/zh/author/%E6%9D%9C%E5%87%A1/index.xml" rel="self" type="application/rss+xml" />
     <description>杜凡</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://nkdailab.github.io/zh/author/%E6%9D%9C%E5%87%A1/avatar_hu_687f14407e9000dc.png</url>
+      <url>http://localhost:1313/zh/author/%E6%9D%9C%E5%87%A1/avatar_hu_687f14407e9000dc.png</url>
       <title>杜凡</title>
-      <link>https://nkdailab.github.io/zh/author/%E6%9D%9C%E5%87%A1/</link>
+      <link>http://localhost:1313/zh/author/%E6%9D%9C%E5%87%A1/</link>
     </image>
     
   </channel>

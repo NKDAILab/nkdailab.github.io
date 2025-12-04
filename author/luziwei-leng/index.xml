@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Luziwei Leng | NKD AI Lab</title>
+    <title>Luziwei Leng | 南方科技大学人工智能实验室</title>
     <link>https://nkdailab.github.io/author/luziwei-leng/</link>
       <atom:link href="https://nkdailab.github.io/author/luziwei-leng/index.xml" rel="self" type="application/rss+xml" />
     <description>Luziwei Leng</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
       <title>Luziwei Leng</title>

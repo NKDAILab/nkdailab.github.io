@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: November 18, 2025 --><html lang="en-us" >
+<!-- Last Published: 2025年12月4日 --><html lang="zh-Hans" >
 
 
 <head>
@@ -263,7 +263,7 @@
 
 
 
-  <meta name="author" content="何志海" />
+  <meta name="author" content="沈滢" />
 
 
 
@@ -275,9 +275,9 @@
 
 
 
-  <link rel="alternate" hreflang="zh" href="https://nkdailab.github.io/zh/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/" />
+  <link rel="alternate" hreflang="en" href="https://nkdailab.github.io/en/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/" />
 
-<link rel="alternate" hreflang="en-us" href="https://nkdailab.github.io/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/" />
+<link rel="alternate" hreflang="zh-Hans" href="https://nkdailab.github.io/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/" />
 <link rel="canonical" href="https://nkdailab.github.io/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/" />
 
 
@@ -316,10 +316,10 @@
   
 
 <meta property="og:type" content="article" />
-<meta property="og:site_name" content="NKD AI Lab" />
+<meta property="og:site_name" content="南方科技大学人工智能实验室" />
 <meta property="og:url" content="https://nkdailab.github.io/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/" />
-<meta property="og:title" content="Critical Sampling for Robust Evolution Operator Learning of Unknown Dynamical Systems | NKD AI Lab" />
-<meta property="og:description" content="Given an unknown dynamical system, what is the minimum number of samples needed for effective learning of its governing laws and accurate prediction of its future evolution behavior, and how to select these critical samples? In this work, we propose to explore this problem based on a design approach. Starting from a small initial set of samples, we adaptively discover critical samples to achieve increasingly accurate learning of the system evolution. One central challenge here is that we do not know the network modeling error since the ground-truth system state is unknown, which is however needed for critical sampling. To address this challenge, we introduce a multi-step reciprocal prediction network where forward and backward evolution networks are designed to learn the temporal evolution behavior in the forward and backward time directions, respectively. Very interestingly, we find that the desired network modeling error is highly correlated with the multi-step reciprocal prediction error, which can be directly computed from the current system state. This allows us to perform a dynamic selection of critical samples from regions with high network modeling errors for dynamical systems. Additionally, a joint spatial-temporal evolution network is introduced which incorporates spatial dynamics modeling into the temporal evolution prediction for robust learning of the system evolution operator with few samples. Our extensive experimental results demonstrate that our proposed method is able to dramatically reduce the number of samples needed for effective learning and accurate prediction of evolution behaviors of unknown dynamical systems by up to hundreds of times." /><meta property="og:image" content="https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:title" content="Critical Sampling for Robust Evolution Operator Learning of Unknown Dynamical Systems | 南方科技大学人工智能实验室" />
+<meta property="og:description" content="Given an unknown dynamical system, what is the minimum number of samples needed for effective learning of its governing laws and accurate prediction of its future evolution behavior, and how to select these critical samples? In this work, we propose to explore this problem based on a design approach. Starting from a small initial set of samples, we adaptively discover critical samples to achieve increasingly accurate learning of the system evolution. One central challenge here is that we do not know the network modeling error since the ground-truth system state is unknown, which is however needed for critical sampling. To address this challenge, we introduce a multi-step reciprocal prediction network where forward and backward evolution networks are designed to learn the temporal evolution behavior in the forward and backward time directions, respectively. Very interestingly, we find that the desired network modeling error is highly correlated with the multi-step reciprocal prediction error, which can be directly computed from the current system state. This allows us to perform a dynamic selection of critical samples from regions with high network modeling errors for dynamical systems. Additionally, a joint spatial-temporal evolution network is introduced which incorporates spatial dynamics modeling into the temporal evolution prediction for robust learning of the system evolution operator with few samples. Our extensive experimental results demonstrate that our proposed method is able to dramatically reduce the number of samples needed for effective learning and accurate prediction of evolution behaviors of unknown dynamical systems by up to hundreds of times." /><meta property="og:image" content="https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png" /><meta property="og:locale" content="zh-Hans" />
 
   
     <meta
@@ -366,7 +366,7 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "NKD AI Lab",
+    "name": "南方科技大学人工智能实验室",
     "logo": {
       "@type": "ImageObject",
       "url": "https://nkdailab.github.io/media/icon_hu_cad48d5bae1d0c97.png"
@@ -394,7 +394,7 @@
 
 
   
-  <title>Critical Sampling for Robust Evolution Operator Learning of Unknown Dynamical Systems | NKD AI Lab</title>
+  <title>Critical Sampling for Robust Evolution Operator Learning of Unknown Dynamical Systems | 南方科技大学人工智能实验室</title>
 
   
   
@@ -456,20 +456,20 @@
 
       
       <div class="d-none d-lg-inline-flex">
-        <a class="navbar-brand" href="/">NKD AI Lab</a>
+        <a class="navbar-brand" href="/">南方科技大学人工智能实验室</a>
       </div>
       
 
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
-              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="切换导航">
       <span><i class="fas fa-bars"></i></span>
       </button>
       
 
       
       <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-        <a class="navbar-brand" href="/">NKD AI Lab</a>
+        <a class="navbar-brand" href="/">南方科技大学人工智能实验室</a>
       </div>
       
 
@@ -503,7 +503,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/tour"><span>Home</span></a>
+            <a class="nav-link " href="/tour"><span>主页</span></a>
           </li>
 
           
@@ -533,7 +533,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/event"><span>Research</span></a>
+            <a class="nav-link " href="/event"><span>研究</span></a>
           </li>
 
           
@@ -563,7 +563,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/people"><span>People</span></a>
+            <a class="nav-link " href="/people"><span>成员</span></a>
           </li>
 
           
@@ -593,7 +593,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/publication"><span>Publications</span></a>
+            <a class="nav-link " href="/publication"><span>发表成果</span></a>
           </li>
 
           
@@ -621,7 +621,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/post"><span>News</span></a>
+            <a class="nav-link " href="/post"><span>新闻</span></a>
           </li>
 
           
@@ -641,6 +641,72 @@
         
           
         
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
 
         
         
@@ -654,15 +720,15 @@
         
         <li class="nav-item dropdown i18n-dropdown">
           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown"
-             aria-haspopup="true" aria-label="Languages">
-            <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">English</span></a>
+             aria-haspopup="true" aria-label="语言">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i><span class="d-none d-lg-inline">中文 (简体)</span></a>
           <div class="dropdown-menu">
             <div class="dropdown-item dropdown-item-active">
-              <span>English</span>
+              <span>中文 (简体)</span>
             </div>
             
-            <a class="dropdown-item" href="https://nkdailab.github.io/zh/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/">
-              <span>中文 (简体)</span>
+            <a class="dropdown-item" href="https://nkdailab.github.io/en/publication/critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems/">
+              <span>English</span>
             </a>
             
           </div>
@@ -745,7 +811,7 @@
     
       
     
-    April 2023
+    四月 2023
   </span>
   
 
@@ -816,7 +882,7 @@
   <div class="article-container">
 
     
-    <h3>Abstract</h3>
+    <h3>摘要</h3>
     <p class="pub-abstract">Given an unknown dynamical system, what is the minimum number of samples needed for effective learning of its governing laws and accurate prediction of its future evolution behavior, and how to select these critical samples? In this work, we propose to explore this problem based on a design approach. Starting from a small initial set of samples, we adaptively discover critical samples to achieve increasingly accurate learning of the system evolution. One central challenge here is that we do not know the network modeling error since the ground-truth system state is unknown, which is however needed for critical sampling. To address this challenge, we introduce a multi-step reciprocal prediction network where forward and backward evolution networks are designed to learn the temporal evolution behavior in the forward and backward time directions, respectively. Very interestingly, we find that the desired network modeling error is highly correlated with the multi-step reciprocal prediction error, which can be directly computed from the current system state. This allows us to perform a dynamic selection of critical samples from regions with high network modeling errors for dynamical systems. Additionally, a joint spatial-temporal evolution network is introduced which incorporates spatial dynamics modeling into the temporal evolution prediction for robust learning of the system evolution operator with few samples. Our extensive experimental results demonstrate that our proposed method is able to dramatically reduce the number of samples needed for effective learning and accurate prediction of evolution behaviors of unknown dynamical systems by up to hundreds of times.</p>
     
 
@@ -826,7 +892,7 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-3 pub-row-heading">类型</div>
           <div class="col-12 col-md-9">
             <a href="/publication/#2">
               2
@@ -844,7 +910,7 @@
       <div class="col-md-1"></div>
       <div class="col-md-10">
         <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-3 pub-row-heading">出版物</div>
           <div class="col-12 col-md-9">IEEE Transactions on Artificial Intelligence</div>
         </div>
       </div>
@@ -1070,7 +1136,7 @@
 
 
 
-<script src="/en/js/wowchemy.min.e166a4f802c5f09237cc72919197d83b.js"></script>
+<script src="/zh/js/wowchemy.min.b47b4b5ef72884142ecb053aa981eb86.js"></script>
 
 
 
@@ -1084,7 +1150,7 @@
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title">Cite</h5>
+        <h5 class="modal-title">引用</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -1095,10 +1161,10 @@
       </div>
       <div class="modal-footer">
         <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> Copy
+          <i class="fas fa-copy"></i> 复制
         </a>
         <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> Download
+          <i class="fas fa-download"></i> 下载
         </a>
         <div id="modal-error"></div>
       </div>

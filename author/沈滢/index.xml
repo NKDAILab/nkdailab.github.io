@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>沈滢 | NKD AI Lab</title>
+    <title>沈滢 | 南方科技大学人工智能实验室</title>
     <link>https://nkdailab.github.io/author/%E6%B2%88%E6%BB%A2/</link>
       <atom:link href="https://nkdailab.github.io/author/%E6%B2%88%E6%BB%A2/index.xml" rel="self" type="application/rss+xml" />
     <description>沈滢</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
       <url>https://nkdailab.github.io/author/%E6%B2%88%E6%BB%A2/avatar_hu_9e3968456073c010.jpg</url>
       <title>沈滢</title>

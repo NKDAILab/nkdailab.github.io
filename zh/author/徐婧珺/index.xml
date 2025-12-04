@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>徐婧珺 | 南方科技大学人工智能实验室</title>
-    <link>https://nkdailab.github.io/zh/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/</link>
-      <atom:link href="https://nkdailab.github.io/zh/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/zh/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/</link>
+      <atom:link href="http://localhost:1313/zh/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/index.xml" rel="self" type="application/rss+xml" />
     <description>徐婧珺</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://nkdailab.github.io/zh/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/avatar_hu_3260d022226aa2cc.jpg</url>
+      <url>http://localhost:1313/zh/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/avatar_hu_3260d022226aa2cc.jpg</url>
       <title>徐婧珺</title>
-      <link>https://nkdailab.github.io/zh/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/</link>
+      <link>http://localhost:1313/zh/author/%E5%BE%90%E5%A9%A7%E7%8F%BA/</link>
     </image>
     
   </channel>

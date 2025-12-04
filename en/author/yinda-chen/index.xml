@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yinda Chen | NKD AI Lab</title>
+    <link>https://nkdailab.github.io/en/author/yinda-chen/</link>
+      <atom:link href="https://nkdailab.github.io/en/author/yinda-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yinda Chen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nkdailab.github.io/media/icon_hu_de2b0bb0af672a83.png</url>
+      <title>Yinda Chen</title>
+      <link>https://nkdailab.github.io/en/author/yinda-chen/</link>
+    </image>
+    
+    <item>
+      <title>Conditional Latent Coding with Learnable Synthesized Reference for Deep Image Compression</title>
+      <link>https://nkdailab.github.io/en/publication/conditional-latent-coding-with-learnable-synthesized-reference-for-deep-image-compression/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://nkdailab.github.io/en/publication/conditional-latent-coding-with-learnable-synthesized-reference-for-deep-image-compression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>陈烁硕 | NKD AI Lab</title>
+    <link>https://nkdailab.github.io/en/author/%E9%99%88%E7%83%81%E7%A1%95/</link>
+      <atom:link href="https://nkdailab.github.io/en/author/%E9%99%88%E7%83%81%E7%A1%95/index.xml" rel="self" type="application/rss+xml" />
+    <description>陈烁硕</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://nkdailab.github.io/en/author/%E9%99%88%E7%83%81%E7%A1%95/avatar_hu_b4fc4083ed7b2a40.jpg</url>
+      <title>陈烁硕</title>
+      <link>https://nkdailab.github.io/en/author/%E9%99%88%E7%83%81%E7%A1%95/</link>
+    </image>
+    
+  </channel>
+</rss>
