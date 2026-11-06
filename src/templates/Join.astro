@@ -1,0 +1,79 @@
+---
+import { useTranslations } from '../i18n/ui';
+import { type PageRoute } from '../lib/site';
+const { page } = Astro.props as { page: PageRoute };
+const { lang } = page;
+const path = (page.route || '').replace(/^en(?:\/|$)/, '');
+const t = useTranslations(lang);
+
+import Layout from '../layouts/Layout.astro';
+import { Mail, GraduationCap, BookOpen, Code } from 'lucide-react';
+import { SITE } from '../config';
+---
+
+
+<Layout title={t('join.title')} lang={lang} path={path}>
+  <div class="max-w-4xl mx-auto px-4 py-12 sm:py-20">
+    <div class="text-center mb-16">
+      <h1 class="text-4xl font-bold text-gray-900 mb-4" data-i18n-key="join.title">{t('join.title')}</h1>
+      <p class="text-lg text-gray-600 max-w-2xl mx-auto" data-i18n-key="join.subtitle">{t('join.subtitle')}</p>
+    </div>
+
+    <div class="grid gap-8 md:grid-cols-3 mb-16">
+      <div class="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
+        <div class="w-12 h-12 bg-blue-50 rounded-xl flex items-center justify-center mb-4 text-blue-600">
+          <GraduationCap className="w-6 h-6" />
+        </div>
+        <h3 class="text-xl font-bold text-gray-900 mb-2">{lang === 'zh' ? '博士后' : 'Postdoctoral Researchers'}</h3>
+        <p class="text-gray-600 text-sm mb-4">
+          {lang === 'zh' ? '欢迎人工智能相关研究方向的博士后申请加入。' : 'Postdoctoral applicants working in the lab’s AI research areas are welcome.'}
+        </p>
+        <ul class="text-sm text-gray-600 space-y-2 list-disc list-inside">
+          <li>{lang === 'zh' ? '生成式视觉 AI' : 'Generative visual AI'}</li>
+          <li>{lang === 'zh' ? '多模态大模型推理与控制优化' : 'Multimodal model reasoning and control optimization'}</li>
+          <li>{lang === 'zh' ? '健康守护机器人与 AI 智能体' : 'Healthcare robotics and AI agents'}</li>
+        </ul>
+      </div>
+
+      <div class="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
+        <div class="w-12 h-12 bg-green-50 rounded-xl flex items-center justify-center mb-4 text-green-600">
+          <BookOpen className="w-6 h-6" />
+        </div>
+        <h3 class="text-xl font-bold text-gray-900 mb-2">{lang === 'zh' ? '博士研究生' : 'PhD Students'}</h3>
+        <p class="text-gray-600 text-sm mb-4">
+          {lang === 'zh' ? '招收生成式视觉 AI、多模态大模型等相关方向博士研究生。' : 'We recruit doctoral researchers in generative visual AI, multimodal large models, and related areas.'}
+        </p>
+        <ul class="text-sm text-gray-600 space-y-2 list-disc list-inside">
+          <li>{lang === 'zh' ? '生成式视觉 AI' : 'Generative visual AI'}</li>
+          <li>{lang === 'zh' ? '多模态大模型' : 'Multimodal large models'}</li>
+          <li>{lang === 'zh' ? '健康守护机器人与 AI 智能体' : 'Healthcare robotics and AI agents'}</li>
+        </ul>
+      </div>
+
+      <div class="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
+        <div class="w-12 h-12 bg-purple-50 rounded-xl flex items-center justify-center mb-4 text-purple-600">
+          <Code className="w-6 h-6" />
+        </div>
+        <h3 class="text-xl font-bold text-gray-900 mb-2">{lang === 'zh' ? '访问学者与交流学生' : 'Visiting Scholars & Students'}</h3>
+        <p class="text-gray-600 text-sm mb-4">
+          {lang === 'zh' ? '欢迎国内外大学及科研机构的访问学者和交流学生。' : 'Visiting scholars and exchange students from universities and research institutions are welcome.'}
+        </p>
+        <ul class="text-sm text-gray-600 space-y-2 list-disc list-inside">
+          <li>{lang === 'zh' ? '学术访问' : 'Academic visits'}</li>
+          <li>{lang === 'zh' ? '研究交流' : 'Research exchange'}</li>
+          <li>{lang === 'zh' ? '合作研究' : 'Collaborative research'}</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="bg-gray-50 rounded-3xl p-8 sm:p-12 text-center">
+      <h2 class="text-2xl font-bold text-gray-900 mb-4" data-i18n-key="join.howToApply">{t('join.howToApply')}</h2>
+      <p class="text-gray-600 mb-8 max-w-2xl mx-auto" data-i18n-key="join.applicationText">{t('join.applicationText')}</p>
+      
+      <a href={`mailto:${SITE.email}`} class="inline-flex items-center gap-2 bg-blue-600 text-white px-8 py-3 rounded-full font-medium hover:bg-blue-700 transition-colors">
+        <Mail className="w-5 h-5" />
+        <span data-i18n-key="join.sendEmail">{t('join.sendEmail')}</span>
+      </a>
+    </div>
+  </div>
+</Layout>

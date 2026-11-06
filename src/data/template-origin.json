@@ -1,0 +1,112 @@
+{
+  "template": "../scholar-lite",
+  "commit": "f43e9de7672ad90f7d8bddbd825b466cae8d9ef5",
+  "adaptations": [
+    "接入已审核的中英文实验室资料",
+    "服务器按网址渲染双语并保留语言切换",
+    "毕业及离站人员沿用原成员卡片和个人页",
+    "论文按钮文字按语言显示，引用下载原有 BibTeX"
+  ],
+  "files": [
+    {
+      "destination": "src/styles/global.css",
+      "source": "src/styles/global.css",
+      "originalSha256": "e790d6d5f6fea4360353f56ee8097871b8ce11be9dd123425eb54b211baf23f7"
+    },
+    {
+      "destination": "src/components/Header.astro",
+      "source": "src/components/Header.astro",
+      "originalSha256": "ca3bf14036887829b279633a1a3e3e1e3297f3b1fa79feeef77ddf17fe923722"
+    },
+    {
+      "destination": "src/components/TeamCard.astro",
+      "source": "src/components/TeamCard.astro",
+      "originalSha256": "150dd3e4d5a339881a41dcb055cf535e8fc40c87fef22aa9b153201175632b44"
+    },
+    {
+      "destination": "src/components/PublicationItem.astro",
+      "source": "src/components/PublicationItem.astro",
+      "originalSha256": "b3b98b9cd0ef625749ede12b376b6a3354cb49cb5b02f0b4acc87558e10d3149"
+    },
+    {
+      "destination": "src/layouts/Layout.astro",
+      "source": "src/layouts/Layout.astro",
+      "originalSha256": "de5c775969cdc046521ac34abde9d46d349693e655857a21090af928141194ab"
+    },
+    {
+      "destination": "src/templates/Home.astro",
+      "source": "src/pages/index.astro",
+      "originalSha256": "08c97e0166019ed4eb5b53cca08147974f89e1aa519016eb96b8697b48a1e2c3"
+    },
+    {
+      "destination": "src/templates/Team.astro",
+      "source": "src/pages/team.astro",
+      "originalSha256": "2a2e5a75ed2f621ef9a2b6fcd11ce20c391c3dc9809c252e6932d0de7436cfa3"
+    },
+    {
+      "destination": "src/templates/Member.astro",
+      "source": "src/pages/team/[...slug].astro",
+      "originalSha256": "59395d86db6ea0c107d422d3ede0052fa28ef1873fa279e6ff793ce735d8653e"
+    },
+    {
+      "destination": "src/templates/Publications.astro",
+      "source": "src/pages/publications.astro",
+      "originalSha256": "7c9775027adc51be946e2bd42b36919a95be0ede370d6d41fadd51c3d3cf5a08"
+    },
+    {
+      "destination": "src/templates/Achievements.astro",
+      "source": "src/pages/achievements.astro",
+      "originalSha256": "7789c67e1b98b1bc6b386e46ffeed33bb2bb7709d004f591d02d9199fcb25651"
+    },
+    {
+      "destination": "src/templates/News.astro",
+      "source": "src/pages/news.astro",
+      "originalSha256": "c82cfb1c0dfd45adff56a5c07baaf7fc5d71017445fcdf9d0b960ad904b95f02"
+    },
+    {
+      "destination": "src/templates/Activities.astro",
+      "source": "src/pages/activities.astro",
+      "originalSha256": "fec9f07fa178b25386fee6c4962dba7b8063dc19932135b1f9072949e2584873"
+    },
+    {
+      "destination": "src/templates/Research.astro",
+      "source": "src/pages/research/index.astro",
+      "originalSha256": "1794b4c31297db066f1d2ebab26789a9d2d84a619b8280a3a577ef72e8c1fc05"
+    },
+    {
+      "destination": "src/templates/ResearchDetail.astro",
+      "source": "src/pages/research/[slug].astro",
+      "originalSha256": "9f82c8076c9637eb44483c6acd03a90dab8e8f93df49736752a1797cb2fd10dc"
+    },
+    {
+      "destination": "src/templates/Article.astro",
+      "source": "src/pages/activities/[...slug].astro",
+      "originalSha256": "aa8c8800603deb64fa1f84e29e5d38be4c0f7c91c789df327f1817bae74dae4a"
+    },
+    {
+      "destination": "src/templates/Join.astro",
+      "source": "src/pages/join.astro",
+      "originalSha256": "e43eadf50e272e9dac3ef749e68d9d9d8b95c8cecae92fbf67b01a64c27033f6"
+    },
+    {
+      "destination": "src/templates/Search.astro",
+      "source": "src/pages/search.astro",
+      "originalSha256": "54cac3f824bb777b14e2e3dacd0b429d9f68f6ac3846b0de3fe1dfe1900ec65a"
+    },
+    {
+      "destination": "src/components/BookItem.astro",
+      "source": "src/components/BookItem.astro",
+      "originalSha256": "08d096d001489bcf680336ccda6293147f760d80b48898520f07c3195d3deeeb"
+    },
+    {
+      "destination": "src/components/HonorCard.astro",
+      "source": "src/components/HonorCard.astro",
+      "originalSha256": "e9a18aab860071613a62c0d44a02f817b2f6fd2c30f3808bf92a1ee717c7bfea"
+    },
+    {
+      "destination": "src/templates/Paper.astro",
+      "source": "src/pages/research/[slug].astro",
+      "originalSha256": "9f82c8076c9637eb44483c6acd03a90dab8e8f93df49736752a1797cb2fd10dc"
+    }
+  ]
+}

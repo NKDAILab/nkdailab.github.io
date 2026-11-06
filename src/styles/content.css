@@ -1,0 +1,10 @@
+/* Readability for the imported HTML inside the template's existing prose slots. */
+.prose { line-height: 1.9; overflow-wrap: anywhere; }
+.prose p { margin-bottom: 1.15em; }
+.prose h2, .prose h3 { font-size: 1.3em; font-weight: 700; margin: 1.8em 0 .8em; }
+.prose ul, .prose ol { margin: 1em 0; padding-left: 1.5em; list-style: revert; }
+.prose li + li { margin-top: .5em; }
+.prose a { color: #2563eb; text-decoration: underline; text-underline-offset: 3px; }
+.prose img { max-width: 100%; height: auto; margin: 1.5em auto; }
+html { scroll-padding-top: 6rem; }
+[hidden] { display: none !important; }

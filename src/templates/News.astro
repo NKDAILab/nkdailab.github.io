@@ -1,0 +1,41 @@
+---
+import { useTranslations } from '../i18n/ui';
+import { localPath, type PageRoute } from '../lib/site';
+const { page } = Astro.props as { page: PageRoute };
+const { lang } = page;
+const path = (page.route || '').replace(/^en(?:\/|$)/, '');
+const t = useTranslations(lang);
+
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from '../lib/template';
+
+const allNews = (await getCollection('news', lang)).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+
+
+<Layout title={t('news.title')} lang={lang} path={path}>
+  <div class="max-w-4xl mx-auto px-4 py-12 sm:py-20">
+    <div class="mb-12">
+      <h1 class="text-4xl font-bold text-gray-900 mb-4" data-i18n-key="news.title">{t('news.title')}</h1>
+    </div>
+
+    <div class="border-l-2 border-gray-100 pl-8 space-y-12">
+      {allNews.map(item => (
+        <div class="relative">
+          <span class="absolute -left-[37px] top-1.5 w-4 h-4 rounded-full bg-blue-100 border-2 border-white ring-1 ring-blue-600"></span>
+          <time class="block text-sm text-gray-500 mb-2">{item.data.date.toISOString().split('T')[0]}</time>
+          <h2 class="text-xl font-bold text-gray-900 mb-2"><a href={localPath(lang, 'news/' + item.id)}>{item.data.title}</a></h2>
+          {item.data.summary && <p class="text-gray-600 mb-4">{item.data.summary}</p>}
+          <div class="prose prose-blue prose-sm text-gray-600">
+             <a href={localPath(lang, 'news/' + item.id)}>{t('news.readMore')} →</a>
+             {/* <item.Content /> */}
+          </div>
+        </div>
+      ))}
+      
+      {allNews.length === 0 && (
+        <p class="text-gray-500 italic" data-i18n-key="news.noNews">{t('news.noNews')}</p>
+      )}
+    </div>
+  </div>
+</Layout>

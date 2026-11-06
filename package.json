@@ -1,0 +1,51 @@
+{
+  "name": "nkd-ai-lab",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Bilingual SUSTech Artificial Intelligence Lab website, based on Scholar-Lite",
+  "license": "MIT",
+  "author": "NKD AI Lab",
+  "homepage": "https://nkdailab.github.io/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NKDAILab/nkdailab.github.io.git"
+  },
+  "keywords": [
+    "academic",
+    "scholar",
+    "website-template",
+    "astro",
+    "bibtex",
+    "research-lab",
+    "publication-list",
+    "tailwindcss"
+  ],
+  "engines": {
+    "node": ">=22.19.0"
+  },
+  "scripts": {
+    "dev": "astro dev --host 127.0.0.1",
+    "build": "astro build && pagefind --site dist",
+    "preview": "astro preview --host 127.0.0.1",
+    "check": "astro check",
+    "verify": "node scripts/verify-site.mjs",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.17",
+    "astro": "^5.16.2",
+    "tailwindcss": "^4.1.17",
+    "@astrojs/react": "^4.4.2",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "lucide-react": "^0.555.0"
+  },
+  "devDependencies": {
+    "pagefind": "^1.4.0",
+    "@astrojs/check": "^0.9.6",
+    "typescript": "^5.9.3",
+    "vite": "^6.4.1",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3"
+  }
+}
