@@ -12,12 +12,13 @@ import Article from '../templates/Article.astro';
 import Paper from '../templates/Paper.astro';
 import Join from '../templates/Join.astro';
 import Search from '../templates/Search.astro';
+import Gallery from '../templates/Gallery.astro';
 import { SITE } from '../config';
 import { pageRoutes, type PageRoute } from '../lib/site';
 export function getStaticPaths() { return pageRoutes().map(page => ({ params: { route: page.route }, props: { page } })); }
 const { page } = Astro.props as { page: PageRoute };
 const { lang, kind } = page;
-const templates = { home: Home, team: Team, member: Member, research: Research, 'research-detail': ResearchDetail, publications: Publications, coauthor: Publications, achievements: Achievements, activities: Activities, news: News, article: Article, paper: Paper, join: Join, search: Search };
+const templates = { home: Home, team: Team, member: Member, research: Research, 'research-detail': ResearchDetail, publications: Publications, coauthor: Publications, achievements: Achievements, activities: Activities, news: News, article: Article, paper: Paper, join: Join, search: Search, gallery: Gallery };
 const Template = kind === 'redirect' ? undefined : templates[kind];
 ---
 {kind === 'redirect' ? <html lang={lang}><head><meta charset="UTF-8" /><meta http-equiv="refresh" content={`0;url=${page.target}`} /><meta name="robots" content="noindex" /><link rel="canonical" href={new URL(page.target!, SITE.website)} /><title>{lang === 'zh' ? '页面已迁移' : 'Page moved'}</title></head><body><a href={page.target}>{lang === 'zh' ? '前往新页面' : 'Continue to the new page'}</a></body></html> : Template && <Template page={page} />}

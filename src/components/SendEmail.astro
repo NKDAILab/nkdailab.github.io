@@ -1,0 +1,133 @@
+---
+import { Mail } from 'lucide-react';
+import { useTranslations } from '../i18n/ui';
+import type { Lang } from '../lib/site';
+
+interface Props {
+  email: string;
+  lang: Lang;
+  variant?: 'button' | 'pill' | 'text' | 'icon';
+  label?: string;
+  ariaLabel?: string;
+  subject?: string;
+  inlineFeedback?: boolean;
+}
+const { email, lang, variant = 'button', label, ariaLabel, subject, inlineFeedback = true } = Astro.props;
+const t = useTranslations(lang);
+const outlookUrl = `https://outlook.office.com/mail/deeplink/compose?to=${encodeURIComponent(email)}${subject ? `&subject=${encodeURIComponent(subject)}` : ''}`;
+const linkClasses = {
+  button: 'inline-flex items-center gap-2 bg-blue-600 text-white px-8 py-3 rounded-full font-medium hover:bg-blue-700 transition-colors',
+  pill: 'inline-flex max-w-full items-center gap-2 px-3 py-1.5 rounded-full bg-gray-50 text-gray-600 hover:bg-blue-50 hover:text-blue-600 transition-colors text-sm',
+  text: 'inline-flex max-w-full min-h-6 items-center gap-1.5 text-xs text-blue-600 hover:underline break-all',
+  icon: 'inline-flex p-2 bg-white rounded-full text-gray-700 hover:text-blue-600 hover:scale-110 transition-all',
+};
+const iconClasses = variant === 'button' ? 'w-5 h-5 shrink-0' : variant === 'text' ? 'w-3.5 h-3.5 shrink-0' : 'w-4 h-4 shrink-0';
+const accessibleLabel = ariaLabel || t('join.emailOutlookLabel');
+---
+
+<div
+  class:list={['max-w-full', { 'mt-1 flex flex-col items-center': variant === 'text', 'inline-flex': variant === 'icon', 'w-fit': variant === 'pill' }]}
+  data-send-email
+  data-email={email}
+  data-copied={t('join.emailCopied')}
+  data-copy-label={t('join.emailCopyLabel')}
+>
+  <a href={outlookUrl} target="_blank" rel="noopener noreferrer" aria-label={accessibleLabel} title={accessibleLabel} class={linkClasses[variant]} data-send-email-link data-email-contact={variant === 'pill' ? true : undefined} data-email-variant={variant}>
+    <Mail className={iconClasses} />
+    <span class:list={{ 'sr-only': variant === 'icon', 'select-text break-all': variant === 'pill' || variant === 'text' }} data-send-email-label>{label || t('join.sendEmail')}</span>
+  </a>
+  {inlineFeedback && <>
+    <div class="mt-3" data-send-email-manual data-pagefind-ignore hidden>
+      <p class="text-sm text-gray-600 mb-2">{t('join.emailCopyManually')}</p>
+      <input type="text" readonly value={email} aria-label={t('join.emailAddress')} class="w-full max-w-xs min-w-0 rounded-lg border border-gray-300 bg-white px-3 py-2 text-center text-sm text-gray-700 select-text" />
+    </div>
+  </>}
+</div>
+
+<script>
+  const toast = document.querySelector<HTMLElement>('[data-email-toast]')!;
+  let toastTimer: number | undefined;
+  const hideToast = () => {
+    window.clearTimeout(toastTimer);
+    toast.hidden = true;
+    toast.textContent = '';
+  };
+  const showCopied = (message: string) => {
+    hideToast();
+    toast.textContent = message;
+    toast.hidden = false;
+    toastTimer = window.setTimeout(hideToast, 2000);
+  };
+
+  const groups = new Set([...document.querySelectorAll<HTMLElement>('[data-send-email]')]
+    .map(container => container.closest<HTMLElement>('[data-email-group]') || container));
+  groups.forEach(group => {
+    const container = group.matches('[data-send-email]') ? group : group.querySelector<HTMLElement>('[data-send-email]')!;
+    const links = group.querySelectorAll<HTMLAnchorElement>('[data-send-email-link]');
+    const manual = group.querySelector<HTMLElement>('[data-send-email-manual]')!;
+    const address = manual.querySelector<HTMLInputElement>('input')!;
+    let copying = false;
+    let copyMode = false;
+
+    const copyEmail = async () => {
+      if (copying) return;
+      copying = true;
+      copyMode = true;
+      hideToast();
+      links.forEach(link => {
+        link.setAttribute('role', 'button');
+        link.setAttribute('aria-busy', 'true');
+        link.setAttribute('aria-label', container.dataset.copyLabel!);
+        link.title = container.dataset.copyLabel!;
+      });
+      try {
+        await navigator.clipboard.writeText(container.dataset.email!);
+        manual.hidden = true;
+        showCopied(container.dataset.copied!);
+      } catch {
+        manual.hidden = false;
+        address.focus();
+        address.select();
+        address.setSelectionRange(0, address.value.length);
+      } finally {
+        copying = false;
+        links.forEach(link => link.removeAttribute('aria-busy'));
+      }
+    };
+
+    links.forEach(link => {
+      link.addEventListener('click', event => {
+        if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+        event.preventDefault();
+        if (copyMode) {
+          void copyEmail();
+          return;
+        }
+
+        let composeWindow: Window | null = null;
+        try {
+          // Open a blank tab first: using the noopener window feature would return
+          // null even on success, so it cannot identify a blocked popup.
+          composeWindow = window.open('', '_blank');
+          if (!composeWindow) {
+            void copyEmail();
+            return;
+          }
+          // Disconnect the opener before navigating to Outlook.
+          composeWindow.opener = null;
+          composeWindow.location.replace(link.href);
+        } catch {
+          composeWindow?.close();
+          void copyEmail();
+        }
+      });
+
+      link.addEventListener('keydown', event => {
+        if (copyMode && event.key === ' ') {
+          event.preventDefault();
+          link.click();
+        }
+      });
+    });
+  });
+</script>

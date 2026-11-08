@@ -1,0 +1,36 @@
+---
+import { FileText, Github, Play, MonitorPlay, Video, ExternalLink, Globe } from 'lucide-react';
+import type { PublicationEntry } from '../lib/template';
+import type { Lang } from '../lib/site';
+import { useTranslations } from '../i18n/ui';
+
+interface Props { entry: PublicationEntry; lang: Lang; }
+const { entry, lang } = Astro.props;
+const { links } = entry.data;
+const t = useTranslations(lang);
+const iconMap: Record<string, any> = {
+  pdf: FileText, code: Github, demo: Play, slides: MonitorPlay, video: Video, website: Globe,
+};
+---
+
+{links && Object.keys(links).length > 0 && (
+  <div class="flex flex-wrap gap-3 pt-1">
+    {Object.entries(links).map(([key, url]) => {
+      if (!url || url === '#') return null;
+      const Icon = iconMap[key] || ExternalLink;
+      return (
+        <a
+          href={url}
+          target={key === 'citation' ? undefined : '_blank'}
+          download={key === 'citation' ? entry.id + '.bib' : undefined}
+          rel="noopener noreferrer"
+          data-publication-link={key}
+          class="inline-flex items-center gap-1.5 px-3 py-1 text-xs font-medium text-gray-600 border border-gray-200 rounded-md hover:text-blue-600 hover:border-blue-200 hover:bg-blue-50 transition-all"
+        >
+          <Icon className="w-3.5 h-3.5" />
+          {t(key)}
+        </a>
+      );
+    })}
+  </div>
+)}

@@ -4,7 +4,7 @@ export type Lang = 'zh' | 'en';
 export type Member = (typeof data.members)[number];
 export type Publication = (typeof data.publications)[number];
 export type News = (typeof data.news)[number];
-export const { members, publications, news, research } = data;
+export const { members, publications, news, research, researchDirections, gallery, patents } = data;
 export const activeMembers = members.filter(m => m.role !== 'alumni');
 export const alumni = members.filter(m => m.role === 'alumni');
 export const localPath = (lang: Lang, path = '') => {
@@ -44,14 +44,14 @@ export const displayName = (m: Member, lang: Lang) => m.name[lang];
 export const groups = ['faculty', 'postdoc', 'phd', 'master', 'undergraduate', 'visitor'];
 export const formatDate = (date: string, lang: Lang) => new Date(date + 'T12:00:00Z').toLocaleDateString(lang === 'zh' ? 'zh-CN' : 'en-GB', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' });
 
-export type PageKind = 'home' | 'research' | 'research-detail' | 'team' | 'publications' | 'achievements' | 'activities' | 'news' | 'join' | 'search' | 'member' | 'paper' | 'article' | 'coauthor' | 'redirect';
+export type PageKind = 'home' | 'research' | 'research-detail' | 'team' | 'publications' | 'achievements' | 'activities' | 'news' | 'join' | 'search' | 'gallery' | 'member' | 'paper' | 'article' | 'coauthor' | 'redirect';
 export interface PageRoute { route?: string; kind: PageKind; lang: Lang; id?: string; target?: string; }
 export function pageRoutes(): PageRoute[] {
   const routes = new Map<string, PageRoute>();
   const add = (item: PageRoute) => { if (!routes.has(item.route || '')) routes.set(item.route || '', item); };
   for (const lang of ['zh', 'en'] as const) {
     const prefix = lang === 'en' ? 'en/' : '';
-    for (const kind of ['home', 'research', 'team', 'publications', 'achievements', 'activities', 'news', 'join', 'search'] as const) {
+    for (const kind of ['home', 'research', 'team', 'publications', 'achievements', 'activities', 'news', 'join', 'search', 'gallery'] as const) {
       add({ route: (prefix + (kind === 'home' ? '' : kind)).replace(/\/$/, '') || undefined, kind, lang });
     }
     ['areas', 'group', 'results'].forEach(id => add({ route: prefix + 'research/' + id, kind: 'research-detail', lang, id }));
@@ -65,6 +65,10 @@ export function pageRoutes(): PageRoute[] {
       p.authorSlugs.forEach((id, index) => {
         if (!aliases['author/' + id]) add({ route: prefix + 'author/' + id, kind: 'coauthor', lang, id: p.authors[index] });
       });
+    });
+    data.publicationRedirects.forEach(id => {
+      aliases['publications/' + id] = 'publications';
+      aliases['publication/' + id] = 'publications';
     });
     news.forEach(n => { aliases['post/' + n.id] = 'news/' + n.id; });
     Object.entries(aliases).forEach(([path, to]) => add({ route: prefix + path, kind: 'redirect', lang, target: localPath(lang, to) }));

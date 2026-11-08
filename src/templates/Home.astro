@@ -11,6 +11,7 @@ import { getCollection } from '../lib/template';
 import { Image } from 'astro:assets';
 import { ArrowRight, Calendar } from 'lucide-react';
 import { SITE } from '../config';
+import GalleryGrid from '../components/GalleryGrid.astro';
 
 const papers = (await getCollection('publications', lang))
   .filter(p => p.data.type === 'paper' && p.data.featured)
@@ -86,7 +87,7 @@ const activities = (await getCollection('news', lang))
 
       <div class="grid gap-6 md:grid-cols-3">
         {papers.map(paper => {
-          const link = paper.data.links?.website || paper.data.links?.pdf || '/achievements';
+          const link = paper.data.links?.website || paper.data.links?.arxiv || paper.data.links?.doi || paper.data.links?.pdf || localPath(lang, 'achievements');
           const isExternal = link.startsWith('http');
           return (
           <a 
@@ -169,6 +170,15 @@ const activities = (await getCollection('news', lang))
           </div>
         )})}
       </div>
+    </div>
+  </section>
+  <section class="py-16 bg-gray-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex justify-between items-center mb-8">
+        <h2 class="text-3xl font-bold text-gray-900">{t('nav.gallery')}</h2>
+        <a href={localPath(lang, 'gallery')} class="text-blue-600 hover:underline">{t('section.viewAll')}</a>
+      </div>
+      <GalleryGrid lang={lang} />
     </div>
   </section>
 </Layout>

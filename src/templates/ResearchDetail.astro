@@ -27,7 +27,7 @@ const area = (await getCollection('research', lang)).find(entry => entry.id === 
           <img src={area.data.cover.src} alt={area.data.title} class="w-full h-full object-cover" />
         </div>
       )}
-      <p class="text-xl text-gray-600 leading-relaxed">{area.data.description}</p>
+      {area.id !== 'areas' && <p class="text-xl text-gray-600 leading-relaxed">{area.data.description}</p>}
     </header>
 
     <div class="prose prose-lg prose-blue max-w-none text-gray-700">

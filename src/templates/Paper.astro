@@ -7,7 +7,7 @@ const path = (page.route || '').replace(/^en(?:\/|$)/, '');
 const t = useTranslations(lang);
 
 import Layout from '../layouts/Layout.astro';
-import PublicationItem from '../components/PublicationItem.astro';
+import PublicationLinks from '../components/PublicationLinks.astro';
 import { getCollection } from '../lib/template';
 
 
@@ -26,8 +26,10 @@ const area = (await getCollection('publications', lang)).find(entry => entry.id 
       <p class="text-xl text-gray-600 leading-relaxed">{area.data.authors.join(', ')} · {area.data.venue} · {area.data.year}</p>
     </header>
 
-    <div class="prose prose-lg prose-blue max-w-none text-gray-700">
-      <h2>{t('publications.abstract')}</h2><p>{area.body}</p><PublicationItem entry={area} lang={lang} />
-    </div>
+    {area.body && <section class="prose prose-lg prose-blue max-w-none text-gray-700 break-words" aria-labelledby="paper-abstract-heading" data-paper-abstract>
+      <h2 id="paper-abstract-heading">{t('publications.abstract')}</h2>
+      {area.body.split(/\n\s*\n/).map(paragraph => <p>{paragraph}</p>)}
+    </section>}
+    <div class="mt-8" data-paper-links><PublicationLinks entry={area} lang={lang} /></div>
   </article>
 </Layout>

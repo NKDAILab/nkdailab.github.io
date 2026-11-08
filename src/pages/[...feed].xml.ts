@@ -24,7 +24,7 @@ export const GET: APIRoute = ({ props }) => {
   const { lang, memberId, authorName, section } = props as { lang: Lang; memberId?: string; authorName?: string; section: string };
   const member = members.find(m => m.id === memberId);
   const url = (path: string) => new URL(localPath(lang, path), SITE.website).href;
-  const item = (title: string, path: string, description: string, date?: string) => `<item><title>${xml(title)}</title><link>${xml(url(path))}</link><guid isPermaLink="true">${xml(url(path))}</guid><description>${xml(description)}</description>${date ? `<pubDate>${new Date(date + 'T12:00:00Z').toUTCString()}</pubDate>` : ''}</item>`;
+  const item = (title: string, path: string, description: string, date?: string) => `<item><title>${xml(title)}</title><link>${xml(url(path))}</link><guid isPermaLink="true">${xml(url(path))}</guid><description>${xml(description)}</description>${date && /^\d{4}-\d{2}-\d{2}$/.test(date) ? `<pubDate>${new Date(date + 'T12:00:00Z').toUTCString()}</pubDate>` : ''}</item>`;
   const profile = member ? item(member.name[lang], 'team/' + member.id, statusLabel(member.status, lang) + ' · ' + member.profile[lang].bio + (member.destination[lang] ? ' · ' + member.destination[lang] : '')) : '';
   const author = authorName || member?.name.en.replace('Prof. ', '');
   const papers = section === 'post/' ? '' : publications.filter(p => !author || p.authors.includes(author)).map(p => item(p.title, 'publications/' + p.id, p.abstract, p.date)).join('');

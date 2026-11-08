@@ -1,0 +1,569 @@
+{
+  "checkedAt": "2026-11-08T06:42:33+00:00",
+  "policy": "Use original Abstract text, never a generated summary. Supplied archive PDFs remain authoritative where available. Retrieve from linked paper/abstract pages; when IEEE retrieval is restricted use exact-DOI/title-matched original abstract indexes.",
+  "counts": {
+    "total": 42,
+    "preserved": 15,
+    "addedFromProvidedPdfs": 20,
+    "addedFromLinkedPages": 3,
+    "addedFromDoiMatchedIndexes": 4,
+    "generatedSummaries": 0,
+    "missing": 0
+  },
+  "titleAuthorsVenueYearLinksUnchanged": true,
+  "records": [
+    {
+      "paperId": "controllable-generative-reference-for-stereo-image-compression-via-reliability-aware-gating",
+      "title": "Controllable Generative Reference for Stereo Image Compression via Reliability-Aware Gating",
+      "sourceType": "user-provided-pdf",
+      "archive": "../info/实验室发表文章.rar",
+      "file": "2026 ECCV_赵之能Controllable Generative Reference for Stereo Image Compression via Reliability-Aware Gating.pdf",
+      "pdfSha256": "fffc391133275294ce39d4a708ccc7cb44d075aca47f087bdfe1b8f35880c560",
+      "normalization": "Extract Abstract only; remove page headers/footnote, normalize whitespace and PDF ligatures, restore line-wrapped words.",
+      "lineWrapCorrections": [
+        {
+          "extracted": "out-ofview",
+          "restored": "out-of-view"
+        },
+        {
+          "extracted": "targetview",
+          "restored": "target-view"
+        },
+        {
+          "extracted": "ratedistortion",
+          "restored": "rate-distortion"
+        }
+      ],
+      "characters": 1580,
+      "wordCount": 204,
+      "abstractSha256": "1976ff46e5ff1e79f776ea664a04e7aaf1cc4c282261c2ffca5f9c2e21835c1b"
+    },
+    {
+      "paperId": "omniportrait-fine-grained-personalized-portrait-synthesis-via-pivotal-optimization",
+      "title": "OmniPortrait: Fine-Grained Personalized Portrait Synthesis via Pivotal Optimization",
+      "sourceType": "user-provided-pdf",
+      "archive": "../info/实验室发表文章.rar",
+      "file": "2026 ICLR_岳东旭OmniPortrait Fine-Grained Personalized Portrait Synthesis via Pivotal Optimization.pdf",
+      "pdfSha256": "e6b23cee4b47259a3c2bf2d5d40db7df35161477edd4807aad9c16ea81c0b3bb",
+      "normalization": "Extract Abstract only; remove page headers/footnote, normalize whitespace and PDF ligatures, restore line-wrapped words.",
+      "lineWrapCorrections": [],
+      "characters": 1593,
+      "wordCount": 210,
+      "abstractSha256": "8f7b598ced3cdb74a1882cbc03aef2e73a38a6bb9dcced75eaa281435cea04ac"
+    },
+    {
+      "paperId": "omnicvr-a-benchmark-for-omni-composed-video-retrieval-with-vision-audio-and-text",
+      "title": "OmniCVR: A benchmark for omni-composed video retrieval with vision, audio, and text",
+      "sourceType": "user-provided-pdf",
+      "archive": "../info/实验室发表文章.rar",
+      "file": "2026 ICLR_纪俊阳OmniCVR A Benchmark for Omni-Composed Video Retrieval with Vision, Audio, and Text.pdf",
+      "pdfSha256": "6b179de15cfcede86f3f195f100fa4ece2413bdc27c28a1b5dc0f27af9ed7f63",
+      "normalization": "Extract Abstract only; remove page headers/footnote, normalize whitespace and PDF ligatures, restore line-wrapped words.",
+      "lineWrapCorrections": [
+        {
+          "extracted": "omnicomposed",
+          "restored": "omni-composed"
+        },
+        {
+          "extracted": "state-ofthe-art",
+          "restored": "state-of-the-art"
+        }
+      ],
+      "characters": 1390,
+      "wordCount": 166,
+      "abstractSha256": "bfff376abf8f23f480764e176edeca05fd373a5c41100297b591766c576cf4f8"
+    },
+    {
+      "paperId": "training-free-dual-hyperbolic-adapters-for-better-cross-modal-reasoning",
+      "title": "Training-Free Dual Hyperbolic Adapters for Better Cross-Modal Reasoning",
+      "sourceType": "user-provided-pdf",
+      "archive": "../info/实验室发表文章.rar",
+      "file": "2026 TMM_张毅Training-Free_Dual_Hyperbolic_Adapters_for_Better_Cross-Modal_Reasoning.pdf",
+      "pdfSha256": "0356e915465c9ac9c49adbd34ad20189d717431415b61ae8f3e817bfbcee4386",
+      "normalization": "Extract Abstract only; remove page headers/footnote, normalize whitespace and PDF ligatures, restore line-wrapped words.",
+      "lineWrapCorrections": [
+        {
+          "extracted": "Poincar ́e",
+          "restored": "Poincaré"
+        }
+      ],
+      "characters": 1267,
+      "wordCount": 159,
+      "abstractSha256": "309dd740decaaeb93774f1985cfeb5431b1717a2fabf2de54c00ef252331210e"
+    },
+    {
+      "paperId": "rasa-reliability-aware-selective-adaptation-via-hybrid-reliability-threshold",
+      "title": "RASA: Reliability-Aware Selective Adaptation via Hybrid Reliability Threshold",
+      "sourceType": "preserved-existing-abstract",
+      "characters": 1308,
+      "abstractSha256": "7e5cc370daab88414e764f47128e4ff3a1a5d22093100f839ca8016f00c61727"
+    },
+    {
+      "paperId": "deeply-conditioned-image-compression-via-self-generated-priors",
+      "title": "Deeply-conditioned image compression via self-generated priors",
+      "sourceType": "user-provided-pdf",
+      "archive": "../info/实验室发表文章.rar",
+      "file": "2026 Neurocomputing_赵之能Deeply-conditioned image compression via self-generated priors.pdf",
+      "pdfSha256": "64f9bc41274fcd7fd4f9f111002832efa153e43acfa7231b0a2d6ea1b19c2d5e",
+      "normalization": "Extract Abstract only; remove page headers/footnote, normalize whitespace and PDF ligatures, restore line-wrapped words.",
+      "lineWrapCorrections": [],
+      "characters": 1562,
+      "wordCount": 202,
+      "abstractSha256": "fc740259b44194a1b6a06362959b3eba379c7dbc9984cc9532ebd6fe11d2fa0c"
+    },
+    {
+      "paperId": "causallens-sensitivity-guided-multi-head-causal-intervention-for-hallucination-mitigation-in-large-vision-language-models",
+      "title": "CausalLens: Sensitivity-Guided Multi-Head Causal Intervention for Hallucination Mitigation in Large Vision-Language Models",
+      "sourceType": "user-provided-pdf",
+      "archive": "../info/实验室发表文章.rar",
+      "file": "2026 CVPR_junyangji CausalLens Sensitivity-Guided Multi-Head Causal Intervention for Hallucination Mitigation in Large Vision-Language Models.pdf",
+      "pdfSha256": "bc7f6e273c24fb9766d5845f85d83f0ab97bdc9e25277234bb352e33eedf5c8a",
+      "normalization": "Extract Abstract only; remove page headers/footnote, normalize whitespace and PDF ligatures, restore line-wrapped words.",
+      "lineWrapCorrections": [],
+      "characters": 1363,
+      "wordCount": 165,
+      "abstractSha256": "d1024e9444990d29eb88c26ed1f52de0fe42252e00ca74a9f61f3ed0feff4561"
+    },
+    {
+      "paperId": "audio-driven-multi-modal-unobtrusive-health-monitoring-and-inference-for-smart-eldercare-at-home",
+      "title": "Audio-Driven Multi-Modal Unobtrusive Health Monitoring and Inference for Smart Eldercare at Home",
+      "sourceType": "user-provided-pdf",
+      "archive": "../info/实验室发表文章.rar",
+      "file": "2026_范昕华Audio_Driven__Multi_Modal_Unobtrusive_Health_Monitoring_and_Inference_for_Smart_Eldercare_at_Home__final.pdf",
+      "pdfSha256": "31caaa4ffe5a0bcf08351a0ac5d745dd20af48a21e1eb6e7e29843a5ce5c20f7",
+      "normalization": "Extract Abstract only; remove page headers/footnote, normalize whitespace and PDF ligatures, restore line-wrapped words.",
+      "lineWrapCorrections": [
+        {
+          "extracted": "longterm",
+          "restored": "long-term"
+        }
+      ],
+      "characters": 1565,
+      "wordCount": 204,
+      "abstractSha256": "693dae41849c7a89dcad4427dc7e0bac5f907d86894f7f2b0a7543d6d425f0df"
+    },
+    {
+      "paperId": "latentedit-adaptive-latent-control-for-consistent-semantic-editing",
+      "title": "LatentEdit: Adaptive Latent Control for Consistent Semantic Editing",
+      "sourceType": "user-provided-pdf",
+      "archive": "../info/实验室发表文章.rar",
+      "file": "2025 PRCV_刘思怡、陈玮铭LatentEdit Adaptive Latent Control for Consistent Semantic Editingpaper_id_2057.pdf",
+      "pdfSha256": "5ad803f020946cb471aea8b62bac36da31c7ea3297737666b6c6a0ad40ed4a78",
+      "normalization": "Extract Abstract only; remove page headers/footnote, normalize whitespace and PDF ligatures, restore line-wrapped words.",
+      "lineWrapCorrections": [
+        {
+          "extracted": "highquality",
+          "restored": "high-quality"
+        }
+      ],
+      "characters": 1289,
+      "wordCount": 162,
+      "abstractSha256": "72ad14bf41c210bb3190224d5a88167f7f92aa4e4d7207450118e29724c4ba49"
+    },
+    {
+      "paperId": "enhancing-visual-and-semantic-alignment-of-multimodal-large-models-in-medical-images",
+      "title": "Enhancing visual and semantic alignment of multimodal large models in medical images",
+      "sourceType": "preserved-existing-abstract",
+      "characters": 1602,
+      "abstractSha256": "62bbdb405d8252f86b9894b2dfa80786fa3483666acae012b74d9fdd683c4a30"
+    },
+    {
+      "paperId": "open-vocabulary-multi-label-classification-based-on-cross-modal-feature-reconstruction-learning",
+      "title": "Open-Vocabulary Multi-Label Classification Based on Cross-Modal Feature Reconstruction Learning",
+      "sourceType": "user-provided-pdf",
+      "archive": "../info/实验室发表文章.rar",
+      "file": "2025 CR203_贾纪源Open-Vocabulary Multi-Label Classification Based on Cross-Modal Feature Reconstruction Learning.pdf",
+      "pdfSha256": "7f4ebca45e72403e9fc18088f9799b57b6659240716c4263163bfa799948bdc5",
+      "normalization": "Extract Abstract only; remove page headers/footnote, normalize whitespace and PDF ligatures, restore line-wrapped words.",
+      "lineWrapCorrections": [
+        {
+          "extracted": "wellsuited",
+          "restored": "well-suited"
+        }
+      ],
+      "characters": 1460,
+      "wordCount": 210,
+      "abstractSha256": "32638fd98898c4ff82f54133f52c06964aed12d279998fe56b21953c46ca4d82"
+    },
+    {
+      "paperId": "cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations",
+      "title": "Cross-Modal Few-Shot Learning with Second-Order Neural Ordinary Differential Equations",
+      "sourceType": "preserved-existing-abstract",
+      "characters": 1051,
+      "abstractSha256": "e99b8ba2efd7f233366e130ebec80227e34e1454df935f8c8f3d239cb7a60632"
+    },
+    {
+      "paperId": "conditional-latent-coding-with-learnable-synthesized-reference-for-deep-image-compression",
+      "title": "Conditional Latent Coding with Learnable Synthesized Reference for Deep Image Compression",
+      "sourceType": "preserved-existing-abstract",
+      "characters": 1619,
+      "abstractSha256": "c60c2e1b8f21fad6dcff89b9d85f53550fc9dda49321de3b00a09f3edb5d66d4"
+    },
+    {
+      "paperId": "window-based-channel-attention-for-wavelet-enhanced-learned-image-compression",
+      "title": "Window-based Channel Attention for Wavelet-enhanced Learned Image Compression",
+      "sourceType": "user-provided-pdf",
+      "archive": "../info/实验室发表文章.rar",
+      "file": "2024 ACCV_徐衡 Xu_Window-based_Channel_Attention_for_Wavelet-enhanced_Learned_Image_Compression_ACCV_2024_paper.pdf",
+      "pdfSha256": "f7245d207b794fdc6cd58bb89c8229fbbb421b16693c0af19938ac2912c9afa8",
+      "normalization": "Extract Abstract only; remove page headers/footnote, normalize whitespace and PDF ligatures, restore line-wrapped words.",
+      "lineWrapCorrections": [
+        {
+          "extracted": "SwinTransformer-based",
+          "restored": "Swin-Transformer-based"
+        }
+      ],
+      "characters": 1339,
+      "wordCount": 174,
+      "abstractSha256": "f9d8f8ed20428df12727b02e20e88ef06dcd8583a62084380165f5f9326d09bc"
+    },
+    {
+      "paperId": "dual-path-adversarial-lifting-for-domain-shift-correction-in-online-test-time-adaptation",
+      "title": "Dual-Path Adversarial Lifting for Domain Shift Correction in Online Test-time Adaptation",
+      "sourceType": "user-provided-pdf",
+      "archive": "../info/实验室发表文章.rar",
+      "file": "2024 ECCV_唐雨顺2408.13983v1.pdf",
+      "pdfSha256": "abf3589aa4e9c0b06ff33b16165eb29234d3e6141b3954cee4c5db2c038e005b",
+      "normalization": "Extract Abstract only; remove page headers/footnote, normalize whitespace and PDF ligatures, restore line-wrapped words.",
+      "lineWrapCorrections": [],
+      "characters": 1886,
+      "wordCount": 276,
+      "abstractSha256": "9d05496186d3b9b4fa2c76f5a3758f70e64b1ffb3aafd5c09a069a94ca3fd8e0"
+    },
+    {
+      "paperId": "conceptual-codebook-learning-for-vision-language-models",
+      "title": "Conceptual Codebook Learning for Vision-Language Models",
+      "sourceType": "user-provided-pdf",
+      "archive": "../info/实验室发表文章.rar",
+      "file": "2024 ECCV_张毅 Conceptual Codebook Learning for Vision-Language Models.pdf",
+      "pdfSha256": "b0b284eb5c4f1f555d38013f22bc354c097c2305a2f2eb1e7f5da5e2be559005",
+      "normalization": "Extract Abstract only; remove page headers/footnote, normalize whitespace and PDF ligatures, restore line-wrapped words.",
+      "lineWrapCorrections": [],
+      "characters": 1454,
+      "wordCount": 199,
+      "abstractSha256": "5e97bb49fed1a0100dd11c4be61a41d81919370198c901cd19673483d9b1966b"
+    },
+    {
+      "paperId": "training-free-feature-reconstruction-with-sparse-optimization-for-vision-language-models",
+      "title": "Training-Free Feature Reconstruction with Sparse Optimization for Vision-Language Models",
+      "sourceType": "user-provided-pdf",
+      "archive": "../info/实验室发表文章.rar",
+      "file": "2024 ACM_张毅Training-Free Feature Reconstruction with Sparse Optimization for Vision-Language Models.pdf",
+      "pdfSha256": "0dae65d5226c5bdc52eba708c2515e153cccf3f4b1aba7edc41b1957db392162",
+      "normalization": "Extract Abstract only; remove page headers/footnote, normalize whitespace and PDF ligatures, restore line-wrapped words.",
+      "lineWrapCorrections": [],
+      "characters": 1506,
+      "wordCount": 207,
+      "abstractSha256": "312f653908d21af3bd40cd25fab88b2bebad111ffebdb72644212e3942f4099d"
+    },
+    {
+      "paperId": "domain-conditioned-transformer-for-fully-test-time-adaptation",
+      "title": "Domain-Conditioned Transformer for Fully Test-time Adaptation",
+      "sourceType": "user-provided-pdf",
+      "archive": "../info/实验室发表文章.rar",
+      "file": "2024 ACM_唐雨顺2410.10442v1.pdf",
+      "pdfSha256": "dc0cf22f6b5ced79bd889aca8fda87bb933adae85b4e96d08f6509935c545d61",
+      "normalization": "Extract Abstract only; remove page headers/footnote, normalize whitespace and PDF ligatures, restore line-wrapped words.",
+      "lineWrapCorrections": [],
+      "characters": 1331,
+      "wordCount": 183,
+      "abstractSha256": "6cf6a96f45d57d8ed50c2f2ab91432fe90c60b1251f02649d24e1212953a4afd"
+    },
+    {
+      "paperId": "learning-inference-time-drift-sensor-actuator-for-domain-generalization",
+      "title": "Learning Inference-Time Drift Sensor-Actuator for Domain Generalization",
+      "sourceType": "user-provided-pdf",
+      "archive": "../info/实验室发表文章.rar",
+      "file": "2024 ICASSP_陈烁硕 Learning_Inference-Time_Drift_Sensor-Actuator_for_Domain_Generalization.pdf",
+      "pdfSha256": "117c8b314b89572afebf6c96036a8e70d41c93b8dfd34d835965bf9401e96a27",
+      "normalization": "Extract Abstract only; remove page headers/footnote, normalize whitespace and PDF ligatures, restore line-wrapped words.",
+      "lineWrapCorrections": [],
+      "characters": 1115,
+      "wordCount": 162,
+      "abstractSha256": "43628651bc6a139a0ef9c4eb7b14ee328eb05d2660f11d2a7c87827a159f47eb"
+    },
+    {
+      "paperId": "cross-constrained-progressive-inference-for-3d-hand-pose-estimation-with-dynamic-observer-decision-adjuster-networks",
+      "title": "Cross-Constrained Progressive Inference for 3D Hand Pose Estimation with Dynamic Observer-Decision-Adjuster Networks",
+      "sourceType": "user-provided-pdf",
+      "archive": "../info/实验室发表文章.rar",
+      "file": "2024 AAAI_阚哲涵 Cross-Constrained Progressive Inference for 3D Hand Pose Estimation with Dynamic Observer-Decision-Adjuster Networks.pdf",
+      "pdfSha256": "0b8149d25871256e0193884c0e35d2d3445147133bf6a015bbc23611ad664b41",
+      "normalization": "Extract Abstract only; remove page headers/footnote, normalize whitespace and PDF ligatures, restore line-wrapped words.",
+      "lineWrapCorrections": [],
+      "characters": 1670,
+      "wordCount": 245,
+      "abstractSha256": "c98633c121c33e5a6c87c067172c0f0111fddf5f77d4a19b10af9cb59a37fb50"
+    },
+    {
+      "paperId": "concept-guided-prompt-learning-for-generalization-in-vision-language-models",
+      "title": "Concept-Guided Prompt Learning for Generalization in Vision-Language Models",
+      "sourceType": "user-provided-pdf",
+      "archive": "../info/实验室发表文章.rar",
+      "file": "2024 AAAI_张毅 2401.07457v1.pdf",
+      "pdfSha256": "be0ab17d10f069a8d571c5a16383c8f703beed7563d3dfb20c586c19d5e753cd",
+      "normalization": "Extract Abstract only; remove page headers/footnote, normalize whitespace and PDF ligatures, restore line-wrapped words.",
+      "lineWrapCorrections": [
+        {
+          "extracted": "conceptguided",
+          "restored": "concept-guided"
+        }
+      ],
+      "characters": 1396,
+      "wordCount": 185,
+      "abstractSha256": "8475bd8c4ebf44030c364863c0f1d7a402e7019b7a78aaf154affc7d51cbfcc5"
+    },
+    {
+      "paperId": "learning-to-adapt-clip-for-few-shot-monocular-depth-estimation",
+      "title": "Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation",
+      "sourceType": "preserved-existing-abstract",
+      "characters": 1552,
+      "abstractSha256": "33d5cd2ff8a6b7b7327e2a5850ad553eefc443866c4bf0d1a4e4a0e25d91ab56"
+    },
+    {
+      "paperId": "unsupervised-action-recognition-using-spatiotemporal-adaptive-and-attention-guided-refining-network",
+      "title": "Unsupervised Action Recognition using Spatiotemporal, Adaptive, and Attention-guided Refining-Network",
+      "sourceType": "indexed-original-abstract",
+      "doi": "10.1109/TAI.2024.3430257",
+      "sourceUrl": "https://api.openalex.org/works/https://doi.org/10.1109/TAI.2024.3430257",
+      "workId": "https://openalex.org/W4400770637",
+      "titleAndDoiMatched": true,
+      "publisherPage": "https://doi.org/10.1109/TAI.2024.3430257",
+      "publisherAccess": "Original IEEE page did not expose the abstract to retrieval; public indexed abstract used with exact DOI/title verification.",
+      "normalization": "Reconstruct original abstract token positions; no paraphrasing.",
+      "characters": 1281,
+      "wordCount": 166,
+      "abstractSha256": "534cac497d19a7c698bf046b4057febc2f39b48ae23c173f1e8cda5b23d068bc"
+    },
+    {
+      "paperId": "learning-visual-conditioning-tokens-to-correct-domain-shift-for-fully-test-time-adaptation",
+      "title": "Learning Visual Conditioning Tokens to Correct Domain Shift for Fully Test-time Adaptation",
+      "sourceType": "user-provided-pdf",
+      "archive": "../info/实验室发表文章.rar",
+      "file": "2024 TMM_唐雨顺 Learning Visual Conditioning Tokens to Correct Domain Shift for Fully Test-time Adaptation.pdf",
+      "pdfSha256": "95b296d07d1d9f0c7bd382ab76da0ef80980405ad12263a635811c181a113891",
+      "normalization": "Extract Abstract only; remove page headers/footnote, normalize whitespace and PDF ligatures, restore line-wrapped words.",
+      "lineWrapCorrections": [
+        {
+          "extracted": "longterm",
+          "restored": "long-term"
+        }
+      ],
+      "characters": 1315,
+      "wordCount": 177,
+      "abstractSha256": "edb1c5e05361d54c1c94f4f405ea14c116a18fac4a72029ad7a6fccd51046824"
+    },
+    {
+      "paperId": "hierarchical-spatial-temporal-masked-contrast-for-skeleton-action-recognition",
+      "title": "Hierarchical Spatial-temporal Masked Contrast for skeleton action recognition",
+      "sourceType": "indexed-original-abstract",
+      "doi": "10.1109/TAI.2024.3430260",
+      "sourceUrl": "https://api.openalex.org/works/https://doi.org/10.1109/TAI.2024.3430260",
+      "workId": "https://openalex.org/W4400726480",
+      "titleAndDoiMatched": true,
+      "publisherPage": "https://ieeexplore.ieee.org/document/10601523",
+      "publisherAccess": "Original IEEE page did not expose the abstract to retrieval; public indexed abstract used with exact DOI/title verification.",
+      "normalization": "Reconstruct original abstract token positions; no paraphrasing.",
+      "characters": 1639,
+      "wordCount": 215,
+      "abstractSha256": "d7c76e15cb759821a662b1d59e7d84433d55ddc610ba734c8ff2a3a0f4e29ce9"
+    },
+    {
+      "paperId": "full-coverage-unobtrusive-health-monitoring-of-elders-at-homes",
+      "title": "Full-coverage unobtrusive health monitoring of elders at homes",
+      "sourceType": "user-provided-pdf",
+      "archive": "../info/实验室发表文章.rar",
+      "file": "2024 IOT_李静1-s2.0-S2542660524001239-main.pdf",
+      "pdfSha256": "9f67c1096a68178be98b5267f5d3f984539cc77171ea66bfdf5db35ebe2eff1a",
+      "normalization": "Extract Abstract only; remove page headers/footnote, normalize whitespace and PDF ligatures, restore line-wrapped words.",
+      "lineWrapCorrections": [
+        {
+          "extracted": "30day",
+          "restored": "30-day"
+        }
+      ],
+      "characters": 1240,
+      "wordCount": 164,
+      "abstractSha256": "8bcd2b413814d1ec1922e0860477aec18799f94ea1349f90d9daed5bc18cf8fc"
+    },
+    {
+      "paperId": "cross-modal-concept-learning-and-inference-for-vision-language-models",
+      "title": "Cross-modal concept learning and inference for vision-language models",
+      "sourceType": "user-provided-pdf",
+      "archive": "../info/实验室发表文章.rar",
+      "file": "2024 Neurocomputing_张毅 1-s2.0-S0925231224003011-main.pdf",
+      "pdfSha256": "fdf14e57ddff48784d0b5b6a2f7ccaa5c3fc18992e499234cb6cbff682ab3ed2",
+      "normalization": "Extract Abstract only; remove page headers/footnote, normalize whitespace and PDF ligatures, restore line-wrapped words.",
+      "lineWrapCorrections": [
+        {
+          "extracted": "imagescale",
+          "restored": "image-scale"
+        }
+      ],
+      "characters": 1404,
+      "wordCount": 205,
+      "abstractSha256": "5ae71521866caed98cea2632369c39d39be2c94fd7584b8f8cb7fb3c28bfe297"
+    },
+    {
+      "paperId": "critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems",
+      "title": "Critical Sampling for Robust Evolution Operator Learning of Unknown Dynamical Systems",
+      "sourceType": "preserved-existing-abstract",
+      "characters": 1689,
+      "abstractSha256": "60deffdca424687753f503afeedde23f18a6f810facaae6ff13e8019e5a2aa26"
+    },
+    {
+      "paperId": "unsupervised-prototype-adapter-for-vision-language-models",
+      "title": "Unsupervised prototype adapter for vision-language models",
+      "sourceType": "preserved-existing-abstract",
+      "characters": 1448,
+      "abstractSha256": "77cdf225c51e348d57b6f6b1c2ef82993fd28a5453869502002c5af2d906365d"
+    },
+    {
+      "paperId": "cross-inferential-networks-for-source-free-unsupervised-domain-adaptation",
+      "title": "Cross-inferential networks for source-free unsupervised domain adaptation",
+      "sourceType": "preserved-existing-abstract",
+      "characters": 1188,
+      "abstractSha256": "bcad220b8eb530fa3a3b74e38d9cd876b4ae2db126c9570804b0ab701d5dc70d"
+    },
+    {
+      "paperId": "self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation",
+      "title": "Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation",
+      "sourceType": "preserved-existing-abstract",
+      "characters": 1488,
+      "abstractSha256": "e9685361da775dc81b664c592af1b3a59bc356c46e6b6466ec6e9cefc0558bb8"
+    },
+    {
+      "paperId": "neuro-modulated-hebbian-learning-for-fully-test-time-adaptation",
+      "title": "Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation",
+      "sourceType": "preserved-existing-abstract",
+      "characters": 1433,
+      "abstractSha256": "d1bb429e79db557b56b40146ee586114e1d9141a65c94879b8023a14ec02889a"
+    },
+    {
+      "paperId": "cycle-optimization-metric-learning-for-few-shot-classification",
+      "title": "Cycle optimization metric learning for few-shot classification",
+      "sourceType": "preserved-existing-abstract",
+      "characters": 1035,
+      "abstractSha256": "91713486bb0fe2bbf4cdaf4b5e42fbb5e875bc28a7a49eba21fe0dc1d4fe157d"
+    },
+    {
+      "paperId": "critical-sampling-for-data-driven-modeling-of-unknown-dynamical-systems",
+      "title": "Critical Sampling for Data-Driven Modeling of Unknown Dynamical Systems",
+      "sourceType": "preserved-existing-abstract",
+      "characters": 1331,
+      "abstractSha256": "7043ec4cba705b52fba39f83afe0f0373ea55a54a2ba3eefcc94a9fc2db078db"
+    },
+    {
+      "paperId": "bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning",
+      "title": "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning",
+      "sourceType": "preserved-existing-abstract",
+      "characters": 1280,
+      "abstractSha256": "56d3659f01a882e716926795863a38f80a891664124e371355fe6f3044cf3afc"
+    },
+    {
+      "paperId": "self-constrained-inference-optimization-on-structural-groups-for-human-pose-estimation",
+      "title": "Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation",
+      "sourceType": "preserved-existing-abstract",
+      "characters": 1825,
+      "abstractSha256": "2992b46602931fbd957d002c17f62a94290b191f7340bd02efb2290a59d6e445"
+    },
+    {
+      "paperId": "geometric-machine-learning-research-and-applications",
+      "title": "Geometric machine learning: research and applications",
+      "sourceType": "original-abstract-from-paper-page",
+      "sourceUrl": "https://link.springer.com/article/10.1007/s11042-022-12683-9",
+      "linkedFromPublication": true,
+      "httpStatus": 200,
+      "normalization": "Preserve source text; normalize HTML whitespace only.",
+      "characters": 903,
+      "wordCount": 130,
+      "abstractSha256": "d0558f7f42a261779b09deebee5154ec3d101fedd3c201628c23cd723233ff67"
+    },
+    {
+      "paperId": "self-guided-information-for-few-shot-classification",
+      "title": "Self-guided information for few-shot classification",
+      "sourceType": "preserved-existing-abstract",
+      "characters": 1122,
+      "abstractSha256": "c270a4238c37e4574c65c6dff87d856bfa87322c0f99bfd1cf93217475433744"
+    },
+    {
+      "paperId": "local-semantic-correlation-modeling-over-graph-neural-networks-for-deep-feature-embedding-and-image-retrieval",
+      "title": "Local semantic correlation modeling over graph neural networks for deep feature embedding and image retrieval",
+      "sourceType": "indexed-original-abstract",
+      "doi": "10.1109/TIP.2022.3163571",
+      "sourceUrl": "https://api.openalex.org/works/https://doi.org/10.1109/TIP.2022.3163571",
+      "workId": "https://openalex.org/W4225665842",
+      "titleAndDoiMatched": true,
+      "publisherPage": "https://doi.org/10.1109/TIP.2022.3163571",
+      "publisherAccess": "Original IEEE page did not expose the abstract to retrieval; public indexed abstract used with exact DOI/title verification.",
+      "normalization": "Reconstruct original abstract token positions; no paraphrasing.",
+      "characters": 1190,
+      "wordCount": 170,
+      "abstractSha256": "ab8cf6c875ac539ef4b78567b28d3dfe47906812d60a44af28772339717765c1"
+    },
+    {
+      "paperId": "jointly-learnt-networks-for-future-action-anticipation-via-self-knowledge-distillation-and-cycle-consistency",
+      "title": "Jointly-learnt networks for future action anticipation via self-knowledge distillation and cycle consistency",
+      "sourceType": "indexed-original-abstract",
+      "doi": "10.1109/TCSVT.2022.3232021",
+      "sourceUrl": "https://api.openalex.org/works/https://doi.org/10.1109/TCSVT.2022.3232021",
+      "workId": "https://openalex.org/W4312688882",
+      "titleAndDoiMatched": true,
+      "publisherPage": "https://doi.org/10.1109/TCSVT.2022.3232021",
+      "publisherAccess": "Original IEEE page did not expose the abstract to retrieval; public indexed abstract used with exact DOI/title verification.",
+      "normalization": "Reconstruct original abstract token positions; no paraphrasing.",
+      "characters": 1720,
+      "wordCount": 242,
+      "abstractSha256": "02d3a2519ca74f42a6f9e0e75b6ef8fc14eb2f9ec02b026b08bcbeaac6ba007d"
+    },
+    {
+      "paperId": "contrastive-bayesian-analysis-for-deep-metric-learning",
+      "title": "Contrastive bayesian analysis for deep metric learning",
+      "sourceType": "original-abstract-from-paper-page",
+      "sourceUrl": "https://arxiv.org/abs/2210.04402",
+      "linkedFromPublication": true,
+      "httpStatus": 200,
+      "normalization": "Preserve source text; normalize HTML whitespace only.",
+      "characters": 1234,
+      "wordCount": 181,
+      "abstractSha256": "cfc8d9dbfb0c4b7c196a7601c41869a269140a3021f6a02fb3724f82cfcb56df"
+    },
+    {
+      "paperId": "coded-residual-transform-for-generalizable-deep-metric-learning",
+      "title": "Coded residual transform for generalizable deep metric learning",
+      "sourceType": "original-abstract-from-paper-page",
+      "sourceUrl": "https://papers.neurips.cc/paper_files/paper/2022/hash/b74a8de47d2b3c928360e0a011f48351-Abstract-Conference.html",
+      "linkedFromPublication": true,
+      "httpStatus": 200,
+      "normalization": "Preserve source text; normalize HTML whitespace only.",
+      "characters": 1882,
+      "wordCount": 259,
+      "abstractSha256": "87ffe9cb3c7ed5af396d698e65ac984287a892c9ee7811f8e4151271cbc4f025"
+    }
+  ],
+  "verification": {
+    "astroErrors": 0,
+    "astroWarnings": 0,
+    "existingDeprecationHints": 10,
+    "buildPassed": true,
+    "contentVerificationPassed": true,
+    "htmlPages": 940,
+    "validXmlFiles": 469,
+    "detailPagesWithOriginalAbstracts": 84,
+    "existingAbstractsPreserved": 15,
+    "metadataAndLinksUnchanged": true,
+    "originalPublicationListStylesRetained": true,
+    "browserDetailCases": 16,
+    "browserLanguages": [
+      "zh",
+      "en"
+    ],
+    "browserViewportWidths": [
+      1440,
+      390
+    ],
+    "horizontalOverflow": false,
+    "citationDownloadPassed": true,
+    "internalDocsExcludedFromBuild": true
+  }
+}

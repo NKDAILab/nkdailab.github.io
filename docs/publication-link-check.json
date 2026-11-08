@@ -1,0 +1,2314 @@
+{
+  "checkedAt": "2026-11-07T09:01:44+00:00",
+  "method": "Streamed HTTP GET with redirects; PDF signature and challenge-page checks",
+  "paperCount": 42,
+  "uniqueExternalLinks": 71,
+  "counts": {
+    "accessible": 40,
+    "network-error": 1,
+    "restricted": 18,
+    "unconfirmed": 12
+  },
+  "results": [
+    {
+      "url": "https://arxiv.org/pdf/2210.04402",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:46+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/pdf/2210.04402",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.36,
+      "papers": [
+        {
+          "paper": "contrastive-bayesian-analysis-for-deep-metric-learning",
+          "title": "Contrastive bayesian analysis for deep metric learning",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2304.07485",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:45+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/pdf/2304.07485",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.36,
+      "papers": [
+        {
+          "paper": "critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems",
+          "title": "Critical Sampling for Robust Evolution Operator Learning of Unknown Dynamical Systems",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2306.16957",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:46+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/pdf/2306.16957",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.5,
+      "papers": [
+        {
+          "paper": "cross-inferential-networks-for-source-free-unsupervised-domain-adaptation",
+          "title": "Cross-inferential networks for source-free unsupervised domain adaptation",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2307.15460",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:44+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/pdf/2307.15460",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.35,
+      "papers": [
+        {
+          "paper": "cross-modal-concept-learning-and-inference-for-vision-language-models",
+          "title": "Cross-modal concept learning and inference for vision-language models",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2308.11507",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:45+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/pdf/2308.11507",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.35,
+      "papers": [
+        {
+          "paper": "unsupervised-prototype-adapter-for-vision-language-models",
+          "title": "Unsupervised prototype adapter for vision-language models",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2309.01256",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:49+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/pdf/2309.01256",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 2.18,
+      "papers": [
+        {
+          "paper": "bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning",
+          "title": "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2401.07457",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:43+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/pdf/2401.07457",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.32,
+      "papers": [
+        {
+          "paper": "concept-guided-prompt-learning-for-generalization-in-vision-language-models",
+          "title": "Concept-Guided Prompt Learning for Generalization in Vision-Language Models",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2406.19341",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:35+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/pdf/2406.19341",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.6,
+      "papers": [
+        {
+          "paper": "learning-visual-conditioning-tokens-to-correct-domain-shift-for-fully-test-time-adaptation",
+          "title": "Learning Visual Conditioning Tokens to Correct Domain Shift for Fully Test-time Adaptation",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2410.10442",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:41+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/pdf/2410.10442",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.4,
+      "papers": [
+        {
+          "paper": "domain-conditioned-transformer-for-fully-test-time-adaptation",
+          "title": "Domain-Conditioned Transformer for Fully Test-time Adaptation",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2412.15813",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:38+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/pdf/2412.15813",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.37,
+      "papers": [
+        {
+          "paper": "cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations",
+          "title": "Cross-Modal Few-Shot Learning with Second-Order Neural Ordinary Differential Equations",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2502.09971",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:38+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/pdf/2502.09971",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.36,
+      "papers": [
+        {
+          "paper": "conditional-latent-coding-with-learnable-synthesized-reference-for-deep-image-compression",
+          "title": "Conditional Latent Coding with Learnable Synthesized Reference for Deep Image Compression",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2509.00541",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:37+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/pdf/2509.00541",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.36,
+      "papers": [
+        {
+          "paper": "latentedit-adaptive-latent-control-for-consistent-semantic-editing",
+          "title": "LatentEdit: Adaptive Latent Control for Consistent Semantic Editing",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2510.24437",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:36+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/pdf/2510.24437",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.39,
+      "papers": [
+        {
+          "paper": "deeply-conditioned-image-compression-via-self-generated-priors",
+          "title": "Deeply-conditioned image compression via self-generated priors",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2512.08820",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:34+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/pdf/2512.08820",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.44,
+      "papers": [
+        {
+          "paper": "training-free-dual-hyperbolic-adapters-for-better-cross-modal-reasoning",
+          "title": "Training-Free Dual Hyperbolic Adapters for Better Cross-Modal Reasoning",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://cmsworkshops.com/ICASSP2024/view_paper.php?PaperNum=1438",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:42+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://cmsworkshops.com/ICASSP2024/view_paper.php?PaperNum=1438",
+      "contentType": "text/html",
+      "sampleBytes": 17463,
+      "pageTitle": "IEEE ICASSP 2024 || Seoul, Korea || 14-19 April 2024",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.12,
+      "papers": [
+        {
+          "paper": "learning-inference-time-drift-sensor-actuator-for-domain-generalization",
+          "title": "Learning Inference-Time Drift Sensor-Actuator for Domain Generalization",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://cmsworkshops.com/ICIP2023/view_paper.php?PaperNum=1125",
+      "clean": true,
+      "checkedAt": "2026-11-07T08:13:42+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://cmsworkshops.com/ICIP2023/view_paper.php?PaperNum=1125",
+      "contentType": "text/html",
+      "sampleBytes": 18093,
+      "pageTitle": "IEEE ICIP 2023 || Kuala Lumpur, Malaysia || 8-11 October 2023",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.17,
+      "papers": [
+        {
+          "paper": "cross-inferential-networks-for-source-free-unsupervised-domain-adaptation",
+          "title": "Cross-inferential networks for source-free unsupervised domain adaptation",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://dl.acm.org/doi/10.1145/3664647.3680678",
+      "clean": true,
+      "checkedAt": "2026-11-07T08:13:39+00:00",
+      "httpStatus": 403,
+      "finalUrl": "https://dl.acm.org/doi/10.1145/3664647.3680678",
+      "contentType": "text/html",
+      "sampleBytes": 5642,
+      "pageTitle": "Just a moment...",
+      "status": "restricted",
+      "detail": "Browser verification, access restriction, or rate limit; not proof of a dead link.",
+      "elapsedSeconds": 0.9,
+      "papers": [
+        {
+          "paper": "domain-conditioned-transformer-for-fully-test-time-adaptation",
+          "title": "Domain-Conditioned Transformer for Fully Test-time Adaptation",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "restricted",
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T08:16:06.179Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 403,
+        "finalUrl": "https://dl.acm.org/doi/10.1145/3664647.3680678",
+        "pageTitle": "Just a moment...",
+        "matchedPaperTitles": [],
+        "status": "restricted",
+        "detail": "Browser also encountered access verification/restriction."
+      }
+    },
+    {
+      "url": "https://dl.acm.org/doi/10.1145/3664647.3680710",
+      "clean": true,
+      "checkedAt": "2026-11-07T08:13:39+00:00",
+      "httpStatus": 403,
+      "finalUrl": "https://dl.acm.org/doi/10.1145/3664647.3680710",
+      "contentType": "text/html",
+      "sampleBytes": 5642,
+      "pageTitle": "Just a moment...",
+      "status": "restricted",
+      "detail": "Browser verification, access restriction, or rate limit; not proof of a dead link.",
+      "elapsedSeconds": 0.9,
+      "papers": [
+        {
+          "paper": "training-free-feature-reconstruction-with-sparse-optimization-for-vision-language-models",
+          "title": "Training-Free Feature Reconstruction with Sparse Optimization for Vision-Language Models",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "restricted",
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T08:16:06.183Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 403,
+        "finalUrl": "https://dl.acm.org/doi/10.1145/3664647.3680710",
+        "pageTitle": "Just a moment...",
+        "matchedPaperTitles": [],
+        "status": "restricted",
+        "detail": "Browser also encountered access verification/restriction."
+      }
+    },
+    {
+      "url": "https://doi.org/10.1016/j.patcog.2022.108880",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:50+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0031320322003612",
+      "contentType": "text/html",
+      "sampleBytes": 2667,
+      "pageTitle": "Redirecting",
+      "status": "unconfirmed",
+      "detail": "HTTP 200 contains only a redirect page; paper page access not confirmed.",
+      "elapsedSeconds": 2.61,
+      "papers": [
+        {
+          "paper": "self-guided-information-for-few-shot-classification",
+          "title": "Self-guided information for few-shot classification",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "unconfirmed",
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T08:00:18.018Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 200,
+        "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0031320322003612",
+        "pageTitle": "Loading https://www.sciencedirect.com/science/article/pii/S0031320322003612?via%3Dihub",
+        "matchedPaperTitles": [],
+        "status": "unconfirmed",
+        "detail": "Browser did not confirm the paper content within the bounded navigation."
+      }
+    },
+    {
+      "url": "https://doi.org/10.1109/TAI.2023.3327676",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:44+00:00",
+      "httpStatus": 202,
+      "finalUrl": "https://ieeexplore.ieee.org/document/10297558/",
+      "contentType": "text/html",
+      "sampleBytes": 2055,
+      "pageTitle": "",
+      "status": "unconfirmed",
+      "detail": "Empty/queued/browser-dependent response; paper page access not confirmed.",
+      "elapsedSeconds": 1.77,
+      "papers": [
+        {
+          "paper": "critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems",
+          "title": "Critical Sampling for Robust Evolution Operator Learning of Unknown Dynamical Systems",
+          "label": "Paper"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:52:50.029Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 202,
+        "finalUrl": "https://ieeexplore.ieee.org/document/10297558/",
+        "pageTitle": "Loading https://ieeexplore.ieee.org/document/10297558/",
+        "matchedPaperTitles": [],
+        "status": "unconfirmed",
+        "detail": "Browser did not confirm the paper content within the bounded navigation."
+      },
+      "effectiveStatus": "unconfirmed"
+    },
+    {
+      "url": "https://doi.org/10.1109/TAI.2024.3430257",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:38+00:00",
+      "httpStatus": 202,
+      "finalUrl": "https://ieeexplore.ieee.org/document/10601531/",
+      "contentType": "text/html",
+      "sampleBytes": 2055,
+      "pageTitle": "",
+      "status": "unconfirmed",
+      "detail": "Empty/queued/browser-dependent response; paper page access not confirmed.",
+      "elapsedSeconds": 1.85,
+      "papers": [
+        {
+          "paper": "unsupervised-action-recognition-using-spatiotemporal-adaptive-and-attention-guided-refining-network",
+          "title": "Unsupervised Action Recognition using Spatiotemporal, Adaptive, and Attention-guided Refining-Network",
+          "label": "Paper"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:52:50.044Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 202,
+        "finalUrl": "https://ieeexplore.ieee.org/document/10601531/",
+        "pageTitle": "",
+        "matchedPaperTitles": [],
+        "status": "unconfirmed",
+        "detail": "Browser did not confirm the paper content within the bounded navigation."
+      },
+      "effectiveStatus": "unconfirmed"
+    },
+    {
+      "url": "https://doi.org/10.1109/TCSVT.2022.3232021",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:48+00:00",
+      "httpStatus": 202,
+      "finalUrl": "https://ieeexplore.ieee.org/document/9998533/",
+      "contentType": "text/html",
+      "sampleBytes": 2055,
+      "pageTitle": "",
+      "status": "unconfirmed",
+      "detail": "Empty/queued/browser-dependent response; paper page access not confirmed.",
+      "elapsedSeconds": 1.84,
+      "papers": [
+        {
+          "paper": "jointly-learnt-networks-for-future-action-anticipation-via-self-knowledge-distillation-and-cycle-consistency",
+          "title": "Jointly-learnt networks for future action anticipation via self-knowledge distillation and cycle consistency",
+          "label": "Paper"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:52:50.050Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 202,
+        "finalUrl": "https://ieeexplore.ieee.org/document/9998533/",
+        "pageTitle": "Loading https://ieeexplore.ieee.org/document/9998533/",
+        "matchedPaperTitles": [],
+        "status": "unconfirmed",
+        "detail": "Browser did not confirm the paper content within the bounded navigation."
+      },
+      "effectiveStatus": "unconfirmed"
+    },
+    {
+      "url": "https://doi.org/10.1109/TIP.2022.3163571",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:51+00:00",
+      "httpStatus": 202,
+      "finalUrl": "https://ieeexplore.ieee.org/document/9749974/",
+      "contentType": "text/html",
+      "sampleBytes": 2055,
+      "pageTitle": "",
+      "status": "unconfirmed",
+      "detail": "Empty/queued/browser-dependent response; paper page access not confirmed.",
+      "elapsedSeconds": 1.76,
+      "papers": [
+        {
+          "paper": "local-semantic-correlation-modeling-over-graph-neural-networks-for-deep-feature-embedding-and-image-retrieval",
+          "title": "Local semantic correlation modeling over graph neural networks for deep feature embedding and image retrieval",
+          "label": "Paper"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:52:54.840Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 202,
+        "finalUrl": "https://ieeexplore.ieee.org/document/9749974/",
+        "pageTitle": "IEEE Xplore - Unable to Load Page",
+        "matchedPaperTitles": [],
+        "status": "unconfirmed",
+        "detail": "Browser did not confirm the paper content within the bounded navigation."
+      },
+      "effectiveStatus": "unconfirmed"
+    },
+    {
+      "url": "https://doi.org/10.1109/TMM.2026.3664982",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:34+00:00",
+      "httpStatus": 202,
+      "finalUrl": "https://ieeexplore.ieee.org/document/11397207/",
+      "contentType": "text/html",
+      "sampleBytes": 2055,
+      "pageTitle": "",
+      "status": "unconfirmed",
+      "detail": "Empty/queued/browser-dependent response; paper page access not confirmed.",
+      "elapsedSeconds": 1.9,
+      "papers": [
+        {
+          "paper": "training-free-dual-hyperbolic-adapters-for-better-cross-modal-reasoning",
+          "title": "Training-Free Dual Hyperbolic Adapters for Better Cross-Modal Reasoning",
+          "label": "Paper"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:52:55.172Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 418,
+        "finalUrl": "https://ieeexplore.ieee.org/document/11397207/",
+        "pageTitle": "IEEE Xplore - Unable to Load Page",
+        "matchedPaperTitles": [],
+        "status": "unconfirmed",
+        "detail": "Browser did not confirm the paper content within the bounded navigation."
+      },
+      "effectiveStatus": "unconfirmed"
+    },
+    {
+      "url": "https://doi.org/10.1109/TPAMI.2022.3221486",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:46+00:00",
+      "httpStatus": 202,
+      "finalUrl": "https://ieeexplore.ieee.org/document/9946419/",
+      "contentType": "text/html",
+      "sampleBytes": 2055,
+      "pageTitle": "",
+      "status": "unconfirmed",
+      "detail": "Empty/queued/browser-dependent response; paper page access not confirmed.",
+      "elapsedSeconds": 1.81,
+      "papers": [
+        {
+          "paper": "contrastive-bayesian-analysis-for-deep-metric-learning",
+          "title": "Contrastive bayesian analysis for deep metric learning",
+          "label": "Paper"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:52:56.116Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 418,
+        "finalUrl": "https://ieeexplore.ieee.org/document/9946419/",
+        "pageTitle": "IEEE Xplore - Unable to Load Page",
+        "matchedPaperTitles": [],
+        "status": "unconfirmed",
+        "detail": "Browser did not confirm the paper content within the bounded navigation."
+      },
+      "effectiveStatus": "unconfirmed"
+    },
+    {
+      "url": "https://eccv.ecva.net/virtual/2026/poster/5305",
+      "clean": true,
+      "checkedAt": "2026-11-07T08:13:39+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://eccv.ecva.net/virtual/2026/poster/5305",
+      "contentType": "text/html",
+      "sampleBytes": 69413,
+      "pageTitle": "ECCV Poster Controllable Generative Reference for Stereo Image Compression via Reliability-Aware Gating",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.28,
+      "papers": [
+        {
+          "paper": "controllable-generative-reference-for-stereo-image-compression-via-reliability-aware-gating",
+          "title": "Controllable Generative Reference for Stereo Image Compression via Reliability-Aware Gating",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/10601523",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:43+00:00",
+      "httpStatus": 202,
+      "finalUrl": "https://ieeexplore.ieee.org/document/10601523",
+      "contentType": "text/html",
+      "sampleBytes": 2055,
+      "pageTitle": "",
+      "status": "unconfirmed",
+      "detail": "Empty/queued/browser-dependent response; paper page access not confirmed.",
+      "elapsedSeconds": 0.85,
+      "papers": [
+        {
+          "paper": "hierarchical-spatial-temporal-masked-contrast-for-skeleton-action-recognition",
+          "title": "Hierarchical Spatial-temporal Masked Contrast for skeleton action recognition",
+          "label": "Paper"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:52:57.214Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 418,
+        "finalUrl": "https://ieeexplore.ieee.org/document/10601523",
+        "pageTitle": "IEEE Xplore - Unable to Load Page",
+        "matchedPaperTitles": [],
+        "status": "unconfirmed",
+        "detail": "Browser did not confirm the paper content within the bounded navigation."
+      },
+      "effectiveStatus": "unconfirmed"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/10636806/",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:35+00:00",
+      "httpStatus": 202,
+      "finalUrl": "https://ieeexplore.ieee.org/document/10636806/",
+      "contentType": "text/html",
+      "sampleBytes": 2055,
+      "pageTitle": "",
+      "status": "unconfirmed",
+      "detail": "Empty/queued/browser-dependent response; paper page access not confirmed.",
+      "elapsedSeconds": 0.87,
+      "papers": [
+        {
+          "paper": "learning-visual-conditioning-tokens-to-correct-domain-shift-for-fully-test-time-adaptation",
+          "title": "Learning Visual Conditioning Tokens to Correct Domain Shift for Fully Test-time Adaptation",
+          "label": "Paper"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:52:58.500Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 418,
+        "finalUrl": "https://ieeexplore.ieee.org/document/10636806/",
+        "pageTitle": "IEEE Xplore - Unable to Load Page",
+        "matchedPaperTitles": [],
+        "status": "unconfirmed",
+        "detail": "Browser did not confirm the paper content within the bounded navigation."
+      },
+      "effectiveStatus": "unconfirmed"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/11192886/",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:37+00:00",
+      "httpStatus": 202,
+      "finalUrl": "https://ieeexplore.ieee.org/document/11192886/",
+      "contentType": "text/html",
+      "sampleBytes": 2055,
+      "pageTitle": "",
+      "status": "unconfirmed",
+      "detail": "Empty/queued/browser-dependent response; paper page access not confirmed.",
+      "elapsedSeconds": 0.86,
+      "papers": [
+        {
+          "paper": "open-vocabulary-multi-label-classification-based-on-cross-modal-feature-reconstruction-learning",
+          "title": "Open-Vocabulary Multi-Label Classification Based on Cross-Modal Feature Reconstruction Learning",
+          "label": "Paper"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:52:58.752Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 418,
+        "finalUrl": "https://ieeexplore.ieee.org/document/11192886/",
+        "pageTitle": "IEEE Xplore - Unable to Load Page",
+        "matchedPaperTitles": [],
+        "status": "unconfirmed",
+        "detail": "Browser did not confirm the paper content within the bounded navigation."
+      },
+      "effectiveStatus": "unconfirmed"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/11339893/",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:37+00:00",
+      "httpStatus": 202,
+      "finalUrl": "https://ieeexplore.ieee.org/document/11339893/",
+      "contentType": "text/html",
+      "sampleBytes": 2055,
+      "pageTitle": "",
+      "status": "unconfirmed",
+      "detail": "Empty/queued/browser-dependent response; paper page access not confirmed.",
+      "elapsedSeconds": 0.85,
+      "papers": [
+        {
+          "paper": "audio-driven-multi-modal-unobtrusive-health-monitoring-and-inference-for-smart-eldercare-at-home",
+          "title": "Audio-Driven Multi-Modal Unobtrusive Health Monitoring and Inference for Smart Eldercare at Home",
+          "label": "Paper"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:52:59.170Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 418,
+        "finalUrl": "https://ieeexplore.ieee.org/document/11339893/",
+        "pageTitle": "IEEE Xplore - Unable to Load Page",
+        "matchedPaperTitles": [],
+        "status": "unconfirmed",
+        "detail": "Browser did not confirm the paper content within the bounded navigation."
+      },
+      "effectiveStatus": "unconfirmed"
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/document/11729341",
+      "clean": true,
+      "checkedAt": "2026-11-07T09:01:43+00:00",
+      "httpStatus": 202,
+      "finalUrl": "https://ieeexplore.ieee.org/document/11729341",
+      "contentType": "text/html",
+      "sampleBytes": 2055,
+      "pageTitle": "",
+      "status": "unconfirmed",
+      "detail": "Empty/queued/redirect-only response; paper page access not confirmed.",
+      "elapsedSeconds": 0.85,
+      "papers": [
+        {
+          "paper": "rasa-reliability-aware-selective-adaptation-via-hybrid-reliability-threshold",
+          "title": "RASA: Reliability-Aware Selective Adaptation via Hybrid Reliability Threshold",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "unconfirmed",
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T09:02:01.037Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 202,
+        "finalUrl": "https://ieeexplore.ieee.org/document/11729341",
+        "pageTitle": "Loading https://ieeexplore.ieee.org/document/11729341",
+        "matchedPaperTitles": [],
+        "status": "unconfirmed",
+        "detail": "Browser did not confirm the paper content within the bounded navigation."
+      }
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s11042-022-12683-9",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:50+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s11042-022-12683-9",
+      "contentType": "text/html",
+      "sampleBytes": 3038,
+      "pageTitle": "Client Challenge",
+      "status": "restricted",
+      "detail": "HTTP 200 contains a client verification challenge, not the paper landing page.",
+      "elapsedSeconds": 0.9,
+      "papers": [
+        {
+          "paper": "geometric-machine-learning-research-and-applications",
+          "title": "Geometric machine learning: research and applications",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "restricted",
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T08:00:18.024Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "navigationNote": "page.goto: Timeout 16000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://link.springer.com/article/10.1007/s11042-022-12683-9\", waiting until \"domcontentloaded\"\u001b[22m\n",
+        "finalUrl": "about:blank",
+        "pageTitle": "Loading https://link.springer.com/article/10.1007/s11042-022-12683-9",
+        "status": "unconfirmed",
+        "detail": "locator.innerText: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('body')\u001b[22m\n"
+      }
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s11227-025-07859-7",
+      "clean": true,
+      "checkedAt": "2026-11-07T09:01:43+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s11227-025-07859-7",
+      "contentType": "text/html",
+      "sampleBytes": 3038,
+      "pageTitle": "Client Challenge",
+      "status": "restricted",
+      "detail": "Browser verification, access restriction, or rate limit; not proof of a dead link.",
+      "elapsedSeconds": 0.94,
+      "papers": [
+        {
+          "paper": "enhancing-visual-and-semantic-alignment-of-multimodal-large-models-in-medical-images",
+          "title": "Enhancing visual and semantic alignment of multimodal large models in medical images",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "accessible",
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T09:02:01.056Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 200,
+        "finalUrl": "https://link.springer.com/article/10.1007/s11227-025-07859-7",
+        "pageTitle": "Enhancing visual and semantic alignment of multimodal large models in medical images | The Journal of Supercomputing | Springer Nature Link",
+        "matchedPaperTitles": [
+          "Enhancing visual and semantic alignment of multimodal large models in medical images"
+        ],
+        "status": "accessible",
+        "detail": "Browser displayed the exact paper title; this confirms the landing page, not subscription full-text access."
+      }
+    },
+    {
+      "url": "https://link.springer.com/chapter/10.1007/978-981-95-5679-3_7",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:37+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://link.springer.com/chapter/10.1007/978-981-95-5679-3_7",
+      "contentType": "text/html",
+      "sampleBytes": 3038,
+      "pageTitle": "Client Challenge",
+      "status": "restricted",
+      "detail": "HTTP 200 contains a client verification challenge, not the paper landing page.",
+      "elapsedSeconds": 0.93,
+      "papers": [
+        {
+          "paper": "latentedit-adaptive-latent-control-for-consistent-semantic-editing",
+          "title": "LatentEdit: Adaptive Latent Control for Consistent Semantic Editing",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "accessible",
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T08:00:37.057Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 200,
+        "finalUrl": "https://link.springer.com/chapter/10.1007/978-981-95-5679-3_7",
+        "pageTitle": "LatentEdit: Adaptive Latent Control for Consistent Semantic Editing | Springer Nature Link",
+        "matchedPaperTitles": [
+          "LatentEdit: Adaptive Latent Control for Consistent Semantic Editing"
+        ],
+        "status": "accessible",
+        "detail": "Browser displayed the exact paper title; this confirms the landing page, not subscription full-text access."
+      }
+    },
+    {
+      "url": "https://link.springer.com/chapter/10.1007/978-981-99-8429-9_16",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:45+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://link.springer.com/chapter/10.1007/978-981-99-8429-9_16",
+      "contentType": "text/html",
+      "sampleBytes": 3038,
+      "pageTitle": "Client Challenge",
+      "status": "restricted",
+      "detail": "HTTP 200 contains a client verification challenge, not the paper landing page.",
+      "elapsedSeconds": 0.92,
+      "papers": [
+        {
+          "paper": "unsupervised-prototype-adapter-for-vision-language-models",
+          "title": "Unsupervised prototype adapter for vision-language models",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "accessible",
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T08:00:42.194Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 200,
+        "finalUrl": "https://link.springer.com/chapter/10.1007/978-981-99-8429-9_16",
+        "pageTitle": "Unsupervised Prototype Adapter for Vision-Language Models | Springer Nature Link",
+        "matchedPaperTitles": [
+          "Unsupervised prototype adapter for vision-language models"
+        ],
+        "status": "accessible",
+        "detail": "Browser displayed the exact paper title; this confirms the landing page, not subscription full-text access."
+      }
+    },
+    {
+      "url": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9864.pdf",
+      "clean": true,
+      "checkedAt": "2026-11-07T08:15:43+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9864.pdf",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.48,
+      "papers": [
+        {
+          "paper": "controllable-generative-reference-for-stereo-image-compression-via-reliability-aware-gating",
+          "title": "Controllable Generative Reference for Stereo Image Compression via Reliability-Aware Gating",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28048",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:42+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/28048",
+      "contentType": "text/html",
+      "sampleBytes": 7031,
+      "pageTitle": "Making sure you're not a bot!",
+      "status": "restricted",
+      "detail": "Browser verification, access restriction, or rate limit; not proof of a dead link.",
+      "elapsedSeconds": 1.2,
+      "papers": [
+        {
+          "paper": "cross-constrained-progressive-inference-for-3d-hand-pose-estimation-with-dynamic-observer-decision-adjuster-networks",
+          "title": "Cross-Constrained Progressive Inference for 3D Hand Pose Estimation with Dynamic Observer-Decision-Adjuster Networks",
+          "label": "Paper"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:53:00.019Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 200,
+        "finalUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/28048",
+        "pageTitle": "Oh noes!",
+        "matchedPaperTitles": [],
+        "status": "restricted",
+        "detail": "Browser also encountered access verification/restriction."
+      },
+      "effectiveStatus": "restricted"
+    },
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28048/28106",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:42+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/28048/28106",
+      "contentType": "text/html",
+      "sampleBytes": 7032,
+      "pageTitle": "Making sure you're not a bot!",
+      "status": "restricted",
+      "detail": "Browser verification, access restriction, or rate limit; not proof of a dead link.",
+      "elapsedSeconds": 0.92,
+      "papers": [
+        {
+          "paper": "cross-constrained-progressive-inference-for-3d-hand-pose-estimation-with-dynamic-observer-decision-adjuster-networks",
+          "title": "Cross-Constrained Progressive Inference for 3D Hand Pose Estimation with Dynamic Observer-Decision-Adjuster Networks",
+          "label": "PDF"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:53:00.270Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 200,
+        "finalUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/28048/28106",
+        "pageTitle": "Oh noes!",
+        "matchedPaperTitles": [],
+        "status": "restricted",
+        "detail": "Browser also encountered access verification/restriction."
+      },
+      "effectiveStatus": "restricted"
+    },
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28568",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:42+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/28568",
+      "contentType": "text/html",
+      "sampleBytes": 7032,
+      "pageTitle": "Making sure you're not a bot!",
+      "status": "restricted",
+      "detail": "Browser verification, access restriction, or rate limit; not proof of a dead link.",
+      "elapsedSeconds": 0.93,
+      "papers": [
+        {
+          "paper": "concept-guided-prompt-learning-for-generalization-in-vision-language-models",
+          "title": "Concept-Guided Prompt Learning for Generalization in Vision-Language Models",
+          "label": "Paper"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:53:00.955Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 200,
+        "finalUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/28568",
+        "pageTitle": "Oh noes!",
+        "matchedPaperTitles": [],
+        "status": "restricted",
+        "detail": "Browser also encountered access verification/restriction."
+      },
+      "effectiveStatus": "restricted"
+    },
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33118",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:38+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/33118",
+      "contentType": "text/html",
+      "sampleBytes": 7032,
+      "pageTitle": "Making sure you're not a bot!",
+      "status": "restricted",
+      "detail": "Browser verification, access restriction, or rate limit; not proof of a dead link.",
+      "elapsedSeconds": 1.51,
+      "papers": [
+        {
+          "paper": "cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations",
+          "title": "Cross-Modal Few-Shot Learning with Second-Order Neural Ordinary Differential Equations",
+          "label": "Paper"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:53:02.254Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 200,
+        "finalUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/33118",
+        "pageTitle": "Oh noes!",
+        "matchedPaperTitles": [],
+        "status": "restricted",
+        "detail": "Browser also encountered access verification/restriction."
+      },
+      "effectiveStatus": "restricted"
+    },
+    {
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33403",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:38+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/33403",
+      "contentType": "text/html",
+      "sampleBytes": 7032,
+      "pageTitle": "Making sure you're not a bot!",
+      "status": "restricted",
+      "detail": "Browser verification, access restriction, or rate limit; not proof of a dead link.",
+      "elapsedSeconds": 0.93,
+      "papers": [
+        {
+          "paper": "conditional-latent-coding-with-learnable-synthesized-reference-for-deep-image-compression",
+          "title": "Conditional Latent Coding with Learnable Synthesized Reference for Deep Image Compression",
+          "label": "Paper"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:53:03.212Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 200,
+        "finalUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/33403",
+        "pageTitle": "Oh noes!",
+        "matchedPaperTitles": [],
+        "status": "restricted",
+        "detail": "Browser also encountered access verification/restriction."
+      },
+      "effectiveStatus": "restricted"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/ACCV2024/html/Xu_Window-based_Channel_Attention_for_Wavelet-enhanced_Learned_Image_Compression_ACCV_2024_paper.html",
+      "clean": true,
+      "checkedAt": "2026-11-07T08:13:41+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://openaccess.thecvf.com/content/ACCV2024/html/Xu_Window-based_Channel_Attention_for_Wavelet-enhanced_Learned_Image_Compression_ACCV_2024_paper.html",
+      "contentType": "text/html",
+      "sampleBytes": 6409,
+      "pageTitle": "ACCV 2024 Open Access Repository",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.09,
+      "papers": [
+        {
+          "paper": "window-based-channel-attention-for-wavelet-enhanced-learned-image-compression",
+          "title": "Window-based Channel Attention for Wavelet-enhanced Learned Image Compression",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/ACCV2024/papers/Xu_Window-based_Channel_Attention_for_Wavelet-enhanced_Learned_Image_Compression_ACCV_2024_paper.pdf",
+      "clean": true,
+      "checkedAt": "2026-11-07T08:15:43+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://openaccess.thecvf.com/content/ACCV2024/papers/Xu_Window-based_Channel_Attention_for_Wavelet-enhanced_Learned_Image_Compression_ACCV_2024_paper.pdf",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.5,
+      "papers": [
+        {
+          "paper": "window-based-channel-attention-for-wavelet-enhanced-learned-image-compression",
+          "title": "Window-based Channel Attention for Wavelet-enhanced Learned Image Compression",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.html",
+      "clean": true,
+      "checkedAt": "2026-11-07T08:13:42+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://openaccess.thecvf.com/content/CVPR2023/html/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.html",
+      "contentType": "text/html",
+      "sampleBytes": 6642,
+      "pageTitle": "CVPR 2023 Open Access Repository",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.08,
+      "papers": [
+        {
+          "paper": "self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation",
+          "title": "Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Tang_Neuro-Modulated_Hebbian_Learning_for_Fully_Test-Time_Adaptation_CVPR_2023_paper.html",
+      "clean": true,
+      "checkedAt": "2026-11-07T08:13:41+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://openaccess.thecvf.com/content/CVPR2023/html/Tang_Neuro-Modulated_Hebbian_Learning_for_Fully_Test-Time_Adaptation_CVPR_2023_paper.html",
+      "contentType": "text/html",
+      "sampleBytes": 6748,
+      "pageTitle": "CVPR 2023 Open Access Repository",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.05,
+      "papers": [
+        {
+          "paper": "neuro-modulated-hebbian-learning-for-fully-test-time-adaptation",
+          "title": "Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.pdf",
+      "clean": true,
+      "checkedAt": "2026-11-07T08:15:43+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.pdf",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.6,
+      "papers": [
+        {
+          "paper": "self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation",
+          "title": "Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Neuro-Modulated_Hebbian_Learning_for_Fully_Test-Time_Adaptation_CVPR_2023_paper.pdf",
+      "clean": true,
+      "checkedAt": "2026-11-07T08:15:43+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Neuro-Modulated_Hebbian_Learning_for_Fully_Test-Time_Adaptation_CVPR_2023_paper.pdf",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.48,
+      "papers": [
+        {
+          "paper": "neuro-modulated-hebbian-learning-for-fully-test-time-adaptation",
+          "title": "Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Ji_CausalLens_Sensitivity-Guided_Multi-Head_Causal_Intervention_for_Hallucination_Mitigation_in_Large_CVPR_2026_paper.html",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:36+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://openaccess.thecvf.com/content/CVPR2026/html/Ji_CausalLens_Sensitivity-Guided_Multi-Head_Causal_Intervention_for_Hallucination_Mitigation_in_Large_CVPR_2026_paper.html",
+      "contentType": "text/html",
+      "sampleBytes": 6544,
+      "pageTitle": "CVPR 2026 Open Access Repository",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.02,
+      "papers": [
+        {
+          "paper": "causallens-sensitivity-guided-multi-head-causal-intervention-for-hallucination-mitigation-in-large-vision-language-models",
+          "title": "CausalLens: Sensitivity-Guided Multi-Head Causal Intervention for Hallucination Mitigation in Large Vision-Language Models",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Ji_CausalLens_Sensitivity-Guided_Multi-Head_Causal_Intervention_for_Hallucination_Mitigation_in_Large_CVPR_2026_paper.pdf",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:36+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://openaccess.thecvf.com/content/CVPR2026/papers/Ji_CausalLens_Sensitivity-Guided_Multi-Head_Causal_Intervention_for_Hallucination_Mitigation_in_Large_CVPR_2026_paper.pdf",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.51,
+      "papers": [
+        {
+          "paper": "causallens-sensitivity-guided-multi-head-causal-intervention-for-hallucination-mitigation-in-large-vision-language-models",
+          "title": "CausalLens: Sensitivity-Guided Multi-Head Causal Intervention for Hallucination Mitigation in Large Vision-Language Models",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/WACV2024/html/Hu_Learning_To_Adapt_CLIP_for_Few-Shot_Monocular_Depth_Estimation_WACV_2024_paper.html",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:43+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://openaccess.thecvf.com/content/WACV2024/html/Hu_Learning_To_Adapt_CLIP_for_Few-Shot_Monocular_Depth_Estimation_WACV_2024_paper.html",
+      "contentType": "text/html",
+      "sampleBytes": 6531,
+      "pageTitle": "WACV 2024 Open Access Repository",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.07,
+      "papers": [
+        {
+          "paper": "learning-to-adapt-clip-for-few-shot-monocular-depth-estimation",
+          "title": "Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://openaccess.thecvf.com/content/WACV2024/papers/Hu_Learning_To_Adapt_CLIP_for_Few-Shot_Monocular_Depth_Estimation_WACV_2024_paper.pdf",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:43+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://openaccess.thecvf.com/content/WACV2024/papers/Hu_Learning_To_Adapt_CLIP_for_Few-Shot_Monocular_Depth_Estimation_WACV_2024_paper.pdf",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.59,
+      "papers": [
+        {
+          "paper": "learning-to-adapt-clip-for-few-shot-monocular-depth-estimation",
+          "title": "Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://openreview.net/forum?id=ILW7Ckfej3",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:48+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DILW7Ckfej3",
+      "contentType": "text/html",
+      "sampleBytes": 4787,
+      "pageTitle": "Verifying your browser | OpenReview",
+      "status": "restricted",
+      "detail": "Browser verification, access restriction, or rate limit; not proof of a dead link.",
+      "elapsedSeconds": 1.28,
+      "papers": [
+        {
+          "paper": "critical-sampling-for-data-driven-modeling-of-unknown-dynamical-systems",
+          "title": "Critical Sampling for Data-Driven Modeling of Unknown Dynamical Systems",
+          "label": "Paper"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:53:03.731Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 200,
+        "finalUrl": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DILW7Ckfej3",
+        "pageTitle": "Verifying your browser | OpenReview",
+        "matchedPaperTitles": [],
+        "status": "restricted",
+        "detail": "Browser also encountered access verification/restriction."
+      },
+      "effectiveStatus": "restricted"
+    },
+    {
+      "url": "https://openreview.net/pdf?id=ILW7Ckfej3",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:49+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://openreview.net/challenge?redirect=%2Fpdf%3Fid%3DILW7Ckfej3",
+      "contentType": "text/html",
+      "sampleBytes": 4783,
+      "pageTitle": "Verifying your browser | OpenReview",
+      "status": "restricted",
+      "detail": "Browser verification, access restriction, or rate limit; not proof of a dead link.",
+      "elapsedSeconds": 1.18,
+      "papers": [
+        {
+          "paper": "critical-sampling-for-data-driven-modeling-of-unknown-dynamical-systems",
+          "title": "Critical Sampling for Data-Driven Modeling of Unknown Dynamical Systems",
+          "label": "PDF"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:53:04.419Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 200,
+        "finalUrl": "https://openreview.net/challenge?redirect=%2Fpdf%3Fid%3DILW7Ckfej3",
+        "pageTitle": "Verifying your browser | OpenReview",
+        "matchedPaperTitles": [],
+        "status": "restricted",
+        "detail": "Browser also encountered access verification/restriction."
+      },
+      "effectiveStatus": "restricted"
+    },
+    {
+      "url": "https://openreview.net/pdf?id=bXhz5c12Ee",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:41+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://openreview.net/challenge?redirect=%2Fpdf%3Fid%3DbXhz5c12Ee",
+      "contentType": "text/html",
+      "sampleBytes": 4783,
+      "pageTitle": "Verifying your browser | OpenReview",
+      "status": "restricted",
+      "detail": "Browser verification, access restriction, or rate limit; not proof of a dead link.",
+      "elapsedSeconds": 1.17,
+      "papers": [
+        {
+          "paper": "training-free-feature-reconstruction-with-sparse-optimization-for-vision-language-models",
+          "title": "Training-Free Feature Reconstruction with Sparse Optimization for Vision-Language Models",
+          "label": "PDF"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:53:04.706Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 200,
+        "finalUrl": "https://openreview.net/challenge?redirect=%2Fpdf%3Fid%3DbXhz5c12Ee",
+        "pageTitle": "Verifying your browser | OpenReview",
+        "matchedPaperTitles": [],
+        "status": "restricted",
+        "detail": "Browser also encountered access verification/restriction."
+      },
+      "effectiveStatus": "restricted"
+    },
+    {
+      "url": "https://papers.neurips.cc/paper_files/paper/2022/file/b74a8de47d2b3c928360e0a011f48351-Paper-Conference.pdf",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:52+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://papers.neurips.cc/paper_files/paper/2022/file/b74a8de47d2b3c928360e0a011f48351-Paper-Conference.pdf",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.56,
+      "papers": [
+        {
+          "paper": "coded-residual-transform-for-generalizable-deep-metric-learning",
+          "title": "Coded residual transform for generalizable deep metric learning",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://papers.neurips.cc/paper_files/paper/2022/hash/b74a8de47d2b3c928360e0a011f48351-Abstract-Conference.html",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:51+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://papers.neurips.cc/paper_files/paper/2022/hash/b74a8de47d2b3c928360e0a011f48351-Abstract-Conference.html",
+      "contentType": "text/html",
+      "sampleBytes": 10471,
+      "pageTitle": "Coded Residual Transform for Generalizable Deep Metric Learning",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.07,
+      "papers": [
+        {
+          "paper": "coded-residual-transform-for-generalizable-deep-metric-learning",
+          "title": "Coded residual transform for generalizable deep metric learning",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://proceedings.bmvc2023.org/182/",
+      "clean": true,
+      "checkedAt": "2026-11-07T08:13:42+00:00",
+      "status": "network-error",
+      "detail": "HTTPSConnectionPool(host='proceedings.bmvc2023.org', port=443): Max retries exceeded with url: /182/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))",
+      "elapsedSeconds": 1.78,
+      "papers": [
+        {
+          "paper": "bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning",
+          "title": "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "network-error",
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T08:16:08.527Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "navigationNote": "page.goto: net::ERR_CONNECTION_CLOSED at https://proceedings.bmvc2023.org/182/\nCall log:\n\u001b[2m  - navigating to \"https://proceedings.bmvc2023.org/182/\", waiting until \"domcontentloa",
+        "finalUrl": "chrome-error://chromewebdata/",
+        "pageTitle": "",
+        "matchedPaperTitles": [],
+        "status": "unconfirmed",
+        "detail": "Browser did not confirm the paper content within the bounded navigation."
+      }
+    },
+    {
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/64f4014a46a58a23bcfd9988e8204a12-Paper-Conference.pdf",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:33+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://proceedings.iclr.cc/paper_files/paper/2026/file/64f4014a46a58a23bcfd9988e8204a12-Paper-Conference.pdf",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.69,
+      "papers": [
+        {
+          "paper": "omniportrait-fine-grained-personalized-portrait-synthesis-via-pivotal-optimization",
+          "title": "OmniPortrait: Fine-Grained Personalized Portrait Synthesis via Pivotal Optimization",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/b6c0e8e7cc029eed4253e3fda4ea958f-Paper-Conference.pdf",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:33+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://proceedings.iclr.cc/paper_files/paper/2026/file/b6c0e8e7cc029eed4253e3fda4ea958f-Paper-Conference.pdf",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.62,
+      "papers": [
+        {
+          "paper": "omnicvr-a-benchmark-for-omni-composed-video-retrieval-with-vision-audio-and-text",
+          "title": "OmniCVR: A benchmark for omni-composed video retrieval with vision, audio, and text",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/64f4014a46a58a23bcfd9988e8204a12-Abstract-Conference.html",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:33+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/64f4014a46a58a23bcfd9988e8204a12-Abstract-Conference.html",
+      "contentType": "text/html",
+      "sampleBytes": 9876,
+      "pageTitle": "OmniPortrait: Fine-Grained Personalized Portrait Synthesis via Pivotal Optimization",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.14,
+      "papers": [
+        {
+          "paper": "omniportrait-fine-grained-personalized-portrait-synthesis-via-pivotal-optimization",
+          "title": "OmniPortrait: Fine-Grained Personalized Portrait Synthesis via Pivotal Optimization",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/b6c0e8e7cc029eed4253e3fda4ea958f-Abstract-Conference.html",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:33+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/b6c0e8e7cc029eed4253e3fda4ea958f-Abstract-Conference.html",
+      "contentType": "text/html",
+      "sampleBytes": 9997,
+      "pageTitle": "OmniCVR: A Benchmark for Omni-Composed Video Retrieval with Vision, Audio, and Text",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.16,
+      "papers": [
+        {
+          "paper": "omnicvr-a-benchmark-for-omni-composed-video-retrieval-with-vision-audio-and-text",
+          "title": "OmniCVR: A benchmark for omni-composed video retrieval with vision, audio, and text",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3985_ECCV_2022_paper.php",
+      "clean": true,
+      "checkedAt": "2026-11-07T08:13:43+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3985_ECCV_2022_paper.php",
+      "contentType": "text/html",
+      "sampleBytes": 5683,
+      "pageTitle": "ECVA | European Computer Vision Association",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.28,
+      "papers": [
+        {
+          "paper": "self-constrained-inference-optimization-on-structural-groups-for-human-pose-estimation",
+          "title": "Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650718.pdf",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:50+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650718.pdf",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 3.17,
+      "papers": [
+        {
+          "paper": "self-constrained-inference-optimization-on-structural-groups-for-human-pose-estimation",
+          "title": "Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8443_ECCV_2024_paper.php",
+      "clean": true,
+      "checkedAt": "2026-11-07T08:13:39+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8443_ECCV_2024_paper.php",
+      "contentType": "text/html",
+      "sampleBytes": 5692,
+      "pageTitle": "ECVA | European Computer Vision Association",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.46,
+      "papers": [
+        {
+          "paper": "dual-path-adversarial-lifting-for-domain-shift-correction-in-online-test-time-adaptation",
+          "title": "Dual-Path Adversarial Lifting for Domain Shift Correction in Online Test-time Adaptation",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/9905_ECCV_2024_paper.php",
+      "clean": true,
+      "checkedAt": "2026-11-07T08:13:39+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/9905_ECCV_2024_paper.php",
+      "contentType": "text/html",
+      "sampleBytes": 5258,
+      "pageTitle": "ECVA | European Computer Vision Association",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.46,
+      "papers": [
+        {
+          "paper": "conceptual-codebook-learning-for-vision-language-models",
+          "title": "Conceptual Codebook Learning for Vision-Language Models",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08443.pdf",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:39+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08443.pdf",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.83,
+      "papers": [
+        {
+          "paper": "dual-path-adversarial-lifting-for-domain-shift-correction-in-online-test-time-adaptation",
+          "title": "Dual-Path Adversarial Lifting for Domain Shift Correction in Online Test-time Adaptation",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09905.pdf",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:40+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09905.pdf",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.76,
+      "papers": [
+        {
+          "paper": "conceptual-codebook-learning-for-vision-language-models",
+          "title": "Conceptual Codebook Learning for Vision-Language Models",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0031320323001681",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:48+00:00",
+      "httpStatus": 403,
+      "finalUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0031320323001681",
+      "contentType": "text/html",
+      "sampleBytes": 144824,
+      "pageTitle": "ScienceDirect",
+      "status": "restricted",
+      "detail": "Browser verification, access restriction, or rate limit; not proof of a dead link.",
+      "elapsedSeconds": 1.42,
+      "papers": [
+        {
+          "paper": "cycle-optimization-metric-learning-for-few-shot-classification",
+          "title": "Cycle optimization metric learning for few-shot classification",
+          "label": "Paper"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:53:07.440Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 403,
+        "finalUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0031320323001681",
+        "pageTitle": "ScienceDirect",
+        "matchedPaperTitles": [],
+        "status": "unconfirmed",
+        "detail": "Browser did not confirm the paper content within the bounded navigation."
+      },
+      "effectiveStatus": "restricted"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0925231224003011",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:44+00:00",
+      "httpStatus": 403,
+      "finalUrl": "https://www.sciencedirect.com/science/article/pii/S0925231224003011",
+      "contentType": "text/html",
+      "sampleBytes": 132782,
+      "pageTitle": "ScienceDirect",
+      "status": "restricted",
+      "detail": "Browser verification, access restriction, or rate limit; not proof of a dead link.",
+      "elapsedSeconds": 1.29,
+      "papers": [
+        {
+          "paper": "cross-modal-concept-learning-and-inference-for-vision-language-models",
+          "title": "Cross-modal concept learning and inference for vision-language models",
+          "label": "Paper"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:53:07.840Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 403,
+        "finalUrl": "https://www.sciencedirect.com/science/article/pii/S0925231224003011",
+        "pageTitle": "ScienceDirect",
+        "matchedPaperTitles": [],
+        "status": "unconfirmed",
+        "detail": "Browser did not confirm the paper content within the bounded navigation."
+      },
+      "effectiveStatus": "restricted"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0925231225031005",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:36+00:00",
+      "httpStatus": 403,
+      "finalUrl": "https://www.sciencedirect.com/science/article/pii/S0925231225031005",
+      "contentType": "text/html",
+      "sampleBytes": 132782,
+      "pageTitle": "ScienceDirect",
+      "status": "restricted",
+      "detail": "Browser verification, access restriction, or rate limit; not proof of a dead link.",
+      "elapsedSeconds": 1.35,
+      "papers": [
+        {
+          "paper": "deeply-conditioned-image-compression-via-self-generated-priors",
+          "title": "Deeply-conditioned image compression via self-generated priors",
+          "label": "Paper"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:53:08.048Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 403,
+        "finalUrl": "https://www.sciencedirect.com/science/article/pii/S0925231225031005",
+        "pageTitle": "ScienceDirect",
+        "matchedPaperTitles": [],
+        "status": "unconfirmed",
+        "detail": "Browser did not confirm the paper content within the bounded navigation."
+      },
+      "effectiveStatus": "restricted"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S2542660524001239",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:44+00:00",
+      "httpStatus": 403,
+      "finalUrl": "https://www.sciencedirect.com/science/article/pii/S2542660524001239",
+      "contentType": "text/html",
+      "sampleBytes": 144823,
+      "pageTitle": "ScienceDirect",
+      "status": "restricted",
+      "detail": "Browser verification, access restriction, or rate limit; not proof of a dead link.",
+      "elapsedSeconds": 1.34,
+      "papers": [
+        {
+          "paper": "full-coverage-unobtrusive-health-monitoring-of-elders-at-homes",
+          "title": "Full-coverage unobtrusive health monitoring of elders at homes",
+          "label": "Paper"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:53:10.416Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 403,
+        "finalUrl": "https://www.sciencedirect.com/science/article/pii/S2542660524001239",
+        "pageTitle": "ScienceDirect",
+        "matchedPaperTitles": [],
+        "status": "unconfirmed",
+        "detail": "Browser did not confirm the paper content within the bounded navigation."
+      },
+      "effectiveStatus": "restricted"
+    }
+  ],
+  "effectiveCounts": {
+    "accessible": 43,
+    "restricted": 15,
+    "unconfirmed": 12,
+    "network-error": 1
+  },
+  "browserRecheckCompletedAt": "2026-11-07T09:02:05.640Z",
+  "supersededResults": [
+    {
+      "url": "https://arxiv.org/abs/2303.00914",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:47+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/abs/2303.00914",
+      "contentType": "text/html",
+      "sampleBytes": 42699,
+      "pageTitle": "[2303.00914] Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.2,
+      "papers": [
+        {
+          "paper": "neuro-modulated-hebbian-learning-for-fully-test-time-adaptation",
+          "title": "Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation",
+          "label": "arXiv"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/abs/2303.11180",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:47+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/abs/2303.11180",
+      "contentType": "text/html",
+      "sampleBytes": 42147,
+      "pageTitle": "[2303.11180] Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.13,
+      "papers": [
+        {
+          "paper": "self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation",
+          "title": "Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation",
+          "label": "arXiv"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/abs/2304.07485",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:45+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/abs/2304.07485",
+      "contentType": "text/html",
+      "sampleBytes": 46450,
+      "pageTitle": "[2304.07485] Critical Sampling for Robust Evolution Operator Learning of Unknown Dynamical Systems",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.05,
+      "papers": [
+        {
+          "paper": "critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems",
+          "title": "Critical Sampling for Robust Evolution Operator Learning of Unknown Dynamical Systems",
+          "label": "arXiv"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/abs/2306.16957",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:46+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/abs/2306.16957",
+      "contentType": "text/html",
+      "sampleBytes": 40483,
+      "pageTitle": "[2306.16957] Cross-Inferential Networks for Source-free Unsupervised Domain Adaptation",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.13,
+      "papers": [
+        {
+          "paper": "cross-inferential-networks-for-source-free-unsupervised-domain-adaptation",
+          "title": "Cross-inferential networks for source-free unsupervised domain adaptation",
+          "label": "arXiv"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/abs/2309.01256",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:49+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/abs/2309.01256",
+      "contentType": "text/html",
+      "sampleBytes": 41246,
+      "pageTitle": "[2309.01256] BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.13,
+      "papers": [
+        {
+          "paper": "bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning",
+          "title": "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning",
+          "label": "arXiv"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/abs/2311.01034",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:43+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/abs/2311.01034",
+      "contentType": "text/html",
+      "sampleBytes": 43054,
+      "pageTitle": "[2311.01034] Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.04,
+      "papers": [
+        {
+          "paper": "learning-to-adapt-clip-for-few-shot-monocular-depth-estimation",
+          "title": "Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation",
+          "label": "arXiv"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/abs/2410.10442",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:41+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/abs/2410.10442",
+      "contentType": "text/html",
+      "sampleBytes": 40765,
+      "pageTitle": "[2410.10442] Domain-Conditioned Transformer for Fully Test-time Adaptation",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.12,
+      "papers": [
+        {
+          "paper": "domain-conditioned-transformer-for-fully-test-time-adaptation",
+          "title": "Domain-Conditioned Transformer for Fully Test-time Adaptation",
+          "label": "arXiv"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.08820",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:34+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/abs/2512.08820",
+      "contentType": "text/html",
+      "sampleBytes": 41778,
+      "pageTitle": "[2512.08820] Training-Free Dual Hyperbolic Adapters for Better Cross-Modal Reasoning",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.21,
+      "papers": [
+        {
+          "paper": "training-free-dual-hyperbolic-adapters-for-better-cross-modal-reasoning",
+          "title": "Training-Free Dual Hyperbolic Adapters for Better Cross-Modal Reasoning",
+          "label": "arXiv"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2303.00914",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:48+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/pdf/2303.00914",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.52,
+      "papers": [
+        {
+          "paper": "neuro-modulated-hebbian-learning-for-fully-test-time-adaptation",
+          "title": "Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2303.11180",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:47+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/pdf/2303.11180",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.39,
+      "papers": [
+        {
+          "paper": "self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation",
+          "title": "Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2409.14090",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:39+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/pdf/2409.14090",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.45,
+      "papers": [
+        {
+          "paper": "window-based-channel-attention-for-wavelet-enhanced-learned-image-compression",
+          "title": "Window-based Channel Attention for Wavelet-enhanced Learned Image Compression",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://doi.org/10.1145/3664647.3680710",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:40+00:00",
+      "httpStatus": 403,
+      "finalUrl": "https://dl.acm.org/doi/10.1145/3664647.3680710",
+      "contentType": "text/html",
+      "sampleBytes": 5642,
+      "pageTitle": "Just a moment...",
+      "status": "restricted",
+      "detail": "Browser verification, access restriction, or rate limit; not proof of a dead link.",
+      "elapsedSeconds": 1.78,
+      "papers": [
+        {
+          "paper": "training-free-feature-reconstruction-with-sparse-optimization-for-vision-language-models",
+          "title": "Training-Free Feature Reconstruction with Sparse Optimization for Vision-Language Models",
+          "label": "Paper"
+        }
+      ],
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T07:52:56.570Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 403,
+        "finalUrl": "https://dl.acm.org/doi/10.1145/3664647.3680710",
+        "pageTitle": "Just a moment...",
+        "matchedPaperTitles": [],
+        "status": "restricted",
+        "detail": "Browser also encountered access verification/restriction."
+      },
+      "effectiveStatus": "restricted"
+    },
+    {
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-20065-6_42",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:50+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://link.springer.com/chapter/10.1007/978-3-031-20065-6_42",
+      "contentType": "text/html",
+      "sampleBytes": 3038,
+      "pageTitle": "Client Challenge",
+      "status": "restricted",
+      "detail": "HTTP 200 contains a client verification challenge, not the paper landing page.",
+      "elapsedSeconds": 0.94,
+      "papers": [
+        {
+          "paper": "self-constrained-inference-optimization-on-structural-groups-for-human-pose-estimation",
+          "title": "Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "accessible",
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T08:00:18.025Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 200,
+        "finalUrl": "https://link.springer.com/chapter/10.1007/978-3-031-20065-6_42",
+        "pageTitle": "Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation | Springer Nature Link",
+        "matchedPaperTitles": [
+          "Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation"
+        ],
+        "status": "accessible",
+        "detail": "Browser displayed the exact paper title; this confirms the landing page, not subscription full-text access."
+      }
+    },
+    {
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-72855-6_20",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:39+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://link.springer.com/chapter/10.1007/978-3-031-72855-6_20",
+      "contentType": "text/html",
+      "sampleBytes": 3038,
+      "pageTitle": "Client Challenge",
+      "status": "restricted",
+      "detail": "HTTP 200 contains a client verification challenge, not the paper landing page.",
+      "elapsedSeconds": 0.92,
+      "papers": [
+        {
+          "paper": "dual-path-adversarial-lifting-for-domain-shift-correction-in-online-test-time-adaptation",
+          "title": "Dual-Path Adversarial Lifting for Domain Shift Correction in Online Test-time Adaptation",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "accessible",
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T08:00:23.507Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 200,
+        "finalUrl": "https://link.springer.com/chapter/10.1007/978-3-031-72855-6_20",
+        "pageTitle": "Dual-Path Adversarial Lifting for Domain Shift Correction in Online Test-Time Adaptation | Springer Nature Link",
+        "matchedPaperTitles": [
+          "Dual-Path Adversarial Lifting for Domain Shift Correction in Online Test-time Adaptation"
+        ],
+        "status": "accessible",
+        "detail": "Browser displayed the exact paper title; this confirms the landing page, not subscription full-text access."
+      }
+    },
+    {
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-72980-5_14",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:40+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://link.springer.com/chapter/10.1007/978-3-031-72980-5_14",
+      "contentType": "text/html",
+      "sampleBytes": 3038,
+      "pageTitle": "Client Challenge",
+      "status": "restricted",
+      "detail": "HTTP 200 contains a client verification challenge, not the paper landing page.",
+      "elapsedSeconds": 1.14,
+      "papers": [
+        {
+          "paper": "conceptual-codebook-learning-for-vision-language-models",
+          "title": "Conceptual Codebook Learning for Vision-Language Models",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "accessible",
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T08:00:27.773Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "httpStatus": 200,
+        "finalUrl": "https://link.springer.com/chapter/10.1007/978-3-031-72980-5_14",
+        "pageTitle": "Conceptual Codebook Learning for Vision-Language Models | Springer Nature Link",
+        "matchedPaperTitles": [
+          "Conceptual Codebook Learning for Vision-Language Models"
+        ],
+        "status": "accessible",
+        "detail": "Browser displayed the exact paper title; this confirms the landing page, not subscription full-text access."
+      }
+    },
+    {
+      "url": "https://link.springer.com/chapter/10.1007/978-3-032-37132-4_30",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:33+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://link.springer.com/chapter/10.1007/978-3-032-37132-4_30",
+      "contentType": "text/html",
+      "sampleBytes": 3038,
+      "pageTitle": "Client Challenge",
+      "status": "restricted",
+      "detail": "HTTP 200 contains a client verification challenge, not the paper landing page.",
+      "elapsedSeconds": 0.95,
+      "papers": [
+        {
+          "paper": "controllable-generative-reference-for-stereo-image-compression-via-reliability-aware-gating",
+          "title": "Controllable Generative Reference for Stereo Image Compression via Reliability-Aware Gating",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "restricted",
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T08:00:33.103Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "navigationNote": "page.goto: Timeout 16000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://link.springer.com/chapter/10.1007/978-3-032-37132-4_30\", waiting until \"domcontentloaded\"\u001b[22m\n",
+        "finalUrl": "about:blank",
+        "pageTitle": "Loading https://link.springer.com/chapter/10.1007/978-3-032-37132-4_30",
+        "status": "unconfirmed",
+        "detail": "locator.innerText: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('body')\u001b[22m\n"
+      }
+    },
+    {
+      "url": "https://link.springer.com/chapter/10.1007/978-981-96-0963-5_27",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:39+00:00",
+      "httpStatus": 200,
+      "finalUrl": "https://link.springer.com/chapter/10.1007/978-981-96-0963-5_27",
+      "contentType": "text/html",
+      "sampleBytes": 3038,
+      "pageTitle": "Client Challenge",
+      "status": "restricted",
+      "detail": "HTTP 200 contains a client verification challenge, not the paper landing page.",
+      "elapsedSeconds": 0.9,
+      "papers": [
+        {
+          "paper": "window-based-channel-attention-for-wavelet-enhanced-learned-image-compression",
+          "title": "Window-based Channel Attention for Wavelet-enhanced Learned Image Compression",
+          "label": "Paper"
+        }
+      ],
+      "effectiveStatus": "restricted",
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T08:00:39.274Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "navigationNote": "page.goto: Timeout 16000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://link.springer.com/chapter/10.1007/978-981-96-0963-5_27\", waiting until \"domcontentloaded\"\u001b[22m\n",
+        "finalUrl": "about:blank",
+        "pageTitle": "Loading https://link.springer.com/chapter/10.1007/978-981-96-0963-5_27",
+        "status": "unconfirmed",
+        "detail": "locator.innerText: Timeout 4000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('body')\u001b[22m\n"
+      }
+    },
+    {
+      "url": "https://papers.bmvc2023.org/0182.pdf",
+      "clean": true,
+      "checkedAt": "2026-11-07T08:15:43+00:00",
+      "status": "network-error",
+      "detail": "HTTPSConnectionPool(host='papers.bmvc2023.org', port=443): Max retries exceeded with url: /0182.pdf (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))",
+      "elapsedSeconds": 1.71,
+      "papers": [
+        {
+          "paper": "bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning",
+          "title": "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "network-error",
+      "browserAttempt": {
+        "checkedAt": "2026-11-07T08:16:06.186Z",
+        "method": "Chromium navigation; exact title in visible page text; no CAPTCHA solving",
+        "navigationNote": "page.goto: net::ERR_CONNECTION_CLOSED at https://papers.bmvc2023.org/0182.pdf\nCall log:\n\u001b[2m  - navigating to \"https://papers.bmvc2023.org/0182.pdf\", waiting until \"domcontentloade",
+        "finalUrl": "chrome-error://chromewebdata/",
+        "pageTitle": "",
+        "matchedPaperTitles": [],
+        "status": "unconfirmed",
+        "detail": "Browser did not confirm the paper content within the bounded navigation."
+      }
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.12607",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:34+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/abs/2511.12607",
+      "contentType": "text/html",
+      "sampleBytes": 41583,
+      "pageTitle": "[2511.12607] Open-World Test-Time Adaptation with Hierarchical Feature Aggregation and Attention Affine",
+      "status": "accessible",
+      "detail": "Paper landing page returned; this does not imply subscription full-text access.",
+      "elapsedSeconds": 1.11,
+      "papers": [
+        {
+          "paper": "open-world-test-time-adaptation-with-hierarchical-feature-aggregation-and-attention-affine",
+          "title": "Open-World Test-Time Adaptation with Hierarchical Feature Aggregation and Attention Affine",
+          "label": "arXiv"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2511.12607",
+      "clean": true,
+      "checkedAt": "2026-11-07T07:49:35+00:00",
+      "httpStatus": 206,
+      "finalUrl": "https://arxiv.org/pdf/2511.12607",
+      "contentType": "application/pdf",
+      "sampleBytes": 131072,
+      "pageTitle": "",
+      "status": "accessible",
+      "detail": "Paper PDF returned with a valid %PDF signature.",
+      "elapsedSeconds": 1.76,
+      "papers": [
+        {
+          "paper": "open-world-test-time-adaptation-with-hierarchical-feature-aggregation-and-attention-affine",
+          "title": "Open-World Test-Time Adaptation with Hierarchical Feature Aggregation and Attention Affine",
+          "label": "PDF"
+        }
+      ],
+      "effectiveStatus": "accessible"
+    }
+  ],
+  "sourcePriorityUpdate": "Official conference or journal publisher landing page first; arXiv only when no official page is established; other verified pages last."
+}

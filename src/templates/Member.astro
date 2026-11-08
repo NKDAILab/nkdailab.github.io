@@ -7,74 +7,73 @@ const path = (page.route || '').replace(/^en(?:\/|$)/, '');
 const t = useTranslations(lang);
 
 import Layout from '../layouts/Layout.astro';
-import { getCollection } from '../lib/template';
-import { Mail, Globe, Twitter, GraduationCap, ArrowLeft, Linkedin, Github } from 'lucide-react';
+import { facultyRoleLabels, getCollection } from '../lib/template';
+import EmailContact from '../components/EmailContact.astro';
+import { Globe, Twitter, GraduationCap, ArrowLeft, Linkedin, Github, User } from 'lucide-react';
 
 
 const member = (await getCollection('team', lang)).find(m => m.id === page.id)!;
 const source = member.source;
 const profile = source.profile[lang];
 const { name, title, avatar, email, website, linkedin, github, twitter, googleScholar } = member.data;
+const facultyRoles = source.role === 'faculty' ? facultyRoleLabels(source, lang) : [];
 ---
 
 
 <Layout title={name} lang={lang} path={path}>
-  <div class="max-w-4xl mx-auto px-4 py-12 sm:py-20">
+  <div class={`${source.role === 'faculty' ? 'max-w-6xl' : 'max-w-4xl'} mx-auto px-4 py-12 sm:py-20`}>
     <a href={localPath(lang, 'team')} class="inline-flex items-center text-sm text-gray-500 hover:text-blue-600 mb-8 transition-colors">
       <ArrowLeft className="w-4 h-4 mr-1" /> {t('back.team')}
     </a>
 
-    <div class="bg-white rounded-3xl p-8 border border-gray-100 shadow-sm mb-12">
+    <div class="bg-white rounded-3xl px-8 py-6 border border-gray-100 shadow-sm mb-8">
       <div class="flex flex-col md:flex-row gap-8 items-start">
         <div class="w-32 h-32 md:w-48 md:h-48 rounded-2xl overflow-hidden bg-gray-100 shrink-0 mx-auto md:mx-0">
-          <img src={avatar.src} alt={name} class="w-full h-full object-cover" />
+          {avatar.src ? <img src={avatar.src} alt={name} class:list={['w-full h-full', avatar.fit === 'contain' ? 'object-contain bg-white' : 'object-cover object-top']} /> : <div class="w-full h-full flex items-center justify-center text-gray-400" role="img" aria-label={lang === 'zh' ? `${name}，照片待补充` : `${name}, photo to be added`}><User className="w-20 h-20" /></div>}
         </div>
         
-        <div class="flex-grow text-center md:text-left">
+        <div class={`flex-grow min-w-0 ${source.role === 'faculty' ? 'grid lg:grid-cols-2 gap-6' : ''}`}>
+          <div class="min-w-0 text-center md:text-left">
           <h1 class="text-3xl font-bold text-gray-900 mb-2">{name}</h1>
-          <p class="text-xl text-blue-600 font-medium mb-6">{roleLabel(source.role === 'alumni' ? source.previousRole : source.role, lang)}</p>
-          
-          <div class="flex flex-wrap justify-center md:justify-start gap-3">
-            {email && (
-              <a href={`mailto:${email}`} class="flex items-center gap-2 px-4 py-2 rounded-full bg-gray-50 text-gray-600 hover:bg-blue-50 hover:text-blue-600 transition-colors text-sm">
-                <Mail className="w-4 h-4" />
-                <span>{t('email')}</span>
-              </a>
-            )}
+          {source.role === 'faculty' ? <div class="flex flex-wrap justify-center md:justify-start gap-2 mb-2" data-faculty-role-badges>
+            {facultyRoles.map(role => <span class="inline-block px-3 py-1 text-sm font-medium rounded-full border border-blue-100 bg-blue-50 text-blue-700">{role}</span>)}
+          </div> : <p class="text-xl text-blue-600 font-medium mb-2">{roleLabel(source.role === 'alumni' ? source.previousRole : source.role, lang)}</p>}
+          <div class="flex flex-col items-start w-fit max-w-full mx-0 gap-1.5 text-left" data-member-contacts>
+            {email && <EmailContact email={email} lang={lang} />}
             {website && (
-              <a href={website} target="_blank" class="flex items-center gap-2 px-4 py-2 rounded-full bg-gray-50 text-gray-600 hover:bg-blue-50 hover:text-blue-600 transition-colors text-sm">
+              <a href={website} target="_blank" class="flex items-center gap-2 px-3 py-1.5 rounded-full bg-gray-50 text-gray-600 hover:bg-blue-50 hover:text-blue-600 transition-colors text-sm">
                 <Globe className="w-4 h-4" />
                 <span>{t('personalWebsite')}</span>
               </a>
             )}
             {linkedin && (
-              <a href={linkedin} target="_blank" class="flex items-center gap-2 px-4 py-2 rounded-full bg-gray-50 text-gray-600 hover:bg-blue-50 hover:text-blue-600 transition-colors text-sm">
+              <a href={linkedin} target="_blank" class="flex items-center gap-2 px-3 py-1.5 rounded-full bg-gray-50 text-gray-600 hover:bg-blue-50 hover:text-blue-600 transition-colors text-sm">
                 <Linkedin className="w-4 h-4" />
                 <span>LinkedIn</span>
               </a>
             )}
             {github && (
-              <a href={github} target="_blank" class="flex items-center gap-2 px-4 py-2 rounded-full bg-gray-50 text-gray-600 hover:bg-blue-50 hover:text-blue-600 transition-colors text-sm">
+              <a href={github} target="_blank" class="flex items-center gap-2 px-3 py-1.5 rounded-full bg-gray-50 text-gray-600 hover:bg-blue-50 hover:text-blue-600 transition-colors text-sm">
                 <Github className="w-4 h-4" />
                 <span>GitHub</span>
               </a>
             )}
             {twitter && (
-              <a href={twitter} target="_blank" class="flex items-center gap-2 px-4 py-2 rounded-full bg-gray-50 text-gray-600 hover:bg-blue-50 hover:text-blue-600 transition-colors text-sm">
+              <a href={twitter} target="_blank" class="flex items-center gap-2 px-3 py-1.5 rounded-full bg-gray-50 text-gray-600 hover:bg-blue-50 hover:text-blue-600 transition-colors text-sm">
                 <Twitter className="w-4 h-4" />
                 <span>Twitter</span>
               </a>
             )}
             {googleScholar && (
-              <a href={googleScholar} target="_blank" class="flex items-center gap-2 px-4 py-2 rounded-full bg-gray-50 text-gray-600 hover:bg-blue-50 hover:text-blue-600 transition-colors text-sm">
+              <a href={googleScholar} target="_blank" class="flex items-center gap-2 px-3 py-1.5 rounded-full bg-gray-50 text-gray-600 hover:bg-blue-50 hover:text-blue-600 transition-colors text-sm">
                 <GraduationCap className="w-4 h-4" />
-                <span>Scholar</span>
+                <span>Scholar: {source.name.en}</span>
               </a>
             )}
           </div>
 
-          {title && title.length > 0 && (
-            <div class="flex flex-wrap justify-center md:justify-start gap-2 mt-4">
+          {source.role !== 'faculty' && title && title.length > 0 && (
+            <div class="flex flex-wrap justify-center md:justify-start gap-2 mt-2">
               {title.map((t) => (
                 <span class="bg-blue-100 text-blue-800 text-xs px-2.5 py-0.5 rounded border border-blue-200">
                   {t}
@@ -82,6 +81,8 @@ const { name, title, avatar, email, website, linkedin, github, twitter, googleSc
               ))}
             </div>
           )}
+          </div>
+          {source.role === 'faculty' && <ul class="space-y-3 text-sm sm:text-base text-gray-600 text-center md:text-left" data-faculty-titles>{source.presentation.titles[lang].slice(1).map(line => <li>{line}</li>)}</ul>}
         </div>
       </div>
     </div>

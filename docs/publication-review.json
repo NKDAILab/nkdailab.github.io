@@ -1,0 +1,3454 @@
+{
+  "inputFile": "../info/2022-2026年论文清单_完整版(1).docx",
+  "inputSha256": "54c5fb7f93043cd72a94dfccf1f3b9056e6839d4b8d799d467a41bd3e49c2dbd",
+  "sourceListCount": 40,
+  "originalPublicationIds": [
+    "conditional-latent-coding-with-learnable-synthesized-reference-for-deep-image-compression",
+    "cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations",
+    "critical-sampling-for-data-driven-modeling-of-unknown-dynamical-systems",
+    "learning-to-adapt-clip-for-few-shot-monocular-depth-estimation",
+    "self-constrained-inference-optimization-on-structural-groups-for-human-pose-estimation",
+    "cross-inferential-networks-for-source-free-unsupervised-domain-adaptation",
+    "bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning",
+    "unsupervised-prototype-adapter-for-vision-language-models",
+    "cycle-optimization-metric-learning-for-few-shot-classification",
+    "critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems",
+    "self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation",
+    "neuro-modulated-hebbian-learning-for-fully-test-time-adaptation",
+    "self-guided-information-for-few-shot-classification"
+  ],
+  "totalPublications": 42,
+  "addedPublications": 29,
+  "retainedExistingExtra": "critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems",
+  "displayPolicy": "Only bibliographic information and paper-source/PDF/citation links; no research process, access status, explanatory notes, code, project or video links in the public paper list.",
+  "yearConvention": "For this update the actual PDFs in the newly supplied RAR take precedence in conflicts, followed by the explicit citations in its internal Word list. A grouping heading alone does not override a paper’s explicitly stated year. Dates are not invented when only the year is known. Earlier final-volume metadata is retained in the local review history.",
+  "removedNonPaperLinks": [
+    {
+      "paperId": "neuro-modulated-hebbian-learning-for-fully-test-time-adaptation",
+      "label": "视频",
+      "url": "https://www.youtube.com/watch?v=d1f4UDmAadk&t=142s",
+      "reason": "Public display limited to paper sources by user request."
+    },
+    {
+      "paperId": "self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation",
+      "label": "视频",
+      "url": "https://www.youtube.com/watch?v=d1f4UDmAadk&t=142s",
+      "reason": "Public display limited to paper sources by user request."
+    },
+    {
+      "paperId": "bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning",
+      "label": "视频",
+      "url": "https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0182_video.mp4",
+      "reason": "Public display limited to paper sources by user request."
+    }
+  ],
+  "papers": [
+    {
+      "number": 1,
+      "title": "OmniCVR: A benchmark for omni-composed video retrieval with vision, audio, and text",
+      "authors": [
+        "Junyang Ji",
+        "Shengjun Zhang",
+        "Da Li",
+        "Yuxiao Luo",
+        "Yan Wang",
+        "Di Xu",
+        "Biao Yang",
+        "Wei Yuan",
+        "Fan Yang",
+        "Zhihai He",
+        "Wenming Yang"
+      ],
+      "venue": "International Conference on Learning Representations (ICLR 2026)",
+      "year": 2026,
+      "date": "2026-04-20",
+      "doi": "",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/b6c0e8e7cc029eed4253e3fda4ea958f-Abstract-Conference.html"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/b6c0e8e7cc029eed4253e3fda4ea958f-Paper-Conference.pdf"
+        }
+      ],
+      "sources": [
+        "https://proceedings.iclr.cc/paper_files/paper/2026/hash/b6c0e8e7cc029eed4253e3fda4ea958f-Abstract-Conference.html"
+      ],
+      "notes": [],
+      "metadataStatus": "Official ICLR proceedings title, authors, edition, date and PDF verified directly with HTTP 200.",
+      "paperId": "omnicvr-a-benchmark-for-omni-composed-video-retrieval-with-vision-audio-and-text",
+      "sourceListYear": 2026,
+      "sourceCitation": "Junyang Ji, Shengjun Zhang, Da Li, Yuxiao Luo, Yan Wang, Di Xu, Biao Yang, Wei Yuan, Fan Yang, Zhihai He, Wenming Yang. \"OmniCVR: A benchmark for omni-composed video retrieval with vision, audio, and text. \" The Fourteenth International Conference on Learning Representations, 2026.",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/b6c0e8e7cc029eed4253e3fda4ea958f-Abstract-Conference.html"
+        },
+        {
+          "label": "PDF",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/b6c0e8e7cc029eed4253e3fda4ea958f-Paper-Conference.pdf"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/b6c0e8e7cc029eed4253e3fda4ea958f-Abstract-Conference.html"
+        },
+        {
+          "label": "PDF",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/b6c0e8e7cc029eed4253e3fda4ea958f-Paper-Conference.pdf"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/b6c0e8e7cc029eed4253e3fda4ea958f-Abstract-Conference.html",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      }
+    },
+    {
+      "number": 2,
+      "title": "OmniPortrait: Fine-Grained Personalized Portrait Synthesis via Pivotal Optimization",
+      "authors": [
+        "Dongxu Yue",
+        "Bo Lin",
+        "Yao Tang",
+        "Jiajun Liang",
+        "Zhihai He",
+        "Chun Yuan"
+      ],
+      "venue": "International Conference on Learning Representations (ICLR 2026)",
+      "year": 2026,
+      "date": "2026-04-20",
+      "doi": "",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/64f4014a46a58a23bcfd9988e8204a12-Abstract-Conference.html"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/64f4014a46a58a23bcfd9988e8204a12-Paper-Conference.pdf"
+        }
+      ],
+      "sources": [
+        "https://proceedings.iclr.cc/paper_files/paper/2026/hash/64f4014a46a58a23bcfd9988e8204a12-Abstract-Conference.html"
+      ],
+      "notes": [],
+      "metadataStatus": "Official ICLR proceedings title, authors, edition, date and PDF verified directly with HTTP 200.",
+      "paperId": "omniportrait-fine-grained-personalized-portrait-synthesis-via-pivotal-optimization",
+      "sourceListYear": 2026,
+      "sourceCitation": "Dongxu Yue, Bo Lin, Yao Tang, Jiajun Liang, Zhihai He, Chun Yuan. \"OmniPortrait: Fine-Grained Personalized Portrait Synthesis via Pivotal Optimization.\" The Fourteenth International Conference on Learning Representations, 2026.",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/64f4014a46a58a23bcfd9988e8204a12-Abstract-Conference.html"
+        },
+        {
+          "label": "PDF",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/64f4014a46a58a23bcfd9988e8204a12-Paper-Conference.pdf"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/64f4014a46a58a23bcfd9988e8204a12-Abstract-Conference.html"
+        },
+        {
+          "label": "PDF",
+          "url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/64f4014a46a58a23bcfd9988e8204a12-Paper-Conference.pdf"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/64f4014a46a58a23bcfd9988e8204a12-Abstract-Conference.html",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      }
+    },
+    {
+      "number": 3,
+      "title": "Training-Free Dual Hyperbolic Adapters for Better Cross-Modal Reasoning",
+      "authors": [
+        "Yi Zhang",
+        "Chun-Wun Cheng",
+        "Junyi He",
+        "Ke Yu",
+        "Yushun Tang",
+        "Carola-Bibiane Schönlieb",
+        "Zhihai He",
+        "Angelica I Aviles-Rivero"
+      ],
+      "venue": "IEEE Transactions on Multimedia",
+      "year": 2026,
+      "date": "2026",
+      "doi": "10.1109/TMM.2026.3664982",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://doi.org/10.1109/TMM.2026.3664982"
+        },
+        {
+          "kind": "website",
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2512.08820"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2512.08820"
+        }
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1109/TMM.2026.3664982",
+        "https://arxiv.org/abs/2512.08820"
+      ],
+      "notes": [
+        "IEEE-deposited Crossref metadata verifies TMM volume 28, 2026, and the ordered eight authors. arXiv was submitted in 2025; the display year uses the journal volume year. The list gives 16 February 2026, but only the year is confirmed by the fetched publisher deposit; no day is invented."
+      ],
+      "paperId": "training-free-dual-hyperbolic-adapters-for-better-cross-modal-reasoning",
+      "sourceListYear": 2026,
+      "sourceCitation": "Yi Zhang, Chun-Wun Cheng, Junyi He, Ke Yu, Yushun Tang, Carola-Bibiane Schönlieb, Zhihai He, Angelica I Aviles-Rivero. \"Training-Free Dual Hyperbolic Adapters for Better Cross-Modal Reasoning. \"IEEE Transactions on Multimedia, 16 Feb 2026.",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://doi.org/10.1109/TMM.2026.3664982"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2512.08820"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://doi.org/10.1109/TMM.2026.3664982"
+        },
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2512.08820"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2512.08820"
+        }
+      ],
+      "preferredSource": {
+        "kind": "publisher",
+        "url": "https://doi.org/10.1109/TMM.2026.3664982",
+        "reason": "Official journal publisher record."
+      }
+    },
+    {
+      "id": "rasa-reliability-aware-selective-adaptation-via-hybrid-reliability-threshold",
+      "title": "RASA: Reliability-Aware Selective Adaptation via Hybrid Reliability Threshold",
+      "authors": [
+        "Ziqiong Liu",
+        "Yijia Wang",
+        "Junyang Ji",
+        "Yushun Tang",
+        "Zhihai He"
+      ],
+      "authorSlugs": [
+        "ziqiong-liu",
+        "yijia-wang",
+        "junyang-ji",
+        "yushun-tang",
+        "zhihai-he"
+      ],
+      "year": 2026,
+      "date": "2026",
+      "datePrecision": "year",
+      "venue": "International Joint Conference on Neural Networks (IJCNN 2026)",
+      "abstract": "Test-time adaptation (TTA) has emerged as a highly promising paradigm for adapting pre-trained models to target domains. However, in open-world scenarios, standard TTA often suffers from noise overfitting due to indiscriminate entropy minimization, especially when faced with severe semantic shifts and out-of-distribution (OOD) samples. To address these challenges, we propose RASA, a Reliability-Aware Selective Adaptation framework that employs a hybrid reliability threshold for selective test-time adaptation. The core of RASA is a novel HistoryAware Thresholding (HAT) module, which integrates hybrid prior information by combining theoretical class priors with running historical entropy statistics, and dynamically adjusts the reliability criteria as the adaptation process progresses. Furthermore, we introduce a dual-stream Transformer architecture that explicitly decouples semantic classification and OOD inference into different feature subspaces, significantly enhancing sensitivity to outliers while maintaining accuracy on in-distribution samples. Extensive experiments demonstrate that RASA consistently outperforms existing state-of-the-art methods, exhibiting superior stability and robustness in open-world environments with severe data perturbations and a high proportion of OOD samples.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://ieeexplore.ieee.org/document/11729341"
+        }
+      ],
+      "paperId": "rasa-reliability-aware-selective-adaptation-via-hybrid-reliability-threshold",
+      "number": 4,
+      "doi": "10.1109/IJCNN69854.2026.11729341",
+      "sources": [
+        "https://ieeexplore.ieee.org/document/11729341",
+        "https://api.crossref.org/works/10.1109/IJCNN69854.2026.11729341"
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://ieeexplore.ieee.org/document/11729341",
+        "reason": "Exact title and author order confirmed by user-supplied manuscript and publisher-deposited Crossref record."
+      },
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://ieeexplore.ieee.org/document/11729341"
+        }
+      ],
+      "sourceListYear": null,
+      "sourceCitation": null,
+      "retainedExisting": false,
+      "archiveFile": "2026 ijcnn_刘紫琼pap4336s2.pdf",
+      "archiveSha256": "2be7144dca63065fb58aa0dd3c0a7c3af27c68ca635494b7d90589c26a9b0994",
+      "notes": [
+        "Metadata follows the actual PDF in the new archive."
+      ],
+      "evidence": "RASA: Reliability-Aware Selective Adaptation via\nHybrid Reliability Threshold\nZiqiong Liu, Yijia Wang, Junyang Ji, Yushun Tang, and Zhihai He\nSouthern University of Science and Technology\nShenzhen, China\nEmail: {12332162, wangyj2022, 12491002, tangys2022}@mail.sustech.edu.cn, hezh@sustech.edu.cn\nAbstract—Test-time adaptation (TTA) has emerged as a highly\npromising paradigm for adapting pre-trained models to target\ndomains. However, in open-world scenarios, standard TTA often\nsuffers from noise overfitting due to indiscriminate entropy min-\nimization, especially when faced with severe semantic shifts and\nout-of-distribution (OOD) samples. To address these challenges,\nwe propose RASA, a Reliability-Aware Selective Adaptation\nframework that employs a hybrid reliability threshold for selec-\ntive test-time adaptation. The core of RASA is a novel History-\nAware Thresholding (HAT) module, which integrates hybrid\nprior information by combining theoretical class priors with\nrunning historical e"
+    },
+    {
+      "number": 5,
+      "title": "CausalLens: Sensitivity-Guided Multi-Head Causal Intervention for Hallucination Mitigation in Large Vision-Language Models",
+      "authors": [
+        "Junyang Ji",
+        "Qifan Liu",
+        "Wenming Yang",
+        "Zhihai He"
+      ],
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)",
+      "year": 2026,
+      "date": "2026",
+      "doi": "",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Ji_CausalLens_Sensitivity-Guided_Multi-Head_Causal_Intervention_for_Hallucination_Mitigation_in_Large_CVPR_2026_paper.html"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Ji_CausalLens_Sensitivity-Guided_Multi-Head_Causal_Intervention_for_Hallucination_Mitigation_in_Large_CVPR_2026_paper.pdf"
+        }
+      ],
+      "sources": [
+        "https://openaccess.thecvf.com/content/CVPR2026/html/Ji_CausalLens_Sensitivity-Guided_Multi-Head_Causal_Intervention_for_Hallucination_Mitigation_in_Large_CVPR_2026_paper.html"
+      ],
+      "notes": [
+        "CVF official paper record verifies title, authors, CVPR 2026, and pp.4199–4209. Its citation gives June but no exact publication day; only the year is used."
+      ],
+      "paperId": "causallens-sensitivity-guided-multi-head-causal-intervention-for-hallucination-mitigation-in-large-vision-language-models",
+      "sourceListYear": 2026,
+      "sourceCitation": "Junyang Ji, Qifan Liu, Wenming Yang, Zhihai He. \"CausalLens: Sensitivity-Guided Multi-Head Causal Intervention for Hallucination Mitigation in Large Vision-Language Models. \"In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026(CVPR), Fri, Jun 5, 2026. Colorado.",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Ji_CausalLens_Sensitivity-Guided_Multi-Head_Causal_Intervention_for_Hallucination_Mitigation_in_Large_CVPR_2026_paper.html"
+        },
+        {
+          "label": "PDF",
+          "url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Ji_CausalLens_Sensitivity-Guided_Multi-Head_Causal_Intervention_for_Hallucination_Mitigation_in_Large_CVPR_2026_paper.pdf"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Ji_CausalLens_Sensitivity-Guided_Multi-Head_Causal_Intervention_for_Hallucination_Mitigation_in_Large_CVPR_2026_paper.html"
+        },
+        {
+          "label": "PDF",
+          "url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Ji_CausalLens_Sensitivity-Guided_Multi-Head_Causal_Intervention_for_Hallucination_Mitigation_in_Large_CVPR_2026_paper.pdf"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Ji_CausalLens_Sensitivity-Guided_Multi-Head_Causal_Intervention_for_Hallucination_Mitigation_in_Large_CVPR_2026_paper.html",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      }
+    },
+    {
+      "number": 6,
+      "title": "Controllable Generative Reference for Stereo Image Compression via Reliability-Aware Gating",
+      "authors": [
+        "Zhineng Zhao",
+        "Mingyao Hong",
+        "Fengfan Shi",
+        "Zhihai He"
+      ],
+      "venue": "European Conference on Computer Vision (ECCV 2026)",
+      "year": 2026,
+      "date": "2026-09-10",
+      "doi": "10.1007/978-3-032-37132-4_30",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-032-37132-4_30"
+        }
+      ],
+      "sources": [
+        "https://link.springer.com/chapter/10.1007/978-3-032-37132-4_30",
+        "https://api.crossref.org/works/10.1007/978-3-032-37132-4_30",
+        "https://eccv.ecva.net/virtual/2026/poster/5305",
+        "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9864.pdf"
+      ],
+      "notes": [
+        "Springer chapter and publisher-deposited Crossref metadata verify ordered authors, ECCV 2026, pp.536–553, and First Online 10 September 2026. Subscription PDF is not presented as an open PDF."
+      ],
+      "paperId": "controllable-generative-reference-for-stereo-image-compression-via-reliability-aware-gating",
+      "sourceListYear": 2026,
+      "sourceCitation": "Zhineng Zhao, Mingyao Hong, Fengfan Shi, and Zhihai He. \"Controllable Generative Reference for Stereo Image Compression via Reliability-Aware Gating.\" The 19th European Conference on Computer Vision (ECCV 2026). September 8-12th, 2026 in Malmö, Sweden.",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://eccv.ecva.net/virtual/2026/poster/5305"
+        },
+        {
+          "label": "PDF",
+          "url": "https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9864.pdf"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-032-37132-4_30"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://eccv.ecva.net/virtual/2026/poster/5305",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      },
+      "sourcePriorityVerification": {
+        "checkedAt": "2026-11-07T08:13:39+00:00",
+        "exactTitleInLiveHTML": true,
+        "httpResult": "accessible"
+      }
+    },
+    {
+      "number": 7,
+      "title": "Cross-Modal Few-Shot Learning with Second-Order Neural Ordinary Differential Equations",
+      "sourceYear": 2025,
+      "authors": [
+        "Yi Zhang",
+        "Chun-Wun Cheng",
+        "Junyi He",
+        "Zhihai He",
+        "Carola-Bibiane Schönlieb",
+        "Yuyan Chen",
+        "Angelica I Aviles-Rivero"
+      ],
+      "venue": "AAAI 2025",
+      "year": 2025,
+      "date": "2025-04-11",
+      "doi": "10.1609/aaai.v39i10.33118",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Publisher",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33118",
+          "check": {
+            "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33118",
+            "checkedAt": "2026-11-06T12:43:38.127620+00:00",
+            "method": "GET",
+            "status": 200,
+            "contentType": "text/html; charset=utf-8",
+            "finalUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/33118",
+            "bytesRead": 7055,
+            "pageTitle": "Making sure you&#39;re not a bot!",
+            "result": "blocked-or-challenge"
+          }
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2412.15813",
+          "check": {
+            "url": "https://arxiv.org/pdf/2412.15813",
+            "checkedAt": "2026-11-06T12:43:33.364749+00:00",
+            "method": "GET",
+            "status": 206,
+            "contentType": "application/pdf",
+            "finalUrl": "https://arxiv.org/pdf/2412.15813",
+            "bytesRead": 131072,
+            "result": "ok-pdf"
+          }
+        }
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1609/aaai.v39i10.33118",
+        "https://ojs.aaai.org/index.php/AAAI/article/view/33118",
+        "https://arxiv.org/abs/2412.15813",
+        "https://rambo-yi.github.io/"
+      ],
+      "notes": [
+        "AAAI publication page verifies the full author list and published date. Oral designation is supported by the first author’s own homepage and user list; the arXiv preprint was submitted in 2024."
+      ],
+      "metadataVerification": "Exact title, authors, venue and publication dates verified from publisher-deposited Crossref metadata with live HTTP 200.",
+      "paperId": "cross-modal-few-shot-learning-with-second-order-neural-ordinary-differential-equations",
+      "sourceListYear": 2025,
+      "sourceCitation": "Yi Zhang, Chun-Wun Cheng, Junyi He, Zhihai He, Carola-Bibiane Schönlieb, Yuyan Chen, Angelica I Aviles-Rivero. \"Cross-Modal Few-Shot Learning with Second-Order Neural Ordinary Differential Equations.\"[J] AAAI Conference on Artificial Intelligence (AAAI2025). (Oral paper).",
+      "retainedExisting": true,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33118"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2412.15813"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33118"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2412.15813"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33118",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      }
+    },
+    {
+      "number": 8,
+      "title": "Conditional Latent Coding with Learnable Synthesized Reference for Deep Image Compression",
+      "sourceYear": 2025,
+      "authors": [
+        "Siqi Wu",
+        "Yinda Chen",
+        "Dong Liu",
+        "Zhihai He"
+      ],
+      "venue": "AAAI 2025",
+      "year": 2025,
+      "date": "2025-04-11",
+      "doi": "10.1609/aaai.v39i12.33403",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Publisher",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33403",
+          "check": {
+            "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33403",
+            "checkedAt": "2026-11-06T12:43:38.156240+00:00",
+            "method": "GET",
+            "status": 200,
+            "contentType": "text/html; charset=utf-8",
+            "finalUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/33403",
+            "bytesRead": 7055,
+            "pageTitle": "Making sure you&#39;re not a bot!",
+            "result": "blocked-or-challenge"
+          }
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2502.09971",
+          "check": {
+            "url": "https://arxiv.org/pdf/2502.09971",
+            "checkedAt": "2026-11-06T12:43:34.711524+00:00",
+            "method": "GET",
+            "status": 206,
+            "contentType": "application/pdf",
+            "finalUrl": "https://arxiv.org/pdf/2502.09971",
+            "bytesRead": 131072,
+            "result": "ok-pdf"
+          }
+        }
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1609/aaai.v39i12.33403",
+        "https://ojs.aaai.org/index.php/AAAI/article/view/33403",
+        "https://arxiv.org/abs/2502.09971",
+        "https://github.com/ydchen0806/CLC"
+      ],
+      "notes": [
+        "AAAI-deposited Crossref metadata directly verifies exact title, all four authors, DOI and 2025-04-11 publication date (live HTTP 200). Publisher website itself triggers Anubis bot protection; arXiv independently confirms the exact title and all authors. Oral designation appears in the user-provided list and the author-owned official code repository, which is retained only as an audit source."
+      ],
+      "metadataVerification": "Exact title, authors, venue and publication dates verified from publisher-deposited Crossref metadata with live HTTP 200.",
+      "paperId": "conditional-latent-coding-with-learnable-synthesized-reference-for-deep-image-compression",
+      "sourceListYear": 2025,
+      "sourceCitation": "Siqi Wu, Yinda Chen, Dong Liu, Zhihai He. \" Conditional Latent Coding with Learnable Synthesized Reference for Deep Image Compression.\"[J] AAAI Conference on Artificial Intelligence (AAAI2025). (Oral paper).",
+      "retainedExisting": true,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33403"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2502.09971"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33403"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2502.09971"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/33403",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      }
+    },
+    {
+      "number": 9,
+      "title": "Open-Vocabulary Multi-Label Classification Based on Cross-Modal Feature Reconstruction Learning",
+      "sourceYear": 2025,
+      "authors": [
+        "Jiyuan Jia",
+        "Zhihai He"
+      ],
+      "venue": "CCRIS 2025",
+      "year": 2025,
+      "date": "2025-08-22",
+      "doi": "10.1109/CCRIS65764.2025.11192886",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Publisher",
+          "url": "https://ieeexplore.ieee.org/document/11192886/",
+          "check": {
+            "url": "https://ieeexplore.ieee.org/document/11192886/",
+            "checkedAt": "2026-11-06T12:43:36.185384+00:00",
+            "method": "GET",
+            "status": 202,
+            "contentType": "text/html; charset=UTF-8",
+            "finalUrl": "https://ieeexplore.ieee.org/document/11192886/",
+            "bytesRead": 0,
+            "result": "blocked-or-challenge",
+            "message": "IEEE returned HTTP 202 with an empty body, rather than a paper page."
+          }
+        }
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1109/CCRIS65764.2025.11192886",
+        "https://ieeexplore.ieee.org/document/11192886/"
+      ],
+      "notes": [
+        "Exact title, author order, venue and publication date were verified from the IEEE-deposited Crossref record (live HTTP 200). IEEE document page requires JavaScript bot verification; no open PDF or code was verified."
+      ],
+      "pages": "1–8",
+      "paperId": "open-vocabulary-multi-label-classification-based-on-cross-modal-feature-reconstruction-learning",
+      "sourceListYear": 2025,
+      "sourceCitation": "Jiyuan Jia, Zhihai He.\"Open-Vocabulary Multi-Label Classification Based on Cross-Modal Feature Reconstruction Learning.\"[J] 2025 6th International Conference on Control, Robotics and Intelligent System (CCRIS), 22-24 August 2025, DOI: 10.1109/CCRIS65764.2025.11192886.",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://ieeexplore.ieee.org/document/11192886/"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://ieeexplore.ieee.org/document/11192886/"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://ieeexplore.ieee.org/document/11192886/",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      }
+    },
+    {
+      "number": 10,
+      "title": "LatentEdit: Adaptive Latent Control for Consistent Semantic Editing",
+      "sourceYear": 2025,
+      "authors": [
+        "Siyi Liu",
+        "Weiming Chen",
+        "Yushun Tang",
+        "Zhihai He"
+      ],
+      "venue": "PRCV 2025",
+      "year": 2025,
+      "date": "2026-01-14",
+      "doi": "10.1007/978-981-95-5679-3_7",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Publisher",
+          "url": "https://link.springer.com/chapter/10.1007/978-981-95-5679-3_7",
+          "check": {
+            "url": "https://link.springer.com/chapter/10.1007/978-981-95-5679-3_7",
+            "checkedAt": "2026-11-06T12:43:36.969102+00:00",
+            "method": "GET",
+            "status": 200,
+            "contentType": "text/html; charset=utf-8",
+            "finalUrl": "https://link.springer.com/chapter/10.1007/978-981-95-5679-3_7?error=cookies_not_supported&code=ced0c920-9d77-4e23-b66d-63bde6b3f0a3",
+            "bytesRead": 131072,
+            "pageTitle": "LatentEdit: Adaptive Latent Control for Consistent Semantic Editing | Springer Nature Link",
+            "result": "ok-html"
+          }
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2509.00541",
+          "check": {
+            "url": "https://arxiv.org/pdf/2509.00541",
+            "checkedAt": "2026-11-06T12:43:34.810621+00:00",
+            "method": "GET",
+            "status": 206,
+            "contentType": "application/pdf",
+            "finalUrl": "https://arxiv.org/pdf/2509.00541",
+            "bytesRead": 131072,
+            "result": "ok-pdf"
+          }
+        }
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1007/978-981-95-5679-3_7",
+        "https://link.springer.com/chapter/10.1007/978-981-95-5679-3_7",
+        "https://arxiv.org/abs/2509.00541"
+      ],
+      "notes": [
+        "Display year follows conference edition PRCV 2025. Springer’s formal chapter publication year is 2026, first online 2026-01-14; preserve that distinction rather than pretending it was published in 2025. Springer landing page is accessible, but publisher full text requires subscription; the linked arXiv PDF is the author-posted preprint."
+      ],
+      "publicationYear": 2026,
+      "pages": "91–105",
+      "volume": "16277",
+      "metadataVerification": "Exact title, authors, venue and publication dates verified from publisher-deposited Crossref metadata with live HTTP 200.",
+      "paperId": "latentedit-adaptive-latent-control-for-consistent-semantic-editing",
+      "sourceListYear": 2025,
+      "sourceCitation": "Siyi Liu, Weiming Chen, Yushun Tang, Zhihai He. \"LatentEdit: Adaptive Latent Control for Consistent Semantic Editing. \" [J] PRCV, 2025. (CCF-C).",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://link.springer.com/chapter/10.1007/978-981-95-5679-3_7"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2509.00541"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://link.springer.com/chapter/10.1007/978-981-95-5679-3_7"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2509.00541"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://link.springer.com/chapter/10.1007/978-981-95-5679-3_7",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      }
+    },
+    {
+      "number": 11,
+      "title": "Deeply-conditioned image compression via self-generated priors",
+      "sourceYear": 2025,
+      "authors": [
+        "Zhineng Zhao",
+        "Zhihai He",
+        "Zikun Zhou",
+        "Siwei Ma",
+        "Yaowei Wang"
+      ],
+      "venue": "Neurocomputing",
+      "year": 2026,
+      "date": "2026",
+      "doi": "10.1016/j.neucom.2025.132428",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Publisher",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0925231225031005",
+          "check": {
+            "url": "https://www.sciencedirect.com/science/article/pii/S0925231225031005",
+            "checkedAt": "2026-11-06T12:43:39.067636+00:00",
+            "method": "GET",
+            "status": 403,
+            "result": "blocked-or-challenge",
+            "message": "HTTP Error 403: Forbidden"
+          }
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2510.24437",
+          "check": {
+            "url": "https://arxiv.org/pdf/2510.24437",
+            "checkedAt": "2026-11-06T12:43:34.915383+00:00",
+            "method": "GET",
+            "status": 206,
+            "contentType": "application/pdf",
+            "finalUrl": "https://arxiv.org/pdf/2510.24437",
+            "bytesRead": 131072,
+            "result": "ok-pdf"
+          }
+        }
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1016/j.neucom.2025.132428",
+        "https://www.sciencedirect.com/science/article/pii/S0925231225031005",
+        "https://arxiv.org/abs/2510.24437"
+      ],
+      "notes": [
+        "The source list groups this under 2025 although its own citation gives 2026-03-07. The Elsevier-deposited Crossref record verifies final volume 669 and March 2026, article 132428. Use final volume year 2026; the 2025 in the DOI and arXiv submission date is not the final publication year. Live ScienceDirect access returned 403; arXiv confirms author order and provides an open version. Only year-level date is returned here because the live Crossref record has no day.",
+        "Source list groups this under 2025; verified display year is 2026. Conference entries use the event edition, journal entries use the final volume year when assigned."
+      ],
+      "volume": "669",
+      "articleNumber": "132428",
+      "sourceCitationDate": "2026-03-07",
+      "paperId": "deeply-conditioned-image-compression-via-self-generated-priors",
+      "sourceListYear": 2025,
+      "sourceCitation": "Zhineng Zhao, Zhihai He, Zikun Zhou, Siwei Ma, Yaowei Wang. \"Deeply-conditioned image compression via self-generated priors.\" [J] Neurocomputing, Volume 669, 7 March 2026, 132428",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0925231225031005"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2510.24437"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0925231225031005"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2510.24437"
+        }
+      ],
+      "preferredSource": {
+        "kind": "publisher",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0925231225031005",
+        "reason": "Official journal publisher record."
+      }
+    },
+    {
+      "number": 12,
+      "title": "Audio-Driven Multi-Modal Unobtrusive Health Monitoring and Inference for Smart Eldercare at Home",
+      "sourceYear": 2025,
+      "authors": [
+        "Xinhua Fan",
+        "Youming Li",
+        "Zhongchao Huang",
+        "Zhihai He"
+      ],
+      "venue": "IEEE Journal of Biomedical and Health Informatics",
+      "year": 2026,
+      "date": "2026",
+      "doi": "10.1109/JBHI.2026.3651261",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Publisher",
+          "url": "https://ieeexplore.ieee.org/document/11339893/",
+          "check": {
+            "url": "https://ieeexplore.ieee.org/document/11339893/",
+            "checkedAt": "2026-11-06T12:43:36.966421+00:00",
+            "method": "GET",
+            "status": 202,
+            "contentType": "text/html; charset=UTF-8",
+            "finalUrl": "https://ieeexplore.ieee.org/document/11339893/",
+            "bytesRead": 0,
+            "result": "blocked-or-challenge",
+            "message": "IEEE returned HTTP 202 with an empty body, rather than a paper page."
+          }
+        }
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1109/JBHI.2026.3651261",
+        "https://ieeexplore.ieee.org/document/11339893/"
+      ],
+      "notes": [
+        "Source list groups this under 2025 but explicitly cites early access in January 2026. The IEEE-deposited Crossref record now verifies final volume 30(8), August 2026, pages 7045–7057 and author order. Do not infer an exact publication day from Crossref created timestamp; date is year-only. IEEE page requires JavaScript bot verification. No openly accessible author PDF or code was verified.",
+        "Source list groups this under 2025; verified display year is 2026. Conference entries use the event edition, journal entries use the final volume year when assigned."
+      ],
+      "volume": "30",
+      "issue": "8",
+      "pages": "7045–7057",
+      "sourceCitationEarlyAccessDate": "2026-01-12",
+      "paperId": "audio-driven-multi-modal-unobtrusive-health-monitoring-and-inference-for-smart-eldercare-at-home",
+      "sourceListYear": 2025,
+      "sourceCitation": "Xinhua Fan, Youming Li, Zhongchao Huang, Zhihai He. \"Audio-Driven Multi-Modal Unobtrusive Health Monitoring and Inference for Smart Eldercare at Home.\"[J] IEEE Journal of Biomedical and Health Informatics ( Early Access ) 12 Jan.2026.",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://ieeexplore.ieee.org/document/11339893/"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://ieeexplore.ieee.org/document/11339893/"
+        }
+      ],
+      "preferredSource": {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/11339893/",
+        "reason": "Official journal publisher record."
+      }
+    },
+    {
+      "number": 13,
+      "title": "Concept-Guided Prompt Learning for Generalization in Vision-Language Models",
+      "sourceYear": 2024,
+      "authors": [
+        "Yi Zhang",
+        "Ce Zhang",
+        "Ke Yu",
+        "Yushun Tang",
+        "Zhihai He"
+      ],
+      "venue": "AAAI 2024",
+      "year": 2024,
+      "date": "2024-03-24",
+      "doi": "10.1609/aaai.v38i7.28568",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Publisher",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28568",
+          "check": {
+            "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28568",
+            "checkedAt": "2026-11-06T12:43:37.796832+00:00",
+            "method": "GET",
+            "status": 200,
+            "contentType": "text/html; charset=utf-8",
+            "finalUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/28568",
+            "bytesRead": 7055,
+            "pageTitle": "Making sure you&#39;re not a bot!",
+            "result": "blocked-or-challenge"
+          }
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2401.07457",
+          "check": {
+            "url": "https://arxiv.org/pdf/2401.07457",
+            "checkedAt": "2026-11-06T12:43:33.362471+00:00",
+            "method": "GET",
+            "status": 206,
+            "contentType": "application/pdf",
+            "finalUrl": "https://arxiv.org/pdf/2401.07457",
+            "bytesRead": 131072,
+            "result": "ok-pdf"
+          }
+        }
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1609/aaai.v38i7.28568",
+        "https://ojs.aaai.org/index.php/AAAI/article/view/28568",
+        "https://arxiv.org/abs/2401.07457"
+      ],
+      "notes": [
+        "Publisher landing page and official PDF were both opened and match the exact title and authors; the selected PDF link is the open arXiv version."
+      ],
+      "volume": "38",
+      "issue": "7",
+      "pages": "7377–7386",
+      "metadataVerification": "Exact title, authors, venue and publication dates verified from publisher-deposited Crossref metadata with live HTTP 200.",
+      "paperId": "concept-guided-prompt-learning-for-generalization-in-vision-language-models",
+      "sourceListYear": 2024,
+      "sourceCitation": "Yi Zhang, Ce Zhang, Ke Yu, Yushun Tang, Zhihai He. \"Concept-Guided Prompt Learning for Generalization in Vision-Language Models\" [J]. Proceedings of the AAAI Conference on Artificial Intelligence 38 (7), 7377-7386. 2024.",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28568"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2401.07457"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28568"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2401.07457"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28568",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      }
+    },
+    {
+      "number": 14,
+      "title": "Cross-Constrained Progressive Inference for 3D Hand Pose Estimation with Dynamic Observer-Decision-Adjuster Networks",
+      "sourceYear": 2024,
+      "authors": [
+        "Zhehan Kan",
+        "Xueting Hu",
+        "Zihan Liao",
+        "Ke Yu",
+        "Zhihai He"
+      ],
+      "venue": "AAAI 2024",
+      "year": 2024,
+      "date": "2024-03-24",
+      "doi": "10.1609/aaai.v38i3.28048",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Publisher",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28048",
+          "check": {
+            "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28048",
+            "checkedAt": "2026-11-06T12:43:37.043408+00:00",
+            "method": "GET",
+            "status": 200,
+            "contentType": "text/html; charset=utf-8",
+            "finalUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/28048",
+            "bytesRead": 7055,
+            "pageTitle": "Making sure you&#39;re not a bot!",
+            "result": "blocked-or-challenge"
+          }
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28048/28106",
+          "check": {
+            "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28048/28106",
+            "checkedAt": "2026-11-06T12:43:37.177928+00:00",
+            "method": "GET",
+            "status": 200,
+            "contentType": "text/html; charset=utf-8",
+            "finalUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/28048/28106",
+            "bytesRead": 7054,
+            "pageTitle": "Making sure you&#39;re not a bot!",
+            "result": "blocked-or-challenge"
+          }
+        }
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1609/aaai.v38i3.28048",
+        "https://ojs.aaai.org/index.php/AAAI/article/view/28048",
+        "https://ojs.aaai.org/index.php/AAAI/article/view/28048/28106"
+      ],
+      "notes": [
+        "Publisher landing page and official PDF opened successfully through the web tool and verify exact title, author order, date and pages."
+      ],
+      "volume": "38",
+      "issue": "3",
+      "pages": "2697–2704",
+      "metadataVerification": "Exact title, authors, venue and publication dates verified from publisher-deposited Crossref metadata with live HTTP 200.",
+      "paperId": "cross-constrained-progressive-inference-for-3d-hand-pose-estimation-with-dynamic-observer-decision-adjuster-networks",
+      "sourceListYear": 2024,
+      "sourceCitation": "Zhehan Kan, Xueting Hu, Zihan Liao, Ke Yu, Zhihai He. \"Cross-Constrained Progressive Inference for 3D Hand Pose Estimation with Dynamic Observer-Decision-Adjuster Networks\" [J]. Vol. 38 No. 3: AAAI-24 Technical Tracks 3, DOI: https://doi.org/10.1609/aaai.v38i3.28048.",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28048"
+        },
+        {
+          "label": "PDF",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28048/28106"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28048"
+        },
+        {
+          "label": "PDF",
+          "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28048/28106"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/28048",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      }
+    },
+    {
+      "number": 15,
+      "title": "Cross-modal concept learning and inference for vision-language models",
+      "sourceYear": 2024,
+      "authors": [
+        "Yi Zhang",
+        "Ce Zhang",
+        "Yushun Tang",
+        "Zhihai He"
+      ],
+      "venue": "Neurocomputing",
+      "year": 2024,
+      "date": "2024",
+      "doi": "10.1016/j.neucom.2024.127530",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Publisher",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0925231224003011",
+          "check": {
+            "url": "https://www.sciencedirect.com/science/article/pii/S0925231224003011",
+            "checkedAt": "2026-11-06T12:43:39.023745+00:00",
+            "method": "GET",
+            "status": 403,
+            "result": "blocked-or-challenge",
+            "message": "HTTP Error 403: Forbidden"
+          }
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2307.15460",
+          "check": {
+            "url": "https://arxiv.org/pdf/2307.15460",
+            "checkedAt": "2026-11-06T12:43:33.361115+00:00",
+            "method": "GET",
+            "status": 206,
+            "contentType": "application/pdf",
+            "finalUrl": "https://arxiv.org/pdf/2307.15460",
+            "bytesRead": 131072,
+            "result": "ok-pdf"
+          }
+        }
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1016/j.neucom.2024.127530",
+        "https://www.sciencedirect.com/science/article/pii/S0925231224003011",
+        "https://arxiv.org/abs/2307.15460"
+      ],
+      "notes": [
+        "Elsevier-deposited Crossref record verifies authors, final volume 583, May 2024 and article 127530. ArXiv was first posted in 2023, which is not the journal publication year. ScienceDirect returned 403 during live open; arXiv page opened and confirms exact title/authors."
+      ],
+      "volume": "583",
+      "articleNumber": "127530",
+      "paperId": "cross-modal-concept-learning-and-inference-for-vision-language-models",
+      "sourceListYear": 2024,
+      "sourceCitation": "Yi Zhang, Ce Zhang, Yushun Tang, Zhihai He. \"Cross-modal concept learning and inference for vision-language models\" [J]. Neurocomputing, 2024: 127530.",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0925231224003011"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2307.15460"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0925231224003011"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2307.15460"
+        }
+      ],
+      "preferredSource": {
+        "kind": "publisher",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0925231224003011",
+        "reason": "Official journal publisher record."
+      }
+    },
+    {
+      "number": 16,
+      "title": "Learning Inference-Time Drift Sensor-Actuator for Domain Generalization",
+      "sourceYear": 2024,
+      "authors": [
+        "Shuoshuo Chen",
+        "Yushun Tang",
+        "Zhehan Kan",
+        "Zhihai He"
+      ],
+      "venue": "ICASSP 2024",
+      "year": 2024,
+      "date": "2024-04-14",
+      "doi": "10.1109/ICASSP48485.2024.10447537",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Conference",
+          "url": "https://cmsworkshops.com/ICASSP2024/view_paper.php?PaperNum=1438",
+          "check": {
+            "url": "https://cmsworkshops.com/ICASSP2024/view_paper.php?PaperNum=1438",
+            "status": 200,
+            "result": "ok-html",
+            "finalUrl": "https://cmsworkshops.com/ICASSP2024/view_paper.php?PaperNum=1438",
+            "contentType": "text/html; charset=UTF-8"
+          }
+        }
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1109/ICASSP48485.2024.10447537",
+        "https://ieeexplore.ieee.org/document/10447537/",
+        "https://cmsworkshops.com/ICASSP2024/view_paper.php?PaperNum=1438"
+      ],
+      "notes": [
+        "IEEE-deposited Crossref record verifies exact metadata and publication date. Official ICASSP paper page 1438 opened successfully and independently confirms title/authors and presentation on 16 April 2024. Preserve the functional PaperNum query parameter. IEEE live page returned a 420 anti-bot response."
+      ],
+      "pages": "5090–5094",
+      "conferenceUrl": "https://cmsworkshops.com/ICASSP2024/view_paper.php?PaperNum=1438",
+      "paperId": "learning-inference-time-drift-sensor-actuator-for-domain-generalization",
+      "sourceListYear": 2024,
+      "sourceCitation": "Shuoshuo Chen, Yushun Tang, Zhehan Kan, Zhihai He. \"Learning Inference-Time Drift Sensor-Actuator for Domain Generalization\"[J]. 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 14-19 April 2024, pp. 5090-5094. DOI: 10.1109/ICASSP48485.2024.10447537",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://cmsworkshops.com/ICASSP2024/view_paper.php?PaperNum=1438"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://cmsworkshops.com/ICASSP2024/view_paper.php?PaperNum=1438"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://cmsworkshops.com/ICASSP2024/view_paper.php?PaperNum=1438",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      }
+    },
+    {
+      "number": 17,
+      "title": "Full-coverage unobtrusive health monitoring of elders at homes",
+      "sourceYear": 2024,
+      "authors": [
+        "Zhongchao Huang",
+        "Jing Li",
+        "Zhihai He"
+      ],
+      "venue": "Internet of Things",
+      "year": 2024,
+      "date": "2024",
+      "doi": "10.1016/j.iot.2024.101182",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Publisher",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2542660524001239",
+          "check": {
+            "url": "https://www.sciencedirect.com/science/article/pii/S2542660524001239",
+            "checkedAt": "2026-11-06T12:43:39.417775+00:00",
+            "method": "GET",
+            "status": 403,
+            "result": "blocked-or-challenge",
+            "message": "HTTP Error 403: Forbidden"
+          }
+        }
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1016/j.iot.2024.101182",
+        "https://www.sciencedirect.com/science/article/pii/S2542660524001239"
+      ],
+      "notes": [
+        "Elsevier-deposited Crossref record verifies exact title, author order, final volume 26, July 2024 and article 101182. ScienceDirect live open returned 403. No open author PDF or code was verified."
+      ],
+      "volume": "26",
+      "articleNumber": "101182",
+      "paperId": "full-coverage-unobtrusive-health-monitoring-of-elders-at-homes",
+      "sourceListYear": 2024,
+      "sourceCitation": "Zhongchao Huang, Jing Li, Zhihai He. \"Full-coverage unobtrusive health monitoring of elders at homes\"[J]. Internet of Things. Volume 26, 2024, 101182, ISSN 2542-6605, https://doi.org/10.1016/j.iot.2024.101182.",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2542660524001239"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2542660524001239"
+        }
+      ],
+      "preferredSource": {
+        "kind": "publisher",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2542660524001239",
+        "reason": "Official journal publisher record."
+      }
+    },
+    {
+      "number": 18,
+      "title": "Learning Visual Conditioning Tokens to Correct Domain Shift for Fully Test-time Adaptation",
+      "sourceYear": 2024,
+      "authors": [
+        "Yushun Tang",
+        "Shuoshuo Chen",
+        "Zhehan Kan",
+        "Yi Zhang",
+        "Qinghai Guo",
+        "Zhihai He"
+      ],
+      "venue": "IEEE Transactions on Multimedia",
+      "year": 2024,
+      "date": "2024",
+      "doi": "10.1109/TMM.2024.3443633",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Publisher",
+          "url": "https://ieeexplore.ieee.org/document/10636806/",
+          "check": {
+            "url": "https://ieeexplore.ieee.org/document/10636806/",
+            "checkedAt": "2026-11-06T12:43:35.993581+00:00",
+            "method": "GET",
+            "status": 202,
+            "contentType": "text/html; charset=UTF-8",
+            "finalUrl": "https://ieeexplore.ieee.org/document/10636806/",
+            "bytesRead": 0,
+            "result": "blocked-or-challenge",
+            "message": "IEEE returned HTTP 202 with an empty body, rather than a paper page."
+          }
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2406.19341",
+          "check": {
+            "url": "https://arxiv.org/pdf/2406.19341",
+            "checkedAt": "2026-11-06T12:43:33.363884+00:00",
+            "method": "GET",
+            "status": 206,
+            "contentType": "application/pdf",
+            "finalUrl": "https://arxiv.org/pdf/2406.19341",
+            "bytesRead": 131072,
+            "result": "ok-pdf"
+          }
+        }
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1109/TMM.2024.3443633",
+        "https://ieeexplore.ieee.org/document/10636806/",
+        "https://arxiv.org/abs/2406.19341"
+      ],
+      "notes": [
+        "Source list gives 2024, corresponding to arXiv preprint and early-access DOI registration. Current IEEE-deposited Crossref record assigns final volume 28, 2026, pages 2094–2105. Per final-volume-year policy use 2026 and preserve sourceYear=2024. No exact final publication day is verified. IEEE page requires JavaScript bot verification; arXiv opened successfully and confirms exact title and all six authors.",
+        "Source list groups this under 2024; verified display year is 2026. Conference entries use the event edition, journal entries use the final volume year when assigned.",
+        "Current archive-priority update: RAR Word explicitly cites 2024; matching PDF is arXiv2406.19341v2 dated 4 July 2024, with matching filename 2024 TMM. Use supplied early version/year under user archive-priority instruction, rather than later final-volume year 2026."
+      ],
+      "volume": "28",
+      "pages": "2094–2105",
+      "earlyAccessYear": 2024,
+      "paperId": "learning-visual-conditioning-tokens-to-correct-domain-shift-for-fully-test-time-adaptation",
+      "sourceListYear": 2024,
+      "sourceCitation": "Yushun Tang, Shuoshuo Chen, Zhehan Kan, Yi Zhang, Qinghai Guo, Zhihai He. \"Learning Visual Conditioning Tokens to Correct Domain Shift for Fully Test-time Adaptation\"[J]. IEEE Transactions on Multimedia, 2024.",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://ieeexplore.ieee.org/document/10636806/"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2406.19341"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://ieeexplore.ieee.org/document/10636806/"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2406.19341"
+        }
+      ],
+      "preferredSource": {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/10636806/",
+        "reason": "Official journal publisher record."
+      },
+      "previousMetadata": {
+        "year": 2026,
+        "date": "2026",
+        "datePrecision": null
+      },
+      "datePrecision": "year"
+    },
+    {
+      "number": 19,
+      "title": "Conceptual Codebook Learning for Vision-Language Models",
+      "authors": [
+        "Yi Zhang",
+        "Ke Yu",
+        "Siqi Wu",
+        "Zhihai He"
+      ],
+      "venue": "European Conference on Computer Vision (ECCV)",
+      "year": 2024,
+      "date": "2024-10-29",
+      "doi": "10.1007/978-3-031-72980-5_14",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-031-72980-5_14"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09905.pdf"
+        }
+      ],
+      "sources": [
+        "https://link.springer.com/chapter/10.1007/978-3-031-72980-5_14",
+        "https://arxiv.org/abs/2407.02350",
+        "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09905.pdf",
+        "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/9905_ECCV_2024_paper.php"
+      ],
+      "notes": [
+        "Springer confirms ECCV 2024, authors, pp.235–251, and First Online 29 October 2024; date uses that publisher date, not arXiv submission date."
+      ],
+      "metadataStatus": "independently_verified_from_primary_sources",
+      "verification": [
+        {
+          "url": "https://link.springer.com/chapter/10.1007/978-3-031-72980-5_14",
+          "status": "opened_primary_landing_page"
+        },
+        {
+          "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09905.pdf",
+          "status": "opened_application_pdf"
+        }
+      ],
+      "paperId": "conceptual-codebook-learning-for-vision-language-models",
+      "sourceListYear": 2024,
+      "sourceCitation": "Yi Zhang, Ke Yu, Siqi Wu, Zhihai He. \"Conceptual Codebook Learning for Vision-Language Models\"[J]. European Conference on Computer Vision (ECCV 2024), arXiv preprint arXiv:2407.02350, 2024",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/9905_ECCV_2024_paper.php"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09905.pdf"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-031-72980-5_14"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09905.pdf"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/9905_ECCV_2024_paper.php",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      },
+      "sourcePriorityVerification": {
+        "checkedAt": "2026-11-07T08:13:39+00:00",
+        "exactTitleInLiveHTML": true,
+        "httpResult": "accessible"
+      }
+    },
+    {
+      "number": 20,
+      "title": "Dual-Path Adversarial Lifting for Domain Shift Correction in Online Test-time Adaptation",
+      "authors": [
+        "Yushun Tang",
+        "Shuoshuo Chen",
+        "Zhihe Lu",
+        "Xinchao Wang",
+        "Zhihai He"
+      ],
+      "venue": "European Conference on Computer Vision (ECCV)",
+      "year": 2024,
+      "date": "2024-11-09",
+      "doi": "10.1007/978-3-031-72855-6_20",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-031-72855-6_20"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08443.pdf"
+        }
+      ],
+      "sources": [
+        "https://link.springer.com/chapter/10.1007/978-3-031-72855-6_20",
+        "https://arxiv.org/abs/2408.13983",
+        "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08443.pdf",
+        "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8443_ECCV_2024_paper.php"
+      ],
+      "notes": [
+        "Conference edition year is 2024; Springer First Online is 9 November 2024. Print copyright/citation may say 2025; retain conference edition year for grouping.",
+        "The DOI in the supplied list is the arXiv DOI; recorded doi here is final publisher chapter DOI."
+      ],
+      "metadataStatus": "independently_verified_from_primary_sources",
+      "verification": [
+        {
+          "url": "https://link.springer.com/chapter/10.1007/978-3-031-72855-6_20",
+          "status": "opened_primary_landing_page"
+        },
+        {
+          "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08443.pdf",
+          "status": "opened_application_pdf"
+        }
+      ],
+      "paperId": "dual-path-adversarial-lifting-for-domain-shift-correction-in-online-test-time-adaptation",
+      "sourceListYear": 2024,
+      "sourceCitation": "Yushun Tang, Shuoshuo Chen, Zhihe Lu, Xinchao Wang, Zhihai He. \"Dual-Path Adversarial Lifting for Domain Shift Correction in Online Test-time Adaptation\"[J]. European Conference on Computer Vision (ECCV 2024), arXiv:2408.13983, 2024. https://doi.org/10.48550/arXiv.2408.13983",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8443_ECCV_2024_paper.php"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08443.pdf"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-031-72855-6_20"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08443.pdf"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8443_ECCV_2024_paper.php",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      },
+      "sourcePriorityVerification": {
+        "checkedAt": "2026-11-07T08:13:39+00:00",
+        "exactTitleInLiveHTML": true,
+        "httpResult": "accessible"
+      }
+    },
+    {
+      "number": 21,
+      "title": "Training-Free Feature Reconstruction with Sparse Optimization for Vision-Language Models",
+      "authors": [
+        "Yi Zhang",
+        "Ke Yu",
+        "Angelica I. Aviles-Rivero",
+        "Jiyuan Jia",
+        "Yushun Tang",
+        "Zhihai He"
+      ],
+      "venue": "ACM International Conference on Multimedia (ACM MM)",
+      "year": 2024,
+      "date": "2024-10-28",
+      "doi": "10.1145/3664647.3680710",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://doi.org/10.1145/3664647.3680710"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://openreview.net/pdf?id=bXhz5c12Ee"
+        }
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1145/3664647.3680710",
+        "https://openreview.net/pdf?id=bXhz5c12Ee",
+        "https://dl.acm.org/doi/10.1145/3664647.3680710"
+      ],
+      "notes": [
+        "Publisher-deposited Crossref record independently confirms exact title, ordered authors, 28 October 2024 and pp.4387–4396; local extracted record is /tmp/nkd-crossref-19-31.json.",
+        "OpenReview PDF is indexed with the full paper and DOI, but opening returns a browser-verification challenge; direct request gives HTTP403. Do not mark as PDF-accessible.",
+        "DOI/ACM destination gives HTTP403 in this environment. It is a verified paper identifier, not a confirmed freely accessible full text."
+      ],
+      "metadataStatus": "independently_verified_from_primary_sources",
+      "verification": [
+        {
+          "url": "https://doi.org/10.1145/3664647.3680710",
+          "status": "http_403"
+        },
+        {
+          "url": "https://openreview.net/pdf?id=bXhz5c12Ee",
+          "status": "browser_verification_challenge_and_http_403"
+        }
+      ],
+      "paperId": "training-free-feature-reconstruction-with-sparse-optimization-for-vision-language-models",
+      "sourceListYear": 2024,
+      "sourceCitation": "Yi Zhang, Ke Yu, Angelica I Aviles-Rivero, Jiyuan Jia, Yushun Tang, Zhihai He. \"Training-Free Feature Reconstruction with Sparse Optimization for Vision-Language Models\"[J]. Proceedings of the 32nd ACM International Conference on Multimedia, 2024. 4387-4396",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://dl.acm.org/doi/10.1145/3664647.3680710"
+        },
+        {
+          "label": "PDF",
+          "url": "https://openreview.net/pdf?id=bXhz5c12Ee"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://doi.org/10.1145/3664647.3680710"
+        },
+        {
+          "label": "PDF",
+          "url": "https://openreview.net/pdf?id=bXhz5c12Ee"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://dl.acm.org/doi/10.1145/3664647.3680710",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      },
+      "sourcePriorityVerification": {
+        "checkedAt": "2026-11-07T08:13:39+00:00",
+        "exactTitleInLiveHTML": false,
+        "httpResult": "restricted",
+        "metadataEvidence": "https://api.crossref.org/works/10.1145/3664647.3680710"
+      }
+    },
+    {
+      "number": 22,
+      "title": "Domain-Conditioned Transformer for Fully Test-time Adaptation",
+      "authors": [
+        "Yushun Tang",
+        "Shuoshuo Chen",
+        "Jiyuan Jia",
+        "Yi Zhang",
+        "Zhihai He"
+      ],
+      "venue": "ACM International Conference on Multimedia (ACM MM)",
+      "year": 2024,
+      "date": "2024-10-28",
+      "doi": "10.1145/3664647.3680678",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2410.10442"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2410.10442"
+        }
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2410.10442",
+        "https://arxiv.org/pdf/2410.10442",
+        "https://api.crossref.org/works/10.1145/3664647.3680678",
+        "https://dl.acm.org/doi/10.1145/3664647.3680678"
+      ],
+      "notes": [
+        "Publisher-deposited Crossref record confirms 28 October 2024 and pp.6260–6269. arXiv PDF carries ACM MM 2024 reference and exact publisher DOI."
+      ],
+      "metadataStatus": "independently_verified_from_primary_sources",
+      "verification": [
+        {
+          "url": "https://arxiv.org/abs/2410.10442",
+          "status": "opened_primary_landing_page"
+        },
+        {
+          "url": "https://arxiv.org/pdf/2410.10442",
+          "status": "opened_application_pdf"
+        }
+      ],
+      "paperId": "domain-conditioned-transformer-for-fully-test-time-adaptation",
+      "sourceListYear": 2024,
+      "sourceCitation": "Yushun Tang, Shuoshuo Chen, Jiyuan Jia, Yi Zhang, Zhihai He. \"Domain-Conditioned Transformer for Fully Test-time Adaptation.\"[J] Proceedings of the 32nd ACM International Conference on Multimedia, 2024. 6260-6269.",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://dl.acm.org/doi/10.1145/3664647.3680678"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2410.10442"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2410.10442"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2410.10442"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://dl.acm.org/doi/10.1145/3664647.3680678",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      },
+      "sourcePriorityVerification": {
+        "checkedAt": "2026-11-07T08:13:39+00:00",
+        "exactTitleInLiveHTML": false,
+        "httpResult": "restricted",
+        "metadataEvidence": "https://api.crossref.org/works/10.1145/3664647.3680678"
+      }
+    },
+    {
+      "number": 23,
+      "title": "Window-based Channel Attention for Wavelet-enhanced Learned Image Compression",
+      "authors": [
+        "Heng Xu",
+        "Bowen Hai",
+        "Yushun Tang",
+        "Zhihai He"
+      ],
+      "venue": "Asian Conference on Computer Vision (ACCV)",
+      "year": 2024,
+      "date": "2024-12-08",
+      "doi": "10.1007/978-981-96-0963-5_27",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://link.springer.com/chapter/10.1007/978-981-96-0963-5_27"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2409.14090"
+        }
+      ],
+      "sources": [
+        "https://link.springer.com/chapter/10.1007/978-981-96-0963-5_27",
+        "https://arxiv.org/abs/2409.14090",
+        "https://openaccess.thecvf.com/content/ACCV2024/html/Xu_Window-based_Channel_Attention_for_Wavelet-enhanced_Learned_Image_Compression_ACCV_2024_paper.html",
+        "https://openaccess.thecvf.com/content/ACCV2024/papers/Xu_Window-based_Channel_Attention_for_Wavelet-enhanced_Learned_Image_Compression_ACCV_2024_paper.pdf"
+      ],
+      "notes": [
+        "ACCV edition year 2024 retained. Springer First Online 8 December 2024. Publisher chapter pp.450–467 differ from CVF proceedings continuous pp.4334–4351; both refer to same paper.",
+        "CVF landing/PDF requests returned HTTP403; arXiv PDF opens successfully."
+      ],
+      "metadataStatus": "independently_verified_from_primary_sources",
+      "verification": [
+        {
+          "url": "https://link.springer.com/chapter/10.1007/978-981-96-0963-5_27",
+          "status": "opened_primary_landing_page"
+        },
+        {
+          "url": "https://arxiv.org/pdf/2409.14090",
+          "status": "opened_application_pdf"
+        }
+      ],
+      "paperId": "window-based-channel-attention-for-wavelet-enhanced-learned-image-compression",
+      "sourceListYear": 2024,
+      "sourceCitation": "Heng Xu, Bowen Hai, Yushun Tang, Zhihai He. \"Window-based Channel Attention for Wavelet-enhanced Learned Image Compression. \"[J]. Proceedings of the Asian Conference on Computer Vision (ACCV), 2024, pp. 4334-4351. Lecture Notes in Computer Science, vol 15478. Springer, Singapore. https://doi.org/10.1007/978-981-96-0963-5_27",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://openaccess.thecvf.com/content/ACCV2024/html/Xu_Window-based_Channel_Attention_for_Wavelet-enhanced_Learned_Image_Compression_ACCV_2024_paper.html"
+        },
+        {
+          "label": "PDF",
+          "url": "https://openaccess.thecvf.com/content/ACCV2024/papers/Xu_Window-based_Channel_Attention_for_Wavelet-enhanced_Learned_Image_Compression_ACCV_2024_paper.pdf"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://link.springer.com/chapter/10.1007/978-981-96-0963-5_27"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2409.14090"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://openaccess.thecvf.com/content/ACCV2024/html/Xu_Window-based_Channel_Attention_for_Wavelet-enhanced_Learned_Image_Compression_ACCV_2024_paper.html",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      },
+      "sourcePriorityVerification": {
+        "checkedAt": "2026-11-07T08:13:41+00:00",
+        "exactTitleInLiveHTML": true,
+        "httpResult": "accessible"
+      }
+    },
+    {
+      "number": 24,
+      "title": "Unsupervised Action Recognition using Spatiotemporal, Adaptive, and Attention-guided Refining-Network",
+      "authors": [
+        "Xinpeng Yin",
+        "Cheng Zhang",
+        "ZiXu Huang",
+        "Zhihai He",
+        "Wenming Cao"
+      ],
+      "venue": "IEEE Transactions on Artificial Intelligence",
+      "year": 2024,
+      "date": "2024",
+      "doi": "10.1109/TAI.2024.3430257",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://doi.org/10.1109/TAI.2024.3430257"
+        }
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1109/TAI.2024.3430257",
+        "https://ieeexplore.ieee.org/document/10601531",
+        "https://ceie.szu.edu.cn/en/info/1113/1026.htm"
+      ],
+      "notes": [
+        "Supplied list groups this under 2024; coauthor university profile also cites early-access 2024. IEEE publisher-deposited Crossref record assigns final journal issue volume6 issue6 June2025, pp.1460–1471. Display year is final volume year 2025.",
+        "Metadata was obtained through exact-title Crossref query; locally saved in /tmp/nkd-crossref2-19-31.json. DOI direct request first hit429; exact-title query succeeded.",
+        "No official open-access PDF located. IEEE landing page was not retrievable via web tool (cache miss), and DOI open was tool-inaccessible; do not claim public full text opens.",
+        "Source list groups this under 2024; verified display year is 2025. Conference entries use the event edition, journal entries use the final volume year when assigned.",
+        "The newsletter/blog was used only for discovery; publication metadata is supported by the IEEE-deposited Crossref record, not by the newsletter.",
+        "Current archive-priority update: No corresponding PDF in RAR; archive Word explicitly cites IEEE TAI 2024. Under archive-priority instruction use the provided early-access year instead of later final-volume year 2025."
+      ],
+      "metadataStatus": "independently_verified_from_primary_sources",
+      "verification": [
+        {
+          "url": "https://doi.org/10.1109/TAI.2024.3430257",
+          "status": "tool_inaccessible_not_proven_dead"
+        }
+      ],
+      "volume": "6",
+      "issue": "6",
+      "pages": "1460–1471",
+      "paperId": "unsupervised-action-recognition-using-spatiotemporal-adaptive-and-attention-guided-refining-network",
+      "sourceListYear": 2024,
+      "sourceCitation": "Xinpeng Yin, Cheng Zhang, ZiXu Huang, Zhihai He, Wenming Cao. \"Unsupervised Action Recognition using Spatiotemporal, Adaptive, and Attention-guided Refining-Network. \"[J] IEEE Transactions on Artificial Intelligence, 2024",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://doi.org/10.1109/TAI.2024.3430257"
+        }
+      ],
+      "discoverySources": [
+        "https://ieee-cis.blogspot.com/2025/06/"
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://doi.org/10.1109/TAI.2024.3430257"
+        }
+      ],
+      "preferredSource": {
+        "kind": "publisher",
+        "url": "https://doi.org/10.1109/TAI.2024.3430257",
+        "reason": "Official journal publisher record."
+      },
+      "previousMetadata": {
+        "year": 2025,
+        "date": "2025",
+        "datePrecision": null
+      },
+      "datePrecision": "year"
+    },
+    {
+      "number": 25,
+      "title": "Hierarchical Spatial-temporal Masked Contrast for skeleton action recognition",
+      "authors": [
+        "Wenming Cao",
+        "Aoyu Zhang",
+        "Zhihai He",
+        "Yicha Zhang",
+        "Xinpeng Yin"
+      ],
+      "venue": "IEEE Transactions on Artificial Intelligence",
+      "year": 2024,
+      "date": "2024",
+      "doi": "10.1109/TAI.2024.3430260",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://ieeexplore.ieee.org/document/10601523"
+        }
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1109/TAI.2024.3430260",
+        "https://ieeexplore.ieee.org/document/10601523",
+        "https://ceie.szu.edu.cn/en/info/1113/1026.htm"
+      ],
+      "notes": [
+        "Publisher-deposited Crossref record confirms exact ordered authors and final volume5 issue11 November2024 pp.5801–5814.",
+        "IEEE URL opens only a minimal title/footer shell via browser tool. No freely accessible PDF established."
+      ],
+      "metadataStatus": "independently_verified_from_primary_sources",
+      "verification": [
+        {
+          "url": "https://ieeexplore.ieee.org/document/10601523",
+          "status": "opened_publisher_title_shell_no_fulltext"
+        }
+      ],
+      "volume": "5",
+      "issue": "11",
+      "pages": "5801–5814",
+      "paperId": "hierarchical-spatial-temporal-masked-contrast-for-skeleton-action-recognition",
+      "sourceListYear": 2024,
+      "sourceCitation": "Wenming Cao, Aoyu Zhang, Zhihai He, Yicha Zhang, Xinpeng Yin. “Hierarchical Spatial-temporal Masked Contrast for skeleton action recognition.” [J] IEEE Transactions on Artificial Intelligence, 2024.",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://ieeexplore.ieee.org/document/10601523"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://ieeexplore.ieee.org/document/10601523"
+        }
+      ],
+      "preferredSource": {
+        "kind": "publisher",
+        "url": "https://ieeexplore.ieee.org/document/10601523",
+        "reason": "Official journal publisher record."
+      }
+    },
+    {
+      "number": 26,
+      "title": "Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation",
+      "authors": [
+        "Yushun Tang",
+        "Ce Zhang",
+        "Heng Xu",
+        "Shuoshuo Chen",
+        "Jie Cheng",
+        "Luziwei Leng",
+        "Qinghai Guo",
+        "Zhihai He"
+      ],
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "year": 2023,
+      "date": "2023",
+      "doi": "10.1109/CVPR52729.2023.00363",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2303.00914"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2303.00914"
+        }
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2303.00914",
+        "https://arxiv.org/pdf/2303.00914",
+        "https://openaccess.thecvf.com/content/CVPR2023/html/Tang_Neuro-Modulated_Hebbian_Learning_for_Fully_Test-Time_Adaptation_CVPR_2023_paper.html",
+        "https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Neuro-Modulated_Hebbian_Learning_for_Fully_Test-Time_Adaptation_CVPR_2023_paper.pdf"
+      ],
+      "notes": [
+        "CVPR2023 acceptance and authors confirmed by author-submitted arXiv record; CVF official indexed citation confirms pp.3728–3738. CVF direct requests HTTP403, so accessible arXiv links selected.",
+        "Local audit only: existing YouTube https://www.youtube.com/watch?v=d1f4UDmAadk is this NHL paper (YouTube indexed title by Thomson Tang), not paper27."
+      ],
+      "metadataStatus": "independently_verified_from_primary_sources",
+      "verification": [
+        {
+          "url": "https://arxiv.org/abs/2303.00914",
+          "status": "opened_primary_landing_page"
+        },
+        {
+          "url": "https://arxiv.org/pdf/2303.00914",
+          "status": "opened_application_pdf"
+        }
+      ],
+      "paperId": "neuro-modulated-hebbian-learning-for-fully-test-time-adaptation",
+      "sourceListYear": 2023,
+      "sourceCitation": "Yushun Tang, Ce Zhang, Heng Xu, Shuoshuo Chen, Jie Cheng, Luziwei Leng, Qinghai Guo, Zhihai He, \"Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation.\" In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 3728-3738. 2023.17-24 June 2023. DOI: 10.1109/CVPR52729.2023.00363",
+      "retainedExisting": true,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Tang_Neuro-Modulated_Hebbian_Learning_for_Fully_Test-Time_Adaptation_CVPR_2023_paper.html"
+        },
+        {
+          "label": "PDF",
+          "url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Neuro-Modulated_Hebbian_Learning_for_Fully_Test-Time_Adaptation_CVPR_2023_paper.pdf"
+        },
+        {
+          "label": "引用",
+          "url": "/citations/neuro-modulated-hebbian-learning-for-fully-test-time-adaptation.bib"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2303.00914"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2303.00914"
+        },
+        {
+          "label": "引用",
+          "url": "/citations/neuro-modulated-hebbian-learning-for-fully-test-time-adaptation.bib"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Tang_Neuro-Modulated_Hebbian_Learning_for_Fully_Test-Time_Adaptation_CVPR_2023_paper.html",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      },
+      "sourcePriorityVerification": {
+        "checkedAt": "2026-11-07T08:13:41+00:00",
+        "exactTitleInLiveHTML": true,
+        "httpResult": "accessible"
+      }
+    },
+    {
+      "number": 27,
+      "title": "Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation",
+      "authors": [
+        "Zhehan Kan",
+        "Shuoshuo Chen",
+        "Ce Zhang",
+        "Yushun Tang",
+        "Zhihai He"
+      ],
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "year": 2023,
+      "date": "2023",
+      "doi": "10.1109/CVPR52729.2023.00536",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2303.11180"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2303.11180"
+        }
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2303.11180",
+        "https://arxiv.org/pdf/2303.11180",
+        "https://openaccess.thecvf.com/content/CVPR2023/papers/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.pdf",
+        "https://openaccess.thecvf.com/content/CVPR2023/html/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.html"
+      ],
+      "notes": [
+        "CVPR2023 acceptance and authors confirmed by author-submitted arXiv record; CVF official indexed PDF confirms pp.5537–5546. CVF direct requests HTTP403, so accessible arXiv links selected.",
+        "Local audit only: previous shared d1f4UDmAadk video points to paper26. Correct author video is https://www.youtube.com/watch?v=W5cn4W1hBOg ; YouTube oEmbed request succeeded HTTP200 and independently returned exact SCAI title and author_name Zhehan Kan. Per latest user instruction, do not display video links."
+      ],
+      "metadataStatus": "independently_verified_from_primary_sources",
+      "verification": [
+        {
+          "url": "https://arxiv.org/abs/2303.11180",
+          "status": "opened_primary_landing_page"
+        },
+        {
+          "url": "https://arxiv.org/pdf/2303.11180",
+          "status": "opened_application_pdf"
+        }
+      ],
+      "paperId": "self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation",
+      "sourceListYear": 2023,
+      "sourceCitation": "Zhehan Kan, Shuoshuo Chen, Ce Zhang, Yushun Tang, Zhihai He, \"Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation.\" 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)arXiv preprint, pp. 5537-5546, 17-24 June 2023. DOI: 10.1109/CVPR52729.2023.00536",
+      "retainedExisting": true,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.html"
+        },
+        {
+          "label": "PDF",
+          "url": "https://openaccess.thecvf.com/content/CVPR2023/papers/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.pdf"
+        },
+        {
+          "label": "引用",
+          "url": "/citations/self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation.bib"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2303.11180"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2303.11180"
+        },
+        {
+          "label": "引用",
+          "url": "/citations/self-correctable-and-adaptable-inference-for-generalizable-human-pose-estimation.bib"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.html",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      },
+      "sourcePriorityVerification": {
+        "checkedAt": "2026-11-07T08:13:42+00:00",
+        "exactTitleInLiveHTML": true,
+        "httpResult": "accessible"
+      }
+    },
+    {
+      "number": 28,
+      "title": "Cycle optimization metric learning for few-shot classification",
+      "authors": [
+        "Qifan Liu",
+        "Wenming Cao",
+        "Zhihai He"
+      ],
+      "venue": "Pattern Recognition",
+      "year": 2023,
+      "date": "2023",
+      "doi": "10.1016/j.patcog.2023.109468",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0031320323001681"
+        }
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1016/j.patcog.2023.109468",
+        "https://www.sciencedirect.com/science/article/abs/pii/S0031320323001681",
+        "https://ceie.szu.edu.cn/en/info/1113/1026.htm"
+      ],
+      "notes": [
+        "Publisher-deposited Crossref record confirms exact authors/title, volume139 July2023 article109468.",
+        "ScienceDirect indexed publisher article identifies exact title/DOI; live open returns HTTP403. No author-hosted/free PDF established."
+      ],
+      "metadataStatus": "independently_verified_from_primary_sources",
+      "verification": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0031320323001681",
+          "status": "http_403"
+        }
+      ],
+      "volume": "139",
+      "pages": "109468",
+      "paperId": "cycle-optimization-metric-learning-for-few-shot-classification",
+      "sourceListYear": 2023,
+      "sourceCitation": "Qifan Liu, Wenming Cao, Zhihai He, \"Cycle optimization metric learning for few-shot classification.\" Pattern Recognition, 2023, 139: 109468.",
+      "retainedExisting": true,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0031320323001681"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0031320323001681"
+        }
+      ],
+      "preferredSource": {
+        "kind": "publisher",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0031320323001681",
+        "reason": "Official journal publisher record."
+      }
+    },
+    {
+      "number": 29,
+      "title": "Unsupervised prototype adapter for vision-language models",
+      "authors": [
+        "Yi Zhang",
+        "Ce Zhang",
+        "Xueting Hu",
+        "Zhihai He"
+      ],
+      "venue": "Chinese Conference on Pattern Recognition and Computer Vision (PRCV)",
+      "year": 2023,
+      "date": "2023-12-24",
+      "doi": "10.1007/978-981-99-8429-9_16",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://link.springer.com/chapter/10.1007/978-981-99-8429-9_16"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2308.11507"
+        }
+      ],
+      "sources": [
+        "https://link.springer.com/chapter/10.1007/978-981-99-8429-9_16",
+        "https://arxiv.org/abs/2308.11507",
+        "https://arxiv.org/pdf/2308.11507"
+      ],
+      "notes": [
+        "Springer confirms PRCV2023, authors, pp.197–209, and First Online24December2023. arXiv submission22August2023 in supplied list is not conference publication date.",
+        "The DOI in supplied list is arXiv DOI; recorded doi is final publisher chapter DOI."
+      ],
+      "metadataStatus": "independently_verified_from_primary_sources",
+      "verification": [
+        {
+          "url": "https://link.springer.com/chapter/10.1007/978-981-99-8429-9_16",
+          "status": "opened_primary_landing_page"
+        },
+        {
+          "url": "https://arxiv.org/pdf/2308.11507",
+          "status": "opened_application_pdf"
+        }
+      ],
+      "paperId": "unsupervised-prototype-adapter-for-vision-language-models",
+      "sourceListYear": 2023,
+      "sourceCitation": "Yi Zhang, Ce Zhang, Xueting Hu, Zhihai He. \"Unsupervised prototype adapter for vision-language models.\" PRCV 22 August 2023. DOI:10.48550/arXiv.2308.11507",
+      "retainedExisting": true,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://link.springer.com/chapter/10.1007/978-981-99-8429-9_16"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2308.11507"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://link.springer.com/chapter/10.1007/978-981-99-8429-9_16"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2308.11507"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://link.springer.com/chapter/10.1007/978-981-99-8429-9_16",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      }
+    },
+    {
+      "number": 30,
+      "title": "BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning",
+      "authors": [
+        "Yi Zhang",
+        "Ce Zhang",
+        "Zihan Liao",
+        "Yushun Tang",
+        "Zhihai He"
+      ],
+      "venue": "British Machine Vision Conference (BMVC)",
+      "year": 2023,
+      "date": "2023",
+      "doi": "10.48550/arXiv.2309.01256",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2309.01256"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2309.01256"
+        }
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2309.01256",
+        "https://arxiv.org/pdf/2309.01256",
+        "https://zhangce01.github.io/BDC-Adapter/",
+        "https://papers.bmvc2023.org/0182.pdf",
+        "https://proceedings.bmvc2023.org/182/"
+      ],
+      "notes": [
+        "Author-submitted arXiv record explicitly states Accepted by BMVC2023. Author project page also confirms exact title/authors/BMVC2023.",
+        "Official BMVC PDF endpoint gave HTTP502; arXiv PDF opens. Local audit only: project page embeds static/videos/0182_video.mp4, but per latest user request no project/code/video links selected for display.",
+        "Official BMVC presentation page remains the preferred landing-page source. Its linked official PDF encountered a TLS connection failure in both HTTP and Chromium; retain the previously confirmed author-submitted arXiv PDF as the download link."
+      ],
+      "metadataStatus": "independently_verified_from_primary_sources",
+      "verification": [
+        {
+          "url": "https://arxiv.org/abs/2309.01256",
+          "status": "opened_primary_landing_page"
+        },
+        {
+          "url": "https://arxiv.org/pdf/2309.01256",
+          "status": "opened_application_pdf"
+        }
+      ],
+      "paperId": "bdc-adapter-brownian-distance-covariance-for-better-vision-language-reasoning",
+      "sourceListYear": 2023,
+      "sourceCitation": "Yi Zhang, Ce Zhang, Zihan Liao, Yushun Tang, Zhihai He. \"BDC-Adapter: Brownian Distance Covariance for Better Vision-Language Reasoning.\" BMVC September 2023. arXiv preprint arXiv:2309.01256 (2023).",
+      "retainedExisting": true,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://proceedings.bmvc2023.org/182/"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2309.01256"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2309.01256"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2309.01256"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://proceedings.bmvc2023.org/182/",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      },
+      "sourcePriorityVerification": {
+        "checkedAt": "2026-11-07T08:13:42+00:00",
+        "exactTitleInLiveHTML": false,
+        "httpResult": "network-error",
+        "note": "Exact title and authors available in the indexed official BMVC 2023 proceedings entry. Direct HTTP attempt encountered TLS connection failure; not a verified successful live open."
+      }
+    },
+    {
+      "number": 31,
+      "title": "Cross-inferential networks for source-free unsupervised domain adaptation",
+      "authors": [
+        "Yushun Tang",
+        "Qinghai Guo",
+        "Zhihai He"
+      ],
+      "venue": "IEEE International Conference on Image Processing (ICIP)",
+      "year": 2023,
+      "date": "2023-10-08",
+      "doi": "10.1109/ICIP49359.2023.10222707",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://arxiv.org/abs/2306.16957"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2306.16957"
+        }
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2306.16957",
+        "https://arxiv.org/pdf/2306.16957",
+        "https://api.crossref.org/works/10.1109/ICIP49359.2023.10222707",
+        "https://cmsworkshops.com/ICIP2023/view_paper.php?PaperNum=1125"
+      ],
+      "notes": [
+        "Exact-title Crossref query confirms IEEE publisher record, authors, ICIP2023, pp.96–100, publication/conference start8October2023. Official program shows presentation10October2023. Date uses publisher-deposited publication date.",
+        "IEEE landing/DOI unavailable via tool; accessible exact arXiv paper links selected."
+      ],
+      "metadataStatus": "independently_verified_from_primary_sources",
+      "verification": [
+        {
+          "url": "https://arxiv.org/abs/2306.16957",
+          "status": "opened_primary_landing_page"
+        },
+        {
+          "url": "https://arxiv.org/pdf/2306.16957",
+          "status": "opened_application_pdf"
+        }
+      ],
+      "paperId": "cross-inferential-networks-for-source-free-unsupervised-domain-adaptation",
+      "sourceListYear": 2023,
+      "sourceCitation": "Yushun Tang, Qinghai Guo, Zhihai He. \"Cross-inferential networks for source-free unsupervised domain adaptation.\" In 2023 IEEE International Conference on Image Processing (ICIP), pp. 96-100. IEEE, 2023.",
+      "retainedExisting": true,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://cmsworkshops.com/ICIP2023/view_paper.php?PaperNum=1125"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2306.16957"
+        },
+        {
+          "label": "引用",
+          "url": "/citations/cross-inferential-networks-for-source-free-unsupervised-domain-adaptation.bib"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2306.16957"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2306.16957"
+        },
+        {
+          "label": "引用",
+          "url": "/citations/cross-inferential-networks-for-source-free-unsupervised-domain-adaptation.bib"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://cmsworkshops.com/ICIP2023/view_paper.php?PaperNum=1125",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      },
+      "sourcePriorityVerification": {
+        "checkedAt": "2026-11-07T08:13:42+00:00",
+        "exactTitleInLiveHTML": true,
+        "httpResult": "accessible"
+      }
+    },
+    {
+      "number": 32,
+      "title": "Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation",
+      "authors": [
+        "Xueting Hu",
+        "Ce Zhang",
+        "Yi Zhang",
+        "Bowen Hai",
+        "Ke Yu",
+        "Zhihai He"
+      ],
+      "venue": "2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+      "year": 2024,
+      "date": "2024-01-03",
+      "doi": "10.1109/WACV57701.2024.00550",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://openaccess.thecvf.com/content/WACV2024/html/Hu_Learning_To_Adapt_CLIP_for_Few-Shot_Monocular_Depth_Estimation_WACV_2024_paper.html"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://openaccess.thecvf.com/content/WACV2024/papers/Hu_Learning_To_Adapt_CLIP_for_Few-Shot_Monocular_Depth_Estimation_WACV_2024_paper.pdf"
+        },
+        {
+          "kind": "website",
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2311.01034"
+        }
+      ],
+      "sources": [
+        "https://openaccess.thecvf.com/content/WACV2024/html/Hu_Learning_To_Adapt_CLIP_for_Few-Shot_Monocular_Depth_Estimation_WACV_2024_paper.html",
+        "https://arxiv.org/abs/2311.01034",
+        "https://api.crossref.org/works/10.1109/WACV57701.2024.00550",
+        "https://openaccess.thecvf.com/content/WACV2024/papers/Hu_Learning_To_Adapt_CLIP_for_Few-Shot_Monocular_Depth_Estimation_WACV_2024_paper.pdf"
+      ],
+      "notes": [
+        "Source list groups this under 2023; official CVF record and arXiv comment identify WACV 2024. arXiv preprint submitted 2023-11-02.",
+        "IEEE-deposited Crossref metadata verifies the exact DOI in the user list and conference date 2024-01-03. CVF lists pages 5594-5603, IEEE-deposited metadata lists 5582-5591; avoid conflating the pagination.",
+        "CVF landing page is indexed with the exact title/authors but live web-tool open returned HTTP 403. arXiv landing and PDF successfully opened.",
+        "Subsequent direct HTTP checks opened the official CVF landing page and official CVF PDF successfully (206, PDF signature confirmed); selected official conference PDF in links.",
+        "Source list groups this under 2023; verified display year is 2024. Conference entries use the event edition, journal entries use the final volume year when assigned."
+      ],
+      "sourceYear": 2023,
+      "linkChecks": [
+        {
+          "url": "https://openaccess.thecvf.com/content/WACV2024/html/Hu_Learning_To_Adapt_CLIP_for_Few-Shot_Monocular_Depth_Estimation_WACV_2024_paper.html",
+          "status": 206,
+          "finalUrl": "https://openaccess.thecvf.com/content/WACV2024/html/Hu_Learning_To_Adapt_CLIP_for_Few-Shot_Monocular_Depth_Estimation_WACV_2024_paper.html",
+          "contentType": "text/html; charset=UTF-8",
+          "pdfMagic": false,
+          "result": "opened",
+          "seconds": 1.09
+        },
+        {
+          "url": "https://openaccess.thecvf.com/content/WACV2024/papers/Hu_Learning_To_Adapt_CLIP_for_Few-Shot_Monocular_Depth_Estimation_WACV_2024_paper.pdf",
+          "status": 206,
+          "finalUrl": "https://openaccess.thecvf.com/content/WACV2024/papers/Hu_Learning_To_Adapt_CLIP_for_Few-Shot_Monocular_Depth_Estimation_WACV_2024_paper.pdf",
+          "contentType": "application/pdf",
+          "pdfMagic": true,
+          "result": "opened"
+        },
+        {
+          "url": "https://arxiv.org/abs/2311.01034",
+          "status": 206,
+          "finalUrl": "https://arxiv.org/abs/2311.01034",
+          "contentType": "text/html; charset=utf-8",
+          "pdfMagic": false,
+          "result": "opened",
+          "seconds": 1.15
+        }
+      ],
+      "paperId": "learning-to-adapt-clip-for-few-shot-monocular-depth-estimation",
+      "sourceListYear": 2023,
+      "sourceCitation": "Xueting Hu, Ce Zhang, Yi Zhang, Bowen Hai, Ke Yu, Zhihai He. \"Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation.\" 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV). 03-08 January 2024. DOI: 10.1109/WACV57701.2024.00550",
+      "retainedExisting": true,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://openaccess.thecvf.com/content/WACV2024/html/Hu_Learning_To_Adapt_CLIP_for_Few-Shot_Monocular_Depth_Estimation_WACV_2024_paper.html"
+        },
+        {
+          "label": "PDF",
+          "url": "https://openaccess.thecvf.com/content/WACV2024/papers/Hu_Learning_To_Adapt_CLIP_for_Few-Shot_Monocular_Depth_Estimation_WACV_2024_paper.pdf"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://openaccess.thecvf.com/content/WACV2024/html/Hu_Learning_To_Adapt_CLIP_for_Few-Shot_Monocular_Depth_Estimation_WACV_2024_paper.html"
+        },
+        {
+          "label": "PDF",
+          "url": "https://openaccess.thecvf.com/content/WACV2024/papers/Hu_Learning_To_Adapt_CLIP_for_Few-Shot_Monocular_Depth_Estimation_WACV_2024_paper.pdf"
+        },
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2311.01034"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://openaccess.thecvf.com/content/WACV2024/html/Hu_Learning_To_Adapt_CLIP_for_Few-Shot_Monocular_Depth_Estimation_WACV_2024_paper.html",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      }
+    },
+    {
+      "number": 33,
+      "title": "Critical Sampling for Data-Driven Modeling of Unknown Dynamical Systems",
+      "authors": [
+        "Ce Zhang",
+        "Siqi Wu",
+        "Zhihai He",
+        "Zhao Joy Sun"
+      ],
+      "venue": "First Workshop on Out-of-Distribution Generalization in Robotics at CoRL 2023",
+      "year": 2023,
+      "date": "2023",
+      "doi": "",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://openreview.net/forum?id=ILW7Ckfej3"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://openreview.net/pdf?id=ILW7Ckfej3"
+        }
+      ],
+      "sources": [
+        "https://sites.google.com/stanford.edu/corl2023ood/accepted-contributions",
+        "https://openreview.net/forum?id=ILW7Ckfej3"
+      ],
+      "notes": [
+        "Exact title and four authors verified on official CoRL 2023 OOD workshop accepted-contributions page. Its paper link points to this exact OpenReview forum ID.",
+        "Both OpenReview links redirect to a browser verification challenge in the web tool; official OpenReview API requests returned HTTP 403. Metadata verified from workshop site, not the challenge page.",
+        "No DOI independently established."
+      ],
+      "sourceYear": 2023,
+      "linkChecks": [
+        {
+          "url": "https://openreview.net/forum?id=ILW7Ckfej3",
+          "status": 200,
+          "finalUrl": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DILW7Ckfej3",
+          "contentType": "text/html; charset=utf-8",
+          "pdfMagic": false,
+          "result": "challenge",
+          "seconds": 2.19
+        },
+        {
+          "url": "https://openreview.net/pdf?id=ILW7Ckfej3",
+          "status": 200,
+          "finalUrl": "https://openreview.net/challenge?redirect=%2Fpdf%3Fid%3DILW7Ckfej3",
+          "contentType": "text/html; charset=utf-8",
+          "pdfMagic": false,
+          "result": "challenge",
+          "seconds": 1.82
+        }
+      ],
+      "paperId": "critical-sampling-for-data-driven-modeling-of-unknown-dynamical-systems",
+      "sourceListYear": 2023,
+      "sourceCitation": "Ce Zhang, Siqi Wu, Zhihai He, Zhao Joy Sun. \"Critical Sampling for Data-Driven Modeling of Unknown Dynamical Systems\" [C].First Workshop on Out-of-Distribution Generalization in Robotics at CoRL 2023. 2023.",
+      "retainedExisting": true,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://openreview.net/forum?id=ILW7Ckfej3"
+        },
+        {
+          "label": "PDF",
+          "url": "https://openreview.net/pdf?id=ILW7Ckfej3"
+        },
+        {
+          "label": "引用",
+          "url": "/citations/critical-sampling-for-data-driven-modeling-of-unknown-dynamical-systems.bib"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://openreview.net/forum?id=ILW7Ckfej3"
+        },
+        {
+          "label": "PDF",
+          "url": "https://openreview.net/pdf?id=ILW7Ckfej3"
+        },
+        {
+          "label": "引用",
+          "url": "/citations/critical-sampling-for-data-driven-modeling-of-unknown-dynamical-systems.bib"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://openreview.net/forum?id=ILW7Ckfej3",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      }
+    },
+    {
+      "number": 34,
+      "title": "Self-guided information for few-shot classification",
+      "authors": [
+        "Zhineng Zhao",
+        "Qifan Liu",
+        "Wenming Cao",
+        "Deliang Lian",
+        "Zhihai He"
+      ],
+      "venue": "Pattern Recognition, 131, 108880",
+      "year": 2022,
+      "date": "2022",
+      "doi": "10.1016/j.patcog.2022.108880",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://doi.org/10.1016/j.patcog.2022.108880"
+        }
+      ],
+      "sources": [
+        "https://www.sciencedirect.com/science/article/abs/pii/S0031320322003612",
+        "https://api.crossref.org/works/10.1016/j.patcog.2022.108880"
+      ],
+      "notes": [
+        "Exact title, ordered authors, journal and November 2022 issue date independently verified from Elsevier-deposited Crossref metadata. Day is unknown, so date remains year-only.",
+        "ScienceDirect live web-tool open returned HTTP 403; this is an access restriction rather than evidence that the DOI is missing.",
+        "No verified official free PDF/code found."
+      ],
+      "sourceYear": 2022,
+      "linkChecks": [
+        {
+          "url": "https://doi.org/10.1016/j.patcog.2022.108880",
+          "status": 200,
+          "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0031320322003612",
+          "contentType": "text/html;charset=UTF-8",
+          "pdfMagic": false,
+          "result": "opened",
+          "seconds": 1.95
+        }
+      ],
+      "paperId": "self-guided-information-for-few-shot-classification",
+      "sourceListYear": 2022,
+      "sourceCitation": "Zhineng Zhao, Qifan Liu, Wenming Cao, Deliang Lian, Zhihai He, \"Self-guided information for few-shot classification.\" Pattern Recognition 131 (2022): 108880.",
+      "retainedExisting": true,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://doi.org/10.1016/j.patcog.2022.108880"
+        },
+        {
+          "label": "引用",
+          "url": "/citations/self-guided-information-for-few-shot-classification.bib"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://doi.org/10.1016/j.patcog.2022.108880"
+        },
+        {
+          "label": "引用",
+          "url": "/citations/self-guided-information-for-few-shot-classification.bib"
+        }
+      ],
+      "preferredSource": {
+        "kind": "publisher",
+        "url": "https://doi.org/10.1016/j.patcog.2022.108880",
+        "reason": "Official journal publisher record."
+      }
+    },
+    {
+      "number": 35,
+      "title": "Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation",
+      "authors": [
+        "Zhehan Kan",
+        "Shuoshuo Chen",
+        "Zeng Li",
+        "Zhihai He"
+      ],
+      "venue": "Computer Vision – ECCV 2022, LNCS 13665, pp. 729–745",
+      "year": 2022,
+      "date": "2022-11-03",
+      "doi": "10.1007/978-3-031-20065-6_42",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-031-20065-6_42"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650718.pdf"
+        }
+      ],
+      "sources": [
+        "https://link.springer.com/chapter/10.1007/978-3-031-20065-6_42",
+        "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650718.pdf",
+        "https://arxiv.org/abs/2207.02425",
+        "https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3985_ECCV_2022_paper.php"
+      ],
+      "notes": [
+        "Springer primary record verifies title/authors/DOI, first-online date 2022-11-03 and pages. Official free ECVA conference PDF opened successfully.",
+        "Existing site incorrectly uses 2023; final conference year is 2022."
+      ],
+      "sourceYear": 2022,
+      "linkChecks": [
+        {
+          "url": "https://link.springer.com/chapter/10.1007/978-3-031-20065-6_42",
+          "status": 200,
+          "finalUrl": "https://link.springer.com/chapter/10.1007/978-3-031-20065-6_42?error=cookies_not_supported&code=0b6e20be-5c95-4951-875a-abc31cee62cb",
+          "contentType": "text/html; charset=utf-8",
+          "pdfMagic": false,
+          "result": "cookie-error",
+          "seconds": 4.9,
+          "reason": "Raw HTTP client redirected to cookie error; web tool independently opened actual Springer paper page successfully."
+        },
+        {
+          "url": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650718.pdf",
+          "status": 206,
+          "finalUrl": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650718.pdf",
+          "contentType": "application/pdf",
+          "pdfMagic": true,
+          "result": "opened",
+          "seconds": 1.84
+        }
+      ],
+      "paperId": "self-constrained-inference-optimization-on-structural-groups-for-human-pose-estimation",
+      "sourceListYear": 2022,
+      "sourceCitation": "Zhehan Kan, Shuoshuo Chen, Zeng Li, Zhihai He, \"Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation.\" Computer Vision–ECCV 2022: 17th European Conference, Tel Aviv, Israel, pp.729-745, October 23–27, 2022, Proceedings, Part V. Cham: Springer Nature Switzerland, 2022.",
+      "retainedExisting": true,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3985_ECCV_2022_paper.php"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650718.pdf"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://link.springer.com/chapter/10.1007/978-3-031-20065-6_42"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650718.pdf"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/3985_ECCV_2022_paper.php",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      },
+      "sourcePriorityVerification": {
+        "checkedAt": "2026-11-07T08:13:43+00:00",
+        "exactTitleInLiveHTML": true,
+        "httpResult": "accessible"
+      }
+    },
+    {
+      "number": 36,
+      "title": "Jointly-learnt networks for future action anticipation via self-knowledge distillation and cycle consistency",
+      "authors": [
+        "Md Moniruzzaman",
+        "Zhaozheng Yin",
+        "Zhihai He",
+        "Ming C. Leu",
+        "Ruwen Qin"
+      ],
+      "venue": "IEEE Transactions on Circuits and Systems for Video Technology",
+      "year": 2022,
+      "date": "2022",
+      "doi": "10.1109/TCSVT.2022.3232021",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://doi.org/10.1109/TCSVT.2022.3232021"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://mst.elsevierpure.com/files/40519370/Jointly-Learnt%20Networks%20for%20Future%20Action%20Anticipation%20Via%20Self-K.pdf"
+        },
+        {
+          "kind": "website",
+          "label": "Author institution",
+          "url": "https://researchconnect.stonybrook.edu/en/publications/jointly-learnt-networks-for-future-action-anticipation-via-self-k/"
+        }
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1109/TCSVT.2022.3232021",
+        "https://researchconnect.stonybrook.edu/en/publications/jointly-learnt-networks-for-future-action-anticipation-via-self-k/",
+        "https://scholarsmine.mst.edu/mec_aereng_facwork/4951/",
+        "https://github.com/MoniruzzamanMd/J-AAN"
+      ],
+      "notes": [
+        "User list uses 2022 (early access); IEEE-deposited Crossref metadata verifies final issue July 2023, vol. 33 no. 7, pp. 3243-3256. Date day not inferred.",
+        "Coauthor university repository verifies exact paper and project URL. Author GitHub project successfully opened, but currently only README.md is listed; label as Project rather than promising downloadable implementation.",
+        "Institution-hosted author manuscript is indexed with exact paper title and DOI; live web-tool fetch was inaccessible and requires HTTP/browser recheck. IEEE web-tool open is restricted.",
+        "Direct HTTP verification: institution manuscript PDF returns 403; DOI resolves to IEEE verification page. Stony Brook coauthor-institution publication record opened successfully as a readable alternate primary source.",
+        "Source list groups this under 2022; verified display year is 2023. Conference entries use the event edition, journal entries use the final volume year when assigned.",
+        "Current archive-priority update: No corresponding PDF in RAR; archive Word explicitly cites IEEE TCSVT 2022. Under archive-priority instruction use supplied early-access year instead of later 2023 issue year."
+      ],
+      "sourceYear": 2022,
+      "linkChecks": [
+        {
+          "url": "https://doi.org/10.1109/TCSVT.2022.3232021",
+          "status": 202,
+          "finalUrl": "https://ieeexplore.ieee.org/document/9998533/",
+          "contentType": "text/html; charset=UTF-8",
+          "pdfMagic": false,
+          "result": "challenge",
+          "seconds": 4.25,
+          "reason": "IEEE HTTP 202 bot/JavaScript verification; primary record verified independently from IEEE-deposited Crossref metadata."
+        },
+        {
+          "url": "https://mst.elsevierpure.com/files/40519370/Jointly-Learnt%20Networks%20for%20Future%20Action%20Anticipation%20Via%20Self-K.pdf",
+          "status": 403,
+          "finalUrl": "https://mst.elsevierpure.com/files/40519370/Jointly-Learnt%20Networks%20for%20Future%20Action%20Anticipation%20Via%20Self-K.pdf",
+          "result": "http-error",
+          "reason": "HTTP Error 403: Forbidden"
+        },
+        {
+          "url": "https://researchconnect.stonybrook.edu/en/publications/jointly-learnt-networks-for-future-action-anticipation-via-self-k/",
+          "status": 200,
+          "finalUrl": "https://researchconnect.stonybrook.edu/en/publications/jointly-learnt-networks-for-future-action-anticipation-via-self-k/",
+          "contentType": "text/html;charset=UTF-8",
+          "pdfMagic": false,
+          "result": "opened"
+        }
+      ],
+      "paperId": "jointly-learnt-networks-for-future-action-anticipation-via-self-knowledge-distillation-and-cycle-consistency",
+      "sourceListYear": 2022,
+      "sourceCitation": "Md Moniruzzaman, Zhaozheng Yin, Zhihai He, Ming C Leu, Ruwen Qin. \"Jointly-learnt networks for future action anticipation via self-knowledge distillation and cycle consistency\" [J]. IEEE Transactions on Circuits and Systems for Video Technology, 2022, 33(7): 3243-3256.",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://doi.org/10.1109/TCSVT.2022.3232021"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://doi.org/10.1109/TCSVT.2022.3232021"
+        }
+      ],
+      "preferredSource": {
+        "kind": "publisher",
+        "url": "https://doi.org/10.1109/TCSVT.2022.3232021",
+        "reason": "Official journal publisher record."
+      },
+      "previousMetadata": {
+        "year": 2023,
+        "date": "2023",
+        "datePrecision": null,
+        "venue": "IEEE Transactions on Circuits and Systems for Video Technology, 33(7), pp. 3243–3256"
+      },
+      "datePrecision": "year"
+    },
+    {
+      "number": 37,
+      "title": "Coded residual transform for generalizable deep metric learning",
+      "authors": [
+        "Shichao Kan",
+        "Yixiong Liang",
+        "Min Li",
+        "Yigang Cen",
+        "Jianxin Wang",
+        "Zhihai He"
+      ],
+      "venue": "Advances in Neural Information Processing Systems 35 (NeurIPS 2022), pp. 28601–28615",
+      "year": 2022,
+      "date": "2022",
+      "doi": "10.52202/068431-2073",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://papers.neurips.cc/paper_files/paper/2022/hash/b74a8de47d2b3c928360e0a011f48351-Abstract-Conference.html"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://papers.neurips.cc/paper_files/paper/2022/file/b74a8de47d2b3c928360e0a011f48351-Paper-Conference.pdf"
+        }
+      ],
+      "sources": [
+        "https://papers.neurips.cc/paper_files/paper/2022/hash/b74a8de47d2b3c928360e0a011f48351-Abstract-Conference.html",
+        "https://papers.neurips.cc/paper_files/paper/2022/file/b74a8de47d2b3c928360e0a011f48351-Paper-Conference.pdf"
+      ],
+      "notes": [
+        "Exact title, ordered authors, proceedings year and DOI verified directly on official NeurIPS proceedings page; page and free conference PDF both opened successfully.",
+        "No specific publication day established; date stays year-only. No official code link found readily."
+      ],
+      "sourceYear": 2022,
+      "linkChecks": [
+        {
+          "url": "https://papers.neurips.cc/paper_files/paper/2022/hash/b74a8de47d2b3c928360e0a011f48351-Abstract-Conference.html",
+          "status": 200,
+          "finalUrl": "https://papers.neurips.cc/paper_files/paper/2022/hash/b74a8de47d2b3c928360e0a011f48351-Abstract-Conference.html",
+          "contentType": "text/html; charset=utf-8",
+          "pdfMagic": false,
+          "result": "opened",
+          "seconds": 1.1
+        },
+        {
+          "url": "https://papers.neurips.cc/paper_files/paper/2022/file/b74a8de47d2b3c928360e0a011f48351-Paper-Conference.pdf",
+          "status": 200,
+          "finalUrl": "https://papers.neurips.cc/paper_files/paper/2022/file/b74a8de47d2b3c928360e0a011f48351-Paper-Conference.pdf",
+          "contentType": "application/pdf",
+          "pdfMagic": true,
+          "result": "opened",
+          "seconds": 1.41
+        }
+      ],
+      "paperId": "coded-residual-transform-for-generalizable-deep-metric-learning",
+      "sourceListYear": 2022,
+      "sourceCitation": "Shichao Kan, Yixiong Liang, Min Li, Yigang Cen, Jianxin Wang, Zhihai He. \"Coded residual transform for generalizable deep metric learning\" [J]. Advances in Neural Information Processing Systems 35 (NeurIPS 2022), 2022, 35: 28601-28615.",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://papers.neurips.cc/paper_files/paper/2022/hash/b74a8de47d2b3c928360e0a011f48351-Abstract-Conference.html"
+        },
+        {
+          "label": "PDF",
+          "url": "https://papers.neurips.cc/paper_files/paper/2022/file/b74a8de47d2b3c928360e0a011f48351-Paper-Conference.pdf"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://papers.neurips.cc/paper_files/paper/2022/hash/b74a8de47d2b3c928360e0a011f48351-Abstract-Conference.html"
+        },
+        {
+          "label": "PDF",
+          "url": "https://papers.neurips.cc/paper_files/paper/2022/file/b74a8de47d2b3c928360e0a011f48351-Paper-Conference.pdf"
+        }
+      ],
+      "preferredSource": {
+        "kind": "conference",
+        "url": "https://papers.neurips.cc/paper_files/paper/2022/hash/b74a8de47d2b3c928360e0a011f48351-Abstract-Conference.html",
+        "reason": "Official conference paper/presentation page or official proceedings record; preferred even when access verification is required."
+      }
+    },
+    {
+      "number": 38,
+      "title": "Contrastive bayesian analysis for deep metric learning",
+      "authors": [
+        "Shichao Kan",
+        "Zhiquan He",
+        "Yigang Cen",
+        "Yang Li",
+        "Vladimir Mladenovic",
+        "Zhihai He"
+      ],
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "year": 2022,
+      "date": "2022",
+      "doi": "10.1109/TPAMI.2022.3221486",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://doi.org/10.1109/TPAMI.2022.3221486"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2210.04402"
+        }
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1109/TPAMI.2022.3221486",
+        "https://doi.org/10.1109/TPAMI.2022.3221486",
+        "https://arxiv.org/abs/2210.04402",
+        "https://github.com/kanshichao/CBML"
+      ],
+      "notes": [
+        "User list uses 2022 early-access year. IEEE publication record gives first publication 2022-11-11, final issue date 2023-06-01; IEEE-deposited Crossref metadata confirms final 2023 date and volume/pages.",
+        "Author-submitted arXiv record verifies exact title and ordered authors; PDF first page directly identifies https://github.com/kanshichao/CBML as the code project.",
+        "IEEE live page returns robot/JavaScript verification in web tool; arXiv PDF and author GitHub repository opened successfully.",
+        "Source list groups this under 2022; verified display year is 2023. Conference entries use the event edition, journal entries use the final volume year when assigned.",
+        "Current archive-priority update: No corresponding PDF in RAR; archive Word explicitly cites IEEE TPAMI 2022. Under archive-priority instruction use supplied early-access year instead of later 2023 issue year."
+      ],
+      "sourceYear": 2022,
+      "linkChecks": [
+        {
+          "url": "https://doi.org/10.1109/TPAMI.2022.3221486",
+          "status": 202,
+          "finalUrl": "https://ieeexplore.ieee.org/document/9946419/",
+          "contentType": "text/html; charset=UTF-8",
+          "pdfMagic": false,
+          "result": "challenge",
+          "seconds": 1.9,
+          "reason": "IEEE HTTP 202 bot/JavaScript verification; primary record verified independently from IEEE-deposited Crossref metadata."
+        },
+        {
+          "url": "https://arxiv.org/pdf/2210.04402",
+          "status": 206,
+          "finalUrl": "https://arxiv.org/pdf/2210.04402",
+          "contentType": "application/pdf",
+          "pdfMagic": true,
+          "result": "opened",
+          "seconds": 1.21
+        }
+      ],
+      "paperId": "contrastive-bayesian-analysis-for-deep-metric-learning",
+      "sourceListYear": 2022,
+      "sourceCitation": "Shichao Kan, Zhiquan He, Yigang Cen, Yang Li, Vladimir Mladenovic, Zhihai He. \"Contrastive bayesian analysis for deep metric learning\" [J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022, 45(6): 7220-7238.",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://doi.org/10.1109/TPAMI.2022.3221486"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2210.04402"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://doi.org/10.1109/TPAMI.2022.3221486"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2210.04402"
+        }
+      ],
+      "preferredSource": {
+        "kind": "publisher",
+        "url": "https://doi.org/10.1109/TPAMI.2022.3221486",
+        "reason": "Official journal publisher record."
+      },
+      "previousMetadata": {
+        "year": 2023,
+        "date": "2023-06-01",
+        "datePrecision": null,
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence, 45(6), pp. 7220–7238"
+      },
+      "datePrecision": "year"
+    },
+    {
+      "number": 39,
+      "title": "Geometric machine learning: research and applications",
+      "authors": [
+        "Wenming Cao",
+        "Canta Zheng",
+        "Zhiyue Yan",
+        "Zhihai He",
+        "Weixin Xie"
+      ],
+      "venue": "Multimedia Tools and Applications, 81, pp. 30545–30597",
+      "year": 2022,
+      "date": "2022-04-06",
+      "doi": "10.1007/s11042-022-12683-9",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://link.springer.com/article/10.1007/s11042-022-12683-9"
+        }
+      ],
+      "sources": [
+        "https://link.springer.com/article/10.1007/s11042-022-12683-9"
+      ],
+      "notes": [
+        "Exact title, ordered authors, DOI, first-online date and volume/pages verified directly on Springer primary publication page, which opened successfully.",
+        "Full text is subscription content; no verified official free PDF/code found."
+      ],
+      "sourceYear": 2022,
+      "linkChecks": [
+        {
+          "url": "https://link.springer.com/article/10.1007/s11042-022-12683-9",
+          "status": 200,
+          "finalUrl": "https://link.springer.com/article/10.1007/s11042-022-12683-9?error=cookies_not_supported&code=08f05b7a-2ca0-4a9d-9a7d-0b85695c8daa",
+          "contentType": "text/html; charset=utf-8",
+          "pdfMagic": false,
+          "result": "cookie-error",
+          "seconds": 4.78,
+          "reason": "Raw HTTP client redirected to cookie error; web tool independently opened actual Springer paper page successfully."
+        }
+      ],
+      "paperId": "geometric-machine-learning-research-and-applications",
+      "sourceListYear": 2022,
+      "sourceCitation": "Wenming Cao, Canta Zheng, Zhiyue Yan, Zhihai He, Weixin Xie. \"Geometric machine learning: research and applications\" [J]. Multimedia Tools and Applications, 2022, 81(21): 30545-30597.",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://link.springer.com/article/10.1007/s11042-022-12683-9"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://link.springer.com/article/10.1007/s11042-022-12683-9"
+        }
+      ],
+      "preferredSource": {
+        "kind": "publisher",
+        "url": "https://link.springer.com/article/10.1007/s11042-022-12683-9",
+        "reason": "Official journal publisher record."
+      }
+    },
+    {
+      "number": 40,
+      "title": "Local semantic correlation modeling over graph neural networks for deep feature embedding and image retrieval",
+      "authors": [
+        "Shichao Kan",
+        "Yigang Cen",
+        "Yang Li",
+        "Mladenovic Vladimir",
+        "Zhihai He"
+      ],
+      "venue": "IEEE Transactions on Image Processing, 31, pp. 2988–3003",
+      "year": 2022,
+      "date": "2022",
+      "doi": "10.1109/TIP.2022.3163571",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://doi.org/10.1109/TIP.2022.3163571"
+        }
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1109/TIP.2022.3163571",
+        "https://ieeexplore.ieee.org/document/9749974",
+        "https://faculty.csu.edu.cn/kanshichao/zh_CN/lwcg/196550/content/42292.htm"
+      ],
+      "notes": [
+        "Exact title, ordered authors, DOI, journal/year/volume/pages independently verified from IEEE-deposited Crossref metadata. It records author as Mladenovic Vladimir; retained as published in user list/IEEE metadata.",
+        "IEEE live landing page returns robot/JavaScript verification in web tool. No official free PDF/code independently confirmed."
+      ],
+      "sourceYear": 2022,
+      "linkChecks": [
+        {
+          "url": "https://doi.org/10.1109/TIP.2022.3163571",
+          "result": "challenge",
+          "reason": "IEEE HTTP 202 bot/JavaScript verification; primary record verified independently from IEEE-deposited Crossref metadata.",
+          "status": 202,
+          "finalUrl": "https://ieeexplore.ieee.org/document/9749974/",
+          "contentType": "text/html; charset=UTF-8",
+          "pdfMagic": false
+        }
+      ],
+      "paperId": "local-semantic-correlation-modeling-over-graph-neural-networks-for-deep-feature-embedding-and-image-retrieval",
+      "sourceListYear": 2022,
+      "sourceCitation": "Shichao Kan, Yigang Cen, Yang Li, Mladenovic Vladimir, Zhihai He. \"Local semantic correlation modeling over graph neural networks for deep feature embedding and image retrieval\"[J]. IEEE Transactions on Image Processing, 2022, 31: 2988-3003.",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://doi.org/10.1109/TIP.2022.3163571"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://doi.org/10.1109/TIP.2022.3163571"
+        }
+      ],
+      "preferredSource": {
+        "kind": "publisher",
+        "url": "https://doi.org/10.1109/TIP.2022.3163571",
+        "reason": "Official journal publisher record."
+      }
+    },
+    {
+      "number": 41,
+      "title": "Critical Sampling for Robust Evolution Operator Learning of Unknown Dynamical Systems",
+      "authors": [
+        "Ce Zhang",
+        "Kailiang Wu",
+        "Zhihai He"
+      ],
+      "venue": "IEEE Transactions on Artificial Intelligence, 5(6), pp. 2856–2871",
+      "year": 2024,
+      "date": "2024",
+      "doi": "10.1109/TAI.2023.3327676",
+      "links": [
+        {
+          "kind": "website",
+          "label": "Paper",
+          "url": "https://doi.org/10.1109/TAI.2023.3327676"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2304.07485"
+        },
+        {
+          "kind": "website",
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2304.07485"
+        }
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2304.07485",
+        "https://api.crossref.org/works/10.1109/TAI.2023.3327676"
+      ],
+      "notes": [
+        "Extra existing site paper, absent from new Word list; preserve it. Author arXiv record verifies exact title, ordered authors, accepted TAI status and related IEEE DOI.",
+        "IEEE-deposited Crossref metadata confirms final June 2024 issue, vol. 5 no. 6 pp. 2856-2871. Existing 2023 is preprint/early-access year. No invented publication day.",
+        "arXiv landing page opened successfully; PDF web-tool fetch exceeds its content-length limit (33,357,352 bytes), not a missing-document response. Requires direct HTTP/browser recheck.",
+        "Direct HTTP range GET opened the arXiv PDF successfully (206, %PDF signature), resolving the web-tool size-limit concern."
+      ],
+      "sourceYear": 2023,
+      "linkChecks": [
+        {
+          "url": "https://doi.org/10.1109/TAI.2023.3327676",
+          "status": 202,
+          "finalUrl": "https://ieeexplore.ieee.org/document/10297558/",
+          "contentType": "text/html; charset=UTF-8",
+          "pdfMagic": false,
+          "result": "challenge",
+          "seconds": 2.03,
+          "reason": "IEEE HTTP 202 bot/JavaScript verification; primary record verified independently from IEEE-deposited Crossref metadata."
+        },
+        {
+          "url": "https://arxiv.org/pdf/2304.07485",
+          "status": 206,
+          "finalUrl": "https://arxiv.org/pdf/2304.07485",
+          "contentType": "application/pdf",
+          "pdfMagic": true,
+          "result": "opened",
+          "seconds": 1.25
+        },
+        {
+          "url": "https://arxiv.org/abs/2304.07485",
+          "status": 206,
+          "finalUrl": "https://arxiv.org/abs/2304.07485",
+          "contentType": "text/html; charset=utf-8",
+          "pdfMagic": false,
+          "result": "opened",
+          "seconds": 1.13
+        }
+      ],
+      "paperId": "critical-sampling-for-robust-evolution-operator-learning-of-unknown-dynamical-systems",
+      "sourceListYear": null,
+      "sourceCitation": null,
+      "retainedExisting": true,
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://doi.org/10.1109/TAI.2023.3327676"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2304.07485"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://doi.org/10.1109/TAI.2023.3327676"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2304.07485"
+        },
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2304.07485"
+        }
+      ],
+      "preferredSource": {
+        "kind": "publisher",
+        "url": "https://doi.org/10.1109/TAI.2023.3327676",
+        "reason": "Official journal publisher record."
+      }
+    },
+    {
+      "id": "enhancing-visual-and-semantic-alignment-of-multimodal-large-models-in-medical-images",
+      "title": "Enhancing visual and semantic alignment of multimodal large models in medical images",
+      "authors": [
+        "Qifan Liu",
+        "Yuxuan Fang",
+        "Xiyuan Liu"
+      ],
+      "authorSlugs": [
+        "qifan-liu",
+        "yuxuan-fang",
+        "xiyuan-liu"
+      ],
+      "year": 2025,
+      "date": "2025-09-23",
+      "datePrecision": "day",
+      "venue": "The Journal of Supercomputing, 81, article 1374",
+      "abstract": "Achieving precise alignment between visual and semantic representations in multimodal large models is critical for advancing medical image analysis. This paper proposes a Multi-Dimensional Visual-Language Alignment (MDVLA) framework that leverages multi-dimensional image features and various forms of textual prompt representations to enhance visual–semantic alignment in medical images. Our method incorporates a Visual Enhancement Module (VEM) that ensures robust representation of critical medical patterns by leveraging multi-angle rotated image feature enhancement. Simultaneously, the Language Enhancement Module (LEM) leverages various forms of expert-screened medical prompts combined with learnable text embeddings to bridge the gap between medical image features and corresponding textual descriptions. Our framework relies on high-performance computing (HPC) resources to meet the intensive demands of large-scale medical data and multi-dimensional modeling. Extensive evaluations on Derm7pt and Pneumonia benchmarks demonstrate that MDVLA consistently outperforms state-of-theart CLIP-based methods, achieving improvements of +0.49% and +1.26% in classification accuracy on Derm7pt and Pneumonia, respectively. The results validate the effectiveness of the proposed method in aligning visual and semantic features, enabling more accurate predictions and better interpretability in medical contexts. MDVLA is modular and imaging-domain agnostic, with VEM and LEM designed to generalize across modalities and tasks, enabling straightforward extension to multimodal and cross-task benchmarks.",
+      "links": [
+        {
+          "label": "Paper",
+          "url": "https://link.springer.com/article/10.1007/s11227-025-07859-7"
+        }
+      ],
+      "paperId": "enhancing-visual-and-semantic-alignment-of-multimodal-large-models-in-medical-images",
+      "number": 42,
+      "doi": "10.1007/s11227-025-07859-7",
+      "sources": [
+        "https://link.springer.com/article/10.1007/s11227-025-07859-7",
+        "https://api.crossref.org/works/10.1007/s11227-025-07859-7"
+      ],
+      "preferredSource": {
+        "kind": "publisher",
+        "url": "https://link.springer.com/article/10.1007/s11227-025-07859-7",
+        "reason": "Exact title and author order confirmed by user-supplied manuscript and publisher-deposited Crossref record."
+      },
+      "displayLinks": [
+        {
+          "label": "Paper",
+          "url": "https://link.springer.com/article/10.1007/s11227-025-07859-7"
+        }
+      ],
+      "sourceListYear": null,
+      "sourceCitation": null,
+      "retainedExisting": false,
+      "archiveFile": "2025 Journal 刘启凡s11227-025-07859-7.pdf",
+      "archiveSha256": "4c2bc676c46253459aaf19dc4e706dca62a7f723d5f1530258bd72b14ba1d153",
+      "notes": [
+        "Metadata follows the actual PDF in the new archive."
+      ],
+      "evidence": "Vol.:(0123456789)\nThe Journal of Supercomputing         (2025) 81:1374 \nhttps://doi.org/10.1007/s11227-025-07859-7\nEnhancing visual and semantic alignment of multimodal \nlarge models in medical images\nQifan Liu1 · Yuxuan Fang2 · Xiyuan Liu1\nReceived: 8 August 2025 / Accepted: 10 September 2025 \n© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature \n2025\nAbstract\nAchieving precise alignment between visual and semantic representations in mul-\ntimodal large models is critical for advancing medical image analysis. This paper \nproposes a Multi-Dimensional Visual-Language Alignment (MDVLA) frame-\nwork that leverages multi-dimensional image features and various forms of textual \nprompt representations to enhance visual–semantic alignment in medical images. \nOur method incorporates a Visual Enhancement Module (VEM) that ensures robust \nrepresentation of critical medical patterns by leveraging multi-angle rotated image \nfeature enhancement. Si"
+    }
+  ],
+  "sourceSelectionPolicy": {
+    "conference": [
+      "official conference paper/presentation page or official proceedings record",
+      "arXiv abstract page",
+      "other verified paper page"
+    ],
+    "journal": [
+      "official journal publisher record",
+      "arXiv abstract page",
+      "other verified paper page"
+    ],
+    "display": "One preferred official conference/journal landing page per paper; if unavailable as a bibliographic record use arXiv, then other verified paper pages. Separate PDFs and existing citations remain.",
+    "accessRestrictions": "An existing, independently identified official record remains preferred when its server requires access verification. Access checks are reported separately from source identity.",
+    "updatedAt": "2026-11-07T08:15:06+00:00"
+  },
+  "supersededPublications": [
+    {
+      "number": 4,
+      "title": "Open-World Test-Time Adaptation with Hierarchical Feature Aggregation and Attention Affine",
+      "authors": [
+        "Ziqiong Liu",
+        "Yushun Tang",
+        "Junyang Ji",
+        "Zhihai He"
+      ],
+      "venue": "International Joint Conference on Neural Networks (IJCNN 2026)",
+      "year": 2026,
+      "date": "2026",
+      "doi": "10.48550/arXiv.2511.12607",
+      "links": [
+        {
+          "kind": "website",
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2511.12607"
+        },
+        {
+          "kind": "pdf",
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2511.12607"
+        }
+      ],
+      "sources": [
+        "https://arxiv.org/abs/2511.12607"
+      ],
+      "notes": [
+        "Title and all four authors verified on the author-submitted arXiv record. The conference/year IJCNN 2026 is supplied by the user list; no matching public official conference entry or author acceptance declaration was found. arXiv v1 was submitted 2025-11-16; it must not be mistaken for independently verified conference publication."
+      ],
+      "metadataStatus": "Title/authors verified; conference/year supplied by user list only.",
+      "paperId": "open-world-test-time-adaptation-with-hierarchical-feature-aggregation-and-attention-affine",
+      "sourceListYear": 2026,
+      "sourceCitation": "Ziqiong Liu, Yushun Tang, Junyang Ji, Zhihai He. \"Open-World Test-Time Adaptation with Hierarchical Feature Aggregation and Attention Affine.\"[J] International Joint Conference on Neural Networks. 2026.",
+      "retainedExisting": false,
+      "displayLinks": [
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2511.12607"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2511.12607"
+        }
+      ],
+      "previousDisplayLinks": [
+        {
+          "label": "arXiv",
+          "url": "https://arxiv.org/abs/2511.12607"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2511.12607"
+        }
+      ],
+      "preferredSource": {
+        "kind": "arxiv",
+        "url": "https://arxiv.org/abs/2511.12607",
+        "reason": "No matching official conference paper page independently established; use the author-submitted arXiv record before other websites."
+      }
+    }
+  ],
+  "supersededSourceListEntries": [
+    {
+      "number": 4,
+      "sourceCitation": "Ziqiong Liu, Yushun Tang, Junyang Ji, Zhihai He. \"Open-World Test-Time Adaptation with Hierarchical Feature Aggregation and Attention Affine.\"[J] International Joint Conference on Neural Networks. 2026.",
+      "reason": "The archive Word list retains an older conference entry, but the actual IJCNN PDF is a different work, RASA. The actual PDF is authoritative under the user instruction; no version equivalence is asserted."
+    }
+  ],
+  "authoritativeArchive": {
+    "file": "info/实验室发表文章.rar",
+    "sha256": "f93bddd13f132d4a8ecf9e88935ee8f08647e50fcb150f51603db1d1fec059a4",
+    "pdfFiles": 36,
+    "mainPapers": 35,
+    "supplementaryFiles": 1,
+    "matchedCurrentRecords": 35
+  }
+}

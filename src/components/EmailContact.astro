@@ -1,0 +1,8 @@
+---
+import SendEmail from './SendEmail.astro';
+import type { Lang } from '../lib/site';
+interface Props { email: string; lang: Lang; }
+const { email, lang } = Astro.props;
+---
+
+<SendEmail email={email} lang={lang} variant="pill" label={email} />

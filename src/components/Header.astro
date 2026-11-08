@@ -35,7 +35,7 @@ const nav = SITE.nav.map(item => ({ ...item, text: t('nav.' + item.key), link: l
       </div>
 
       <!-- Desktop Nav -->
-      <nav class="hidden md:flex gap-6 items-center">
+      <nav class="hidden lg:flex gap-6 items-center">
         {nav.map(item => {
           if (item.key === 'search') {
             return (
@@ -105,7 +105,7 @@ const nav = SITE.nav.map(item => ({ ...item, text: t('nav.' + item.key), link: l
       <!-- Mobile Menu Button -->
       <button 
         id="mobile-menu-btn" 
-        class="md:hidden p-2 -mr-2 text-gray-600 hover:bg-gray-100 rounded-lg transition-colors z-[80] relative" 
+        class="lg:hidden p-2 -mr-2 text-gray-600 hover:bg-gray-100 rounded-lg transition-colors z-[80] relative"
         aria-label="Toggle menu"
         aria-controls="mobile-menu"
         aria-expanded="false"
@@ -123,7 +123,7 @@ const nav = SITE.nav.map(item => ({ ...item, text: t('nav.' + item.key), link: l
   <!-- Mobile Nav Overlay (Solid White) -->
   <div 
     id="mobile-menu" 
-    class="fixed inset-0 z-[100] w-screen h-screen bg-white md:hidden hidden flex-col"
+    class="fixed inset-0 z-[100] w-screen h-screen bg-white lg:hidden hidden flex-col"
     style="display: none;"
     role="dialog" aria-modal="true" aria-hidden="true" aria-labelledby="mobile-menu-title"
   >
@@ -359,7 +359,7 @@ const nav = SITE.nav.map(item => ({ ...item, text: t('nav.' + item.key), link: l
 
     // Auto close when resizing to desktop
     window.addEventListener('resize', () => {
-      if (window.innerWidth >= 768) window.closeMobileMenu();
+      if (window.innerWidth >= 1024) window.closeMobileMenu();
     });
   })();
 </script>

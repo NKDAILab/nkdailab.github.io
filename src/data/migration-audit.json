@@ -5,7 +5,8 @@
     "练家琪",
     "吕子轩",
     "裘成虎",
-    "黄子豪"
+    "黄子豪",
+    "周子善"
   ],
   "newUndergraduates": [
     "陈冠霖"
@@ -22,7 +23,7 @@
     "范昕华"
   ],
   "counts": {
-    "members": 46,
+    "members": 47,
     "publications": 13,
     "news": 3
   },
@@ -30,5 +31,11 @@
   "companySource": "https://www.bridgedp.com/articles/financing",
   "companyCrossReference": "https://lovethinkinghard.github.io/",
   "dates": "未提供的毕业、结业或出站年份不作推断。旧站历史教育经历保留；本次明确离站的记录去掉至今。",
-  "undergraduateConfirmation": "用户确认：陈冠霖本科在读，以材料为准。"
+  "undergraduateConfirmation": "用户最新确认：陈冠霖为2024级在读本科生。",
+  "additionalMemberMaterial": {
+    "file": "info/周子善.docx",
+    "sha256": "895c49d611e3c4ace0e20d637124ea6e20d69898293cd4b0596329575fc02b35",
+    "id": "zishan-zhou",
+    "review": "Only supplied biography, education, email and original photo imported; research interests taken from the biography. Blank headings and photo/destination prompts omitted. Outstanding Engineers Program remark comes from 434网站修改建议.docx. 周子皓 remains a separate unchanged member."
+  }
 }

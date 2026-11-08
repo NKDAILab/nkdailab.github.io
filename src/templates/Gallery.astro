@@ -1,0 +1,19 @@
+---
+import Layout from '../layouts/Layout.astro';
+import GalleryGrid from '../components/GalleryGrid.astro';
+import type { PageRoute } from '../lib/site';
+import { useTranslations } from '../i18n/ui';
+const { page } = Astro.props as { page: PageRoute };
+const { lang } = page;
+const t = useTranslations(lang);
+---
+
+<Layout title={t('nav.gallery')} lang={lang} path="gallery">
+  <div class="max-w-7xl mx-auto px-4 py-12 sm:py-20">
+    <div class="max-w-3xl mx-auto text-center mb-12">
+      <h1 class="text-4xl font-bold text-gray-900 mb-4">{t('nav.gallery')}</h1>
+      <p class="text-lg text-gray-600">{lang === 'zh' ? '记录实验室的日常与相聚。' : 'Everyday moments and gatherings in our lab.'}</p>
+    </div>
+    <GalleryGrid lang={lang} />
+  </div>
+</Layout>

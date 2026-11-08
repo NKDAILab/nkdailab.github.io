@@ -110,7 +110,7 @@ const groupedMembers = groups.reduce((acc, group) => {
           <h2 class="text-2xl font-bold text-gray-900 mb-8 pl-4 border-l-4 border-blue-600" data-i18n-key={group.titleKey}>
             {t(group.titleKey)}
           </h2>
-          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-x-8 gap-y-12">
+          <div class={group.id === 'faculty' || group.id === 'pi' ? 'flex flex-wrap justify-center gap-12 [&>div]:w-full [&>div]:max-w-xl' : 'grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-x-8 gap-y-12'}>
             {group.members.map(member => (
               <TeamCard member={member} lang={lang} />
             ))}

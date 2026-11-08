@@ -26,6 +26,7 @@ export const SITE = {
     { text: 'Achievements', link: '/achievements/', key: 'achievements' },
     { text: 'Team', link: '/team/', key: 'team' },
     { text: 'News', link: '/news/', key: 'news' },
+    { text: 'Gallery', link: '/gallery/', key: 'gallery' },
     { text: 'Join Us', link: '/join/', key: 'join' },
     { text: 'Search', link: '/search/', key: 'search' },
   ],
