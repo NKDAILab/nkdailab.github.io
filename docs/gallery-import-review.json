@@ -1,0 +1,583 @@
+{
+  "source": "../info/相册",
+  "sourcePhotos": 53,
+  "retainedExistingPhotos": 1,
+  "totalGalleryPhotos": 54,
+  "originalBytes": 251647869,
+  "policy": "Copy original image bytes unchanged. No resizing, compression, format conversion or metadata stripping. Chinese and English pages share the same original files. Generic captions avoid inventing dates, events or identities.",
+  "records": [
+    {
+      "id": "album-d6c74c64c523",
+      "source": "../info/相册/252a62a4d6c6e372efe6f666b0b1bbf.jpg",
+      "destination": "/images/gallery/album-d6c74c64c523.jpg",
+      "sha256": "d6c74c64c523c802ab65e63705f68192db0db81f16aeddcf32f9e24303ee94c4",
+      "bytes": 407737,
+      "width": 1600,
+      "height": 1067,
+      "unmodified": true
+    },
+    {
+      "id": "album-03ea70aaf159",
+      "source": "../info/相册/55106ca98b9291fd94d1172449f2c714.jpg",
+      "destination": "/images/gallery/album-03ea70aaf159.jpg",
+      "sha256": "03ea70aaf1592e301de6603f57b039aabb8dccde3b48fd8799e8c071c2ff58ae",
+      "bytes": 4283703,
+      "width": 4032,
+      "height": 3024,
+      "unmodified": true
+    },
+    {
+      "id": "album-e2fab1a4c960",
+      "source": "../info/相册/94f70839efb50396bb133da75277cad.jpg",
+      "destination": "/images/gallery/album-e2fab1a4c960.jpg",
+      "sha256": "e2fab1a4c9603ad9ec617265987431b436e703492f7004ae096459c6033e46cd",
+      "bytes": 6080853,
+      "width": 6000,
+      "height": 4000,
+      "unmodified": true
+    },
+    {
+      "id": "album-6925c7b4c9a9",
+      "source": "../info/相册/DSC_2488-opq3773766773.jpg",
+      "destination": "/images/gallery/album-6925c7b4c9a9.jpg",
+      "sha256": "6925c7b4c9a9ff1efb4021c5284daa4f3d0a2c7753a66f223422057b0de97c84",
+      "bytes": 3656786,
+      "width": 3997,
+      "height": 2699,
+      "unmodified": true
+    },
+    {
+      "id": "album-931db31067a2",
+      "source": "../info/相册/DSC_2489-opq3773766789.jpg",
+      "destination": "/images/gallery/album-931db31067a2.jpg",
+      "sha256": "931db31067a2c551ed796e39ac7e3e384875bff12b15e585c15a73ebf6cd1ad8",
+      "bytes": 3656821,
+      "width": 3997,
+      "height": 2700,
+      "unmodified": true
+    },
+    {
+      "id": "album-fa5cdd578dee",
+      "source": "../info/相册/DSC_2491-opq3773804982.jpg",
+      "destination": "/images/gallery/album-fa5cdd578dee.jpg",
+      "sha256": "fa5cdd578deec60af17921948862149e13677618648ef21b0d0019bfc437b00e",
+      "bytes": 3648148,
+      "width": 3998,
+      "height": 2697,
+      "unmodified": true
+    },
+    {
+      "id": "album-5db900425c5a",
+      "source": "../info/相册/DSC_2493-opq3773824646.jpg",
+      "destination": "/images/gallery/album-5db900425c5a.jpg",
+      "sha256": "5db900425c5ad708dd99ea73c19f415391e859acedfa3213f42d17c9d97e392d",
+      "bytes": 3719738,
+      "width": 3998,
+      "height": 2696,
+      "unmodified": true
+    },
+    {
+      "id": "album-5ae28eb2da4b",
+      "source": "../info/相册/DSC_2494-opq3773786648.jpg",
+      "destination": "/images/gallery/album-5ae28eb2da4b.jpg",
+      "sha256": "5ae28eb2da4b50779a0d6787595ecd1ae8c4c53b3ac4d8954537ac643721a63f",
+      "bytes": 3723375,
+      "width": 3997,
+      "height": 2696,
+      "unmodified": true
+    },
+    {
+      "id": "album-4aea8c367054",
+      "source": "../info/相册/DSC_2496-opq3773805018.jpg",
+      "destination": "/images/gallery/album-4aea8c367054.jpg",
+      "sha256": "4aea8c367054cb6b7afc800d30dc3b0d308571dcb7b8d6c94c8aa353993bb18d",
+      "bytes": 2387135,
+      "width": 3999,
+      "height": 2664,
+      "unmodified": true
+    },
+    {
+      "id": "album-7a4ba480a2f5",
+      "source": "../info/相册/DSC_2497-opq3773766832.jpg",
+      "destination": "/images/gallery/album-7a4ba480a2f5.jpg",
+      "sha256": "7a4ba480a2f55a1a3f36f94153f0a881bb151ed6b8403bfa01d2c54986e3f6bc",
+      "bytes": 3496144,
+      "width": 3995,
+      "height": 2704,
+      "unmodified": true
+    },
+    {
+      "id": "album-f035cc647f9a",
+      "source": "../info/相册/DSC_2499-opq3773824687.jpg",
+      "destination": "/images/gallery/album-f035cc647f9a.jpg",
+      "sha256": "f035cc647f9ab3800ae8cf79c847da627a8072b9727f00340d4518417f2e0b61",
+      "bytes": 2396721,
+      "width": 3997,
+      "height": 2663,
+      "unmodified": true
+    },
+    {
+      "id": "album-8c193814ab44",
+      "source": "../info/相册/DSC_2501-opq3773805045.jpg",
+      "destination": "/images/gallery/album-8c193814ab44.jpg",
+      "sha256": "8c193814ab44504a687f5b41588697d36bd9813e3bc4a562b079e283e2950551",
+      "bytes": 3572679,
+      "width": 3998,
+      "height": 2706,
+      "unmodified": true
+    },
+    {
+      "id": "album-88753d5cb2d2",
+      "source": "../info/相册/DSC_2503-opq3773805050.jpg",
+      "destination": "/images/gallery/album-88753d5cb2d2.jpg",
+      "sha256": "88753d5cb2d2ba1a497832fc8dcd7d26ade153f7fc70cf2c6693633c1ff1e391",
+      "bytes": 2404327,
+      "width": 3998,
+      "height": 2660,
+      "unmodified": true
+    },
+    {
+      "id": "album-17297ca6e4e9",
+      "source": "../info/相册/DSC_2505-opq3773824708.jpg",
+      "destination": "/images/gallery/album-17297ca6e4e9.jpg",
+      "sha256": "17297ca6e4e9c81b977979ce0f8e81ce1c8021a224c79a36716cbf467e79419f",
+      "bytes": 3568306,
+      "width": 3996,
+      "height": 2703,
+      "unmodified": true
+    },
+    {
+      "id": "album-fbea33520099",
+      "source": "../info/相册/DSC_2507-opq3773824713.jpg",
+      "destination": "/images/gallery/album-fbea33520099.jpg",
+      "sha256": "fbea33520099b99285b243a61cdcc9de3a4f4b70ca8776680c8eb809e7e5c273",
+      "bytes": 2379628,
+      "width": 3994,
+      "height": 2660,
+      "unmodified": true
+    },
+    {
+      "id": "album-56eece39e6ed",
+      "source": "../info/相册/DSC_2509-opq3773766886.jpg",
+      "destination": "/images/gallery/album-56eece39e6ed.jpg",
+      "sha256": "56eece39e6edb0b1204a51ccdcc9adacbc331bea76d4f3e6f2f58b841e17bf68",
+      "bytes": 2388066,
+      "width": 3996,
+      "height": 2662,
+      "unmodified": true
+    },
+    {
+      "id": "album-fccf03e4525e",
+      "source": "../info/相册/DSC_2511-opq3773766897.jpg",
+      "destination": "/images/gallery/album-fccf03e4525e.jpg",
+      "sha256": "fccf03e4525ecfd890c4fce76cc88ab03f103453fb79daa5f71d07126a7f4bbb",
+      "bytes": 3616188,
+      "width": 3995,
+      "height": 2700,
+      "unmodified": true
+    },
+    {
+      "id": "album-573a5ef249de",
+      "source": "../info/相册/IMG_0982(20231118-223030).JPG",
+      "destination": "/images/gallery/album-573a5ef249de.jpg",
+      "sha256": "573a5ef249de188e903dbcadb54ec16cbda4fd22524852052307f2fcabc30508",
+      "bytes": 2915206,
+      "width": 2304,
+      "height": 4096,
+      "unmodified": true
+    },
+    {
+      "id": "album-d1c673893e22",
+      "source": "../info/相册/IMG_1064.JPG",
+      "destination": "/images/gallery/album-d1c673893e22.jpg",
+      "sha256": "d1c673893e22c60fa1a1377d7b6a1a84888ad8a844b3cd6549cb05a645011959",
+      "bytes": 2405176,
+      "width": 2783,
+      "height": 2302,
+      "unmodified": true
+    },
+    {
+      "id": "album-fe6999eda608",
+      "source": "../info/相册/IMG_1065.JPG",
+      "destination": "/images/gallery/album-fe6999eda608.jpg",
+      "sha256": "fe6999eda608797551acf1334ff86b3bbe60e67e54a495ce7339db341b95fff3",
+      "bytes": 2377103,
+      "width": 2868,
+      "height": 2302,
+      "unmodified": true
+    },
+    {
+      "id": "album-fd8ed05c165d",
+      "source": "../info/相册/IMG_1066.JPG",
+      "destination": "/images/gallery/album-fd8ed05c165d.jpg",
+      "sha256": "fd8ed05c165d53e06741f581edb5f20db124a4557e53a70401cf29ad282050df",
+      "bytes": 2491075,
+      "width": 2676,
+      "height": 2301,
+      "unmodified": true
+    },
+    {
+      "id": "album-075a7fe64955",
+      "source": "../info/相册/IMG_1067.JPG",
+      "destination": "/images/gallery/album-075a7fe64955.jpg",
+      "sha256": "075a7fe64955951e1d77a27cb8b67c849c3551fcf41a44f9bb08c7c7b0406437",
+      "bytes": 4055246,
+      "width": 2934,
+      "height": 2301,
+      "unmodified": true
+    },
+    {
+      "id": "album-b17724e60248",
+      "source": "../info/相册/IMG_1068.JPG",
+      "destination": "/images/gallery/album-b17724e60248.jpg",
+      "sha256": "b17724e6024869affbf3bf09edfd8cd1072313d020b898bd50d5bcaf90c77983",
+      "bytes": 3367970,
+      "width": 3428,
+      "height": 2301,
+      "unmodified": true
+    },
+    {
+      "id": "album-4f6cb9c585ec",
+      "source": "../info/相册/IMG_1069.JPG",
+      "destination": "/images/gallery/album-4f6cb9c585ec.jpg",
+      "sha256": "4f6cb9c585ece907f7afaff3287a040f948d170e8d0fcb44ac5b7e2408ecd0ee",
+      "bytes": 4303030,
+      "width": 3595,
+      "height": 2302,
+      "unmodified": true
+    },
+    {
+      "id": "album-658b55d902ff",
+      "source": "../info/相册/IMG_1070.JPG",
+      "destination": "/images/gallery/album-658b55d902ff.jpg",
+      "sha256": "658b55d902ff36deb449b15c821d81f8d364485b84cb2b88d7dd80ac8469528c",
+      "bytes": 4336189,
+      "width": 3266,
+      "height": 2302,
+      "unmodified": true
+    },
+    {
+      "id": "album-05fa737105c2",
+      "source": "../info/相册/IMG_1071(20230705-230002).JPG",
+      "destination": "/images/gallery/album-05fa737105c2.jpg",
+      "sha256": "05fa737105c287761cf4157940ac77790517691d75b13fbdda6535464f090381",
+      "bytes": 4700173,
+      "width": 4096,
+      "height": 2304,
+      "unmodified": true
+    },
+    {
+      "id": "album-7d15030b3be2",
+      "source": "../info/相册/IMG_1072(20230705-230002).JPG",
+      "destination": "/images/gallery/album-7d15030b3be2.jpg",
+      "sha256": "7d15030b3be21aa644761c666110e05e72c272e93ad2ed8bfcc1f99fad41a774",
+      "bytes": 4019957,
+      "width": 2304,
+      "height": 4096,
+      "unmodified": true
+    },
+    {
+      "id": "album-f99608cb38a5",
+      "source": "../info/相册/IMG_1073(20230705-230002).JPG",
+      "destination": "/images/gallery/album-f99608cb38a5.jpg",
+      "sha256": "f99608cb38a5759d013d2561d1b03dd97c53d96fff6bc2425f1b5fc84cc395c7",
+      "bytes": 3965124,
+      "width": 2304,
+      "height": 4096,
+      "unmodified": true
+    },
+    {
+      "id": "album-d4fa1c3b7dc0",
+      "source": "../info/相册/IMG_1074(20230705-230002).JPG",
+      "destination": "/images/gallery/album-d4fa1c3b7dc0.jpg",
+      "sha256": "d4fa1c3b7dc02a6418b1db5e9442fbc4bebd23afdc9e00ba42b56aa4fdb1136e",
+      "bytes": 4573151,
+      "width": 4096,
+      "height": 2304,
+      "unmodified": true
+    },
+    {
+      "id": "album-fbc558a9d355",
+      "source": "../info/相册/IMG_1075(20230705-230002).JPG",
+      "destination": "/images/gallery/album-fbc558a9d355.jpg",
+      "sha256": "fbc558a9d355ee30178e996ab966a93d406d61ec49ae61bb9b377c8575c391b8",
+      "bytes": 4688751,
+      "width": 4096,
+      "height": 2304,
+      "unmodified": true
+    },
+    {
+      "id": "album-a131d0bd5e84",
+      "source": "../info/相册/IMG_1077.JPG",
+      "destination": "/images/gallery/album-a131d0bd5e84.jpg",
+      "sha256": "a131d0bd5e84d60d5a88148f96e2aa408377620f4b95e45d3c992fa3be7e2b2a",
+      "bytes": 9092620,
+      "width": 4032,
+      "height": 3024,
+      "unmodified": true
+    },
+    {
+      "id": "album-5eaf43e9087a",
+      "source": "../info/相册/IMG_1079.JPG",
+      "destination": "/images/gallery/album-5eaf43e9087a.jpg",
+      "sha256": "5eaf43e9087af575631fe1bbd5badd139b5ba25bf63329fb464f7c5d5669c93a",
+      "bytes": 4570384,
+      "width": 4032,
+      "height": 3024,
+      "unmodified": true
+    },
+    {
+      "id": "album-9dd19d15d32a",
+      "source": "../info/相册/IMG_2657.JPG",
+      "destination": "/images/gallery/album-9dd19d15d32a.jpg",
+      "sha256": "9dd19d15d32acd644a2d26795864b470e46bc379009e88d121531079b716d919",
+      "bytes": 4027168,
+      "width": 4032,
+      "height": 3024,
+      "unmodified": true
+    },
+    {
+      "id": "album-f27ae01677f9",
+      "source": "../info/相册/IMG_2660.JPG",
+      "destination": "/images/gallery/album-f27ae01677f9.jpg",
+      "sha256": "f27ae01677f923cda4ad84714de88849ee96bbceb57edecca260856c8a6bfddb",
+      "bytes": 4091673,
+      "width": 3024,
+      "height": 4032,
+      "unmodified": true
+    },
+    {
+      "id": "album-41d8780a7495",
+      "source": "../info/相册/IMG_7239(20250109-214649).JPG",
+      "destination": "/images/gallery/album-41d8780a7495.jpg",
+      "sha256": "41d8780a7495455d2c6d79a3d9519df83173ef1d7c8e1bdcd4729a4ff483dcb8",
+      "bytes": 11939233,
+      "width": 4032,
+      "height": 3024,
+      "unmodified": true
+    },
+    {
+      "id": "album-9d37372a811b",
+      "source": "../info/相册/IMG_7770.JPG",
+      "destination": "/images/gallery/album-9d37372a811b.jpg",
+      "sha256": "9d37372a811b6b3d63c0860da345bf33bb709951d4b286b96bdf6bf1a4d99295",
+      "bytes": 3455454,
+      "width": 3024,
+      "height": 4032,
+      "unmodified": true
+    },
+    {
+      "id": "album-594a16e02084",
+      "source": "../info/相册/IMG_7774.JPG",
+      "destination": "/images/gallery/album-594a16e02084.jpg",
+      "sha256": "594a16e0208478eb53330308574fa04714bac0fbda009b7aedf52bda206cc083",
+      "bytes": 3503631,
+      "width": 4032,
+      "height": 3024,
+      "unmodified": true
+    },
+    {
+      "id": "album-3e599c5d0baa",
+      "source": "../info/相册/IMG_7783.JPG",
+      "destination": "/images/gallery/album-3e599c5d0baa.jpg",
+      "sha256": "3e599c5d0baabe1ad36bf6ba02f728aab36a36806b19dd8d8565df4c2dec2b05",
+      "bytes": 3626706,
+      "width": 4032,
+      "height": 3024,
+      "unmodified": true
+    },
+    {
+      "id": "album-41ed80176ee1",
+      "source": "../info/相册/实验室照片/1babeaf2ed4c9c7ed3efa3dc8d5ee7c.jpg",
+      "destination": "/images/gallery/album-41ed80176ee1.jpg",
+      "sha256": "41ed80176ee1be49c7f4091721bb2bd4e9d86f3d0e89190297ff209926241bed",
+      "bytes": 4550296,
+      "width": 4094,
+      "height": 2502,
+      "unmodified": true
+    },
+    {
+      "id": "album-12b1f0027903",
+      "source": "../info/相册/实验室照片/2f01ac264eb42873d40cddfdbc0d83f.jpg",
+      "destination": "/images/gallery/album-12b1f0027903.jpg",
+      "sha256": "12b1f0027903d6d05de4c1c8fed7eb20250cb6f304148fb885c89185f0453304",
+      "bytes": 10394091,
+      "width": 5966,
+      "height": 3791,
+      "unmodified": true
+    },
+    {
+      "id": "album-036b6fa9da4e",
+      "source": "../info/相册/实验室照片/45f4fe8ae073037fdc5956ef167c1e4.jpg",
+      "destination": "/images/gallery/album-036b6fa9da4e.jpg",
+      "sha256": "036b6fa9da4ea0544b98274f0d60ea3c4141b31faac2d9edc5bb1145c581b571",
+      "bytes": 9091701,
+      "width": 3756,
+      "height": 5627,
+      "unmodified": true
+    },
+    {
+      "id": "album-b46eea7de798",
+      "source": "../info/相册/实验室照片/6321f53ca54c17bacc9ed12d0eab23f.jpg",
+      "destination": "/images/gallery/album-b46eea7de798.jpg",
+      "sha256": "b46eea7de798b6659e992678d518e947bde1fd5da37c8f6646fa2f2c5c357cee",
+      "bytes": 6982127,
+      "width": 5840,
+      "height": 3395,
+      "unmodified": true
+    },
+    {
+      "id": "album-19b83eca7b57",
+      "source": "../info/相册/实验室照片/80377e36b9a7e27aebc9554697b01e0.jpg",
+      "destination": "/images/gallery/album-19b83eca7b57.jpg",
+      "sha256": "19b83eca7b57d3f7eb2c9f034380701ea87596acc931a1386978329265aec74f",
+      "bytes": 2423696,
+      "width": 4032,
+      "height": 3024,
+      "unmodified": true
+    },
+    {
+      "id": "album-45d140a72da1",
+      "source": "../info/相册/实验室照片/9e5f9974dc80ac8b90ed7de59e7f0f8.jpg",
+      "destination": "/images/gallery/album-45d140a72da1.jpg",
+      "sha256": "45d140a72da145a008c8a2b8b3c29b67243e6e9fa5e57b48a5a01a0d4d23d96f",
+      "bytes": 2935358,
+      "width": 4032,
+      "height": 3024,
+      "unmodified": true
+    },
+    {
+      "id": "album-3a0b9e39662b",
+      "source": "../info/相册/实验室照片/ac06ca0f516200fb6d3409a7575b1d6.jpg",
+      "destination": "/images/gallery/album-3a0b9e39662b.jpg",
+      "sha256": "3a0b9e39662b480c36c4410df2bac52a58dc0e0f102f4684be59c8948f1f79c5",
+      "bytes": 6067564,
+      "width": 5507,
+      "height": 2856,
+      "unmodified": true
+    },
+    {
+      "id": "album-9dbf625cce87",
+      "source": "../info/相册/实验室照片/b742302bbe3347f2402dd30cf42c926.jpg",
+      "destination": "/images/gallery/album-9dbf625cce87.jpg",
+      "sha256": "9dbf625cce8719b1b4eb5bba1016bb988087b9fdd0f2e034e0f96b55271cdb28",
+      "bytes": 10280146,
+      "width": 6016,
+      "height": 3213,
+      "unmodified": true
+    },
+    {
+      "id": "album-3067d16c276e",
+      "source": "../info/相册/实验室照片/bfdb4a3ca3e20e28943788bf68ea81d.jpg",
+      "destination": "/images/gallery/album-3067d16c276e.jpg",
+      "sha256": "3067d16c276e955ca49fbe8731ee7a7abc777273f887214c5838764129234d5a",
+      "bytes": 9513568,
+      "width": 5889,
+      "height": 3620,
+      "unmodified": true
+    },
+    {
+      "id": "album-bd6397618008",
+      "source": "../info/相册/实验室照片/c01cc6cea22f4089889ef750c3a9b74.jpg",
+      "destination": "/images/gallery/album-bd6397618008.jpg",
+      "sha256": "bd6397618008d8bf497e3bc0b06fb248e38b3aa369491246f9efaaf005caf563",
+      "bytes": 2931374,
+      "width": 4032,
+      "height": 3024,
+      "unmodified": true
+    },
+    {
+      "id": "album-6c5e6c13963a",
+      "source": "../info/相册/实验室照片/c7e66985d14791e46d0ed8b300e8e16.jpg",
+      "destination": "/images/gallery/album-6c5e6c13963a.jpg",
+      "sha256": "6c5e6c13963afc985659c9cf36cb3fec7df094f5f218935ead9a080b17615212",
+      "bytes": 2749829,
+      "width": 4032,
+      "height": 3024,
+      "unmodified": true
+    },
+    {
+      "id": "album-43653b792bf6",
+      "source": "../info/相册/实验室照片/d530bcc489ef0f08aa769bfcdd7e941.jpg",
+      "destination": "/images/gallery/album-43653b792bf6.jpg",
+      "sha256": "43653b792bf66a79236321d1cafd40309d2ffa6dfef1ab567e1f434b0708ef67",
+      "bytes": 9247275,
+      "width": 5808,
+      "height": 3589,
+      "unmodified": true
+    },
+    {
+      "id": "album-6f9fa0a065b4",
+      "source": "../info/相册/实验室照片/dec17a932a805e6e9766c5a8b742bc8.jpg",
+      "destination": "/images/gallery/album-6f9fa0a065b4.jpg",
+      "sha256": "6f9fa0a065b456b23eb1727d97bafeb642e352d4609bace1956e7b5e4a97ce2c",
+      "bytes": 9405632,
+      "width": 3820,
+      "height": 5722,
+      "unmodified": true
+    },
+    {
+      "id": "album-72c49d239b58",
+      "source": "../info/相册/实验室照片/eb9600da7747cf71b22bcdf673be638.jpg",
+      "destination": "/images/gallery/album-72c49d239b58.jpg",
+      "sha256": "72c49d239b589f405c804e83d1693a07516e90ca7082c84990d77d224a966b5e",
+      "bytes": 10343683,
+      "width": 5868,
+      "height": 3917,
+      "unmodified": true
+    },
+    {
+      "id": "album-e3309ad2bf74",
+      "source": "../info/相册/实验室照片/f8c77b9574c0d1af7f333359cf046a5.jpg",
+      "destination": "/images/gallery/album-e3309ad2bf74.jpg",
+      "sha256": "e3309ad2bf7461e6e7337aa3004908beb88b73998514028089a926e262978ece",
+      "bytes": 6840154,
+      "width": 5796,
+      "height": 3441,
+      "unmodified": true
+    }
+  ],
+  "verification": {
+    "checkedOn": "2026-11-09",
+    "timeZone": "America/Los_Angeles",
+    "astroErrors": 0,
+    "astroWarnings": 0,
+    "existingDeprecationHints": 10,
+    "buildPassed": true,
+    "contentVerificationPassed": true,
+    "importedOriginalPhotoHashesVerified": 53,
+    "responsiveBrowserCases": 6,
+    "languages": [
+      "zh",
+      "en"
+    ],
+    "viewportWidths": [
+      1440,
+      768,
+      390
+    ],
+    "serverRenderedInitialPhotos": 6,
+    "automaticBatchSize": 6,
+    "allPhotos": 54,
+    "loadingMode": "Automatic when scrolling within 400 CSS pixels of the end; no load button",
+    "masonryColumns": {
+      "desktopAndTablet": 2,
+      "mobile": 1
+    },
+    "independentColumnHeights": true,
+    "originalImageRatiosPreserved": true,
+    "syntheticTallPhotoBesideTwoShortPhotos": true,
+    "existingPhotosStableWhenAppending": true,
+    "windowResizePassed": true,
+    "deferredPhotosNotPrefetched": true,
+    "observerFallback": true,
+    "noJavaScriptOriginalLinks": 48,
+    "homePreviewPhotos": 1,
+    "horizontalOverflow": false,
+    "publishedBytes": 373324324,
+    "publishedMiB": 356.03,
+    "browserNote": "Initial displayed originals were real images; later scroll tests used fixtures with the original aspect ratios. A separate test-only tall SVG verified one tall image beside two short images. Product photo files remain unchanged."
+  },
+  "displayCaptions": false,
+  "captionAccessibility": "Descriptions retained as image alt text and link aria-labels; main gallery omits caption bars. Home preview keeps its original descriptive caption."
+}

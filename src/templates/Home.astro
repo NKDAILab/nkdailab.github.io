@@ -178,7 +178,7 @@ const activities = (await getCollection('news', lang))
         <h2 class="text-3xl font-bold text-gray-900">{t('nav.gallery')}</h2>
         <a href={localPath(lang, 'gallery')} class="text-blue-600 hover:underline">{t('section.viewAll')}</a>
       </div>
-      <GalleryGrid lang={lang} />
+      <GalleryGrid lang={lang} limit={1} showCaptions />
     </div>
   </section>
 </Layout>

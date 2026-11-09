@@ -184,6 +184,10 @@
         "titles": {
           "zh": [],
           "en": []
+        },
+        "destinationLabel": {
+          "zh": "就业去向",
+          "en": "Employment destination"
         }
       }
     },
@@ -426,6 +430,79 @@
         "note": {
           "zh": "鹏城实验室联培博士",
           "en": "Joint PhD student with Peng Cheng Laboratory"
+        },
+        "titles": {
+          "zh": [],
+          "en": []
+        }
+      }
+    },
+    {
+      "id": "dongxu-yue",
+      "name": {
+        "zh": "岳东旭",
+        "en": "Dongxu Yue"
+      },
+      "role": "phd",
+      "email": "ydx25@mails.tsinghua.edu.cn",
+      "links": [],
+      "profile": {
+        "zh": {
+          "bio": "我是岳东旭，清华大学计算机科学与技术专业 2025 级博士生，清华大学指导教师为袁春教授，南科大指导教师为何志海教授。我的研究方向是计算机视觉与生成式人工智能，主要关注基于扩散模型的可控图像生成与编辑，包括个性化肖像生成、身份保持以及物理一致的图像编辑。",
+          "interests": [
+            "物理世界模型",
+            "计算机视觉与生成式人工智能",
+            "可控图像生成与编辑",
+            "个性化生成与身份保持"
+          ],
+          "education": [
+            {
+              "course": "计算机科学与技术 / 博士，2025–至今",
+              "institution": "清华大学"
+            },
+            {
+              "course": "计算机应用技术 / 硕士，2022–2025",
+              "institution": "北京大学"
+            }
+          ],
+          "honors": [],
+          "html": "<p>我是岳东旭，清华大学计算机科学与技术专业 2025 级博士生，清华大学指导教师为袁春教授，南科大指导教师为何志海教授。我的研究方向是计算机视觉与生成式人工智能，主要关注基于扩散模型的可控图像生成与编辑，包括个性化肖像生成、身份保持以及物理一致的图像编辑。</p><h2>研究方向</h2><ul><li>物理世界模型</li><li>计算机视觉与生成式人工智能</li><li>可控图像生成与编辑</li><li>个性化生成与身份保持</li></ul><h2>论文</h2><ul><li><a href=\"/publications/omniportrait-fine-grained-personalized-portrait-synthesis-via-pivotal-optimization/\">OmniPortrait: Fine-Grained Personalized Portrait Synthesis via Pivotal Optimization</a><br />Dongxu Yue, Bo Lin, Yao Tang, Jiajun Liang, Zhihai He, Chun Yuan<br />International Conference on Learning Representations (ICLR), 2026.</li></ul>"
+        },
+        "en": {
+          "bio": "Dongxu Yue is a PhD student (2025 intake) in Computer Science and Technology at Tsinghua University, supervised by Professor Chun Yuan at Tsinghua University and Professor Zhihai He at SUSTech. His research focuses on computer vision and generative AI, particularly diffusion-based controllable image generation and editing, including personalized portrait generation, identity preservation, and physically consistent image editing.",
+          "interests": [
+            "Physical world models",
+            "Computer vision and generative AI",
+            "Controllable image generation and editing",
+            "Personalized generation and identity preservation"
+          ],
+          "education": [
+            {
+              "course": "PhD in Computer Science and Technology, 2025–present",
+              "institution": "Tsinghua University"
+            },
+            {
+              "course": "Master's in Computer Application Technology, 2022–2025",
+              "institution": "Peking University"
+            }
+          ],
+          "honors": [],
+          "html": "<p>Dongxu Yue is a PhD student (2025 intake) in Computer Science and Technology at Tsinghua University, supervised by Professor Chun Yuan at Tsinghua University and Professor Zhihai He at SUSTech. His research focuses on computer vision and generative AI, particularly diffusion-based controllable image generation and editing, including personalized portrait generation, identity preservation, and physically consistent image editing.</p><h2>Research Interests</h2><ul><li>Physical world models</li><li>Computer vision and generative AI</li><li>Controllable image generation and editing</li><li>Personalized generation and identity preservation</li></ul><h2>Publications</h2><ul><li><a href=\"/en/publications/omniportrait-fine-grained-personalized-portrait-synthesis-via-pivotal-optimization/\">OmniPortrait: Fine-Grained Personalized Portrait Synthesis via Pivotal Optimization</a><br />Dongxu Yue, Bo Lin, Yao Tang, Jiajun Liang, Zhihai He, Chun Yuan<br />International Conference on Learning Representations (ICLR), 2026.</li></ul>"
+        }
+      },
+      "status": "active",
+      "previousRole": "",
+      "destination": {
+        "zh": "",
+        "en": ""
+      },
+      "isNew": true,
+      "avatar": "/images/team/dongxu-yue.jpeg",
+      "presentation": {
+        "cohort": 2025,
+        "note": {
+          "zh": "清华大学联培博士",
+          "en": "Joint PhD student with Tsinghua University"
         },
         "titles": {
           "zh": [],
@@ -1628,7 +1705,7 @@
       },
       "email": "246512035@csu.edu.cn",
       "links": [],
-      "avatar": "/author/%E6%9D%8E%E6%9C%89%E6%98%8E/avatar_hu_90190d4bed6c3420.png",
+      "avatar": "/images/team/youming-li.jpg",
       "profile": {
         "zh": {
           "bio": "李有明，中南大学生物医学工程系硕士研究生。",
@@ -1677,7 +1754,8 @@
         "titles": {
           "zh": [],
           "en": []
-        }
+        },
+        "avatarPosition": "center 60%"
       }
     },
     {
@@ -2868,7 +2946,8 @@
         "titles": {
           "zh": [],
           "en": []
-        }
+        },
+        "avatarFit": "contain"
       }
     },
     {
@@ -3241,7 +3320,8 @@
         "titles": {
           "zh": [],
           "en": []
-        }
+        },
+        "avatarFit": "contain"
       }
     },
     {
@@ -4740,6 +4820,589 @@
       "caption": {
         "zh": "实验室成员合影",
         "en": "Lab group photo"
+      }
+    },
+    {
+      "id": "album-d6c74c64c523",
+      "image": "/images/gallery/album-d6c74c64c523.jpg",
+      "original": "/images/gallery/album-d6c74c64c523.jpg",
+      "width": 1600,
+      "height": 1067,
+      "caption": {
+        "zh": "实验室相册 · 01",
+        "en": "Lab album · 01"
+      }
+    },
+    {
+      "id": "album-03ea70aaf159",
+      "image": "/images/gallery/album-03ea70aaf159.jpg",
+      "original": "/images/gallery/album-03ea70aaf159.jpg",
+      "width": 4032,
+      "height": 3024,
+      "caption": {
+        "zh": "实验室相册 · 02",
+        "en": "Lab album · 02"
+      }
+    },
+    {
+      "id": "album-e2fab1a4c960",
+      "image": "/images/gallery/album-e2fab1a4c960.jpg",
+      "original": "/images/gallery/album-e2fab1a4c960.jpg",
+      "width": 6000,
+      "height": 4000,
+      "caption": {
+        "zh": "实验室相册 · 03",
+        "en": "Lab album · 03"
+      }
+    },
+    {
+      "id": "album-6925c7b4c9a9",
+      "image": "/images/gallery/album-6925c7b4c9a9.jpg",
+      "original": "/images/gallery/album-6925c7b4c9a9.jpg",
+      "width": 3997,
+      "height": 2699,
+      "caption": {
+        "zh": "实验室相册 · 04",
+        "en": "Lab album · 04"
+      }
+    },
+    {
+      "id": "album-931db31067a2",
+      "image": "/images/gallery/album-931db31067a2.jpg",
+      "original": "/images/gallery/album-931db31067a2.jpg",
+      "width": 3997,
+      "height": 2700,
+      "caption": {
+        "zh": "实验室相册 · 05",
+        "en": "Lab album · 05"
+      }
+    },
+    {
+      "id": "album-fa5cdd578dee",
+      "image": "/images/gallery/album-fa5cdd578dee.jpg",
+      "original": "/images/gallery/album-fa5cdd578dee.jpg",
+      "width": 3998,
+      "height": 2697,
+      "caption": {
+        "zh": "实验室相册 · 06",
+        "en": "Lab album · 06"
+      }
+    },
+    {
+      "id": "album-5db900425c5a",
+      "image": "/images/gallery/album-5db900425c5a.jpg",
+      "original": "/images/gallery/album-5db900425c5a.jpg",
+      "width": 3998,
+      "height": 2696,
+      "caption": {
+        "zh": "实验室相册 · 07",
+        "en": "Lab album · 07"
+      }
+    },
+    {
+      "id": "album-5ae28eb2da4b",
+      "image": "/images/gallery/album-5ae28eb2da4b.jpg",
+      "original": "/images/gallery/album-5ae28eb2da4b.jpg",
+      "width": 3997,
+      "height": 2696,
+      "caption": {
+        "zh": "实验室相册 · 08",
+        "en": "Lab album · 08"
+      }
+    },
+    {
+      "id": "album-4aea8c367054",
+      "image": "/images/gallery/album-4aea8c367054.jpg",
+      "original": "/images/gallery/album-4aea8c367054.jpg",
+      "width": 3999,
+      "height": 2664,
+      "caption": {
+        "zh": "实验室相册 · 09",
+        "en": "Lab album · 09"
+      }
+    },
+    {
+      "id": "album-7a4ba480a2f5",
+      "image": "/images/gallery/album-7a4ba480a2f5.jpg",
+      "original": "/images/gallery/album-7a4ba480a2f5.jpg",
+      "width": 3995,
+      "height": 2704,
+      "caption": {
+        "zh": "实验室相册 · 10",
+        "en": "Lab album · 10"
+      }
+    },
+    {
+      "id": "album-f035cc647f9a",
+      "image": "/images/gallery/album-f035cc647f9a.jpg",
+      "original": "/images/gallery/album-f035cc647f9a.jpg",
+      "width": 3997,
+      "height": 2663,
+      "caption": {
+        "zh": "实验室相册 · 11",
+        "en": "Lab album · 11"
+      }
+    },
+    {
+      "id": "album-8c193814ab44",
+      "image": "/images/gallery/album-8c193814ab44.jpg",
+      "original": "/images/gallery/album-8c193814ab44.jpg",
+      "width": 3998,
+      "height": 2706,
+      "caption": {
+        "zh": "实验室相册 · 12",
+        "en": "Lab album · 12"
+      }
+    },
+    {
+      "id": "album-88753d5cb2d2",
+      "image": "/images/gallery/album-88753d5cb2d2.jpg",
+      "original": "/images/gallery/album-88753d5cb2d2.jpg",
+      "width": 3998,
+      "height": 2660,
+      "caption": {
+        "zh": "实验室相册 · 13",
+        "en": "Lab album · 13"
+      }
+    },
+    {
+      "id": "album-17297ca6e4e9",
+      "image": "/images/gallery/album-17297ca6e4e9.jpg",
+      "original": "/images/gallery/album-17297ca6e4e9.jpg",
+      "width": 3996,
+      "height": 2703,
+      "caption": {
+        "zh": "实验室相册 · 14",
+        "en": "Lab album · 14"
+      }
+    },
+    {
+      "id": "album-fbea33520099",
+      "image": "/images/gallery/album-fbea33520099.jpg",
+      "original": "/images/gallery/album-fbea33520099.jpg",
+      "width": 3994,
+      "height": 2660,
+      "caption": {
+        "zh": "实验室相册 · 15",
+        "en": "Lab album · 15"
+      }
+    },
+    {
+      "id": "album-56eece39e6ed",
+      "image": "/images/gallery/album-56eece39e6ed.jpg",
+      "original": "/images/gallery/album-56eece39e6ed.jpg",
+      "width": 3996,
+      "height": 2662,
+      "caption": {
+        "zh": "实验室相册 · 16",
+        "en": "Lab album · 16"
+      }
+    },
+    {
+      "id": "album-fccf03e4525e",
+      "image": "/images/gallery/album-fccf03e4525e.jpg",
+      "original": "/images/gallery/album-fccf03e4525e.jpg",
+      "width": 3995,
+      "height": 2700,
+      "caption": {
+        "zh": "实验室相册 · 17",
+        "en": "Lab album · 17"
+      }
+    },
+    {
+      "id": "album-573a5ef249de",
+      "image": "/images/gallery/album-573a5ef249de.jpg",
+      "original": "/images/gallery/album-573a5ef249de.jpg",
+      "width": 2304,
+      "height": 4096,
+      "caption": {
+        "zh": "实验室相册 · 18",
+        "en": "Lab album · 18"
+      }
+    },
+    {
+      "id": "album-d1c673893e22",
+      "image": "/images/gallery/album-d1c673893e22.jpg",
+      "original": "/images/gallery/album-d1c673893e22.jpg",
+      "width": 2783,
+      "height": 2302,
+      "caption": {
+        "zh": "实验室相册 · 19",
+        "en": "Lab album · 19"
+      }
+    },
+    {
+      "id": "album-fe6999eda608",
+      "image": "/images/gallery/album-fe6999eda608.jpg",
+      "original": "/images/gallery/album-fe6999eda608.jpg",
+      "width": 2868,
+      "height": 2302,
+      "caption": {
+        "zh": "实验室相册 · 20",
+        "en": "Lab album · 20"
+      }
+    },
+    {
+      "id": "album-fd8ed05c165d",
+      "image": "/images/gallery/album-fd8ed05c165d.jpg",
+      "original": "/images/gallery/album-fd8ed05c165d.jpg",
+      "width": 2676,
+      "height": 2301,
+      "caption": {
+        "zh": "实验室相册 · 21",
+        "en": "Lab album · 21"
+      }
+    },
+    {
+      "id": "album-075a7fe64955",
+      "image": "/images/gallery/album-075a7fe64955.jpg",
+      "original": "/images/gallery/album-075a7fe64955.jpg",
+      "width": 2934,
+      "height": 2301,
+      "caption": {
+        "zh": "实验室相册 · 22",
+        "en": "Lab album · 22"
+      }
+    },
+    {
+      "id": "album-b17724e60248",
+      "image": "/images/gallery/album-b17724e60248.jpg",
+      "original": "/images/gallery/album-b17724e60248.jpg",
+      "width": 3428,
+      "height": 2301,
+      "caption": {
+        "zh": "实验室相册 · 23",
+        "en": "Lab album · 23"
+      }
+    },
+    {
+      "id": "album-4f6cb9c585ec",
+      "image": "/images/gallery/album-4f6cb9c585ec.jpg",
+      "original": "/images/gallery/album-4f6cb9c585ec.jpg",
+      "width": 3595,
+      "height": 2302,
+      "caption": {
+        "zh": "实验室相册 · 24",
+        "en": "Lab album · 24"
+      }
+    },
+    {
+      "id": "album-658b55d902ff",
+      "image": "/images/gallery/album-658b55d902ff.jpg",
+      "original": "/images/gallery/album-658b55d902ff.jpg",
+      "width": 3266,
+      "height": 2302,
+      "caption": {
+        "zh": "实验室相册 · 25",
+        "en": "Lab album · 25"
+      }
+    },
+    {
+      "id": "album-05fa737105c2",
+      "image": "/images/gallery/album-05fa737105c2.jpg",
+      "original": "/images/gallery/album-05fa737105c2.jpg",
+      "width": 4096,
+      "height": 2304,
+      "caption": {
+        "zh": "实验室相册 · 26",
+        "en": "Lab album · 26"
+      }
+    },
+    {
+      "id": "album-7d15030b3be2",
+      "image": "/images/gallery/album-7d15030b3be2.jpg",
+      "original": "/images/gallery/album-7d15030b3be2.jpg",
+      "width": 2304,
+      "height": 4096,
+      "caption": {
+        "zh": "实验室相册 · 27",
+        "en": "Lab album · 27"
+      }
+    },
+    {
+      "id": "album-f99608cb38a5",
+      "image": "/images/gallery/album-f99608cb38a5.jpg",
+      "original": "/images/gallery/album-f99608cb38a5.jpg",
+      "width": 2304,
+      "height": 4096,
+      "caption": {
+        "zh": "实验室相册 · 28",
+        "en": "Lab album · 28"
+      }
+    },
+    {
+      "id": "album-d4fa1c3b7dc0",
+      "image": "/images/gallery/album-d4fa1c3b7dc0.jpg",
+      "original": "/images/gallery/album-d4fa1c3b7dc0.jpg",
+      "width": 4096,
+      "height": 2304,
+      "caption": {
+        "zh": "实验室相册 · 29",
+        "en": "Lab album · 29"
+      }
+    },
+    {
+      "id": "album-fbc558a9d355",
+      "image": "/images/gallery/album-fbc558a9d355.jpg",
+      "original": "/images/gallery/album-fbc558a9d355.jpg",
+      "width": 4096,
+      "height": 2304,
+      "caption": {
+        "zh": "实验室相册 · 30",
+        "en": "Lab album · 30"
+      }
+    },
+    {
+      "id": "album-a131d0bd5e84",
+      "image": "/images/gallery/album-a131d0bd5e84.jpg",
+      "original": "/images/gallery/album-a131d0bd5e84.jpg",
+      "width": 4032,
+      "height": 3024,
+      "caption": {
+        "zh": "实验室相册 · 31",
+        "en": "Lab album · 31"
+      }
+    },
+    {
+      "id": "album-5eaf43e9087a",
+      "image": "/images/gallery/album-5eaf43e9087a.jpg",
+      "original": "/images/gallery/album-5eaf43e9087a.jpg",
+      "width": 4032,
+      "height": 3024,
+      "caption": {
+        "zh": "实验室相册 · 32",
+        "en": "Lab album · 32"
+      }
+    },
+    {
+      "id": "album-9dd19d15d32a",
+      "image": "/images/gallery/album-9dd19d15d32a.jpg",
+      "original": "/images/gallery/album-9dd19d15d32a.jpg",
+      "width": 4032,
+      "height": 3024,
+      "caption": {
+        "zh": "实验室相册 · 33",
+        "en": "Lab album · 33"
+      }
+    },
+    {
+      "id": "album-f27ae01677f9",
+      "image": "/images/gallery/album-f27ae01677f9.jpg",
+      "original": "/images/gallery/album-f27ae01677f9.jpg",
+      "width": 3024,
+      "height": 4032,
+      "caption": {
+        "zh": "实验室相册 · 34",
+        "en": "Lab album · 34"
+      }
+    },
+    {
+      "id": "album-41d8780a7495",
+      "image": "/images/gallery/album-41d8780a7495.jpg",
+      "original": "/images/gallery/album-41d8780a7495.jpg",
+      "width": 4032,
+      "height": 3024,
+      "caption": {
+        "zh": "实验室相册 · 35",
+        "en": "Lab album · 35"
+      }
+    },
+    {
+      "id": "album-9d37372a811b",
+      "image": "/images/gallery/album-9d37372a811b.jpg",
+      "original": "/images/gallery/album-9d37372a811b.jpg",
+      "width": 3024,
+      "height": 4032,
+      "caption": {
+        "zh": "实验室相册 · 36",
+        "en": "Lab album · 36"
+      }
+    },
+    {
+      "id": "album-594a16e02084",
+      "image": "/images/gallery/album-594a16e02084.jpg",
+      "original": "/images/gallery/album-594a16e02084.jpg",
+      "width": 4032,
+      "height": 3024,
+      "caption": {
+        "zh": "实验室相册 · 37",
+        "en": "Lab album · 37"
+      }
+    },
+    {
+      "id": "album-3e599c5d0baa",
+      "image": "/images/gallery/album-3e599c5d0baa.jpg",
+      "original": "/images/gallery/album-3e599c5d0baa.jpg",
+      "width": 4032,
+      "height": 3024,
+      "caption": {
+        "zh": "实验室相册 · 38",
+        "en": "Lab album · 38"
+      }
+    },
+    {
+      "id": "album-41ed80176ee1",
+      "image": "/images/gallery/album-41ed80176ee1.jpg",
+      "original": "/images/gallery/album-41ed80176ee1.jpg",
+      "width": 4094,
+      "height": 2502,
+      "caption": {
+        "zh": "实验室相册 · 39",
+        "en": "Lab album · 39"
+      }
+    },
+    {
+      "id": "album-12b1f0027903",
+      "image": "/images/gallery/album-12b1f0027903.jpg",
+      "original": "/images/gallery/album-12b1f0027903.jpg",
+      "width": 5966,
+      "height": 3791,
+      "caption": {
+        "zh": "实验室相册 · 40",
+        "en": "Lab album · 40"
+      }
+    },
+    {
+      "id": "album-036b6fa9da4e",
+      "image": "/images/gallery/album-036b6fa9da4e.jpg",
+      "original": "/images/gallery/album-036b6fa9da4e.jpg",
+      "width": 3756,
+      "height": 5627,
+      "caption": {
+        "zh": "实验室相册 · 41",
+        "en": "Lab album · 41"
+      }
+    },
+    {
+      "id": "album-b46eea7de798",
+      "image": "/images/gallery/album-b46eea7de798.jpg",
+      "original": "/images/gallery/album-b46eea7de798.jpg",
+      "width": 5840,
+      "height": 3395,
+      "caption": {
+        "zh": "实验室相册 · 42",
+        "en": "Lab album · 42"
+      }
+    },
+    {
+      "id": "album-19b83eca7b57",
+      "image": "/images/gallery/album-19b83eca7b57.jpg",
+      "original": "/images/gallery/album-19b83eca7b57.jpg",
+      "width": 4032,
+      "height": 3024,
+      "caption": {
+        "zh": "实验室相册 · 43",
+        "en": "Lab album · 43"
+      }
+    },
+    {
+      "id": "album-45d140a72da1",
+      "image": "/images/gallery/album-45d140a72da1.jpg",
+      "original": "/images/gallery/album-45d140a72da1.jpg",
+      "width": 4032,
+      "height": 3024,
+      "caption": {
+        "zh": "实验室相册 · 44",
+        "en": "Lab album · 44"
+      }
+    },
+    {
+      "id": "album-3a0b9e39662b",
+      "image": "/images/gallery/album-3a0b9e39662b.jpg",
+      "original": "/images/gallery/album-3a0b9e39662b.jpg",
+      "width": 5507,
+      "height": 2856,
+      "caption": {
+        "zh": "实验室相册 · 45",
+        "en": "Lab album · 45"
+      }
+    },
+    {
+      "id": "album-9dbf625cce87",
+      "image": "/images/gallery/album-9dbf625cce87.jpg",
+      "original": "/images/gallery/album-9dbf625cce87.jpg",
+      "width": 6016,
+      "height": 3213,
+      "caption": {
+        "zh": "实验室相册 · 46",
+        "en": "Lab album · 46"
+      }
+    },
+    {
+      "id": "album-3067d16c276e",
+      "image": "/images/gallery/album-3067d16c276e.jpg",
+      "original": "/images/gallery/album-3067d16c276e.jpg",
+      "width": 5889,
+      "height": 3620,
+      "caption": {
+        "zh": "实验室相册 · 47",
+        "en": "Lab album · 47"
+      }
+    },
+    {
+      "id": "album-bd6397618008",
+      "image": "/images/gallery/album-bd6397618008.jpg",
+      "original": "/images/gallery/album-bd6397618008.jpg",
+      "width": 4032,
+      "height": 3024,
+      "caption": {
+        "zh": "实验室相册 · 48",
+        "en": "Lab album · 48"
+      }
+    },
+    {
+      "id": "album-6c5e6c13963a",
+      "image": "/images/gallery/album-6c5e6c13963a.jpg",
+      "original": "/images/gallery/album-6c5e6c13963a.jpg",
+      "width": 4032,
+      "height": 3024,
+      "caption": {
+        "zh": "实验室相册 · 49",
+        "en": "Lab album · 49"
+      }
+    },
+    {
+      "id": "album-43653b792bf6",
+      "image": "/images/gallery/album-43653b792bf6.jpg",
+      "original": "/images/gallery/album-43653b792bf6.jpg",
+      "width": 5808,
+      "height": 3589,
+      "caption": {
+        "zh": "实验室相册 · 50",
+        "en": "Lab album · 50"
+      }
+    },
+    {
+      "id": "album-6f9fa0a065b4",
+      "image": "/images/gallery/album-6f9fa0a065b4.jpg",
+      "original": "/images/gallery/album-6f9fa0a065b4.jpg",
+      "width": 3820,
+      "height": 5722,
+      "caption": {
+        "zh": "实验室相册 · 51",
+        "en": "Lab album · 51"
+      }
+    },
+    {
+      "id": "album-72c49d239b58",
+      "image": "/images/gallery/album-72c49d239b58.jpg",
+      "original": "/images/gallery/album-72c49d239b58.jpg",
+      "width": 5868,
+      "height": 3917,
+      "caption": {
+        "zh": "实验室相册 · 52",
+        "en": "Lab album · 52"
+      }
+    },
+    {
+      "id": "album-e3309ad2bf74",
+      "image": "/images/gallery/album-e3309ad2bf74.jpg",
+      "original": "/images/gallery/album-e3309ad2bf74.jpg",
+      "width": 5796,
+      "height": 3441,
+      "caption": {
+        "zh": "实验室相册 · 53",
+        "en": "Lab album · 53"
       }
     }
   ],

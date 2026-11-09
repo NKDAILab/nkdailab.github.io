@@ -12,7 +12,7 @@ export interface TeamEntry {
   id: string;
   source: Member;
   data: {
-    name: string; role: string; avatar: { src: string; fit: 'cover' | 'contain' }; bio: string; title: string[];
+    name: string; role: string; avatar: { src: string; fit: 'cover' | 'contain'; position?: string }; bio: string; title: string[];
     email: string; weight: number; website?: string; linkedin?: string; github?: string; twitter?: string; googleScholar?: string;
   };
 }
@@ -60,6 +60,7 @@ export function teamEntries(lang: Lang): TeamEntry[] {
         name: m.name[lang], role: roles[m.role], avatar: {
           src: m.avatar,
           fit: 'avatarFit' in m.presentation && m.presentation.avatarFit === 'contain' ? 'contain' : 'cover',
+          position: 'avatarPosition' in m.presentation ? m.presentation.avatarPosition : undefined,
         },
         title: m.role === 'alumni' ? [roleLabel(m.previousRole, lang), statusLabel(m.status, lang)]
           : m.role === 'faculty' ? [...facultyRoleLabels(m, lang), 'IEEE Fellow']
@@ -106,7 +107,12 @@ export function newsEntries(lang: Lang): NewsEntry[] {
     cover: image('news/' + n.id + '.png') || image('news/' + n.id + '.jpg') }, body: n.content[lang].html }));
 }
 export const RESEARCH_IDS = ['areas', 'group', 'results'];
-export const galleryEntries = (lang: Lang) => gallery.map(photo => ({ id: photo.id, caption: photo.caption[lang], original: photo.original, image: image(photo.image)! }));
+export const galleryEntries = (lang: Lang) => gallery.map(photo => ({
+  id: photo.id, caption: photo.caption[lang], original: photo.original,
+  image: photo.image.startsWith('/') ? undefined : image(photo.image),
+  width: 'width' in photo ? photo.width : undefined,
+  height: 'height' in photo ? photo.height : undefined,
+}));
 export function researchEntries(lang: Lang): ResearchEntry[] {
   return research[lang].map((area, index) => ({ id: RESEARCH_IDS[index], data: { title: area.title,
     description: index === 0 ? strip(area.html) : strip(area.html).slice(0, lang === 'zh' ? 120 : 240), order: index,

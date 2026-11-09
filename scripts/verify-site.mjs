@@ -8,12 +8,13 @@ const data = JSON.parse(await readFile(resolve(root, 'src/data/site.json'), 'utf
 const updates = JSON.parse(await readFile(resolve(root, 'src/data/alumni-updates.json'), 'utf8'));
 const publicationReview = JSON.parse(await readFile(resolve(root, 'docs/publication-review.json'), 'utf8'));
 const materialsReview = JSON.parse(await readFile(resolve(root, 'docs/materials-update-review.json'), 'utf8'));
+const galleryReview = JSON.parse(await readFile(resolve(root, 'docs/gallery-import-review.json'), 'utf8'));
 const issues = [];
 const check = (test, message) => { if (!test) issues.push(message); };
 const active = data.members.filter(m => m.role !== 'alumni');
 const alumni = data.members.filter(m => m.role === 'alumni');
 
-check(data.members.length === 47, 'Expected the 47 members with supplied profiles');
+check(data.members.length === 48, 'Expected the 48 members with supplied profiles');
 check(new Set(data.members.map(m => m.id)).size === data.members.length, 'Duplicate member IDs');
 check(new Set(data.members.map(m => m.name.zh)).size === data.members.length, 'Duplicate member names');
 check(data.news.length === 3, 'Original news articles were lost');
@@ -40,7 +41,7 @@ for (const paper of data.publications) {
     check(![...url.searchParams.keys()].some(key => /^(utm_|fbclid$|gclid$|dclid$|msclkid$|mc_cid$|mc_eid$|igshid$|_ga$|_gl$|spm$|si$|feature$|ref$|referrer$|via$)/i.test(key)), `Tracking parameter in ${paper.title}: ${link.url}`);
   }
 }
-check(active.length === 23 && alumni.length === 24, 'Incorrect current/alumni grouping');
+check(active.length === 24 && alumni.length === 24, 'Incorrect current/alumni grouping');
 check(active.find(m => m.id === 'zihao-zhou')?.name.zh === '周子皓', '周子皓 must not be renamed to 周子善');
 const certificatePatents = materialsReview.patentReview.patents.filter(p => p.source.sheet === 'NKD' && p.certificate);
 check(data.patents.length === certificatePatents.length, 'Expected only NKD patents with supplied certificates');
@@ -150,6 +151,14 @@ for (const patent of certificatePatents) {
   }
 }
 check(!await exists(resolve(dist, 'docs/materials-update-review.json')), 'Internal review must not be published');
+check(!await exists(resolve(dist, 'docs/gallery-import-review.json')), 'Gallery provenance must remain internal');
+for (const photo of galleryReview.records) {
+  const entry = data.gallery.find(p => p.id === photo.id);
+  check(entry?.original === photo.destination && entry?.image === photo.destination, `Original album photo missing or replaced: ${photo.source}`);
+  const file = resolve(dist, '.' + photo.destination);
+  check(await exists(file), `Original album file missing: ${photo.source}`);
+  if (await exists(file)) check(createHash('sha256').update(await readFile(file)).digest('hex') === photo.sha256, `Album photo was resized, recompressed or otherwise changed: ${photo.source}`);
+}
 const origin = JSON.parse(await readFile(resolve(root, 'src/data/template-origin.json'), 'utf8'));
 const originalStyles = origin.files.find(f => f.destination === 'src/styles/global.css');
 check(createHash('sha256').update(await readFile(resolve(root, 'src/styles/global.css'))).digest('hex') === originalStyles.originalSha256, 'Original Scholar-Lite global styles were not retained');

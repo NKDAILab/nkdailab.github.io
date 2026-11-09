@@ -2,16 +2,145 @@
 import { Image } from 'astro:assets';
 import { galleryEntries } from '../lib/template';
 import type { Lang } from '../lib/site';
-interface Props { lang: Lang; }
-const { lang } = Astro.props;
-const photos = galleryEntries(lang);
+interface Props { lang: Lang; limit?: number; showCaptions?: boolean; }
+const { lang, limit, showCaptions = false } = Astro.props;
+const allPhotos = galleryEntries(lang);
+const photos = limit === undefined ? allPhotos : allPhotos.slice(0, limit);
+const batchSize = 6;
+const paginated = photos.length > batchSize;
+const gridId = `gallery-photos-${lang}`;
+const statusTemplate = lang === 'zh' ? '已显示 {shown} / {total} 张照片' : 'Showing {shown} of {total} photos';
 ---
 
-<div class={photos.length < 2 ? 'max-w-4xl mx-auto' : 'grid gap-8 md:grid-cols-2'}>
-  {photos.map(photo => <figure class="rounded-2xl overflow-hidden border border-gray-100 bg-white shadow-sm" data-gallery-photo={photo.id}>
-    <a href={photo.original} target="_blank" rel="noopener noreferrer" aria-label={photo.caption}>
-      <Image src={photo.image} alt={photo.caption} class="w-full h-auto" widths={[480, 800, 1200]} sizes="(max-width: 768px) 100vw, 900px" quality={80} format="webp" />
-    </a>
-    <figcaption class="p-5 text-sm text-gray-600">{photo.caption}</figcaption>
-  </figure>)}
+<div data-gallery-grid data-batch-size={batchSize}>
+  <div id={gridId} class={photos.length < 2 ? 'max-w-4xl mx-auto' : 'gallery-masonry'} data-gallery-masonry={photos.length > 1 ? true : undefined}>
+    {photos.map((photo, index) => <figure class="rounded-2xl overflow-hidden border border-gray-100 bg-white shadow-sm" data-gallery-photo={photo.id} hidden={index >= batchSize}>
+      <a href={photo.original} target="_blank" rel="noopener noreferrer" aria-label={photo.caption}>
+        {photo.image ? <Image src={photo.image} alt={photo.caption} class="w-full h-auto" widths={[480, 800, 1200]} sizes="(max-width: 768px) 100vw, 900px" quality={80} format="webp" loading="lazy" />
+          : <img src={index < batchSize ? photo.original : undefined} data-gallery-src={index >= batchSize ? photo.original : undefined} alt={photo.caption} width={photo.width} height={photo.height} class="w-full h-auto" loading="lazy" decoding="async" />}
+      </a>
+      {showCaptions && <figcaption class="p-5 text-sm text-gray-600">{photo.caption}</figcaption>}
+    </figure>)}
+  </div>
+  {paginated && <>
+    <div class="h-px" data-gallery-sentinel aria-hidden="true" hidden></div>
+    <p class="mt-8 text-center text-sm text-gray-500" aria-live="polite" aria-atomic="true" data-gallery-status data-status-template={statusTemplate} hidden>{statusTemplate.replace('{shown}', String(batchSize)).replace('{total}', String(photos.length))}</p>
+    <noscript>
+      <div class="mt-8">
+        <h2 class="text-lg font-semibold mb-4">{lang === 'zh' ? '更多照片' : 'More photos'}</h2>
+        <ul class="grid gap-3 sm:grid-cols-2">{photos.slice(batchSize).map(photo => <li><a href={photo.original} target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline">{photo.caption}</a></li>)}</ul>
+      </div>
+    </noscript>
+  </>}
 </div>
+
+<script>
+  document.querySelectorAll<HTMLElement>('[data-gallery-grid]').forEach(gallery => {
+    const grid = gallery.querySelector<HTMLElement>('[data-gallery-masonry]');
+    if (!grid) return;
+    const photos = Array.from(grid.querySelectorAll<HTMLElement>('[data-gallery-photo]'));
+    let layoutFrame = 0;
+    const layout = () => {
+      const styles = getComputedStyle(grid);
+      const gap = parseFloat(styles.columnGap) || 32;
+      const rowHeight = parseFloat(styles.getPropertyValue('--gallery-row-height')) || 8;
+      photos.filter(photo => !photo.hidden).forEach(photo => {
+        const span = String(Math.ceil((photo.getBoundingClientRect().height + gap) / rowHeight));
+        if (photo.style.getPropertyValue('--gallery-span') !== span) photo.style.setProperty('--gallery-span', span);
+      });
+      grid.dataset.masonryReady = '';
+    };
+    const scheduleLayout = () => {
+      cancelAnimationFrame(layoutFrame);
+      layoutFrame = requestAnimationFrame(layout);
+    };
+    layout();
+    let gridWidth = grid.getBoundingClientRect().width;
+    const resizeObserver = typeof ResizeObserver === 'undefined' ? undefined : new ResizeObserver(entries => {
+      if (entries.some(entry => entry.target !== grid || entry.contentRect.width !== gridWidth)) {
+        gridWidth = grid.getBoundingClientRect().width;
+        scheduleLayout();
+      }
+    });
+    resizeObserver?.observe(grid);
+    photos.filter(photo => !photo.hidden).forEach(photo => resizeObserver?.observe(photo));
+    grid.addEventListener('load', scheduleLayout, true);
+    grid.addEventListener('error', scheduleLayout, true);
+    window.addEventListener('resize', scheduleLayout, { passive: true });
+    document.fonts?.ready.then(scheduleLayout);
+
+    const sentinel = gallery.querySelector<HTMLElement>('[data-gallery-sentinel]');
+    const status = gallery.querySelector<HTMLElement>('[data-gallery-status]');
+    if (!sentinel || !status) return;
+    const batchSize = Number(gallery.dataset.batchSize);
+    const statusTemplate = status.dataset.statusTemplate!;
+    const preloadDistance = 400;
+    let loading = false;
+    let observer: IntersectionObserver | undefined;
+    const nearBottom = () => !sentinel.hidden && sentinel.getBoundingClientRect().top <= innerHeight + preloadDistance;
+    const loadNext = () => {
+      if (loading || sentinel.hidden) return;
+      loading = true;
+      const next = photos.filter(photo => photo.hidden).slice(0, batchSize);
+      next.forEach(photo => {
+        const image = photo.querySelector<HTMLImageElement>('img[data-gallery-src]');
+        if (image?.dataset.gallerySrc) {
+          image.src = image.dataset.gallerySrc;
+          delete image.dataset.gallerySrc;
+        }
+        photo.hidden = false;
+        resizeObserver?.observe(photo);
+      });
+      layout();
+      const shown = photos.filter(photo => !photo.hidden).length;
+      status.textContent = statusTemplate.replace('{shown}', String(shown)).replace('{total}', String(photos.length));
+      if (shown === photos.length) {
+        observer?.disconnect();
+        sentinel.hidden = true;
+        window.removeEventListener('scroll', checkPosition);
+        window.removeEventListener('resize', checkPosition);
+      }
+      requestAnimationFrame(() => {
+        loading = false;
+        // Fill a tall viewport even when a short batch leaves the sentinel in view.
+        if (nearBottom()) loadNext();
+      });
+    };
+    const checkPosition = () => { if (nearBottom()) loadNext(); };
+    sentinel.hidden = false;
+    status.hidden = false;
+    if (typeof IntersectionObserver !== 'undefined') {
+      observer = new IntersectionObserver(entries => {
+        if (entries.some(entry => entry.isIntersecting)) loadNext();
+      }, { rootMargin: `${preloadDistance}px 0px` });
+      observer.observe(sentinel);
+    } else {
+      window.addEventListener('scroll', checkPosition, { passive: true });
+      window.addEventListener('resize', checkPosition, { passive: true });
+      checkPosition();
+    }
+  });
+</script>
+
+<style>
+  .gallery-masonry {
+    --gallery-row-height: 8px;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 2rem;
+    align-items: start;
+  }
+
+  @media (min-width: 48rem) {
+    .gallery-masonry {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .gallery-masonry[data-masonry-ready] {
+      grid-auto-rows: var(--gallery-row-height);
+      row-gap: 0;
+    }
+    .gallery-masonry[data-masonry-ready] > [data-gallery-photo] {
+      grid-row-end: span var(--gallery-span, 1);
+    }
+  }
+</style>

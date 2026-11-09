@@ -19,6 +19,10 @@
     {
       "file": "../info/周子善.docx",
       "sha256": "895c49d611e3c4ace0e20d637124ea6e20d69898293cd4b0596329575fc02b35"
+    },
+    {
+      "file": "../info/岳东旭.docx",
+      "sha256": "a16ede5e547287e73fa17cf9ee47434553cf327bc93b7c1e6bdf1e8ac157c8b5"
     }
   ],
   "memberReview": {
@@ -284,6 +288,18 @@
           "institution": "南方科技大学"
         },
         "note": "Explicit master’s admission year in the new document."
+      },
+      {
+        "id": "dongxu-yue",
+        "name": "岳东旭",
+        "role": "phd",
+        "year": 2025,
+        "evidence": {
+          "file": "info/岳东旭.docx",
+          "course": "2025 年至今，清华大学 计算机科学与技术 博士",
+          "institution": "清华大学"
+        },
+        "note": "Explicit PhD intake year and two supervisors in the new document; do not classify as a 2026 master’s student."
       }
     ],
     "jointTrainingRemarks": [
@@ -326,6 +342,15 @@
           "zh": "卓越工程师项目联培硕士",
           "en": "Joint master’s student in the Outstanding Engineers Program"
         }
+      },
+      {
+        "id": "dongxu-yue",
+        "name": "岳东旭",
+        "remark": {
+          "zh": "清华大学联培博士",
+          "en": "Joint PhD student with Tsinghua University"
+        },
+        "source": "info/岳东旭.docx · 个人简介中的清华/南科大指导教师"
       }
     ],
     "visitors": [
@@ -457,9 +482,58 @@
     ]
   },
   "gallery": {
-    "source": "Existing original lab group photo: src/assets/research-group.jpg and /event/photo.jpg",
-    "addedPhotos": 1,
-    "suggestionScreenshotsUsedAsPhotos": false
+    "source": "Existing lab group photo plus ../info/相册, including 实验室照片 subdirectory",
+    "addedPhotos": 54,
+    "newOriginalPhotos": 53,
+    "retainedOriginalGalleryEntry": true,
+    "suggestionScreenshotsUsedAsPhotos": false,
+    "originalBytes": 251647869,
+    "originalsUnmodified": true,
+    "review": "docs/gallery-import-review.json",
+    "delivery": "Shared unchanged originals; independent double-column masonry (single column on mobile); automatic batches of 6 near the bottom without a button; one homepage preview; no-JavaScript direct links",
+    "verification": {
+      "checkedOn": "2026-11-09",
+      "timeZone": "America/Los_Angeles",
+      "astroErrors": 0,
+      "astroWarnings": 0,
+      "existingDeprecationHints": 10,
+      "buildPassed": true,
+      "contentVerificationPassed": true,
+      "importedOriginalPhotoHashesVerified": 53,
+      "responsiveBrowserCases": 6,
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "viewportWidths": [
+        1440,
+        768,
+        390
+      ],
+      "serverRenderedInitialPhotos": 6,
+      "automaticBatchSize": 6,
+      "allPhotos": 54,
+      "loadingMode": "Automatic when scrolling within 400 CSS pixels of the end; no load button",
+      "masonryColumns": {
+        "desktopAndTablet": 2,
+        "mobile": 1
+      },
+      "independentColumnHeights": true,
+      "originalImageRatiosPreserved": true,
+      "syntheticTallPhotoBesideTwoShortPhotos": true,
+      "existingPhotosStableWhenAppending": true,
+      "windowResizePassed": true,
+      "deferredPhotosNotPrefetched": true,
+      "observerFallback": true,
+      "noJavaScriptOriginalLinks": 48,
+      "homePreviewPhotos": 1,
+      "horizontalOverflow": false,
+      "publishedBytes": 373324324,
+      "publishedMiB": 356.03,
+      "browserNote": "Initial displayed originals were real images; later scroll tests used fixtures with the original aspect ratios. A separate test-only tall SVG verified one tall image beside two short images. Product photo files remain unchanged."
+    },
+    "displayCaptions": false,
+    "captionAccessibility": "Descriptions retained as image alt text and link aria-labels; main gallery omits caption bars. Home preview keeps its original descriptive caption."
   },
   "pendingClarifications": [],
   "patentReview": {
@@ -2425,12 +2499,13 @@
     "unprovidedFields": []
   },
   "counts": {
-    "members": 47,
+    "members": 48,
     "patents": 12,
     "certificates": 12,
     "softwareCopyrights": 0,
     "trademarksAuditOnly": 4,
-    "publications": 42
+    "publications": 42,
+    "galleryPhotos": 54
   },
   "paperReview": {
     "archive": "info/实验室发表文章.rar",
@@ -4198,21 +4273,22 @@
     }
   },
   "verification": {
-    "htmlPages": 940,
-    "xmlFiles": 469,
+    "htmlPages": 946,
+    "xmlFiles": 472,
     "astroErrors": 0,
     "astroWarnings": 0,
     "existingDeprecationHints": 10,
     "reviewDocsPublic": false,
-    "browserChecks": "Bilingual member/paper/patent/gallery checks retained; latest desktop/mobile checks verified a single Join Us mail link, named professor, removal of research block, matching contact styles and left edges, full Qiu portrait on cards/detail, all 46 members and 24 clickable alumni, and full research topics.",
-    "checkedAt": "2026-11-08T05:51:02+00:00",
+    "browserChecks": "Prior member/paper/patent/gallery/email checks retained. Latest bilingual desktop/mobile checks validated Dongxu Yue’s 2025 Tsinghua joint PhD card/profile, four displayed interests, education, supervisors, source portrait, existing paper association, Outlook recipient and real clipboard fallback, Pagefind, author aliases and RSS; 48 members and all 24 clickable alumni retained.",
     "facultyHeader": "Desktop right-column title layout verified in both languages; responsive collapse and email link checked.",
     "responsiveWidths": [
       1440,
       1024,
       820,
       390
-    ]
+    ],
+    "checkedOn": "2026-11-09",
+    "timeZone": "America/Los_Angeles"
   },
   "pendingDataIssues": [],
   "researchDisplayCorrection": {
@@ -4562,5 +4638,101 @@
       }
     ],
     "checkedAt": "2026-11-08T06:06:45+00:00"
+  },
+  "dongxuYueAddition": {
+    "id": "dongxu-yue",
+    "source": "../info/岳东旭.docx",
+    "sourceSha256": "a16ede5e547287e73fa17cf9ee47434553cf327bc93b7c1e6bdf1e8ac157c8b5",
+    "portrait": {
+      "source": "word/media/image1.jpeg",
+      "destination": "/images/team/dongxu-yue.jpeg",
+      "sha256": "ee74fe6c65026d346d23818d2a8d605d264b3e34304dabb162764242ac190eee",
+      "unmodified": true
+    },
+    "displayLabel": "2025级清华大学联培博士",
+    "supervisionEvidence": "个人简介明确：清华大学指导教师为袁春教授，南科大指导教师为何志海教授。教育经历保留清华大学博士身份，不改为南科大学位。",
+    "sourceReview": "Import the four explicitly provided research interests, two education records, original biography, email, portrait and OmniPortrait citation. Work experience (Chair Professor), honors (Changjiang Scholar / IEEE Fellow), activity (Associate Editor) and SenSE/NSF project are marked 例 and are template examples; omit all of them. Omit photo and graduation-destination prompts. No unprovided bachelor degree, awards or profile links.",
+    "publicationId": "omniportrait-fine-grained-personalized-portrait-synthesis-via-pivotal-optimization",
+    "publicationHandling": "Existing publication, authors, source, PDF and abstract remain unchanged; profile links to the existing bilingual detail pages. Existing dongxu-yue author aliases and RSS now resolve to the documented member.",
+    "currentMembers": 24,
+    "alumni": 24,
+    "totalMembers": 48,
+    "verification": {
+      "checkedOn": "2026-11-09",
+      "timeZone": "America/Los_Angeles",
+      "astroErrors": 0,
+      "astroWarnings": 0,
+      "existingDeprecationHints": 10,
+      "buildPassed": true,
+      "contentVerificationPassed": true,
+      "htmlPages": 946,
+      "validXmlFiles": 472,
+      "previousMembersAndOtherSiteDataUnchanged": true,
+      "originalPortraitSha256Verified": true,
+      "templateExamplesExcluded": true,
+      "authorAndChineseNameFeeds": 6,
+      "browserCases": [
+        {
+          "lang": "zh",
+          "width": 1440,
+          "members": 48,
+          "alumni": 24,
+          "label": "2025 Tsinghua joint PhD",
+          "fourInterests": true,
+          "educationAndSupervisors": true,
+          "originalPhoto": true,
+          "templateExamplesExcluded": true,
+          "publicationLinked": true,
+          "emailRecipientAndClipboard": true,
+          "searchAndAuthorAlias": true,
+          "horizontalOverflow": false
+        },
+        {
+          "lang": "zh",
+          "width": 390,
+          "members": 48,
+          "alumni": 24,
+          "label": "2025 Tsinghua joint PhD",
+          "fourInterests": true,
+          "educationAndSupervisors": true,
+          "originalPhoto": true,
+          "templateExamplesExcluded": true,
+          "publicationLinked": true,
+          "emailRecipientAndClipboard": true,
+          "searchAndAuthorAlias": true,
+          "horizontalOverflow": false
+        },
+        {
+          "lang": "en",
+          "width": 1440,
+          "members": 48,
+          "alumni": 24,
+          "label": "2025 Tsinghua joint PhD",
+          "fourInterests": true,
+          "educationAndSupervisors": true,
+          "originalPhoto": true,
+          "templateExamplesExcluded": true,
+          "publicationLinked": true,
+          "emailRecipientAndClipboard": true,
+          "searchAndAuthorAlias": true,
+          "horizontalOverflow": false
+        },
+        {
+          "lang": "en",
+          "width": 390,
+          "members": 48,
+          "alumni": 24,
+          "label": "2025 Tsinghua joint PhD",
+          "fourInterests": true,
+          "educationAndSupervisors": true,
+          "originalPhoto": true,
+          "templateExamplesExcluded": true,
+          "publicationLinked": true,
+          "emailRecipientAndClipboard": true,
+          "searchAndAuthorAlias": true,
+          "horizontalOverflow": false
+        }
+      ]
+    }
   }
 }

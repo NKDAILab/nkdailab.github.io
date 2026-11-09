@@ -11,6 +11,8 @@ interface Props {
 
 const { member, lang } = Astro.props;
 const { name, avatar, bio, email, website, linkedin, github, twitter, googleScholar } = member.data;
+const destinationLabel = ('destinationLabel' in member.source.presentation
+  ? member.source.presentation.destinationLabel?.[lang] : undefined) ?? (lang === 'zh' ? '毕业去向' : 'Destination');
 
 // Color mapping for title badges
 const badgeColors = [
@@ -30,6 +32,7 @@ const badgeColors = [
         src={avatar.src} 
         alt={name} 
         class:list={['w-full h-full', avatar.fit === 'contain' ? 'object-contain bg-white' : 'object-cover object-top']}
+        style={avatar.position ? `object-position: ${avatar.position}` : undefined}
         loading="lazy"
       /> : <div class="w-full h-full flex items-center justify-center text-gray-400" role="img" aria-label={lang === 'zh' ? `${name}，照片待补充` : `${name}, photo to be added`}><User className="w-20 h-20" /></div>}
     </a>
@@ -86,6 +89,6 @@ const badgeColors = [
   
   {/* Role display removed as per request, relying on section headers and title badges */}
   
-  {bio && <p class="text-sm text-gray-500 px-2" data-member-note>{member.source.role === 'alumni' && <span>{lang === 'zh' ? '毕业去向：' : 'Destination: '}</span>}{bio}</p>}
+  {bio && <p class="text-sm text-gray-500 px-2" data-member-note>{member.source.role === 'alumni' && <span>{destinationLabel}{lang === 'zh' ? '：' : ': '}</span>}{bio}</p>}
   {email && <SendEmail email={email} lang={lang} variant="text" label={email} ariaLabel={`${lang === 'zh' ? '发送邮件给' : 'Email'} ${name}`} />}
 </div>

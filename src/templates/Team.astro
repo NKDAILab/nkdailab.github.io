@@ -81,7 +81,13 @@ const groupedMembers = groups.reduce((acc, group) => {
       // Sort by Role Priority first (e.g. Prof before Assoc Prof)
       const roleDiff = getRolePriority(a.data.role) - getRolePriority(b.data.role);
       if (roleDiff !== 0) return roleDiff;
-      // Then by weight
+      // Earlier intake first for current members; retain the alumni order.
+      if (group.id !== 'alumni') {
+        const cohortDiff = (a.source.presentation.cohort ?? Number.MAX_SAFE_INTEGER)
+          - (b.source.presentation.cohort ?? Number.MAX_SAFE_INTEGER);
+        if (cohortDiff !== 0) return cohortDiff;
+      }
+      // Preserve the existing order within each intake, with unknown years last.
       return (a.data.weight || 100) - (b.data.weight || 100);
     });
   

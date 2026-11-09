@@ -23,11 +23,11 @@
     "范昕华"
   ],
   "counts": {
-    "members": 47,
+    "members": 48,
     "publications": 13,
     "news": 3
   },
-  "templateReview": "只导入明确填写的个人资料；剔除空栏目、暂无、照片提示和毕业去向提示。陈冠霖按材料保留本科身份。旧站仅按 people 总览导入成员，论文合作者不计入成员。",
+  "templateReview": "只导入明确填写的个人资料；剔除空栏目、暂无、照片提示和毕业去向提示。陈冠霖按材料保留本科身份。旧站仅按 people 总览导入成员，论文合作者不计入成员。 岳东旭依据新增个人文档导入，不是仅凭论文作者身份新增；文档中标注“例”的职称、荣誉、活动和项目均已剔除。",
   "companySource": "https://www.bridgedp.com/articles/financing",
   "companyCrossReference": "https://lovethinkinghard.github.io/",
   "dates": "未提供的毕业、结业或出站年份不作推断。旧站历史教育经历保留；本次明确离站的记录去掉至今。",
@@ -37,5 +37,104 @@
     "sha256": "895c49d611e3c4ace0e20d637124ea6e20d69898293cd4b0596329575fc02b35",
     "id": "zishan-zhou",
     "review": "Only supplied biography, education, email and original photo imported; research interests taken from the biography. Blank headings and photo/destination prompts omitted. Outstanding Engineers Program remark comes from 434网站修改建议.docx. 周子皓 remains a separate unchanged member."
+  },
+  "newPhDs": [
+    "岳东旭"
+  ],
+  "dongxuYueAddition": {
+    "id": "dongxu-yue",
+    "source": "../info/岳东旭.docx",
+    "sourceSha256": "a16ede5e547287e73fa17cf9ee47434553cf327bc93b7c1e6bdf1e8ac157c8b5",
+    "portrait": {
+      "source": "word/media/image1.jpeg",
+      "destination": "/images/team/dongxu-yue.jpeg",
+      "sha256": "ee74fe6c65026d346d23818d2a8d605d264b3e34304dabb162764242ac190eee",
+      "unmodified": true
+    },
+    "displayLabel": "2025级清华大学联培博士",
+    "supervisionEvidence": "个人简介明确：清华大学指导教师为袁春教授，南科大指导教师为何志海教授。教育经历保留清华大学博士身份，不改为南科大学位。",
+    "sourceReview": "Import the four explicitly provided research interests, two education records, original biography, email, portrait and OmniPortrait citation. Work experience (Chair Professor), honors (Changjiang Scholar / IEEE Fellow), activity (Associate Editor) and SenSE/NSF project are marked 例 and are template examples; omit all of them. Omit photo and graduation-destination prompts. No unprovided bachelor degree, awards or profile links.",
+    "publicationId": "omniportrait-fine-grained-personalized-portrait-synthesis-via-pivotal-optimization",
+    "publicationHandling": "Existing publication, authors, source, PDF and abstract remain unchanged; profile links to the existing bilingual detail pages. Existing dongxu-yue author aliases and RSS now resolve to the documented member.",
+    "currentMembers": 24,
+    "alumni": 24,
+    "totalMembers": 48,
+    "verification": {
+      "checkedOn": "2026-11-09",
+      "timeZone": "America/Los_Angeles",
+      "astroErrors": 0,
+      "astroWarnings": 0,
+      "existingDeprecationHints": 10,
+      "buildPassed": true,
+      "contentVerificationPassed": true,
+      "htmlPages": 946,
+      "validXmlFiles": 472,
+      "previousMembersAndOtherSiteDataUnchanged": true,
+      "originalPortraitSha256Verified": true,
+      "templateExamplesExcluded": true,
+      "authorAndChineseNameFeeds": 6,
+      "browserCases": [
+        {
+          "lang": "zh",
+          "width": 1440,
+          "members": 48,
+          "alumni": 24,
+          "label": "2025 Tsinghua joint PhD",
+          "fourInterests": true,
+          "educationAndSupervisors": true,
+          "originalPhoto": true,
+          "templateExamplesExcluded": true,
+          "publicationLinked": true,
+          "emailRecipientAndClipboard": true,
+          "searchAndAuthorAlias": true,
+          "horizontalOverflow": false
+        },
+        {
+          "lang": "zh",
+          "width": 390,
+          "members": 48,
+          "alumni": 24,
+          "label": "2025 Tsinghua joint PhD",
+          "fourInterests": true,
+          "educationAndSupervisors": true,
+          "originalPhoto": true,
+          "templateExamplesExcluded": true,
+          "publicationLinked": true,
+          "emailRecipientAndClipboard": true,
+          "searchAndAuthorAlias": true,
+          "horizontalOverflow": false
+        },
+        {
+          "lang": "en",
+          "width": 1440,
+          "members": 48,
+          "alumni": 24,
+          "label": "2025 Tsinghua joint PhD",
+          "fourInterests": true,
+          "educationAndSupervisors": true,
+          "originalPhoto": true,
+          "templateExamplesExcluded": true,
+          "publicationLinked": true,
+          "emailRecipientAndClipboard": true,
+          "searchAndAuthorAlias": true,
+          "horizontalOverflow": false
+        },
+        {
+          "lang": "en",
+          "width": 390,
+          "members": 48,
+          "alumni": 24,
+          "label": "2025 Tsinghua joint PhD",
+          "fourInterests": true,
+          "educationAndSupervisors": true,
+          "originalPhoto": true,
+          "templateExamplesExcluded": true,
+          "publicationLinked": true,
+          "emailRecipientAndClipboard": true,
+          "searchAndAuthorAlias": true,
+          "horizontalOverflow": false
+        }
+      ]
+    }
   }
 }
