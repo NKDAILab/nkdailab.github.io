@@ -8,6 +8,7 @@ const t = useTranslations(lang);
 
 import Layout from '../layouts/Layout.astro';
 import { facultyRoleLabels, getCollection } from '../lib/template';
+import { memberProfileSections } from '../lib/member-profile';
 import EmailContact from '../components/EmailContact.astro';
 import { Globe, Twitter, GraduationCap, ArrowLeft, Linkedin, Github, User } from 'lucide-react';
 
@@ -15,6 +16,7 @@ import { Globe, Twitter, GraduationCap, ArrowLeft, Linkedin, Github, User } from
 const member = (await getCollection('team', lang)).find(m => m.id === page.id)!;
 const source = member.source;
 const profile = source.profile[lang];
+const resume = memberProfileSections(profile, lang);
 const destinationLabel = ('destinationLabel' in source.presentation
   ? source.presentation.destinationLabel?.[lang] : undefined) ?? t('member.destination');
 const { name, title, avatar, email, website, linkedin, github, twitter, googleScholar } = member.data;
@@ -94,10 +96,9 @@ const facultyRoles = source.role === 'faculty' ? facultyRoleLabels(source, lang)
       {source.destination[lang] && <p class="text-xl font-semibold text-gray-900 mb-2">{source.destination[lang]}</p>}
       <p class="text-sm text-gray-600">{statusLabel(source.status, lang)}</p>
     </aside>}
-    <div class="prose prose-lg prose-blue max-w-none text-gray-700">
-      <Fragment set:html={profile.html} />
-      {profile.interests.length > 0 && !/研究方向|Research Interests/i.test(profile.html) && <section><h2>{t('member.interests')}</h2><ul>{profile.interests.map(interest => <li>{interest}</li>)}</ul></section>}
-      {profile.education.length > 0 && <section><h2>{t('member.education')}</h2><ul>{profile.education.map(education => <li><strong>{education.course}</strong><br />{education.institution}</li>)}</ul></section>}
+    <div class="prose prose-lg prose-blue max-w-none text-gray-700" data-member-resume>
+      {resume.introduction && <Fragment set:html={resume.introduction} />}
+      {resume.sections.map(section => <section data-profile-section={section.kind}><Fragment set:html={section.html} /></section>)}
     </div>
   </div>
 </Layout>

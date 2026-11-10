@@ -29,6 +29,7 @@
     "preview": "astro preview --host 127.0.0.1",
     "check": "astro check",
     "verify": "node scripts/verify-site.mjs",
+    "test:profiles": "node --experimental-strip-types --test tests/member-profile.test.mjs",
     "astro": "astro"
   },
   "dependencies": {
@@ -38,7 +39,8 @@
     "@astrojs/react": "^4.4.2",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
-    "lucide-react": "^0.555.0"
+    "lucide-react": "^0.555.0",
+    "parse5": "7.3.0"
   },
   "devDependencies": {
     "pagefind": "^1.4.0",
