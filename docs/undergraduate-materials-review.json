@@ -1,0 +1,517 @@
+{
+  "source": "../info/本科生(1).rar",
+  "sourceSha256": "0792da58e27afa80b511f8cfeca0f145c69e57b55ceaf10841b242a490ba0288",
+  "policy": "Only reformat supplied information or complete fragments from other explicit fields in the same document. Preserve Chinese meaning, award level/category/year, activity roles and student status. English is a faithful translation; display names use Pinyin in the same given-name-first format as existing members, as requested by the user on 2026-11-10.",
+  "addedUndergraduates": 4,
+  "totalUndergraduates": 6,
+  "currentMembers": 28,
+  "alumni": 24,
+  "members": 52,
+  "englishContestNameReferences": [
+    {
+      "url": "https://www.mcm.edu.cn/jxie/papers/EIMI2011_Xie.pdf",
+      "use": "Contest English name only; not verification of the individual awards."
+    },
+    {
+      "url": "https://www.fltrp.com/en/business/social-responsibilities/",
+      "use": "FLTRP–ETIC Cup name only; no unsupported contest subtype added."
+    }
+  ],
+  "records": [
+    {
+      "id": "undergrad-12410215",
+      "name": "单国羿",
+      "englishNameProvided": false,
+      "englishNameHandling": "Use Pinyin in given-name-first order at the user’s request; preserve the original Chinese name and source document.",
+      "source": "本科生/12410215单国羿_个人主页_中文版.docx",
+      "sourceSha256": "20fa4601092ff9ec1eac1f69e4c47677f1347f7fd185b2700554874efc3cdc32",
+      "cohort": 2024,
+      "email": "12410215@mail.sustech.edu.cn",
+      "providedParagraphs": [
+        "研究方向",
+        "- 深度学习",
+        "- LLM Agent",
+        "教育经历",
+        "- 专业：信息工程（工学学士）",
+        "学校：南方科技大学",
+        "就读时间：2024—2028年",
+        "邮箱",
+        "12410215@mail.sustech.edu.cn",
+        "个人简介",
+        "单国羿，南方科技大学电子与电气工程系信息工程专业2024级本科生。",
+        "工作经历",
+        "个人荣誉",
+        "* 2025年全国大学生数学建模竞赛广东省三等奖",
+        "* 2026年全国大学生数学建模竞赛广东省二等奖",
+        "个人活动",
+        "项目",
+        "论文",
+        "个人照片一张（生活照或证件照均可）",
+        "11、毕业去向："
+      ],
+      "preservedChineseHonors": [
+        "2025年全国大学生数学建模竞赛广东省三等奖",
+        "2026年全国大学生数学建模竞赛广东省二等奖"
+      ],
+      "preservedChineseActivities": [],
+      "formattingNotes": [
+        "Preserve the supplied 2024–2028 range and current undergraduate status; do not state that the BEng has already been awarded.",
+        "Keep LLM Agent as supplied in the Chinese interests.",
+        "Both modeling awards are Guangdong provincial prizes, not national-level prizes."
+      ],
+      "omitted": "Empty headings and 无/暂无 placeholders for work, activities, projects, papers or destinations; photo-upload and graduation-destination prompts. No example records found in these four documents.",
+      "portrait": {
+        "source": "word/media/image1.jpg",
+        "destination": "/images/team/undergrad-12410215.jpg",
+        "sha256": "948da2f2fbef6936ab7e9d0faa61d4067e458da661e8c03b846a305857732176",
+        "unmodified": true,
+        "cssPosition": "center top"
+      },
+      "englishName": "Guoyi Shan"
+    },
+    {
+      "id": "undergrad-12511648",
+      "name": "张玮祎",
+      "englishNameProvided": false,
+      "englishNameHandling": "Use Pinyin in given-name-first order at the user’s request; preserve the original Chinese name and source document.",
+      "source": "本科生/张玮祎.docx",
+      "sourceSha256": "f6041f1d5b4012b2532387f1b44eccea2c8e0b296f6ceee47cab51217bac14ac",
+      "cohort": 2025,
+      "email": "12511648@mail.sustech.edu.cn",
+      "providedParagraphs": [
+        "1、研究方向",
+        "具身智能",
+        "机器学习",
+        "2、教育经历",
+        "信息工程 / 本科在读，2025–至今\n南方科技大学电子电气工程系",
+        "3、邮箱",
+        "12511648@mail.sustech.edu.cn",
+        "4、个人简介",
+        "2025级电子电气工程系，信息工程本科生",
+        "5、工作经历",
+        "暂无",
+        "6、个人荣誉",
+        "2025-2026优秀学生三等奖学金",
+        "外研社国才杯校赛综合赛项银奖",
+        "2025年广东省大学生棒垒球锦标赛第四名",
+        "7、个人活动",
+        "民乐团古筝声部长",
+        "南科大志愿者联合会部长",
+        "8、项目",
+        "暂无",
+        "9、论文",
+        "暂无",
+        "10、个人照片一张（生活照or证件照均可）",
+        "毕业去向",
+        "暂无"
+      ],
+      "preservedChineseHonors": [
+        "2025-2026优秀学生三等奖学金",
+        "外研社国才杯校赛综合赛项银奖",
+        "2025年广东省大学生棒垒球锦标赛第四名"
+      ],
+      "preservedChineseActivities": [
+        "民乐团古筝声部长",
+        "南科大志愿者联合会部长"
+      ],
+      "formattingNotes": [
+        "Complete the fragmentary biography using only the name from the filename and the university, department, major and intake explicitly provided in the document.",
+        "Retain 校赛 and 综合赛项; do not change a campus-round silver award into a national award or a different contest event.",
+        "Retain 民乐团古筝声部长 exactly in Chinese. Translate the federation role 部长 as department head, not president; no term dates or unspecified department name added."
+      ],
+      "omitted": "Empty headings and 无/暂无 placeholders for work, activities, projects, papers or destinations; photo-upload and graduation-destination prompts. No example records found in these four documents.",
+      "portrait": {
+        "source": "word/media/image1.jpeg",
+        "destination": "/images/team/undergrad-12511648.jpeg",
+        "sha256": "4dba3a64fee8ec2e0130564e965a4c08cb652fa52883f14b4bed6b7831370d16",
+        "unmodified": true,
+        "cssPosition": "center top"
+      },
+      "englishName": "Weiyi Zhang"
+    },
+    {
+      "id": "undergrad-12511644",
+      "name": "张陈亦可",
+      "englishNameProvided": false,
+      "englishNameHandling": "Use Pinyin in given-name-first order at the user’s request; preserve the original Chinese name and source document.",
+      "source": "本科生/张陈亦可-网页个人页模板-1.docx",
+      "sourceSha256": "be9e4ec0519a2b8f85242f971c6405fbfe9ae363e7e13d331c12bf3625cd0c72",
+      "cohort": 2025,
+      "email": "12511644@mail.sustech.edu.cn",
+      "providedParagraphs": [
+        "研究方向",
+        "具身智能",
+        "教育经历",
+        "信息工程 / 本科在读，2025–至今\t南方科技大学电子与电气工程系",
+        "邮箱",
+        "12511644@mail.sustech.edu.cn",
+        "个人简介",
+        "张陈亦可，南方科技大学电子电气工程系信息工程专业2025级本科生。",
+        "工作经历",
+        "个人荣誉",
+        "南方科技大学2025-2026年度优秀学生一等奖学金",
+        "个人活动",
+        "项目",
+        "论文",
+        "个人照片一张（生活照or证件照均可）",
+        "11、毕业去向"
+      ],
+      "preservedChineseHonors": [
+        "南方科技大学2025-2026年度优秀学生一等奖学金"
+      ],
+      "preservedChineseActivities": [],
+      "formattingNotes": [
+        "Preserve the four-character Chinese name; display its Pinyin as Chenyike Zhang in the existing given-name-first style.",
+        "Split the education paragraph at its tab into course and institution; retain both values."
+      ],
+      "omitted": "Empty headings and 无/暂无 placeholders for work, activities, projects, papers or destinations; photo-upload and graduation-destination prompts. No example records found in these four documents.",
+      "portrait": {
+        "source": "word/media/image1.jpeg",
+        "destination": "/images/team/undergrad-12511644.jpeg",
+        "sha256": "8e2833235a6024ba04b1bd6f6e1052a85d01334715d87b6647307168ac7316bb",
+        "unmodified": true,
+        "cssPosition": "center 60%"
+      },
+      "englishName": "Chenyike Zhang"
+    },
+    {
+      "id": "undergrad-12512431",
+      "name": "陶柏睿",
+      "englishNameProvided": false,
+      "englishNameHandling": "Use Pinyin in given-name-first order at the user’s request; preserve the original Chinese name and source document.",
+      "source": "本科生/陶柏睿网页介绍.docx",
+      "sourceSha256": "e47b4945fa0ef72587c3c27e8cad60c0a4494384dd3e0b41fa600f2540290bed",
+      "cohort": 2025,
+      "email": "12512431@mail.sustech.edu.cn",
+      "providedParagraphs": [
+        "研究方向",
+        "具身智能",
+        "计算机视觉",
+        "教育经历",
+        "南方科技大学25级本科生",
+        "邮箱",
+        "12512431@mail.sustech.edu.cn",
+        "个人简介",
+        "陶柏睿，南方科技大学人工智能系本科在读学生。",
+        "工作经历",
+        "无",
+        "个人荣誉",
+        "南方科技大学2026年度优秀学生二等奖学金",
+        "个人活动",
+        "无",
+        "项目",
+        "无",
+        "论文",
+        "无",
+        "个人照片一张（生活照or证件照均可）",
+        "11、毕业去向 无"
+      ],
+      "preservedChineseHonors": [
+        "南方科技大学2026年度优秀学生二等奖学金"
+      ],
+      "preservedChineseActivities": [],
+      "formattingNotes": [
+        "Expand 25级 to 2025 intake using the explicit contemporary undergraduate context; keep the Department of Artificial Intelligence supplied in the biography.",
+        "No major, degree subject or graduation year is invented. Preserve the award year 2026 rather than changing it into an academic-year range."
+      ],
+      "omitted": "Empty headings and 无/暂无 placeholders for work, activities, projects, papers or destinations; photo-upload and graduation-destination prompts. No example records found in these four documents.",
+      "portrait": {
+        "source": "word/media/image1.jpeg",
+        "destination": "/images/team/undergrad-12512431.jpeg",
+        "sha256": "5ab01ab36ac5b3cbbdff9432f7bf45d97a12f975a0f7b0ce38cbadc681713313",
+        "unmodified": true,
+        "cssPosition": "center 60%"
+      },
+      "englishName": "Bairui Tao"
+    }
+  ],
+  "verification": {
+    "checkedOn": "2026-11-09",
+    "timeZone": "America/Los_Angeles",
+    "astroErrors": 0,
+    "astroWarnings": 0,
+    "existingDeprecationHints": 10,
+    "buildPassed": true,
+    "contentVerificationPassed": true,
+    "htmlPages": 982,
+    "validXmlFiles": 496,
+    "newAuthorFeeds": 24,
+    "browserCases": [
+      {
+        "id": "undergrad-12410215",
+        "name": "单国羿",
+        "lang": "zh",
+        "width": 1440,
+        "grade": 2024,
+        "sourceHonorsAndActivities": true,
+        "educationPreserved": true,
+        "originalPortrait": true,
+        "correctEmail": true,
+        "noInventedLinks": true,
+        "noOverflow": true
+      },
+      {
+        "id": "undergrad-12511648",
+        "name": "张玮祎",
+        "lang": "zh",
+        "width": 1440,
+        "grade": 2025,
+        "sourceHonorsAndActivities": true,
+        "educationPreserved": true,
+        "originalPortrait": true,
+        "correctEmail": true,
+        "noInventedLinks": true,
+        "noOverflow": true
+      },
+      {
+        "id": "undergrad-12511644",
+        "name": "张陈亦可",
+        "lang": "zh",
+        "width": 1440,
+        "grade": 2025,
+        "sourceHonorsAndActivities": true,
+        "educationPreserved": true,
+        "originalPortrait": true,
+        "correctEmail": true,
+        "noInventedLinks": true,
+        "noOverflow": true
+      },
+      {
+        "id": "undergrad-12512431",
+        "name": "陶柏睿",
+        "lang": "zh",
+        "width": 1440,
+        "grade": 2025,
+        "sourceHonorsAndActivities": true,
+        "educationPreserved": true,
+        "originalPortrait": true,
+        "correctEmail": true,
+        "noInventedLinks": true,
+        "noOverflow": true
+      },
+      {
+        "id": "undergrad-12410215",
+        "name": "单国羿",
+        "lang": "zh",
+        "width": 390,
+        "grade": 2024,
+        "sourceHonorsAndActivities": true,
+        "educationPreserved": true,
+        "originalPortrait": true,
+        "correctEmail": true,
+        "noInventedLinks": true,
+        "noOverflow": true
+      },
+      {
+        "id": "undergrad-12511648",
+        "name": "张玮祎",
+        "lang": "zh",
+        "width": 390,
+        "grade": 2025,
+        "sourceHonorsAndActivities": true,
+        "educationPreserved": true,
+        "originalPortrait": true,
+        "correctEmail": true,
+        "noInventedLinks": true,
+        "noOverflow": true
+      },
+      {
+        "id": "undergrad-12511644",
+        "name": "张陈亦可",
+        "lang": "zh",
+        "width": 390,
+        "grade": 2025,
+        "sourceHonorsAndActivities": true,
+        "educationPreserved": true,
+        "originalPortrait": true,
+        "correctEmail": true,
+        "noInventedLinks": true,
+        "noOverflow": true
+      },
+      {
+        "id": "undergrad-12512431",
+        "name": "陶柏睿",
+        "lang": "zh",
+        "width": 390,
+        "grade": 2025,
+        "sourceHonorsAndActivities": true,
+        "educationPreserved": true,
+        "originalPortrait": true,
+        "correctEmail": true,
+        "noInventedLinks": true,
+        "noOverflow": true
+      },
+      {
+        "id": "undergrad-12410215",
+        "name": "单国羿",
+        "lang": "en",
+        "width": 1440,
+        "grade": 2024,
+        "sourceHonorsAndActivities": true,
+        "educationPreserved": true,
+        "originalPortrait": true,
+        "correctEmail": true,
+        "noInventedLinks": true,
+        "noOverflow": true
+      },
+      {
+        "id": "undergrad-12511648",
+        "name": "张玮祎",
+        "lang": "en",
+        "width": 1440,
+        "grade": 2025,
+        "sourceHonorsAndActivities": true,
+        "educationPreserved": true,
+        "originalPortrait": true,
+        "correctEmail": true,
+        "noInventedLinks": true,
+        "noOverflow": true
+      },
+      {
+        "id": "undergrad-12511644",
+        "name": "张陈亦可",
+        "lang": "en",
+        "width": 1440,
+        "grade": 2025,
+        "sourceHonorsAndActivities": true,
+        "educationPreserved": true,
+        "originalPortrait": true,
+        "correctEmail": true,
+        "noInventedLinks": true,
+        "noOverflow": true
+      },
+      {
+        "id": "undergrad-12512431",
+        "name": "陶柏睿",
+        "lang": "en",
+        "width": 1440,
+        "grade": 2025,
+        "sourceHonorsAndActivities": true,
+        "educationPreserved": true,
+        "originalPortrait": true,
+        "correctEmail": true,
+        "noInventedLinks": true,
+        "noOverflow": true
+      },
+      {
+        "id": "undergrad-12410215",
+        "name": "单国羿",
+        "lang": "en",
+        "width": 390,
+        "grade": 2024,
+        "sourceHonorsAndActivities": true,
+        "educationPreserved": true,
+        "originalPortrait": true,
+        "correctEmail": true,
+        "noInventedLinks": true,
+        "noOverflow": true
+      },
+      {
+        "id": "undergrad-12511648",
+        "name": "张玮祎",
+        "lang": "en",
+        "width": 390,
+        "grade": 2025,
+        "sourceHonorsAndActivities": true,
+        "educationPreserved": true,
+        "originalPortrait": true,
+        "correctEmail": true,
+        "noInventedLinks": true,
+        "noOverflow": true
+      },
+      {
+        "id": "undergrad-12511644",
+        "name": "张陈亦可",
+        "lang": "en",
+        "width": 390,
+        "grade": 2025,
+        "sourceHonorsAndActivities": true,
+        "educationPreserved": true,
+        "originalPortrait": true,
+        "correctEmail": true,
+        "noInventedLinks": true,
+        "noOverflow": true
+      },
+      {
+        "id": "undergrad-12512431",
+        "name": "陶柏睿",
+        "lang": "en",
+        "width": 390,
+        "grade": 2025,
+        "sourceHonorsAndActivities": true,
+        "educationPreserved": true,
+        "originalPortrait": true,
+        "correctEmail": true,
+        "noInventedLinks": true,
+        "noOverflow": true
+      }
+    ],
+    "newProfiles": 4,
+    "totalUndergraduates": 6,
+    "allOriginal48MembersPreserved": true,
+    "allOtherSiteDataPreserved": true,
+    "originalPhotoHashesVerified": 4,
+    "sourceHonorsPreserved": 7,
+    "sourceActivityRolesPreserved": 2
+  },
+  "pinyinDisplayUpdate": {
+    "requestedOn": "2026-11-10",
+    "timeZone": "America/Los_Angeles",
+    "basis": "User requested Pinyin names consistent with the preceding members. Transliteration display, not a claim of author-supplied English names.",
+    "names": {
+      "undergrad-12410215": "Guoyi Shan",
+      "undergrad-12511648": "Weiyi Zhang",
+      "undergrad-12511644": "Chenyike Zhang",
+      "undergrad-12512431": "Bairui Tao"
+    },
+    "verification": {
+      "checkedOn": "2026-11-10",
+      "timeZone": "America/Los_Angeles",
+      "astroErrors": 0,
+      "astroWarnings": 0,
+      "buildPassed": true,
+      "contentVerificationPassed": true,
+      "englishMemberCards": 4,
+      "englishMemberProfiles": 4,
+      "updatedAuthorFeeds": 24,
+      "validXmlFiles": 496,
+      "pinyinSearchQueries": 4,
+      "mobileOverflow": false,
+      "chineseProfilesAndOtherFieldsPreserved": true,
+      "browserCases": [
+        {
+          "name": "Guoyi Shan",
+          "id": "undergrad-12410215",
+          "englishCard": true,
+          "englishProfile": true,
+          "mobileOverflow": false,
+          "search": true
+        },
+        {
+          "name": "Weiyi Zhang",
+          "id": "undergrad-12511648",
+          "englishCard": true,
+          "englishProfile": true,
+          "mobileOverflow": false,
+          "search": true
+        },
+        {
+          "name": "Chenyike Zhang",
+          "id": "undergrad-12511644",
+          "englishCard": true,
+          "englishProfile": true,
+          "mobileOverflow": false,
+          "search": true
+        },
+        {
+          "name": "Bairui Tao",
+          "id": "undergrad-12512431",
+          "englishCard": true,
+          "englishProfile": true,
+          "mobileOverflow": false,
+          "search": true
+        }
+      ]
+    }
+  }
+}
