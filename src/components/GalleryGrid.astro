@@ -9,7 +9,6 @@ const photos = limit === undefined ? allPhotos : allPhotos.slice(0, limit);
 const batchSize = 6;
 const paginated = photos.length > batchSize;
 const gridId = `gallery-photos-${lang}`;
-const statusTemplate = lang === 'zh' ? '已显示 {shown} / {total} 张照片' : 'Showing {shown} of {total} photos';
 ---
 
 <div data-gallery-grid data-batch-size={batchSize}>
@@ -24,7 +23,6 @@ const statusTemplate = lang === 'zh' ? '已显示 {shown} / {total} 张照片' :
   </div>
   {paginated && <>
     <div class="h-px" data-gallery-sentinel aria-hidden="true" hidden></div>
-    <p class="mt-8 text-center text-sm text-gray-500" aria-live="polite" aria-atomic="true" data-gallery-status data-status-template={statusTemplate} hidden>{statusTemplate.replace('{shown}', String(batchSize)).replace('{total}', String(photos.length))}</p>
     <noscript>
       <div class="mt-8">
         <h2 class="text-lg font-semibold mb-4">{lang === 'zh' ? '更多照片' : 'More photos'}</h2>
@@ -70,10 +68,8 @@ const statusTemplate = lang === 'zh' ? '已显示 {shown} / {total} 张照片' :
     document.fonts?.ready.then(scheduleLayout);
 
     const sentinel = gallery.querySelector<HTMLElement>('[data-gallery-sentinel]');
-    const status = gallery.querySelector<HTMLElement>('[data-gallery-status]');
-    if (!sentinel || !status) return;
+    if (!sentinel) return;
     const batchSize = Number(gallery.dataset.batchSize);
-    const statusTemplate = status.dataset.statusTemplate!;
     const preloadDistance = 400;
     let loading = false;
     let observer: IntersectionObserver | undefined;
@@ -93,7 +89,6 @@ const statusTemplate = lang === 'zh' ? '已显示 {shown} / {total} 张照片' :
       });
       layout();
       const shown = photos.filter(photo => !photo.hidden).length;
-      status.textContent = statusTemplate.replace('{shown}', String(shown)).replace('{total}', String(photos.length));
       if (shown === photos.length) {
         observer?.disconnect();
         sentinel.hidden = true;
@@ -108,7 +103,6 @@ const statusTemplate = lang === 'zh' ? '已显示 {shown} / {total} 张照片' :
     };
     const checkPosition = () => { if (nearBottom()) loadNext(); };
     sentinel.hidden = false;
-    status.hidden = false;
     if (typeof IntersectionObserver !== 'undefined') {
       observer = new IntersectionObserver(entries => {
         if (entries.some(entry => entry.isIntersecting)) loadNext();
