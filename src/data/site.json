@@ -1070,8 +1070,8 @@
       "previousRole": "master",
       "status": "course-completed",
       "destination": {
-        "zh": "创业",
-        "en": "Entrepreneurship"
+        "zh": "桥介数物（深圳）科技有限公司",
+        "en": "BridgeDP · 桥介数物（深圳）科技有限公司"
       },
       "email": "12132284@sustech.edu.cn",
       "links": [],
@@ -1122,6 +1122,10 @@
         "titles": {
           "zh": [],
           "en": []
+        },
+        "destinationLabel": {
+          "zh": "创业",
+          "en": "Entrepreneurship"
         }
       }
     },
