@@ -13,7 +13,8 @@
     "单国羿",
     "张玮祎",
     "张陈亦可",
-    "陶柏睿"
+    "陶柏睿",
+    "石毅东"
   ],
   "updatedAlumni": [
     "刘启凡",
@@ -27,7 +28,7 @@
     "范昕华"
   ],
   "counts": {
-    "members": 52,
+    "members": 53,
     "publications": 13,
     "news": 3
   },
@@ -278,5 +279,14 @@
       "undergrad-12511644": "Chenyike Zhang",
       "undergrad-12512431": "Bairui Tao"
     }
+  },
+  "yidongShiAddition": {
+    "id": "yidong-shi",
+    "source": "../info/石毅东网页(1).docx",
+    "sourceSha256": "eb2478185f56f7f0da6377205672dc90078c5c6a9f2763bd078bf30e56712ef9",
+    "report": "docs/yidong-shi-materials-review.json",
+    "role": "undergraduate",
+    "cohort": 2023,
+    "review": "Use the supplied English name, biography, three research interests, education, email, scholarship and original embedded portrait. Translate faithfully into Chinese and format consistently with the other member profiles. Preserve current undergraduate status and the supplied dates; do not infer an engineering major or graduation year."
   }
 }

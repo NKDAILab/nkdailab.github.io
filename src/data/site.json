@@ -3679,6 +3679,74 @@
         },
         "avatarPosition": "center 60%"
       }
+    },
+    {
+      "id": "yidong-shi",
+      "name": {
+        "zh": "石毅东",
+        "en": "Yidong Shi"
+      },
+      "role": "undergraduate",
+      "email": "12313636@mail.sustech.edu.cn",
+      "links": [],
+      "profile": {
+        "zh": {
+          "bio": "石毅东，南方科技大学电子与电气工程系本科生。",
+          "interests": [
+            "3D计算机视觉",
+            "生成式建模",
+            "空间智能"
+          ],
+          "education": [
+            {
+              "course": "本科在读，2023–至今",
+              "institution": "南方科技大学电子与电气工程系"
+            }
+          ],
+          "honors": [
+            "南方科技大学2023–2024年度优秀学生三等奖学金"
+          ],
+          "html": "<p>石毅东，南方科技大学电子与电气工程系本科生。</p>"
+        },
+        "en": {
+          "bio": "Yidong Shi is an undergraduate student in the Department of Electronic and Electrical Engineering at Southern University of Science and Technology.",
+          "interests": [
+            "3D computer vision",
+            "generative modeling",
+            "spatial intelligence"
+          ],
+          "education": [
+            {
+              "course": "Bachelor's studies, Department of Electronic and Electrical Engineering, 2023–present",
+              "institution": "Southern University of Science and Technology"
+            }
+          ],
+          "honors": [
+            "Third-Class Outstanding Student Scholarship, Southern University of Science and Technology (2023–2024)"
+          ],
+          "html": "<p>Yidong Shi is an undergraduate student in the Department of Electronic and Electrical Engineering at Southern University of Science and Technology.</p>"
+        }
+      },
+      "status": "active",
+      "previousRole": "",
+      "destination": {
+        "zh": "",
+        "en": ""
+      },
+      "isNew": true,
+      "avatar": "/images/team/yidong-shi.jpeg",
+      "presentation": {
+        "cohort": 2023,
+        "note": {
+          "zh": "",
+          "en": ""
+        },
+        "titles": {
+          "zh": [],
+          "en": []
+        },
+        "avatarPosition": "center bottom"
+      }
     }
   ],
   "publications": [

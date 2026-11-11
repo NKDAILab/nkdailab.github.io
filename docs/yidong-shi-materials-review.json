@@ -1,0 +1,120 @@
+{
+  "id": "yidong-shi",
+  "name": {
+    "zh": "石毅东",
+    "en": "Yidong Shi"
+  },
+  "source": "../info/石毅东网页(1).docx",
+  "sourceSha256": "eb2478185f56f7f0da6377205672dc90078c5c6a9f2763bd078bf30e56712ef9",
+  "checkedOn": "2026-11-11",
+  "timeZone": "America/Los_Angeles",
+  "policy": "Use the supplied English name, biography, three research interests, education, email, scholarship and original embedded portrait. Translate faithfully into Chinese and format consistently with the other member profiles. Preserve current undergraduate status and the supplied dates; do not infer an engineering major or graduation year.",
+  "providedParagraphs": [
+    "研究方向",
+    "  - 3D computer vision",
+    "  - generative modeling",
+    "  - spatial intelligence",
+    "教育经历",
+    "- Bachelor's studies, Department of Electronic and Electrical Engineering, 2023–present",
+    "Southern University of Science and Technology",
+    "邮箱",
+    "12313636@mail.sustech.edu.cn",
+    "个人简介",
+    "Yidong Shi is an undergraduate student in the Department of Electronic and Electrical Engineering at Southern University of Science and Technology.",
+    "个人荣誉",
+    "Third-Class Outstanding Student Scholarship, Southern University of Science and Technology (2023–2024)",
+    "个人照片一张（生活照or证件照均可）"
+  ],
+  "englishNameProvided": true,
+  "role": "undergraduate",
+  "cohort": 2023,
+  "email": "12313636@mail.sustech.edu.cn",
+  "templateReview": {
+    "examplesFound": false,
+    "omitted": [
+      "个人照片一张（生活照or证件照均可）"
+    ],
+    "unprovidedSections": [
+      "工作经历",
+      "个人活动",
+      "项目",
+      "论文",
+      "毕业去向"
+    ],
+    "handling": "The photo-upload instruction is not biography content. No marked example records were found. Missing sections stay hidden; no employment, activities, projects, publications, destination, homepage or Scholar link is invented."
+  },
+  "portrait": {
+    "source": "word/media/image1.jpeg",
+    "destination": "/images/team/yidong-shi.jpeg",
+    "sha256": "9fa773fe49c89ed98204456885842abd2de75a1bcbc1ffb2326adc0e16a9c89b",
+    "bytes": 307593,
+    "width": 1280,
+    "height": 1706,
+    "unmodified": true,
+    "decodedSuccessfully": true,
+    "cssPosition": "center bottom",
+    "displayHandling": "Retain the original JPEG bytes. Use the existing square cover frame with a bottom object position to reduce empty sky and keep the face visible; no raster crop or recompression."
+  },
+  "currentCounts": {
+    "members": 53,
+    "currentMembers": 29,
+    "alumni": 24,
+    "undergraduates": 7
+  },
+  "verification": {
+    "checkedOn": "2026-11-11",
+    "timeZone": "America/Los_Angeles",
+    "astroErrors": 0,
+    "astroWarnings": 0,
+    "existingDeprecationHints": 10,
+    "profileRegressionTestsPassed": 110,
+    "buildPassed": true,
+    "siteVerificationPassed": true,
+    "method": "Source comparison, generated HTML structure checks, original-image SHA-256 comparison, Pagefind fragment inspection and XML parsing.",
+    "validXmlFiles": 502,
+    "newAuthorFeedsVerified": 6,
+    "htmlPages": 991,
+    "renderedCases": [
+      {
+        "lang": "zh",
+        "cohort": 2023,
+        "role": "undergraduate",
+        "undergraduates": 7,
+        "cohortOrderVerified": true,
+        "sections": [
+          "education",
+          "interests",
+          "honors"
+        ],
+        "originalPhotoAndPosition": true,
+        "originalInterestsAndHonors": true,
+        "emailRecipientVerified": true,
+        "clickablePhotoAndName": true,
+        "authorAliases": true
+      },
+      {
+        "lang": "en",
+        "cohort": 2023,
+        "role": "undergraduate",
+        "undergraduates": 7,
+        "cohortOrderVerified": true,
+        "sections": [
+          "education",
+          "interests",
+          "honors"
+        ],
+        "originalPhotoAndPosition": true,
+        "originalInterestsAndHonors": true,
+        "emailRecipientVerified": true,
+        "clickablePhotoAndName": true,
+        "authorAliases": true
+      }
+    ],
+    "pagefindFragments": [
+      "/en/team/yidong-shi/",
+      "/team/yidong-shi/"
+    ],
+    "originalPortraitHashVerified": true,
+    "all52ExistingMembersAndOtherSiteDataPreserved": true
+  }
+}

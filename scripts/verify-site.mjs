@@ -14,7 +14,7 @@ const check = (test, message) => { if (!test) issues.push(message); };
 const active = data.members.filter(m => m.role !== 'alumni');
 const alumni = data.members.filter(m => m.role === 'alumni');
 
-check(data.members.length === 52, 'Expected the 52 members with supplied profiles');
+check(data.members.length === 53, 'Expected the 53 members with supplied profiles');
 check(new Set(data.members.map(m => m.id)).size === data.members.length, 'Duplicate member IDs');
 check(new Set(data.members.map(m => m.name.zh)).size === data.members.length, 'Duplicate member names');
 check(data.news.length === 3, 'Original news articles were lost');
@@ -41,7 +41,7 @@ for (const paper of data.publications) {
     check(![...url.searchParams.keys()].some(key => /^(utm_|fbclid$|gclid$|dclid$|msclkid$|mc_cid$|mc_eid$|igshid$|_ga$|_gl$|spm$|si$|feature$|ref$|referrer$|via$)/i.test(key)), `Tracking parameter in ${paper.title}: ${link.url}`);
   }
 }
-check(active.length === 28 && alumni.length === 24, 'Incorrect current/alumni grouping');
+check(active.length === 29 && alumni.length === 24, 'Incorrect current/alumni grouping');
 check(active.find(m => m.id === 'zihao-zhou')?.name.zh === '周子皓', '周子皓 must not be renamed to 周子善');
 const certificatePatents = materialsReview.patentReview.patents.filter(p => p.source.sheet === 'NKD' && p.certificate);
 check(data.patents.length === certificatePatents.length, 'Expected only NKD patents with supplied certificates');
@@ -63,6 +63,8 @@ for (const name of ['孙杨洋', '练家琪', '吕子轩', '裘成虎', '黄子�
   check(m?.role === 'master' && m?.isNew, `${name}: missing 2026 master's student`);
 }
 check(active.find(m => m.name.zh === '陈冠霖')?.role === 'undergraduate', '陈冠霖 must remain an undergraduate');
+const yidongShi = active.find(m => m.id === 'yidong-shi');
+check(yidongShi?.role === 'undergraduate' && yidongShi?.presentation.cohort === 2023, '石毅东 must be a 2023-intake undergraduate');
 check(alumni.find(m => m.name.zh === '尚阳星')?.status === 'course-completed', 'Do not describe 尚阳星 as having graduated');
 
 async function walk(dir) {
@@ -153,6 +155,7 @@ for (const patent of certificatePatents) {
 check(!await exists(resolve(dist, 'docs/materials-update-review.json')), 'Internal review must not be published');
 check(!await exists(resolve(dist, 'docs/gallery-import-review.json')), 'Gallery provenance must remain internal');
 check(!await exists(resolve(dist, 'docs/undergraduate-materials-review.json')), 'Undergraduate source review must remain internal');
+check(!await exists(resolve(dist, 'docs/yidong-shi-materials-review.json')), 'Yidong Shi source review must remain internal');
 for (const photo of galleryReview.records) {
   const entry = data.gallery.find(p => p.id === photo.id);
   check(entry?.original === photo.destination && entry?.image === photo.destination, `Supplied album photo missing or replaced: ${photo.source}`);
