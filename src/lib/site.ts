@@ -44,7 +44,7 @@ export const displayName = (m: Member, lang: Lang) => m.name[lang];
 export const groups = ['faculty', 'postdoc', 'phd', 'master', 'undergraduate', 'visitor'];
 export const formatDate = (date: string, lang: Lang) => new Date(date + 'T12:00:00Z').toLocaleDateString(lang === 'zh' ? 'zh-CN' : 'en-GB', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' });
 
-export type PageKind = 'home' | 'research' | 'research-detail' | 'team' | 'publications' | 'achievements' | 'activities' | 'news' | 'join' | 'search' | 'gallery' | 'member' | 'paper' | 'article' | 'coauthor' | 'redirect';
+export type PageKind = 'home' | 'research' | 'research-detail' | 'team' | 'publications' | 'achievements' | 'activities' | 'news' | 'join' | 'phd-admissions' | 'search' | 'gallery' | 'member' | 'paper' | 'article' | 'coauthor' | 'redirect';
 export interface PageRoute { route?: string; kind: PageKind; lang: Lang; id?: string; target?: string; }
 export function pageRoutes(): PageRoute[] {
   const routes = new Map<string, PageRoute>();
@@ -54,6 +54,7 @@ export function pageRoutes(): PageRoute[] {
     for (const kind of ['home', 'research', 'team', 'publications', 'achievements', 'activities', 'news', 'join', 'search', 'gallery'] as const) {
       add({ route: (prefix + (kind === 'home' ? '' : kind)).replace(/\/$/, '') || undefined, kind, lang });
     }
+    add({ route: prefix + 'join/phd', kind: 'phd-admissions', lang });
     ['areas', 'group', 'results'].forEach(id => add({ route: prefix + 'research/' + id, kind: 'research-detail', lang, id }));
     members.forEach(m => add({ route: prefix + 'team/' + m.id, kind: 'member', lang, id: m.id }));
     publications.forEach(p => add({ route: prefix + 'publications/' + p.id, kind: 'paper', lang, id: p.id }));

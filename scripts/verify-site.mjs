@@ -9,8 +9,15 @@ const updates = JSON.parse(await readFile(resolve(root, 'src/data/alumni-updates
 const publicationReview = JSON.parse(await readFile(resolve(root, 'docs/publication-review.json'), 'utf8'));
 const materialsReview = JSON.parse(await readFile(resolve(root, 'docs/materials-update-review.json'), 'utf8'));
 const galleryReview = JSON.parse(await readFile(resolve(root, 'docs/gallery-import-review.json'), 'utf8'));
+const phdPrograms = JSON.parse(await readFile(resolve(root, 'src/data/phd-admissions.json'), 'utf8'));
 const issues = [];
 const check = (test, message) => { if (!test) issues.push(message); };
+check(phdPrograms.length === 2 && phdPrograms[0]?.id === 'regular' && phdPrograms[1]?.id === 'fast-track', 'Expected regular and fast-track PhD admissions');
+for (const program of phdPrograms) {
+  const url = new URL(program.sourceUrl);
+  check(url.hostname === 'mp.weixin.qq.com' && !url.search, `Admissions notice must retain its clean WeChat link: ${program.id}`);
+  if (!program.longTerm) check(program.deadline.zh && program.deadline.en && Number.isFinite(Date.parse(program.deadline.dateTime)), 'Regular PhD admissions must have a bilingual deadline and machine-readable date');
+}
 const active = data.members.filter(m => m.role !== 'alumni');
 const alumni = data.members.filter(m => m.role === 'alumni');
 
@@ -104,6 +111,19 @@ for (const [file, source] of html) {
 }
 for (const lang of ['zh', 'en']) {
   const prefix = lang === 'en' ? 'en/' : '';
+  const join = html.get(resolve(dist, prefix + 'join/index.html')) || '';
+  const phd = html.get(resolve(dist, prefix + 'join/phd/index.html')) || '';
+  check(join.includes(`href="/${prefix}join/phd/"`) && join.includes('data-phd-admissions-link'), `${lang}: missing clickable PhD admissions card`);
+  check((join.match(/<a\b[^>]*data-send-email-link/g) || []).length === 1, `${lang}: Join Us must retain one email button`);
+  check(!phd.includes(`href="/${prefix}join/#how-to-apply"`) && !/申请材料与联系方式|Application materials and contact/.test(phd), `${lang}: removed PhD application/contact entry must stay hidden`);
+  for (const program of phdPrograms) {
+    check(join.includes(program.title[lang]) && phd.includes(program.title[lang]), `${lang}: missing ${program.id} admissions introduction`);
+    const source = phd.match(new RegExp(`<a\\b[^>]*href="([^"]+)"[^>]*data-phd-admissions-source="${program.id}"[^>]*>`));
+    check(source?.[1] === program.sourceUrl, `${lang}: incorrect ${program.id} admissions source`);
+    const status = program.longTerm ? (lang === 'zh' ? '长期有效' : 'Ongoing admissions')
+      : program.deadline[lang] || (lang === 'zh' ? '截止日期见招生通知' : 'See notice for deadline');
+    check(join.includes(status) && phd.includes(status), `${lang}: inconsistent ${program.id} admissions deadline/status`);
+  }
   const people = html.get(resolve(dist, prefix + 'team/index.html')) || '';
   const alumniSection = people.match(/<section\b[^>]*id="alumni"[^>]*>([\s\S]*?)<\/section>/)?.[1] || '';
   check(people.includes(`lang="${lang === 'zh' ? 'zh-CN' : 'en'}"`), `${lang}: incorrect HTML language`);
@@ -156,6 +176,7 @@ check(!await exists(resolve(dist, 'docs/materials-update-review.json')), 'Intern
 check(!await exists(resolve(dist, 'docs/gallery-import-review.json')), 'Gallery provenance must remain internal');
 check(!await exists(resolve(dist, 'docs/undergraduate-materials-review.json')), 'Undergraduate source review must remain internal');
 check(!await exists(resolve(dist, 'docs/yidong-shi-materials-review.json')), 'Yidong Shi source review must remain internal');
+check(!await exists(resolve(dist, 'docs/phd-admissions-review.json')), 'PhD admissions provenance must remain internal');
 for (const photo of galleryReview.records) {
   const entry = data.gallery.find(p => p.id === photo.id);
   check(entry?.original === photo.destination && entry?.image === photo.destination, `Supplied album photo missing or replaced: ${photo.source}`);

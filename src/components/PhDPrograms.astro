@@ -1,0 +1,35 @@
+---
+import { ArrowUpRight } from 'lucide-react';
+import programs from '../data/phd-admissions.json';
+import { useTranslations } from '../i18n/ui';
+import type { Lang } from '../lib/site';
+
+interface Props { lang: Lang; compact?: boolean; }
+const { lang, compact = false } = Astro.props;
+const t = useTranslations(lang);
+const entries = programs.map(program => ({
+  ...program,
+  name: program.title[lang],
+  description: program.description[lang],
+  status: program.longTerm ? t('join.longTerm')
+    : program.deadline[lang] || t('join.deadlineNotice'),
+}));
+---
+
+{compact ? <ul class="space-y-2 text-sm" data-phd-programs-summary>
+  {entries.map(program => <li class="flex flex-wrap items-baseline gap-x-2 gap-y-1" data-phd-program-summary={program.id}>
+    <span class="font-medium text-gray-900">{program.name}</span>
+    <span class="text-gray-600">{program.status}</span>
+  </li>)}
+</ul> : <div class="grid gap-6 md:grid-cols-2">
+  {entries.map(program => <section id={program.id} class="flex flex-col bg-white p-6 sm:p-8 rounded-2xl border border-gray-100 shadow-sm" data-phd-program={program.id}>
+    <h2 class="text-2xl font-bold text-gray-900 mb-3">{program.name}</h2>
+    <p class="w-fit max-w-full rounded-xl px-3 py-2 text-sm font-medium mb-5 bg-blue-50 text-blue-700" data-phd-program-status>
+      {program.deadline.dateTime && !program.longTerm ? <time datetime={program.deadline.dateTime}>{program.status}</time> : program.status}
+    </p>
+    {program.description && <p class="text-gray-600 leading-relaxed mb-6">{program.description}</p>}
+    <a href={program.sourceUrl} target="_blank" rel="noopener noreferrer" class="mt-auto inline-flex w-fit items-center gap-1 text-blue-600 hover:text-blue-700 hover:underline" aria-label={`${program.name}: ${t('join.admissionsNotice')}`} data-phd-admissions-source={program.id}>
+      {t('join.admissionsNotice')} <ArrowUpRight className="w-4 h-4 shrink-0" />
+    </a>
+  </section>)}
+</div>}

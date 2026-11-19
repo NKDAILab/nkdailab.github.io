@@ -1,0 +1,25 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PhDPrograms from '../components/PhDPrograms.astro';
+import { ArrowLeft } from 'lucide-react';
+import { useTranslations } from '../i18n/ui';
+import { localPath, type PageRoute } from '../lib/site';
+
+const { page } = Astro.props as { page: PageRoute };
+const { lang } = page;
+const path = (page.route || '').replace(/^en(?:\/|$)/, '');
+const t = useTranslations(lang);
+---
+
+<Layout title={t('join.phdAdmissions')} lang={lang} path={path} description={t('join.phdAdmissionsIntro')}>
+  <article class="max-w-4xl mx-auto px-4 py-12 sm:py-20">
+    <a href={localPath(lang, 'join')} class="inline-flex items-center gap-1 text-sm text-gray-500 hover:text-blue-600 mb-8 transition-colors">
+      <ArrowLeft className="w-4 h-4" /> {t('join.backToJoin')}
+    </a>
+    <header class="mb-10">
+      <h1 class="text-4xl font-bold text-gray-900 mb-4">{t('join.phdAdmissions')}</h1>
+      <p class="text-lg text-gray-600 leading-relaxed">{t('join.phdAdmissionsIntro')}</p>
+    </header>
+    <PhDPrograms lang={lang} />
+  </article>
+</Layout>

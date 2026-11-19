@@ -1,0 +1,28 @@
+[
+  {
+    "id": "regular",
+    "title": { "zh": "2027级博士研究生", "en": "2027 PhD Admissions" },
+    "description": {
+      "zh": "请在报名截止日期前，按招生通知要求提交申请。具体报考条件、申请材料和考核安排请查看招生通知。",
+      "en": "Submit your application before the deadline specified in the admissions notice. See the admissions notice for eligibility requirements, application materials, and assessment arrangements."
+    },
+    "longTerm": false,
+    "deadline": {
+      "zh": "北京时间2026年12月2日00:00",
+      "en": "Beijing time (UTC+8): 2 December 2026, 00:00",
+      "dateTime": "2026-12-02T00:00:00+08:00"
+    },
+    "sourceUrl": "https://mp.weixin.qq.com/s/syRwi279DwUhclrzUeDFww"
+  },
+  {
+    "id": "fast-track",
+    "title": { "zh": "2027级博士研究生快响计划", "en": "2027 PhD Fast-track Plan" },
+    "description": {
+      "zh": "2027级博士研究生快响计划长期有效。具体报考条件、申请材料和考核安排请查看对应招生通知。",
+      "en": "The 2027 PhD Fast-track Plan remains open on an ongoing basis. See the original notice for eligibility requirements, application materials, and assessment arrangements."
+    },
+    "longTerm": true,
+    "deadline": { "zh": "", "en": "", "dateTime": "" },
+    "sourceUrl": "https://mp.weixin.qq.com/s/ykxFj-4O7j1xevE1yhXq-Q"
+  }
+]

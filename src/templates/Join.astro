@@ -1,15 +1,16 @@
 ---
 import { useTranslations } from '../i18n/ui';
-import type { PageRoute } from '../lib/site';
+import { localPath, type PageRoute } from '../lib/site';
 const { page } = Astro.props as { page: PageRoute };
 const { lang } = page;
 const path = (page.route || '').replace(/^en(?:\/|$)/, '');
 const t = useTranslations(lang);
 
 import Layout from '../layouts/Layout.astro';
-import { GraduationCap, BookOpen, Code } from 'lucide-react';
+import { GraduationCap, BookOpen, Code, ArrowRight } from 'lucide-react';
 import { SITE } from '../config';
 import SendEmail from '../components/SendEmail.astro';
+import PhDPrograms from '../components/PhDPrograms.astro';
 ---
 
 
@@ -31,15 +32,17 @@ import SendEmail from '../components/SendEmail.astro';
         </p>
       </div>
 
-      <div class="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
+      <a href={localPath(lang, 'join/phd')} class="group bg-white p-6 rounded-2xl border border-gray-100 shadow-sm hover:shadow-md hover:border-green-200 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-green-600 transition-shadow" aria-label={t('join.phdDetails')} data-phd-admissions-link>
         <div class="w-12 h-12 bg-green-50 rounded-xl flex items-center justify-center mb-4 text-green-600">
           <BookOpen className="w-6 h-6" />
         </div>
-        <h3 class="text-xl font-bold text-gray-900 mb-2">{lang === 'zh' ? '博士研究生' : 'PhD Students'}</h3>
+        <h3 class="text-xl font-bold text-gray-900 mb-2" data-i18n-key="join.phd">{t('join.phd')}</h3>
         <p class="text-gray-600 text-sm mb-4">
-          {lang === 'zh' ? '欢迎有志于科研的同学申请博士研究生，参与实验室研究。' : 'We welcome prospective PhD students interested in contributing to the lab’s research.'}
+          {t('join.phdDesc')}
         </p>
-      </div>
+        <PhDPrograms lang={lang} compact />
+        <span class="mt-5 inline-flex items-center gap-1 text-sm font-medium text-blue-600 group-hover:text-blue-700">{t('join.phdDetails')} <ArrowRight className="w-4 h-4" /></span>
+      </a>
 
       <div class="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
         <div class="w-12 h-12 bg-purple-50 rounded-xl flex items-center justify-center mb-4 text-purple-600">
@@ -52,7 +55,7 @@ import SendEmail from '../components/SendEmail.astro';
       </div>
     </div>
 
-    <div class="bg-gray-50 rounded-3xl p-8 sm:p-12 text-center">
+    <div id="how-to-apply" class="bg-gray-50 rounded-3xl p-8 sm:p-12 text-center scroll-mt-24">
       <h2 class="text-2xl font-bold text-gray-900 mb-4" data-i18n-key="join.howToApply">{t('join.howToApply')}</h2>
       <p class="text-gray-600 mb-8 max-w-2xl mx-auto" data-i18n-key="join.applicationText">{t('join.applicationText')}</p>
       

@@ -1,0 +1,258 @@
+{
+  "checkedOn": "2026-11-18",
+  "timeZone": "America/Los_Angeles",
+  "request": "Add regular PhD admissions with a deadline and ongoing fast-track admissions to Join Us, with a clickable PhD introduction page.",
+  "sources": [
+    {
+      "id": "regular",
+      "url": "https://mp.weixin.qq.com/s/syRwi279DwUhclrzUeDFww",
+      "providedBy": "User",
+      "requestHttpStatus": 200,
+      "articleReadable": false,
+      "response": "Redirected to WeChat environment verification. Article text and title were not available."
+    },
+    {
+      "id": "fast-track",
+      "url": "https://mp.weixin.qq.com/s/ykxFj-4O7j1xevE1yhXq-Q",
+      "providedBy": "User",
+      "requestHttpStatus": 200,
+      "articleReadable": false,
+      "response": "Redirected to WeChat environment verification. Article text and title were not available."
+    }
+  ],
+  "deadline": {
+    "source": "User clarification in this session",
+    "originalReply": "12月2日00:00",
+    "dateTime": "2026-12-02T00:00:00+08:00",
+    "displayTimeZone": "Beijing time (UTC+8)",
+    "normalization": "Use the current year 2026 and SUSTech's local Beijing time, stated explicitly in both languages. Preserve the supplied 00:00; do not change it to the end of 2 December.",
+    "independentlyVerifiedAgainstArticle": false
+  },
+  "fastTrackStatus": {
+    "source": "User request in this session",
+    "zh": "长期有效",
+    "en": "Ongoing admissions"
+  },
+  "contentPolicy": "Retain the two supplied clean links exactly. Provide concise introductions that direct applicants to the original notices for requirements, materials and assessment arrangements. Do not invent eligibility criteria, programme details, an admission year or application procedures from inaccessible articles, and do not substitute notices from unrelated departments.",
+  "routes": [
+    "/join/phd/",
+    "/en/join/phd/"
+  ],
+  "dataFile": "src/data/phd-admissions.json",
+  "verification": {
+    "checkedOn": "2026-11-18",
+    "timeZone": "America/Los_Angeles",
+    "astroErrors": 0,
+    "astroWarnings": 0,
+    "existingDeprecationHints": 10,
+    "buildPassed": true,
+    "siteVerificationPassed": true,
+    "method": "Inspect generated Chinese and English HTML, execute the rendered language-switch function with a simulated location, inspect Pagefind fragments and parse XML.",
+    "renderedCases": [
+      {
+        "lang": "zh",
+        "clickableCard": true,
+        "noNestedLinks": true,
+        "deadline": "2026-12-02T00:00:00+08:00",
+        "fastTrackLongTerm": true,
+        "suppliedNoticeLinks": 2,
+        "joinEmailButtons": 1,
+        "applicationContactAnchor": true,
+        "languageSwitchLogicPreservesRoute": true
+      },
+      {
+        "lang": "en",
+        "clickableCard": true,
+        "noNestedLinks": true,
+        "deadline": "2026-12-02T00:00:00+08:00",
+        "fastTrackLongTerm": true,
+        "suppliedNoticeLinks": 2,
+        "joinEmailButtons": 1,
+        "applicationContactAnchor": true,
+        "languageSwitchLogicPreservesRoute": true
+      }
+    ],
+    "chinesePrefixRedirect": true,
+    "pagefindFragments": [
+      "/en/join/phd/",
+      "/join/phd/"
+    ],
+    "validXmlFiles": 502,
+    "htmlPages": 994,
+    "bilingualSitemapEntries": true
+  },
+  "presentationUpdate": {
+    "checkedOn": "2026-11-19",
+    "timeZone": "America/Los_Angeles",
+    "source": "User clarification in this session",
+    "changes": [
+      "Remove the application materials/contact entry from both PhD introduction pages.",
+      "Use identical status styles for regular and fast-track admissions in both the Join Us summary and the PhD introduction page."
+    ],
+    "verification": {
+      "astroErrors": 0,
+      "astroWarnings": 0,
+      "existingDeprecationHints": 10,
+      "buildPassed": true,
+      "siteVerificationPassed": true,
+      "renderedCases": [
+        {
+          "lang": "zh",
+          "applicationContactEntryRemoved": true,
+          "matchingDetailStatusClasses": "w-fit max-w-full rounded-xl px-3 py-2 text-sm font-medium mb-5 bg-blue-50 text-blue-700",
+          "matchingSummaryStatusClasses": "text-gray-600",
+          "joinEmailButtons": 1,
+          "noticeLinks": 2
+        },
+        {
+          "lang": "en",
+          "applicationContactEntryRemoved": true,
+          "matchingDetailStatusClasses": "w-fit max-w-full rounded-xl px-3 py-2 text-sm font-medium mb-5 bg-blue-50 text-blue-700",
+          "matchingSummaryStatusClasses": "text-gray-600",
+          "joinEmailButtons": 1,
+          "noticeLinks": 2
+        }
+      ]
+    }
+  },
+  "deadlineDisplayUpdate": {
+    "checkedOn": "2026-11-19",
+    "timeZone": "America/Los_Angeles",
+    "source": "User request: 截止日期改成：北京时间xxx",
+    "description": "Display Beijing time before the date in both languages, without the previous deadline-label prefix or trailing timezone parenthesis. Keep the actual cutoff timestamp unchanged.",
+    "dateTime": "2026-12-02T00:00:00+08:00",
+    "buildPassed": true,
+    "siteVerificationPassed": true,
+    "renderedCases": [
+      {
+        "lang": "zh",
+        "summary": "北京时间2026年12月2日00:00",
+        "detail": "北京时间2026年12月2日00:00",
+        "dateTime": "2026-12-02T00:00:00+08:00",
+        "statusStylesUnchanged": true
+      },
+      {
+        "lang": "en",
+        "summary": "Beijing time (UTC+8): 2 December 2026, 00:00",
+        "detail": "Beijing time (UTC+8): 2 December 2026, 00:00",
+        "dateTime": "2026-12-02T00:00:00+08:00",
+        "statusStylesUnchanged": true
+      }
+    ]
+  },
+  "programmeNamesUpdate": {
+    "checkedOn": "2026-11-19",
+    "timeZone": "America/Los_Angeles",
+    "source": "User supplied the 2027-intake programme names and requested the deadline label before the ongoing status.",
+    "names": {
+      "regular": "2027级博士研究生",
+      "fast-track": "2027级博士研究生快响计划"
+    },
+    "fastTrackDisplay": "截止日期：长期有效",
+    "deadlineTimestampUnchanged": "2026-12-02T00:00:00+08:00",
+    "buildPassed": true,
+    "siteVerificationPassed": true,
+    "renderedCases": [
+      {
+        "lang": "zh",
+        "titles": [
+          "2027级博士研究生",
+          "2027级博士研究生快响计划"
+        ],
+        "fastTrackDeadline": "截止日期：长期有效",
+        "deadlineTimestampUnchanged": true,
+        "statusStylesUnified": true,
+        "noticeLinks": 2
+      },
+      {
+        "lang": "en",
+        "titles": [
+          "2027 PhD Admissions",
+          "2027 PhD Fast-track Plan"
+        ],
+        "fastTrackDeadline": "Deadline: Ongoing admissions",
+        "deadlineTimestampUnchanged": true,
+        "statusStylesUnified": true,
+        "noticeLinks": 2
+      }
+    ]
+  },
+  "fastTrackStatusPrefixRemoval": {
+    "checkedOn": "2026-11-19",
+    "timeZone": "America/Los_Angeles",
+    "source": "Latest user request to remove the deadline prefix from the lower/fast-track status.",
+    "display": {
+      "zh": "长期有效",
+      "en": "Ongoing admissions"
+    },
+    "buildPassed": true,
+    "siteVerificationPassed": true,
+    "renderedCases": [
+      {
+        "lang": "zh",
+        "summaryStatus": "长期有效",
+        "detailStatus": "长期有效",
+        "titleAndTimestampPreserved": true
+      },
+      {
+        "lang": "en",
+        "summaryStatus": "Ongoing admissions",
+        "detailStatus": "Ongoing admissions",
+        "titleAndTimestampPreserved": true
+      }
+    ]
+  },
+  "regularDescriptionReplacement": {
+    "checkedOn": "2026-11-19",
+    "timeZone": "America/Los_Angeles",
+    "source": "User requested replacing the regular admissions explanatory paragraph with 查看招生通知.",
+    "display": {
+      "zh": "查看招生通知",
+      "en": "View admissions notice"
+    },
+    "handling": "Hide the empty regular-admissions description and retain the existing linked notice caption once in each language. No duplicate caption or empty paragraph.",
+    "buildPassed": true,
+    "siteVerificationPassed": true,
+    "renderedCases": [
+      {
+        "lang": "zh",
+        "replacement": "查看招生通知",
+        "visibleNoticeEntries": 1,
+        "emptyDescriptionParagraphs": 0,
+        "sourceLinkAndDeadlinePreserved": true,
+        "fastTrackDescriptionPreserved": true
+      },
+      {
+        "lang": "en",
+        "replacement": "View admissions notice",
+        "visibleNoticeEntries": 1,
+        "emptyDescriptionParagraphs": 0,
+        "sourceLinkAndDeadlinePreserved": true,
+        "fastTrackDescriptionPreserved": true
+      }
+    ]
+  },
+  "regularDescriptionCorrection": {
+    "checkedOn": "2026-11-19",
+    "timeZone": "America/Los_Angeles",
+    "source": "User clarified that the full explanatory paragraph must remain, changing only its reference from 原文 to 招生通知.",
+    "correctedPreviousInterpretation": true,
+    "descriptionZh": "请在报名截止日期前，按招生通知要求提交申请。具体报考条件、申请材料和考核安排请查看招生通知。",
+    "buildPassed": true,
+    "siteVerificationPassed": true,
+    "renderedCases": [
+      {
+        "lang": "zh",
+        "restoredDescription": "请在报名截止日期前，按招生通知要求提交申请。具体报考条件、申请材料和考核安排请查看招生通知。",
+        "noticeLinkRetained": true,
+        "deadlineTimestampUnchanged": true
+      },
+      {
+        "lang": "en",
+        "restoredDescription": "Submit your application before the deadline specified in the admissions notice. See the admissions notice for eligibility requirements, application materials, and assessment arrangements.",
+        "noticeLinkRetained": true,
+        "deadlineTimestampUnchanged": true
+      }
+    ]
+  }
+}
